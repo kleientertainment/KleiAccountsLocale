@@ -1,4 +1,9 @@
-; Top Level
+[credits]
+
+Xiaowen Lin
+Jeddy Zhang
+
+[translations]
 
 Company = "Klei"
 Email = "邮箱"
@@ -200,6 +205,12 @@ BetaRegistered = "注册"
 BetaNotAccepted = "未注册 - 用户未被接受"
 BetaAccepted = "用户已被接受"
 BetaRegistrationEnded = "注册已经结束"
+
+; Community Translations
+; https://accounts.klei.com/community-translations
+
+CommunityTranslations = "社区翻译"
+CommunityTranslationsDescription = "If you would like to add a new language or make corrections to the existing text <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>please visit the following link</a> and read the instructions of how to contribute to the translations of the website."
 
 ; Rewards
 ; https://accounts.klei.com/account/rewards

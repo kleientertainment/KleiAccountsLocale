@@ -1,4 +1,10 @@
-; Top Level
+[credits]
+
+JoeW
+nome
+Yorman Arias
+
+[translations]
 
 Company = "Klei"
 Email = "E-mail"
@@ -200,6 +206,12 @@ BetaRegistered = "Registered"
 BetaNotAccepted = "Registered - Not Accepted"
 BetaAccepted = "Accepted"
 BetaRegistrationEnded = "Registration has ended"
+
+; Community Translations
+; https://accounts.klei.com/community-translations
+
+CommunityTranslations = "Translations"
+CommunityTranslationsDescription = "If you would like to add a new language or make corrections to the existing text <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>please visit the following link</a> and read the instructions of how to contribute to the translations of the website."
 
 ; Rewards
 ; https://accounts.klei.com/account/rewards
