@@ -26,4 +26,4 @@ Property names are not [case sensitive](https://en.wikipedia.org/wiki/Case_sensi
 
 ## Contributions
 
-If you would like to contribute corrections, translations, or notes to the project please do so in the form of Git merge requests. If you do not know what Git is or need to refresh your memory, here is a tutorial that explains [How to Create a Pull-Request on GitHub](https://help.github.com/en/articles/creating-a-pull-request).
+If you would like to contribute corrections, translations, or notes to the project, please do so in the form of Git merge requests. If you do not know what Git is or need to refresh your memory, here is a tutorial that explains [How to Create a Pull-Request on GitHub](https://help.github.com/en/articles/creating-a-pull-request). Feel free to add your name or nickname under the `[credits]` section of the localization files that you have helped translate.
