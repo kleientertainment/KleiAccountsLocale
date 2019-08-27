@@ -182,7 +182,10 @@ AddNewServer = "添加新服务器"
 AddingServer = "正在添加服务器…"
 GameServerWasGenerated = "成功创建服务器"
 RemoveServer = "移除服务器"
-AccessToken = "访问令牌"
+ConfigureServer = "配置服务器"
+ConfigureServerTitle = "配置服务器"
+ConfigureServerDescription = "以下表单允许您配置游戏服务器的设置。 根据您拥有的操作系统，您还需要执行一些脚本。 请按照与您的系统对应的说明进行操作：<a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>。"
+DownloadSettings = "下载设置"
 FriendlyName = "友好的名字"
 
 ; Account Betas

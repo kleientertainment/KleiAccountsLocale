@@ -181,8 +181,11 @@ NoServersDescription = "No existen servidores asociados a este juego para su cue
 AddNewServer = "Crear Nuevo Servidor"
 AddingServer = "Creando Servidor…"
 GameServerWasGenerated = "El server ha sido creado exitosamente."
-RemoveServer = "Eliminar Servidor"
-AccessToken = "Código de Acceso"
+RemoveServer = "Eliminar"
+ConfigureServer = "Configurar"
+ConfigureServerTitle = "Configurar Servidor"
+ConfigureServerDescription = "El siguiente formulario le permite configurar las opciones para el servidor del juego. Dependiendo de que sistema operativo tenga usted deberá ejecutar algunos programas. Por favor siga las instrucciones que corresponden a su sistema: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
+DownloadSettings = "Descargar Configuración"
 FriendlyName = "Friendly Name"
 
 ; Account Betas
