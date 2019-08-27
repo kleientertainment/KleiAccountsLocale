@@ -235,7 +235,7 @@ RewardItemClaimInstructionsDST = "您可以在下次重启游戏时在您的游�
 EmailSubQuestTitle = "注册以订阅我们的邮件新闻！"
 EmailSubQuestConditions = "<2>订阅科雷娱乐的邮件新闻</2>以获得更多点数。"
 ; <1></1> = a description of the rewards received for a completed quest (e.g. "400 Pts.")
-QuestRewardsMessage = "您已获得 <1></1>",
+QuestRewardsMessage = "您已获得 <1></1>"
 Claimed = "已兑换"
 Claim = "兑换"
 Owned = "已获得"
@@ -279,3 +279,15 @@ GameDST = "《饥荒：联机版》"
 GameDS = "《饥荒》"
 SpoolItemDescription = "一大堆线轴，用于编织《饥荒：联机版》的物品。只能兑换一次！"
 ComingSoon = "即将推出！"
+AlternateQuest = "其他任务"
+
+; Platform names
+
+Facebook = "脸书"
+Instagram = "Instagram"
+Twitter = "推特"
+YouTube = "YouTube"
+Twitch = "Twitch"
+Douyu = "斗鱼"
+Wechat = "微信"
+

@@ -236,7 +236,7 @@ RewardItemClaimInstructionsDST = "Your new item will show up in your in-game inv
 EmailSubQuestTitle = "Sign-up for our mailing-list!
 EmailSubQuestConditions = "Earn points for <2>opting into a Klei mailing list</2>."
 ; <1></1> = a description of the rewards received for a completed quest (e.g. "400 Pts.")
-QuestRewardsMessage = "You've received <1></1>",
+QuestRewardsMessage = "You've received <1></1>"
 Claimed = "Claimed"
 Claim = "Claim"
 Owned = "Owned"
@@ -280,3 +280,15 @@ GameDST = "Don't Starve Together"
 GameDS = "Don't Starve"
 SpoolItemDescription = "Just a big pile of Spool, to use in crafting Don't Starve Together items. Can only be purchased once!"
 ComingSoon = "Coming Soon!"
+AlternateQuest = "Alternate Quest"
+
+; Platform names
+
+Facebook = "Facebook"
+Instagram = "Instagram"
+Twitter = "Twitter"
+YouTube = "YouTube"
+Twitch = "Twitch"
+Douyu = "Douyu"
+Wechat = "WeChat"
+

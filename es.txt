@@ -234,7 +234,7 @@ RewardItemClaimInstructionsDST = "El nuevo artículo aparecerá en su inventario
 EmailSubQuestTitle = "Subscríbase a nuestros correos informativos!"
 EmailSubQuestConditions = "Gane puntos por <2>subscribirse a nuestros correos informativos</2>."
 ; <1></1> = a description of the rewards received for a completed quest (e.g. "400 Pts.")
-QuestRewardsMessage = "Usted ha recibido <1></1>",
+QuestRewardsMessage = "Usted ha recibido <1></1>"
 Claimed = "Reclamado"
 Claim = "Reclamar"
 Owned = "Obtenido"
@@ -278,3 +278,15 @@ GameDST = "Don’t Starve Together"
 GameDS = "Don’t Starve"
 SpoolItemDescription = "Simplemente una gran pila de carrete, para usar en la elaboración de artículos de Don't Starve Together. Solo se puede comprar una vez!"
 ComingSoon = "Próximamente!"
+AlternateQuest = "Reto Alternativo"
+
+; Platform names
+
+Facebook = "Facebook"
+Instagram = "Instagram"
+Twitter = "Twitter"
+YouTube = "YouTube"
+Twitch = "Twitch"
+Douyu = "Douyu"
+Wechat = "WeChat"
+
