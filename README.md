@@ -2,6 +2,8 @@
 
 This project contains the language localization files used to translate different elements in the user interface of the [Klei Accounts website](https://accounts.klei.com/). The localization files are simple text files using the [INI file format](https://en.wikipedia.org/wiki/INI_file) with a basic structure composed of sections, properties, and values.
 
+Each file is named using the ISO 639-1 language code for the language it contains (e.g. en, fr, zh, ch). If there are regional variations the two letter country code can be added after (e.g. fr-ca, pt-br).
+
 ## File Format
 
 The basic element contained in a localization file is the key or property. Every key has a name and a value, delimited by an equals sign. The name appears to the left of the equals sign. The value appears to the right of the equals sign and is usually surrounded by [double quotes](https://en.wikipedia.org/wiki/Quotation_mark), this allows for explicit declaration of whitespace, and/or for quoting of special characters (equals, semicolon, etc.).
