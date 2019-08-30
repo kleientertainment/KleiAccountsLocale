@@ -106,6 +106,7 @@ GamePlayerID = "Player ID"
 UserNotFound = "user not found"
 
 ; Linked Accounts
+; https://accounts.klei.com/account/linked/list
 
 LinkedAccounts = "Linked Accounts"
 LinkAccountButton = "Link Account"
@@ -348,6 +349,7 @@ E_INVALID_OAUTH_TOKEN = "The OAuth access token is missing, try again."
 E_KU_NOT_FOUND = "It was not possible to get a copy of the information associated to your user account."
 E_INVALID_TOKEN = "The server token is not valid anymore."
 E_EXPIRED_TOKEN = "The server token is not valid anymore because it has expired."
+E_BANNED = "Your account has been banned."
 E_LOGIN_ERROR = "We cannot validate your credentials right now. Try again after a few minutes."
 E_LOGIN_ERROR_BANNED = "Your account has been banned."
 E_LOGIN_ERROR_DELETED = "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
