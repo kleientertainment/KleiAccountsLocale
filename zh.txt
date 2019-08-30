@@ -210,6 +210,7 @@ BetaRegistrationEnded = "注册已经结束"
 ; https://accounts.klei.com/community-translations
 
 CommunityTranslations = "社区翻译"
+CommunityTranslationDisclaimer = "<a href='/community-translations'>这是一个非官方的翻译。</a>"
 CommunityTranslationsDescription = "If you would like to add a new language or make corrections to the existing text <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>please visit the following link</a> and read the instructions of how to contribute to the translations of the website."
 
 ; Rewards
