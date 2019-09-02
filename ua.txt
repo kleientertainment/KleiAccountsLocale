@@ -188,65 +188,65 @@ GameServerWasGenerated = "Сервер був успішно створений.
 RemoveServer = "Видалити"
 ConfigureServer = "Налаштувати"
 ConfigureServerTitle = "Налаштувати сервер"
-ConfigureServerDescription = "Следующая форма позволяет вам настроить параметры игрового сервера. В зависимости от того, какая у вас операционная система, вам также необходимо выполнить несколько скриптов. Пожалуйста, следуйте инструкциям, которые соответствуют вашей системе: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
-DownloadSettings = "Параметры загрузки"
-FriendlyName = "Дружественное имя"
+ConfigureServerDescription = "Наступна форма дозволяє вам налаштувати параметри ігрового сервера. Залежно від того, яка у вас операційна система, вам також необхідно виконати кілька скриптів. Будь ласка, дотримуйтесь інструкцій, які відповідають вашій системі: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
+DownloadSettings = "Параметри завантаження"
+FriendlyName = "Дружнє ім'я"
 
 ; Account Betas
 ; https://accounts.klei.com/account/betas
 
-UpcomingBetasTitle = "Активные и предстоящие бета-тестирования"
-UpcomingBetasDescription = "Вы можете отправить заявку на заинтересованный вас бета-тест. Вы получите письмо с уведомлением, если будете приняты в один из них."
+UpcomingBetasTitle = "Активні і майбутні бета-тестування"
+UpcomingBetasDescription = "Ви можете відправити заявку на зацікавлений вами бета-тест. Ви отримаєте лист з повідомленням, якщо будете прийняті в один з них."
 BetaStatus = "Статус:"
-BetaStartDate = "Начало:"
-BetaRegister = "Регистрация"
-BetaRegistered = "Заявка отправлена"
-BetaNotAccepted = "Заявка отправлена - Не принято"
-BetaAccepted = "Принято"
-BetaRegistrationEnded = "Регистрация закончилась"
+BetaStartDate = "Початок:"
+BetaRegister = "Реєстрація"
+BetaRegistered = "Заявку відправлено"
+BetaNotAccepted = "Заявку відправлено - Не прийнято"
+BetaAccepted = "Прийнято"
+BetaRegistrationEnded = "Реєстрація закінчилась"
 
 ; Community Translations
 ; https://accounts.klei.com/community-translations
 
-CommunityTranslations = "Переводы"
-CommunityTranslationDisclaimer = "<a href='/community-translations'>Это неофициальный перевод.</a>"
-CommunityTranslationsDescription = "Если вы хотите добавить новый язык или внести исправления в существующий текст <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>пожалуйста, посетите следующую ссылку</a> и прочитайте инструкции о том, как внести свой вклад в переводы сайта."
+CommunityTranslations = "Переклади"
+CommunityTranslationDisclaimer = "<a href='/community-translations'>Це неофіційний переклад.</a>"
+CommunityTranslationsDescription = "Якщо ви хочете додати нову мову або внести виправлення в існуючий текст<a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>будь ласка, відвідайте наступне посилання</a> і прочитайте інструкції про те, як зробити свій внесок у переклади сайту."
 
 ; Rewards
 ; https://accounts.klei.com/account/rewards
 
-Rewards = "Награды"
-RewardItemsTitle = "Награды"
-RewardItemsDescription = "Используйте очки, чтобы получить любой из следующих эксклюзивных предметов"
-RewardQuestTitle = "Дропы и награды (Бета)"
-RewardsQuestDescription = "Будьте в курсе событий и получайте внутриигровые награды. Время от времени мы будем добавлять новые награды, так что заходите почаще, чтобы увидеть что нового!"
-MoreInfoLink = "Нажмите здесь для дополнительной информации."
-RewardPointInfo = "Очки, которые вы зарабатываете, накапливаются на вашем счету. Их вы можете обменять на эксклюзивные <1>награды</1>."
+Rewards = "Нагороди"
+RewardItemsTitle = "Нагороди"
+RewardItemsDescription = "Використовуйте очки, щоб отримати будь-який із наступних ексклюзивних предметів"
+RewardQuestTitle = "Дропи та нагороди (Бета)"
+RewardsQuestDescription = "Будьте в курсі подій і отримуйте внутрішньоігрові нагороди. Час від часу ми будемо додавати нові нагороди, так що заходьте частіше, щоб побачити що нового!"
+MoreInfoLink = "Натисніть тут для додаткової інформації."
+RewardPointInfo = "Очки, які ви заробляєте, накопичуються на вашому рахунку. Їх ви можете обміняти на ексклюзивні <1>нагороди</1>."
 ; <1></1> = the game name (e.g. "Don't Starve Together")
 ; <4></4> = the platform name (e.g. "Twitch")
-DropRewardConditionsTitle = "Смотрите <1></1> на <4></4>"
+DropRewardConditionsTitle = "Дивіться <1></1> на <4></4>"
 ; <1></1> = the game name (e.g. "Don't Starve Together")
-DropRewardConditionsBody = "Наблюдайте за тем, как стримеры играют в <2></2> и зарабатывают предметы."
+DropRewardConditionsBody = "Спостерігайте за тим, як стримери грають в <2></2> і заробляють предмети."
 ; <2></2> = the game name (e.g. "Don't Starve Together")
-DropRewardsSuccessStatus = "Все готово! Вы будете получать предметы, указанные ниже, при просмотре стримов по <2></2>!"
-RewardPointsAbbreviated = "Очк."
-RewardItemTicks = "{{ticks}} минут"
-RewardItemClaimInstructionsDST = "Ваш новый предмет появится в игровом инвентаре при следующем запуске игры."
-EmailSubQuestTitle = "Зарегистрируйтесь для получения нашей рассылки!"
-EmailSubQuestConditions = "Зарабатывайте очки для <2>попадания в список рассылки Klei</2>."
+DropRewardsSuccessStatus = "Все готово! Ви будете отримувати предмети, зазначені нижче, при перегляді трансляцій по <2></2>!"
+RewardPointsAbbreviated = "Очки"
+RewardItemTicks = "{{ticks}} хвилин"
+RewardItemClaimInstructionsDST = "Ваш новий предмет з'явиться в ігровому інвентарі при наступному запуску гри."
+EmailSubQuestTitle = "Увійдіть для отримання нашої розсилки!"
+EmailSubQuestConditions = "Заробляйте очки для <2>попадання в список розсилки Klei</2>."
 ; <1></1> = a description of the rewards received for a completed quest (e.g. "400 Pts.")
-QuestRewardsMessage = "Вы получили <1></1>"
-Claimed = "Получено"
-Claim = "Забрать"
-Owned = "Принадлежит"
-NotEnoughPoints = "У вас недостаточно очков, чтобы получить этот предмет."
+QuestRewardsMessage = "Ви отримали <1></1>"
+Claimed = "Зроблено"
+Claim = "Забрати"
+Owned = "Отримано"
+NotEnoughPoints = "У вас недостатньо очок, щоб отримати цей предмет."
 ; <1></1> = a platform name (e.g. "YouTube")
-FollowUsQuestDescriptionTitle = "Подпишитесь на нас в <1></1>!"
+FollowUsQuestDescriptionTitle = "Підпишіться на нас в <1></1>!"
 ; <1></1> = a platform name (e.g. "YouTube")
 ; <2>...</2> is markup for a hyperlink
-FollowUsQuestDescriptionBody = "Подпишитесь на <2>официальный аккаунт Klei на <1></1></2> и заработайте очки."
+FollowUsQuestDescriptionBody = "Підпишіться на <2>офіційний акаунт Klei на <1></1></2> і заробіть очки."
 ; <2></2> = a platform name (e.g. "YouTube")
-SubscribeQuestDescriptionTitle = " Подпишитесь на нас в <2></2>!"
+SubscribeQuestDescriptionTitle = " Підпишіться на нас в <2></2>!"
 ; <1></1> = a platform name (e.g. "YouTube")
 ; <2>...</2> is markup for a hyperlink
 SubscribeQuestDescriptionBody = "Подпишитесь на <2>официальный аккаунт Klei на <1></1></2> и заработайте очки."
