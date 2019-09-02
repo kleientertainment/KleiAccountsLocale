@@ -1,60 +1,60 @@
 [credits]
 
-UnitedMel
+SkyFly
 
 [translations]
 
 Company = "Klei"
-Email = "Электронная почта"
-Loading = "Загрузка…"
-Select = "Выбрать"
-SaveChanges = "Сохранить изменения"
-SavingChanges = "Сохранение изменений…"
-Expiration = "Expiration"
-Redirecting = "Перенаправление…"
+Email = "Електронна пошта"
+Loading = "Завантаження…"
+Select = "Вибрати"
+SaveChanges = "Зберегти зміни"
+SavingChanges = "Збереження змін…"
+Expiration = "Термін дії"
+Redirecting = "Перенаправлення…"
 GoToPreviousPage = "Назад"
-Copyright = "&copy; Все права защищены. Klei Entertainment"
+Copyright = "&copy; Всі права захищені. Klei Entertainment"
 
 ; Navigation Bar
 
-Settings = "Настройки"
-Games = "Игры"
-Betas = "Беты"
-Language = "Язык"
-Support = "Поддержка"
-VisitYourProfile = "Профиль"
+Settings = "Налаштування"
+Games = "Ігри"
+Betas = "Бети"
+Language = "Мова"
+Support = "Підтримка"
+VisitYourProfile = "Профіль"
 
 ; Months
 
-January = "Январь"
-February = "Февраль"
-March = "Март"
-April = "Апрель"
-May = "Май"
-June = "Июнь"
-July = "Июль"
-August = "Август"
-September = "Сентябрь"
-October = "Октябрь"
-November = "Ноябрь"
-December = "Декабрь"
+January = "Січень"
+February = "Лютий"
+March = "Березень"
+April = "Квітень"
+May = "Травень"
+June = "Червень"
+July = "Липень"
+August = "Серпень"
+September = "Вересень"
+October = "Жовтень"
+November = "Листопад"
+December = "Грудень"
 
 ; Signup
 ; https://accounts.klei.com/signup
 
-Register = "Регистрация"
-Registering = "Создание…"
-CreateNewAccount = "Создание учетной записи"
-CreateNewAccountDescription = "Чтобы начать играть в Don’t Starve Together, необходимо создать учетную запись. Это позволит вам подключаться к сети Don’t Starve Together, создавать и заходить на сервера, а также присоединиться к сообществу Klei!"
-SteamLinkDescription = "Ваша учетная запись будет привязана к следующему аккаунту Steam:"
-Birthdate = "Дата рождения"
-NewsletterConsent = "Я хочу подписаться на новостную рассылку"
-EULA = "Я согласен с <a href="https://www.klei.com/games/dont-starve/terms-of-service" target="_blank" rel="noopener noreferrer">EULA</a>"
-MustAcceptEULA = "Лицензионное соглашение должно быть принято для регистрации. Пожалуйста, прочитайте наше лицензионное соглашение и установите флажок для подтверждения, чтобы продолжить."
-PrivacyPolicy = "Регистрируясь, вы соглашаетесь с нашими <a href="https://www.klei.com/privacy-policy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>"
-FillAccountDetails = "Заполните данные своей учетной записи здесь:"
-SteamAccount = "Аккаунт Steam"
-Persona = "Личность"
+Register = "Реєстрація"
+Registering = "Створення…"
+CreateNewAccount = "Створення облікового запису"
+CreateNewAccountDescription = "Щоб почати грати в Don’t Starve Together, необхідно створити обліковий запис. Це дозволить вам підключатися до мережі Don’t Starve Together, створювати і заходити на сервера, а також приєднатися до спільноти Klei!"
+SteamLinkDescription = "Ваш обліковий запис буде прив'язаний до наступного аккаунту Steam:"
+Birthdate = "Дата народження"
+NewsletterConsent = "Я хочу підписатися на розсилку новин"
+EULA = "Я згоден з <a href="https://www.klei.com/games/dont-starve/terms-of-service" target="_blank" rel="noopener noreferrer">Ліцензійною угодою</a>"
+MustAcceptEULA = "Ліцензійна угода повинна бути прийнятою для реєстрації. Будь ласка, прочитайте нашу ліцензійну угоду і встановіть прапорець для підтвердження, щоб продовжити."
+PrivacyPolicy = "Реєструючись, ви погоджуєтеся з нашою <a href="https://www.klei.com/privacy-policy" target="_blank" rel="noopener noreferrer">Політикою конфіденційності</a>"
+FillAccountDetails = "Заповніть дані свого облікового запису тут:"
+SteamAccount = "Обліковий запис Steam"
+Persona = "Особистість"
 
 ; Signup Verify
 ; https://accounts.klei.com/signup/verify
