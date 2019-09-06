@@ -132,8 +132,8 @@ InventoryHasBeenHidden = "Инвентарь Steam скрыт"
 
 MarketingOptions = "Маркетинговые рассылки"
 MarketingOptionsDescription = ""
-MarketingOptionsUnsubscribe = "Я не хочу получать маркентинговые электронные письма"
-MarketingOptionsSubscribe = "Я хочу получать маркентинговые электронные письма (новости, новые игры, промо-акции, и т.д.)"
+MarketingOptionsUnsubscribe = "Я не хочу получать маркетинговые электронные письма"
+MarketingOptionsSubscribe = "Я хочу получать маркетинговые электронные письма (новости, новые игры, промо-акции, и т.д.)"
 MarketingOptionsDetails = "Для получения более подробной информации о каждой игре, пожалуйста, установите флажки ниже:"
 MarketingOptionsPending = "Мы отправили вам электронное письмо для подтверждения вашей подписки на нашу рассылку."
 

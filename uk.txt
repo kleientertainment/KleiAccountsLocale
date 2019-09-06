@@ -134,8 +134,8 @@ MarketingOptions = "Маркетингові розсилки"
 MarketingOptionsDescription = ""
 MarketingOptionsUnsubscribe = "Я не хочу отримувати маркетингові електронні листи"
 MarketingOptionsSubscribe = "Я хочу отримувати маркетингові електронні листи (новини, нові ігри, промо-акції, і т.д.)"
-MarketingOptionsDetails = "Для получения более подробной информации о каждой игре, пожалуйста, установите флажки ниже:"
-MarketingOptionsPending = "Мы отправили вам электронное письмо для подтверждения вашей подписки на нашу рассылку."
+MarketingOptionsDetails = "Для отримання більш докладної інформації по кожній грі, будь ласка, встановіть прапорці нижче:"
+MarketingOptionsPending = "Ми відправили вам електронного листа для підтвердження вашої підписки на нашу розсилку."
 
 ; GDPR Account Deletion
 ; https://accounts.klei.com/account/limbo
@@ -210,7 +210,7 @@ BetaRegistrationEnded = "Реєстрація закінчилась"
 
 CommunityTranslations = "Переклади"
 CommunityTranslationDisclaimer = "<a href='/community-translations'>Це неофіційний переклад.</a>"
-CommunityTranslationsDescription = "Якщо ви хочете додати нову мову або внести виправлення в існуючий текст<a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>будь ласка, відвідайте наступне посилання</a> і прочитайте інструкції про те, як зробити свій внесок у переклади сайту."
+CommunityTranslationsDescription = "Якщо ви хочете додати нову мову або внести виправлення в існуючий текст <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>будь ласка, відвідайте наступне посилання</a> і прочитайте інструкції про те, як зробити свій внесок у переклади сайту."
 
 ; Rewards
 ; https://accounts.klei.com/account/rewards
@@ -229,7 +229,7 @@ DropRewardConditionsTitle = "Дивіться <1></1> на <4></4>"
 DropRewardConditionsBody = "Спостерігайте за тим, як стримери грають в <2></2> і заробляють предмети."
 ; <2></2> = the game name (e.g. "Don't Starve Together")
 DropRewardsSuccessStatus = "Все готово! Ви будете отримувати предмети, зазначені нижче, при перегляді трансляцій по <2></2>!"
-RewardPointsAbbreviated = "Очки"
+RewardPointsAbbreviated = "Очк."
 RewardItemTicks = "{{ticks}} хвилин"
 RewardItemClaimInstructionsDST = "Ваш новий предмет з'явиться в ігровому інвентарі при наступному запуску гри."
 EmailSubQuestTitle = "Увійдіть для отримання нашої розсилки!"
