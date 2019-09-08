@@ -196,7 +196,7 @@ FriendlyName = "Дружественное имя"
 ; https://accounts.klei.com/account/betas
 
 UpcomingBetasTitle = "Активные и предстоящие бета-тестирования"
-UpcomingBetasDescription = "Вы можете отправить заявку на заинтересованный вас бета-тест. Вы получите письмо с уведомлением, если будете приняты в один из них."
+UpcomingBetasDescription = "Вы можете отправить заявку на заинтересовавший вас бета-тест. Вы получите письмо с уведомлением, если будете приняты в один из них."
 BetaStatus = "Статус:"
 BetaStartDate = "Начало:"
 BetaRegister = "Регистрация"
@@ -210,7 +210,7 @@ BetaRegistrationEnded = "Регистрация закончилась"
 
 CommunityTranslations = "Переводы"
 CommunityTranslationDisclaimer = "<a href='/community-translations'>Это неофициальный перевод.</a>"
-CommunityTranslationsDescription = "Если вы хотите добавить новый язык или внести исправления в существующий текст <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>пожалуйста, посетите следующую ссылку</a> и прочитайте инструкции о том, как внести свой вклад в переводы сайта."
+CommunityTranslationsDescription = "Если вы хотите добавить новый язык или внести исправления в существующий текст, <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>пожалуйста, посетите следующую ссылку</a> и прочитайте инструкции о том, как внести свой вклад в переводы сайта."
 
 ; Rewards
 ; https://accounts.klei.com/account/rewards
