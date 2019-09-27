@@ -18,6 +18,7 @@ Copyright = "&copy; 保留所有权利Klei Entertainment"
 
 ; Navigation Bar
 
+Rewards = "奖励"
 Settings = "帐号设定"
 Games = "游戏"
 Betas = "Betas测试"
@@ -157,7 +158,7 @@ DeleteAccountConfirm = "确认"
 DeleteAccountConfirmation = "请输入“delete my account”但全部为大写，以确认:"
 DeleteAccountButton = "我理解后果，继续"
 VerifyAccountDeletionTitle = "帐户注销验证"
-VerifyAccountDeletionDescription = "我们通过电子邮件向您发送了验证码以确认您的帐户会被注销，请复制验证码并将其粘贴到以下方框。</p><p>如果您没有收到验证码，请单击“取消”，并确认您的电子邮件填写正确无误，然后重新操作。</p><p>如果您并未请求删除您的帐户，则有可能是其他拥有您steam账户访问权限的人在进行操作。单击“取消”彻底停止删除账号过程，并请更改您的STEAM帐户密码以防止这种情况再次发生。"
+VerifyAccountDeletionDescription = "我们通过电子邮件向您发送了验证码以确认您的帐户会被注销，请复制验证码并将其粘贴到以下方框。</p><p>如果您没有收到验证码，请单击“取消”，并确认您的电子邮件填写正确无误，然后重新操作。</p><p>如果您并未请求删除您的帐户，则有可能是其他拥有您{{.PlatformName}}账户访问权限的人在进行操作。单击“取消”彻底停止删除账号过程，并请更改您的{{.PlatformName}}帐户密码以防止这种情况再次发生。"
 VerifyAccountDeletionCode = "验证码"
 VerifyAccountDeletionProceed = "继续"
 VerifyAccountDeletionCancel = "取消"
@@ -216,71 +217,36 @@ CommunityTranslationsDescription = "If you would like to add a new language or m
 ; Rewards
 ; https://accounts.klei.com/account/rewards
 
-Rewards = "奖励"
+RewardTitle = "掉落以及奖励（Beta测试）"
+RewardDescription = "持续关注动态并获得游戏内奖励。我们会不时添加新的奖励，所以记得回来看看有什么新内容哦！"
+RewardLabel = "奖励"
+RewardStartButton = "新增帐户"
+RewardClaimButton = "兑换"
+RewardWasClaimed = "成功声称！"
+RewardWasRedeemed = "成功救赎！"
+RewardAlternative = "替代"
+RewardPointsAbbreviation = "点"
+RewardPointsMinutes = "分钟"
+RewardBalance = "剩余点数"
+RewardNameTwitch = "在Twitch上观看“不要一起饿死”"
+RewardNameDouyu = "在斗鱼上观看“不要一起饿死”"
+RewardNameYoutube = "在YouTube上关注我们"
+RewardNameTwitter = "在推特上关注我们"
+RewardNameFacebook = "在Facebook上关注我们"
+RewardNameWechat = "在微信上关注我们"
+RewardNameInstagram = "在Instagram上关注我们"
+RewardNameNewsletter = "订阅我们的新闻"
+RewardMessageYoutube = "<a href='https://www.youtube.com/user/kleient' target='_blank'>在YouTube上关注我们</a>以获得此奖励。"
+RewardMessageTwitter = "<a href='https://twitter.com/klei' target='_blank'>在推特上关注我们</a>以获得此奖励。"
+RewardMessageFacebook = "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>在Facebook上关注我们</a>以获得此奖励。"
+RewardMessageWechat = "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>在微信上关注我们</a>以获得此奖励。"
+RewardMessageInstagram = "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>在Instagram上关注我们</a>以获得此奖励。"
+RewardMessageNewsletter = "<a href='/account/settings' target='_blank'>订阅我们的新闻</a>以获得此奖励。"
 RewardItemsTitle = "奖励物品"
 RewardItemsDescription = "使用点数来兑换以下限定特殊物品"
-RewardQuestTitle = "掉落以及奖励（Beta测试）"
-RewardsQuestDescription = "持续关注动态并获得游戏内奖励。我们会不时添加新的奖励，所以记得回来看看有什么新内容哦！"
-MoreInfoLink = "点击这里以查阅更多信息。"
-RewardPointInfo = "您获得的点数会累计到您的账号里，您可以使用点数来兑换限定的<1>奖励物品</1>。"
-; <1></1> = the game name (e.g. "Don't Starve Together")
-; <4></4> = the platform name (e.g. "Twitch")
-DropRewardConditionsTitle = "在 <4></4>观看<1></1>直播"
-; <1></1> = the game name (e.g. "Don't Starve Together")
-DropRewardConditionsBody = "观看主播们的直播并在<2</2>里获得物品掉落。"
-; <2></2> = the game name (e.g. "Don't Starve Together")
-DropRewardsSuccessStatus = "一切准备就绪！观看 <2></2> 直播您就可以获得以下物品！"
-RewardPointsAbbreviated = "点."
-RewardItemTicks = "{{ticks}} 分钟"
-RewardItemClaimInstructionsDST = "您可以在下次重启游戏时在您的游戏库中找到刚获得的新物品。"
-EmailSubQuestTitle = "注册以订阅我们的邮件新闻！"
-EmailSubQuestConditions = "<2>订阅科雷娱乐的邮件新闻</2>以获得更多点数。"
-; <1></1> = a description of the rewards received for a completed quest (e.g. "400 Pts.")
-QuestRewardsMessage = "您已获得 <1></1>"
-Claimed = "已兑换"
-Claim = "兑换"
-Owned = "已获得"
-NotEnoughPoints = "您没有足够的点数来兑换该物品。"
-; <1></1> = a platform name (e.g. "YouTube")
-FollowUsQuestDescriptionTitle = "关注我们的<1></1>!"
-; <1></1> = a platform name (e.g. "YouTube")
-; <2>...</2> is markup for a hyperlink
-FollowUsQuestDescriptionBody = "关注 <2>科雷的官方 <1></1></2> 并获得更多点数。"
-; <2></2> = a platform name (e.g. "YouTube")
-SubscribeQuestDescriptionTitle = " 关注我们的 <2></2>!"
-; <1></1> = a platform name (e.g. "YouTube")
-; <2>...</2> is markup for a hyperlink
-SubscribeQuestDescriptionBody = "关注 <2>科雷的官方 <1></1></2> 并获得更多点数。"
-NotEnoughPointsErrorAlert = "您无法兑换该物品，可能是您没有足够的点数来兑换该物品。这个页面将被重新加载，您可以再次尝试兑换。如果问题仍然存在，请联系我们的支持页面。"
-ItemClaimLabel = "正在兑换中"
-CurrentBalanceLabel = "剩余点数"
-ItemCostLabel = "物品需要"
-NewBalanceLabel = "最新剩余点数"
-; <1></1> = the game name (e.g. "Don't Starve Together")
-RewardItemClaimInfo = "您正在为 <1></1>兑换物品。"
-QuestCompleted = "您已经完成了这项任务。感谢！"
-; <1></1> = a platform name (e.g. "YouTube")
-; <2>...</2> is markup for a hyperlink (Note: please maintain capitalization)
-NotLinkedQuestStatus = "请<2>绑定您的<1></1> 账户</2>以开始。 "
-; <4></4> = is an inline button labeled "Check Again"
-; <2>...</2> is markup for a hyperlink
-NotSubscribedQuestStatus = "请 <2>关注我们的账户</2>，并<4></4>"
-; <4></4> = is an inline button labeled "Check Again"
-; <2>...</2> is markup for a hyperlink
-NotFollowingQuestStatus = "请 <2>关注我们的账户</2>，并<4></4>"
-CheckOutgoingQuestStatus = "请 <2>关注我们的账户</2>，并<5></5>"
-; <5></5> = is an inline button labeled "Check Again"
-; <2>...</2> is markup for a hyperlink
-NoSubQuestStatus = "请打开 <2>您的设定界面</2>， 订阅至少一个邮件新闻，并 <5></5>"
-MissingEmailQuestStatus = "我们还未获得您的邮件地址！ <1></1>请在 <4>输入</4>."
-PointBalanceLabel = "点数余额"
-CheckAgain = "再次查看"
-GenericClientError = "很抱歉，一个意外的错误出现了。请<2>重新加载该页面</2>并再次尝试。"
-GameDST = "《饥荒：联机版》"
-GameDS = "《饥荒》"
-SpoolItemDescription = "一大堆线轴，用于编织《饥荒：联机版》的物品。只能兑换一次！"
-ComingSoon = "即将推出！"
-AlternateQuest = "其他任务"
+RewardItemCost = "物品需要"
+RewardItemReedem = "兑换"
+RewardItemCancel = "取消"
 
 ; Platform names
 
@@ -343,7 +309,9 @@ E_INVALID_STEAMID = "SteamID无效。"
 E_INVALID_DATE = "日期无效。"
 E_MISSING_OAUTH_CODE = "授权code无效，请重试。"
 E_INVALID_OAUTH_STATE = "授权state无效，请重试。"
-E_INVALID_OAUTH_TOKEN = "The OAuth access token is missing, try again."
+E_INVALID_OAUTH_TOKEN = "缺少OAuth访问令牌，请重试。"
+E_WECHAT_OAUTH_CODE_BEEN_USED = "因为网络连接不稳定，二维码已经过期，导致绑定失败。"
+E_WECHAT_OAUTH_INVALID_CODE = "由于OAuth代码无效，微信拒绝了关联您帐户的请求。"
 E_KU_NOT_FOUND = "无法获得与用户帐户信息相关的游戏。"
 E_INVALID_TOKEN = "服务器令牌不再有效。"
 E_EXPIRED_TOKEN = "服务器令牌不再有效，因为它已过期。"

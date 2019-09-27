@@ -1,6 +1,7 @@
 [credits]
 
 UnitedMel
+SkyFly
 
 [translations]
 
@@ -17,6 +18,7 @@ Copyright = "&copy; Все права защищены. Klei Entertainment"
 
 ; Navigation Bar
 
+Rewards = "Награды"
 Settings = "Настройки"
 Games = "Игры"
 Betas = "Беты"
@@ -156,7 +158,7 @@ DeleteAccountConfirm = "Подтвердить"
 DeleteAccountConfirmation = "Пожалуйста, введите “delete my account” полностью заглавными буквами, чтобы подтвердить:"
 DeleteAccountButton = "Я понимаю какие последствия меня ждут, удалите мой аккаунт"
 VerifyAccountDeletionTitle = "Подтвердите удаление вашего аккаунта"
-VerifyAccountDeletionDescription = "Мы отправили вам по электронной почте код подтверждения для удаления вашей учетной записи. Пожалуйста, скопируйте код и вставьте его в форму ниже.</p><p>Если вы не получили проверочный код, нажмите «Отмена». Убедитесь, что ваш адрес электронной почты правильный и начните сначала.</p><p>Если вы не запрашивали удаление своей учетной записи, значит кто-то другой, имеющий доступ к вашей {{.Platform}} учетной записи, сделал это от вашего имени. Нажмите «Отмена», чтобы полностью остановить процесс, а затем измените пароль своей {{.Platform}} учетной записи, чтобы это не повторилось."
+VerifyAccountDeletionDescription = "Мы отправили вам по электронной почте код подтверждения для удаления вашей учетной записи. Пожалуйста, скопируйте код и вставьте его в форму ниже.</p><p>Если вы не получили проверочный код, нажмите «Отмена». Убедитесь, что ваш адрес электронной почты правильный и начните сначала.</p><p>Если вы не запрашивали удаление своей учетной записи, значит кто-то другой, имеющий доступ к вашей {{.PlatformName}} учетной записи, сделал это от вашего имени. Нажмите «Отмена», чтобы полностью остановить процесс, а затем измените пароль своей {{.PlatformName}} учетной записи, чтобы это не повторилось."
 VerifyAccountDeletionCode = "Код подтверждения"
 VerifyAccountDeletionProceed = "Продолжить"
 VerifyAccountDeletionCancel = "Отмена"
@@ -215,71 +217,36 @@ CommunityTranslationsDescription = "Если вы хотите добавить 
 ; Rewards
 ; https://accounts.klei.com/account/rewards
 
-Rewards = "Награды"
+RewardTitle = "Дропы и награды (Бета)"
+RewardDescription = "Будьте в курсе событий и получайте внутриигровые награды. Время от времени мы будем добавлять новые награды, так что заходите почаще, чтобы увидеть что нового!"
+RewardLabel = "Награда"
+RewardStartButton = "Привязать запись"
+RewardClaimButton = "Забрать"
+RewardWasClaimed = "Успешно востребована!"
+RewardWasRedeemed = "Успешно выкуплено!"
+RewardAlternative = "Альтернатива"
+RewardPointsAbbreviation = "очк"
+RewardPointsMinutes = "минут"
+RewardBalance = "Текущий баланс"
+RewardNameTwitch = "Смотрите «Не голодайте вместе» на Twitch"
+RewardNameDouyu = "Смотрите «Не голодайте вместе» на DouYu"
+RewardNameYoutube = "Следуйте за нами на YouTube"
+RewardNameTwitter = "Следуйте за нами на Twitter"
+RewardNameFacebook = "Следите за нами на Фейсбуке"
+RewardNameWechat = "Следуйте за нами на WeChat"
+RewardNameInstagram = "Подпишитесь на нас в Instagram"
+RewardNameNewsletter = "Подписывайтесь на нашу новостную рассылку"
+RewardMessageYoutube = "<a href='https://www.youtube.com/user/kleient' target='_blank'>Следуйте за нами на YouTube</a>, чтобы получить эту награду."
+RewardMessageTwitter = "<a href='https://twitter.com/klei' target='_blank'>Следуйте за нами на Twitter</a>, чтобы получить эту награду."
+RewardMessageFacebook = "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Следите за нами на Фейсбуке</a>, чтобы получить эту награду."
+RewardMessageWechat = "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Следуйте за нами на WeChat</a>, чтобы получить эту награду."
+RewardMessageInstagram = "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Подпишитесь на нас в Instagram</a>, чтобы получить эту награду."
+RewardMessageNewsletter = "<a href='/account/settings' target='_blank'>Подписывайтесь на нашу новостную рассылку</a>, чтобы получить эту награду."
 RewardItemsTitle = "Награды"
 RewardItemsDescription = "Используйте очки, чтобы получить любой из следующих эксклюзивных предметов"
-RewardQuestTitle = "Дропы и награды (Бета)"
-RewardsQuestDescription = "Будьте в курсе событий и получайте внутриигровые награды. Время от времени мы будем добавлять новые награды, так что заходите почаще, чтобы увидеть что нового!"
-MoreInfoLink = "Нажмите здесь для дополнительной информации."
-RewardPointInfo = "Очки, которые вы зарабатываете, накапливаются на вашем счету. Их вы можете обменять на эксклюзивные <1>награды</1>."
-; <1></1> = the game name (e.g. "Don't Starve Together")
-; <4></4> = the platform name (e.g. "Twitch")
-DropRewardConditionsTitle = "Смотрите <1></1> на <4></4>"
-; <1></1> = the game name (e.g. "Don't Starve Together")
-DropRewardConditionsBody = "Наблюдайте за тем, как стримеры играют в <2></2> и зарабатывайте предметы."
-; <2></2> = the game name (e.g. "Don't Starve Together")
-DropRewardsSuccessStatus = "Все готово! Вы будете получать предметы, указанные ниже, при просмотре стримов по <2></2>!"
-RewardPointsAbbreviated = "Очков"
-RewardItemTicks = "{{ticks}} минут"
-RewardItemClaimInstructionsDST = "Ваш новый предмет появится в игровом инвентаре при следующем запуске игры."
-EmailSubQuestTitle = "Подпишитесь на нашу рассылку!"
-EmailSubQuestConditions = "Заработайте очки за <2>подписку на рассылку Klei</2>."
-; <1></1> = a description of the rewards received for a completed quest (e.g. "400 Pts.")
-QuestRewardsMessage = "Вы получили <1></1>"
-Claimed = "Получено"
-Claim = "Забрать"
-Owned = "Получен"
-NotEnoughPoints = "У вас недостаточно очков, чтобы получить этот предмет."
-; <1></1> = a platform name (e.g. "YouTube")
-FollowUsQuestDescriptionTitle = "Подпишитесь на нас в <1></1>!"
-; <1></1> = a platform name (e.g. "YouTube")
-; <2>...</2> is markup for a hyperlink
-FollowUsQuestDescriptionBody = "Подпишитесь на <2>официальный аккаунт Klei на <1></1></2> и заработайте очки."
-; <2></2> = a platform name (e.g. "YouTube")
-SubscribeQuestDescriptionTitle = " Подпишитесь на нас в <2></2>!"
-; <1></1> = a platform name (e.g. "YouTube")
-; <2>...</2> is markup for a hyperlink
-SubscribeQuestDescriptionBody = "Подпишитесь на <2>официальный аккаунт Klei на <1></1></2> и заработайте очки."
-NotEnoughPointsErrorAlert = "При получении этого предмета возникла проблема. Возможно, у вас больше нет очков, чтобы получить этот предмет. Страница сейчас перезагрузится, и вы можете повторить попытку. Если проблема не устранена, обратитесь в службу поддержки."
-ItemClaimLabel = "Вы получаете"
-CurrentBalanceLabel = "Текущий баланс"
-ItemCostLabel = "Стоимость предмета"
-NewBalanceLabel = "Новый баланс"
-; <1></1> = the game name (e.g. "Don't Starve Together")
-RewardItemClaimInfo = "Вы получаете предмет для <1></1>."
-QuestCompleted = "Вы уже завершили этот квест. Спасибо!"
-; <1></1> = a platform name (e.g. "YouTube")
-; <2>...</2> is markup for a hyperlink (Note: please maintain capitalization)
-NotLinkedQuestStatus = "Для начала, пожалуйста, <2>Привяжите свой <1></1> аккаунт</2> "
-; <4></4> = is an inline button labeled "Check Again"
-; <2>...</2> is markup for a hyperlink
-NotSubscribedQuestStatus = "Пожалуйста, <2>подпишитесь на наш аккаунт</2>, затем<4></4>"
-; <4></4> = is an inline button labeled "Check Again"
-; <2>...</2> is markup for a hyperlink
-NotFollowingQuestStatus = "Пожалуйста, <2>подпишитесь на наш аккаунт</2>, затем <4></4>"
-CheckOutgoingQuestStatus = "Пожалуйста, <2>подпишитесь на наш аккаунт</2>, затем <5></5>"
-; <5></5> = is an inline button labeled "Check Again"
-; <2>...</2> is markup for a hyperlink
-NoSubQuestStatus = "Пожалуйста, откройте <2>ваши настройки</2>, подпишитесь как минимум на один список рассылки , затем <5></5>"
-MissingEmailQuestStatus = "Мы еще не знаем вашу электронную почту! <1></1>Пожалуйста, начните с <4>добавления одной</4>."
-PointBalanceLabel = "Очки"
-CheckAgain = "Проверьте еще раз"
-GenericClientError = "Мы сожалеем. Произошла непредвиденная ошибка. Пожалуйста, <2>перезагрузите страницу</2> и попробуйте ещё раз."
-GameDST = "Don't Starve Together"
-GameDS = "Don't Starve"
-SpoolItemDescription = "Просто большая куча Катушек, которые можно использовать при создании предметов в Don't Starve Together. Можно купить только один раз!"
-ComingSoon = "Совсем скоро!"
-AlternateQuest = "Альтернативный квест"
+RewardItemCost = "Стоимость предмета"
+RewardItemReedem = "Выкупать"
+RewardItemCancel = "Отмена"
 
 ; Platform names
 
@@ -343,6 +310,8 @@ E_INVALID_DATE = "Дата недействительна."
 E_MISSING_OAUTH_CODE = "Код авторизации недействителен, попробуйте еще раз."
 E_INVALID_OAUTH_STATE = "Недопустимое состояние авторизации, попробуйте еще раз."
 E_INVALID_OAUTH_TOKEN = "Токен доступа OAuth отсутствует, попробуйте еще раз."
+E_WECHAT_OAUTH_CODE_BEEN_USED = "WeChat отклонил запрос на привязку вашей учетной записи, поскольку код OAuth уже был использован."
+E_WECHAT_OAUTH_INVALID_CODE = "WeChat отклонил запрос на привязку вашей учетной записи, поскольку код OAuth недействителен."
 E_KU_NOT_FOUND = "Не удалось получить копию информации, связанной с вашей учетной записью."
 E_INVALID_TOKEN = "Токен сервера больше не действителен."
 E_EXPIRED_TOKEN = "Токен сервера больше недействителен, поскольку срок его действия истек."

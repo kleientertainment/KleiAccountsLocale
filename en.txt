@@ -20,6 +20,7 @@ Copyright = "&copy; All Rights Reserved Klei Entertainment"
 
 ; Navigation Bar
 
+Rewards = "Rewards"
 Settings = "Settings"
 Games = "Games"
 Betas = "Betas"
@@ -160,7 +161,7 @@ DeleteAccountConfirm = "Confirm"
 DeleteAccountConfirmation = "Please type in “delete my account” but all in caps, to confirm:"
 DeleteAccountButton = "I understand the consequences, delete this account"
 VerifyAccountDeletionTitle = "Verify Account Deletion"
-VerifyAccountDeletionDescription = "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.Platform}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.Platform}} account to prevent this from happening again."
+VerifyAccountDeletionDescription = "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.PlatformName}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.PlatformName}} account to prevent this from happening again."
 VerifyAccountDeletionCode = "Verification Code"
 VerifyAccountDeletionProceed = "Proceed"
 VerifyAccountDeletionCancel = "Cancel"
@@ -219,71 +220,36 @@ CommunityTranslationsDescription = "If you would like to add a new language or m
 ; Rewards
 ; https://accounts.klei.com/account/rewards
 
-Rewards = "Rewards"
+RewardTitle = "Drops & Rewards (Beta)"
+RewardDescription = "Keep up to date and earn in-game rewards. We'll be adding new rewards from time to time, so check back often to see what's new!"
+RewardLabel = "Reward"
+RewardStartButton = "Link Account"
+RewardClaimButton = "Claim Reward"
+RewardWasClaimed = "Successfully Claimed!"
+RewardWasRedeemed = "Successfully Redeemed!"
+RewardAlternative = "Alternative"
+RewardPointsAbbreviation = "pts"
+RewardPointsMinutes = "min"
+RewardBalance = "Current Balance"
+RewardNameTwitch = "Watch “Don’t Starve Together” on Twitch"
+RewardNameDouyu = "Watch “Don’t Starve Together” on DouYu"
+RewardNameYoutube = "Follow us on YouTube"
+RewardNameTwitter = "Follow us on Twitter"
+RewardNameFacebook = "Follow us on Facebook"
+RewardNameWechat = "Follow us on WeChat"
+RewardNameInstagram = "Follow us on Instagram"
+RewardNameNewsletter = "Subscribe to our newsletter"
+RewardMessageYoutube = "<a href='https://www.youtube.com/user/kleient' target='_blank'>Follow us on YouTube</a> to claim this reward."
+RewardMessageTwitter = "<a href='https://twitter.com/klei' target='_blank'>Follow us on Twitter</a> to claim this reward."
+RewardMessageFacebook = "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
+RewardMessageWechat = "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Follow us on WeChat</a> to claim this reward."
+RewardMessageInstagram = "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Follow us on Instagram</a> to claim this reward."
+RewardMessageNewsletter = "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
 RewardItemsTitle = "Reward Items"
 RewardItemsDescription = "Use points to claim any of the following exclusive items"
-RewardQuestTitle = "Drops & Rewards (Beta)"
-RewardsQuestDescription = "Keep up to date and earn in-game rewards. We'll be adding new rewards from time to time, so check back often to see what's new!"
-MoreInfoLink = "Click here for more info."
-RewardPointInfo = "Points you earn accumulate in your account. You can exchange points for exclusive <1>reward items</1>."
-; <1></1> = the game name (e.g. "Don't Starve Together")
-; <4></4> = the platform name (e.g. "Twitch")
-DropRewardConditionsTitle = "Watch <1></1> on <4></4>"
-; <1></1> = the game name (e.g. "Don't Starve Together")
-DropRewardConditionsBody = "Watch streamers playing <2></2> and earn item drops."
-; <2></2> = the game name (e.g. "Don't Starve Together")
-DropRewardsSuccessStatus = "All set! You will receive the below items as you watch <2></2> streams!"
-RewardPointsAbbreviated = "Pts."
-RewardItemTicks = "{{ticks}} min"
-RewardItemClaimInstructionsDST = "Your new item will show up in your in-game inventory next time you start the game"
-EmailSubQuestTitle = "Sign-up for our mailing-list!
-EmailSubQuestConditions = "Earn points for <2>opting into a Klei mailing list</2>."
-; <1></1> = a description of the rewards received for a completed quest (e.g. "400 Pts.")
-QuestRewardsMessage = "You've received <1></1>"
-Claimed = "Claimed"
-Claim = "Claim"
-Owned = "Owned"
-NotEnoughPoints = "You don't have enough points to claim this item."
-; <1></1> = a platform name (e.g. "YouTube")
-FollowUsQuestDescriptionTitle = "Follow us on <1></1>!"
-; <1></1> = a platform name (e.g. "YouTube")
-; <2>...</2> is markup for a hyperlink
-FollowUsQuestDescriptionBody = "Follow <2>the official Klei account on <1></1></2> and earn points."
-; <2></2> = a platform name (e.g. "YouTube")
-SubscribeQuestDescriptionTitle = " Follow us on <2></2>!"
-; <1></1> = a platform name (e.g. "YouTube")
-; <2>...</2> is markup for a hyperlink
-SubscribeQuestDescriptionBody = "Follow <2>the official Klei account on <1></1></2> and earn points."
-NotEnoughPointsErrorAlert = "There was a problem claiming this item. It is possible you no longer have enough points to claim this item. The page will now reload, and you can try again. If this problem persists, please contact support."
-ItemClaimLabel = "You are claiming"
-CurrentBalanceLabel = "Current Balance"
-ItemCostLabel = "Item Cost"
-NewBalanceLabel = "New Balance"
-; <1></1> = the game name (e.g. "Don't Starve Together")
-RewardItemClaimInfo = "You are claiming an item for <1></1>."
-QuestCompleted = "You've already completed this quest. Thank you!"
-; <1></1> = a platform name (e.g. "YouTube")
-; <2>...</2> is markup for a hyperlink (Note: please maintain capitalization)
-NotLinkedQuestStatus = "To begin, please <2>Link your <1></1> account</2> "
-; <4></4> = is an inline button labeled "Check Again"
-; <2>...</2> is markup for a hyperlink
-NotSubscribedQuestStatus = "Please <2>subscribe to our account</2>, then<4></4>"
-; <4></4> = is an inline button labeled "Check Again"
-; <2>...</2> is markup for a hyperlink
-NotFollowingQuestStatus = "Please <2>follow our account</2>, then <4></4>"
-CheckOutgoingQuestStatus = "Please <2>follow our account</2>, then <5></5>"
-; <5></5> = is an inline button labeled "Check Again"
-; <2>...</2> is markup for a hyperlink
-NoSubQuestStatus = "Please open <2>your settings</2>, subscribe to at least one mailing list , then <5></5>"
-MissingEmailQuestStatus = "We don't know your email yet! <1></1>Please start by <4>entering one</4>."
-PointBalanceLabel = "Point Balance"
-CheckAgain = "Check again"
-GenericClientError = "We're sorry. An unexpected error has occurred. Please <2>reload the page</2> and try again."
-GameDST = "Don't Starve Together"
-GameDS = "Don't Starve"
-SpoolItemDescription = "Just a big pile of Spool, to use in crafting Don't Starve Together items. Can only be purchased once!"
-ComingSoon = "Coming Soon!"
-AlternateQuest = "Alternate Quest"
+RewardItemCost = "Cost"
+RewardItemReedem = "Redeem"
+RewardItemCancel = "Cancel"
 
 ; Platform names
 
@@ -347,6 +313,8 @@ E_INVALID_DATE = "The date is invalid."
 E_MISSING_OAUTH_CODE = "The authorization code is invalid, try again."
 E_INVALID_OAUTH_STATE = "The authorization state is invalid, try again."
 E_INVALID_OAUTH_TOKEN = "The OAuth access token is missing, try again."
+E_WECHAT_OAUTH_CODE_BEEN_USED = "WeChat rejected the request to link your account because the OAuth code has already been used."
+E_WECHAT_OAUTH_INVALID_CODE = "WeChat rejected the request to link your account because the OAuth code is invalid."
 E_KU_NOT_FOUND = "It was not possible to get a copy of the information associated to your user account."
 E_INVALID_TOKEN = "The server token is not valid anymore."
 E_EXPIRED_TOKEN = "The server token is not valid anymore because it has expired."
