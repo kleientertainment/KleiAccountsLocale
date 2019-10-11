@@ -363,6 +363,7 @@ E_STEAM_ID_IS_MISSING = "The game client did not provide all the information we 
 E_STEAM_BROKEN_TICKET = "The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
 E_RAIL_ID_IS_MISSING = "The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
 E_RAIL_BROKEN_TICKET = "The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
+E_RAIL_EXPIRED_TOKEN = "访问令牌已过期。 腾讯要求您重新开始该过程。"
 E_CANNOT_PARSE_FORM = "您的计算机向服务器发送了错误的数据。"
 E_EMAIL_VERIFIED = "你的电子邮箱已被核实。"
 E_TWITCH_BLACKLISTED = "已删除将Twitch帐户与您的Klei帐户相关联的选项。 如果您认为这是一个错误，<a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>请与我们联系</a>。"

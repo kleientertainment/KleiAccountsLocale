@@ -361,6 +361,7 @@ E_STEAM_ID_IS_MISSING = "Ігровий клієнт не надав всю ін
 E_STEAM_BROKEN_TICKET = "Ігровий клієнт не надав всю інформацію, необхідну для аутентифікації вашого профілю. Будь ласка, закрийте гру і почніть знову."
 E_RAIL_ID_IS_MISSING = "Ігровий клієнт не надав всю інформацію, необхідну для аутентифікації вашого профілю. Будь ласка, закрийте гру і почніть знову."
 E_RAIL_BROKEN_TICKET = "Ігровий клієнт не надав всю інформацію, необхідну для аутентифікації вашого профілю. Будь ласка, закрийте гру і почніть знову."
+E_RAIL_EXPIRED_TOKEN = "The access token has expired. Tencent is asking you to start the process again."
 E_CANNOT_PARSE_FORM = "Ваш комп'ютер відправив невірні дані на сервер."
 E_EMAIL_VERIFIED = "Вашу адресу електронної пошти вже було підтверджено."
 E_TWITCH_BLACKLISTED = "Можливість зв'язати обліковий запис Twitch з вашим обліковим записом Klei була видалена. Якщо ви думаєте, що це помилка, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>будь ласка, зв'яжіться з нами</a>."
