@@ -258,6 +258,22 @@ Twitch = "Twitch"
 Douyu = "Douyu"
 Wechat = "WeChat"
 
+; Support
+
+SupportTitle = "Submit a Support Request"
+SupportDescription = "Please enter the details of your request. A member of our support staff will respond as soon as possible."
+SupportSuccess = "Your support request was successfully recorded. One of the members of our staff will reply to you soon. Thank you for your patience."
+SupportName = "Name"
+SupportGame = "Game"
+SupportCategory = "Category"
+SupportAttachments = "Attachments"
+SupportDetails = "Details"
+SupportSubmit = "Submit"
+E_ZENDESK_AUTH_PROBLEMS = "Could not authenticate you. Check your email address or register."
+E_ZENDESK_EMAIL_IS_MISSING = "Please <a href='/account/settings'>associate a valid email address to your account</a>. Otherwise, we will not be able to reply to your support request."
+E_ZENDESK_EMAIL_NOT_VERIFIED = "Система поддержки открыта только для игроков с подтвержденным адресом электронной почты. Перейдите в «Информация о пользователе» и найдите кнопку «Подтвердить» на панели «Настройки»."
+E_ZENDESK_COOLDOWN_TIME = "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
+
 ; Klei Login Errors
 
 EmailAuthRequired = "Требуется аутентификация электронной почты. Пожалуйста, проверьте свою электронную почту и нажмите на ссылку аутентификации."
@@ -372,8 +388,6 @@ E_DOUYU_ALREADY_DISCONNECTED = "Ваша учетная запись Klei уже
 E_INVALID_CSRF_TOKEN = "Срок действия формы истек, пожалуйста, вернитесь, перезагрузите страницу и попробуйте снова."
 E_INVALID_USER_CONSENT = "Неверное согласие пользователя, вам необходимо внимательно прочитать инструкции по удалению аккаунта."
 E_INVALID_VERIFICATION_CODE = "Неверный код подтверждения."
-E_ZENDESK_EMAIL_NOT_VERIFIED = "Система поддержки открыта только для игроков с подтвержденным адресом электронной почты. Перейдите в «Информация о пользователе» и найдите кнопку «Подтвердить» на панели «Настройки»."
-E_ZENDESK_LOGOUT_REDIRECT = "При переходе на новый инструмент поддержки мы по ошибке отправили по электронной почте некоторым пользователям, что им потребуется создать учетную запись. Вам не нужно создавать учетную запись, и этот инструмент поддержки в настоящее время недоступен. Мы приносим свои извинения за доставленные неудобства."
 E_INVALID_AUTH_PROVIDER = "Поставщик авторизации не обнаружен. Пожалуйста, проверьте, принимает ли ваш веб-браузер файлы cookie с этого сайта, затем перейдите на страницу «Войти» и попробуйте еще раз."
 E_OAUTH_ACCESS_DENIED = "Klei не было предоставлено разрешение на привязку вашей учетной записи. Чтобы продолжить, вы должны разрешить Klei доступ к вашей учетной записи по запросу."
 E_GOOGLE_OAUTH_NO_REFRESH_TOKEN = "Google не позволил нам связать ваш аккаунт. Это обычно происходит, если мы каким-то образом потеряли ссылку на вашу учетную запись Google на нашей стороне, а также не удалили связь с вашей учетной записью на стороне Google. Пожалуйста, откройте <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>страницу разрешений вашего аккаунта Google</a>, удалите доступ к учетным записям Klei и попробуйте снова связать свои аккаунты."

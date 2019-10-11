@@ -258,6 +258,22 @@ Twitch = "Twitch"
 Douyu = "斗鱼"
 Wechat = "微信"
 
+; Support
+
+SupportTitle = "Submit a Support Request"
+SupportDescription = "Please enter the details of your request. A member of our support staff will respond as soon as possible."
+SupportSuccess = "Your support request was successfully recorded. One of the members of our staff will reply to you soon. Thank you for your patience."
+SupportName = "Name"
+SupportGame = "Game"
+SupportCategory = "Category"
+SupportAttachments = "Attachments"
+SupportDetails = "Details"
+SupportSubmit = "Submit"
+E_ZENDESK_AUTH_PROBLEMS = "Could not authenticate you. Check your email address or register."
+E_ZENDESK_EMAIL_IS_MISSING = "Please <a href='/account/settings'>associate a valid email address to your account</a>. Otherwise, we will not be able to reply to your support request."
+E_ZENDESK_EMAIL_NOT_VERIFIED = "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
+E_ZENDESK_COOLDOWN_TIME = "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
+
 ; Klei Login Errors
 
 EmailAuthRequired = "需要电子邮件认证。请查看您的电子邮件并点击击认证链接."
@@ -373,8 +389,6 @@ E_DOUYU_ALREADY_DISCONNECTED = "您的Klei帐户已与斗鱼断开连接。 如�
 E_INVALID_CSRF_TOKEN = "表单已过期，请返回，重新加载页面，然后重试。"
 E_INVALID_USER_CONSENT = "用户销毁许可，您需要非常仔细地阅读帐户删除说明。"
 E_INVALID_VERIFICATION_CODE = "无效验证码。"
-E_ZENDESK_EMAIL_NOT_VERIFIED = "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
-E_ZENDESK_LOGOUT_REDIRECT = "While migrating to a new support tool, we emailed some users in error that they would need to create an account. You do not need to create an account and this support tool is not available at this time. We apologize for any inconvenience."
 E_INVALID_AUTH_PROVIDER = "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 E_OAUTH_ACCESS_DENIED = "Klei尚未获得关联您帐户的权限。要继续此操作，您需要在提示出现时允许Klei访问您的帐户。"
 E_GOOGLE_OAUTH_NO_REFRESH_TOKEN = "谷歌不允许我们关联您的帐户。这种情况通常在我们的终端失去了与您的谷歌账户的连接而且还也没有在谷歌的终端关联您的帐户的时候发生。请打开<a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>您的Google帐户权限页</a>，删除Klei帐户的访问权限，然后尝试再次关联您的帐户。"

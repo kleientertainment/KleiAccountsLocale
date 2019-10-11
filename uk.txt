@@ -257,6 +257,22 @@ Twitch = "Twitch"
 Douyu = "Douyu"
 Wechat = "WeChat"
 
+; Support
+
+SupportTitle = "Submit a Support Request"
+SupportDescription = "Please enter the details of your request. A member of our support staff will respond as soon as possible."
+SupportSuccess = "Your support request was successfully recorded. One of the members of our staff will reply to you soon. Thank you for your patience."
+SupportName = "Name"
+SupportGame = "Game"
+SupportCategory = "Category"
+SupportAttachments = "Attachments"
+SupportDetails = "Details"
+SupportSubmit = "Submit"
+E_ZENDESK_AUTH_PROBLEMS = "Could not authenticate you. Check your email address or register."
+E_ZENDESK_EMAIL_IS_MISSING = "Please <a href='/account/settings'>associate a valid email address to your account</a>. Otherwise, we will not be able to reply to your support request."
+E_ZENDESK_EMAIL_NOT_VERIFIED = "Система підтримки відкрита тільки для гравців з підтвердженою адресою електронної пошти. Перейдіть в «Інформація про користувача» і знайдіть кнопку «Підтвердити» на панелі «Налаштування»."
+E_ZENDESK_COOLDOWN_TIME = "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
+
 ; Klei Login Errors
 
 EmailAuthRequired = "Потрібна аутентифікація електронної пошти. Будь ласка, перевірте свою електронну пошту і натисніть на лінк аутентифікації."
@@ -371,8 +387,6 @@ E_DOUYU_ALREADY_DISCONNECTED = "Ваш обліковий запис Klei вже
 E_INVALID_CSRF_TOKEN = "Термін дії форми закінчився, будь ласка, поверніться, перезавантажте сторінку і спробуйте знову."
 E_INVALID_USER_CONSENT = "Неправильна згода користувача, вам необхідно уважно прочитати інструкції з видалення облікового запису."
 E_INVALID_VERIFICATION_CODE = "Невірний код підтвердження."
-E_ZENDESK_EMAIL_NOT_VERIFIED = "Система підтримки відкрита тільки для гравців з підтвердженою адресою електронної пошти. Перейдіть в «Інформація про користувача» і знайдіть кнопку «Підтвердити» на панелі «Налаштування»."
-E_ZENDESK_LOGOUT_REDIRECT = "При переході на новий інструмент підтримки ми помилково відправили на електронну пошту деяким користувачам, що їм необхідно створити обліковий запис. Вам не потрібно створювати обліковий запис, і цей інструмент підтримки в даний час недоступний. Ми приносимо свої вибачення за доставлені незручності."
 E_INVALID_AUTH_PROVIDER = "Постачальник авторизації не розпізнаний. Будь ласка, перевірте, чи приймає ваш веб-браузер файли cookie з цього сайту, потім перейдіть на сторінку «Увійти» і спробуйте ще раз."
 E_OAUTH_ACCESS_DENIED = "Klei не було надано дозвіл на прив'язку вашого профілю. Щоб продовжити, ви повинні дозволити Klei доступ до вашого облікового запису за запитом."
 E_GOOGLE_OAUTH_NO_REFRESH_TOKEN = "Google не дозволив нам зв'язати ваш обліковий запис. Це зазвичай відбувається, якщо ми якимось чином втратили посилання на ваш обліковий запис Google на нашому боці, а також не видалили зв'язок з вашим обліковим записом на стороні Google. Будь ласка, відкрийте <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>сторінку дозволів вашого облікового запису Google</a>, видаліть доступ до облікових записів Klei і спробуйте знову зв'язати свої акаунти."

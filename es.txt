@@ -257,6 +257,22 @@ Twitch = "Twitch"
 Douyu = "Douyu"
 Wechat = "WeChat"
 
+; Support
+
+SupportTitle = "Contactar Soporte Técnico"
+SupportDescription = "Por favor escriba los detalles de su petición. Un miembro de nuestro equipo de soporte le dará respuesta tan pronto como sea posible."
+SupportSuccess = "Su solicitud de soporte técnico ha sido guardada. Un miembro de nuestro equipo de soporte le dará respuesta tan pronto como sea posible. Gracias por su paciencia."
+SupportName = "Nombre"
+SupportGame = "Juego"
+SupportCategory = "Categoría"
+SupportAttachments = "Adjuntar"
+SupportDetails = "Detalles"
+SupportSubmit = "Enviar"
+E_ZENDESK_AUTH_PROBLEMS = "Could not authenticate you. Check your email address or register."
+E_ZENDESK_EMAIL_IS_MISSING = "Por favor <a href='/account/settings'>agregue un correo electrónico válido a su cuenta</a>. De lo contrario, no podremos responder a su solicitud de soporte técnico."
+E_ZENDESK_EMAIL_NOT_VERIFIED = "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
+E_ZENDESK_COOLDOWN_TIME = "Usted ya envió una solicitud de soporte técnico hace unos minutos. Por favor espere un par de minutos para darnos tiempo de respondor a su solicitud y a otros usuarios."
+
 ; Klei Login Errors
 
 EmailAuthRequired = "Es necesario autenticar el correo electrónico. Comprueba tu correo y haz clic en el enlace de autenticación."
@@ -372,8 +388,6 @@ E_DOUYU_ALREADY_DISCONNECTED = "Su cuenta de Klei ya ha sido desconectada de Dou
 E_INVALID_CSRF_TOKEN = "El formulario ha expirado, vuelva a la página anterior, vuelva a cargar la página, e intente de nuevo."
 E_INVALID_USER_CONSENT = "Consentimiento de usuario no válido, debe leer las instrucciones de eliminación de la cuenta con mucho cuidado."
 E_INVALID_VERIFICATION_CODE = "El código de verificación is inválido."
-E_ZENDESK_EMAIL_NOT_VERIFIED = "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
-E_ZENDESK_LOGOUT_REDIRECT = "While migrating to a new support tool, we emailed some users in error that they would need to create an account. You do not need to create an account and this support tool is not available at this time. We apologize for any inconvenience."
 E_INVALID_AUTH_PROVIDER = "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 E_OAUTH_ACCESS_DENIED = "Klei no pudo obtener los permisos necesarios para vincular su cuenta. Para continuar, debe permitir a Klei acceder a información básica de su cuenta cuando se le solicite."
 E_GOOGLE_OAUTH_NO_REFRESH_TOKEN = "Google no nos permite vincular su cuenta. Esto usualmente sucede si de alguna manera nosotros perdemos el enlace a su cuenta en nuestro sistema antes de que hayamos podido desvincular. Por favor visited la página de <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>permisos de su cuenta de Google</a>, elimine el acceso a la aplicación "Klei Accounts", y luego intente vincular su cuenta de nuevo."
