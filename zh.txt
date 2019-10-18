@@ -107,7 +107,7 @@ UserNotFound = "找不到用户"
 ; Linked Accounts
 
 LinkedAccounts = "已连接账户"
-LinkAccountButton = "新增帐户"
+LinkAccountButton = "绑定帐户"
 AddedOn = "已添加"
 RemoveAccount = "移除账户"
 AccountLinkRulesTitle = "Twitch直播规则"
