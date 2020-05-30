@@ -2,7 +2,7 @@
 
 UnitedMel
 SkyFly
-mefusion
+mefusion (Fusion Prime)
 
 [translations]
 
