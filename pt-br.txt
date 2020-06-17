@@ -1,0 +1,405 @@
+[credits]
+
+Geeris
+
+[translations]
+
+Company = "Klei"
+Email = "E-mail"
+Loading = "Carregando…"
+Select = "Selecionar"
+SaveChanges = "Salvar Alterações"
+SavingChanges = "Salvando Alterações…"
+Expiration = "Expiração"
+Redirecting = "Redirecionando…"
+GoToPreviousPage = "Voltar"
+Copyright = "&copy; Todos os direitos reservados Klei Entertainment"
+
+; Navigation Bar
+
+Rewards = "Recompensas"
+Settings = "Configurações"
+Games = "Jogos"
+Betas = "Betas"
+Language = "Idioma"
+Support = "Suporte"
+VisitYourProfile = "Acesse seu Perfil"
+
+; Months
+
+January = "Janeiro"
+February = "Fevereiro"
+March = "Março"
+April = "Abril"
+May = "Maio"
+June = "Junho"
+July = "Julho"
+August = "Agosto"
+September = "Setembro"
+October = "Outubro"
+November = "Novembro"
+December = "Dezembro"
+
+; Signup
+; https://accounts.klei.com/signup
+
+Register = "Cadastre-se"
+Registering = "Cadastrando…"
+CreateNewAccount = "Criar Conta"
+CreateNewAccountDescription = "Para jogar Don’t Starve Together, você precisará de uma conta. Esta conta permitirá que você se conecte ao Don’t Starve Together, crie e acesse servidores e participe da Comunidade da Klei!"
+SteamLinkDescription = "Sua conta será vinculada à seguinte Conta Steam:"
+Birthdate = "Data de nascimento"
+NewsletterConsent = "Desejo receber o boletim informativo (newsletter)"
+EULA = "Eu aceito os <a href="https://www.klei.com/games/dont-starve/terms-of-service" target="_blank" rel="noopener noreferrer">Contrato de licença do usuário final</a>"
+MustAcceptEULA = "Você deve aceitar o Contrato de licença do usuário final para se registrar. Leia nosso Contrato de licença do usuário final e marque a caixa de confirmação para continuar."
+PrivacyPolicy = "Ao se inscrever, você concorda com nossa <a href="https://www.klei.com/privacy-policy" target="_blank" rel="noopener noreferrer">Política de Privacidade</a>"
+FillAccountDetails = "Preencha os detalhes da sua conta aqui:"
+SteamAccount = "Conta Steam"
+Persona = "Pessoa"
+
+; Signup Verify
+; https://accounts.klei.com/signup/verify
+
+Verify = "Verificar"
+Verifying = "Verificando…"
+VerificationEmailSuccessTitle = "E-mail de Verificação Enviado"
+VerificationEmailSuccessDescription = "Enviamos um e-mail de verificação para o seu endereço de e-mail. Para concluir seu cadastro, clique no link contido no e-mail. Os e-mails geralmente são enviados instantaneamente. Se você não receber a mensagem em até uma hora, verifique sua pasta de spam ou lixo eletrônico."
+VerificationEmailFailureTitle = "Verificação Inválida"
+VerificationEmailFailureDescription = "Oops, parece que o link que você usou para chegar até aqui é inválido."
+
+; Signup Complete
+; https://accounts.klei.com/signup/complete
+
+RegistrationComplete = "Verificação Finalizada"
+RegistrationCompleteDescription = "Obrigado por verificar seu e-mail.</p><p>Está tudo pronto! Agora você pode voltar ao seu jogo e jogar online. Se você tiver sugestões, comentários ou precisar de suporte, acesse o fórum da comunidade Klei."
+VisiCommunityForum = "Visite o Fórum da Comunidade Klei"
+
+; Login Page
+; https://accounts.klei.com/login
+
+Login = "Entrar"
+Logout = "Sair"
+LoginTitle = "Entrar na Conta Klei"
+LoginDescription = "Acesse sua Conta Klei para ver todos os seu jogos, troque itens com amigos, inscreva-se nos betas e tenha acesso a conteúdos exclusivos. Escolha uma plataforma para entrar:"
+
+; User Info Page
+; https://accounts.klei.com/account/info
+
+UserInfo = "Informações do Usuário"
+Preferences = "Preferências"
+UsefulLinks = "Links Úteis"
+KleiUserID = "Código de Usuário Klei"
+FirstSeen = "Visto pela primeira vez"
+Change = "Alterar"
+KleiCommunity = "Comunidade Klei"
+OpenForums = "Abrir Fórum"
+Newsletter = "Boletim Informativo"
+EditSubscriptions = "Editar Assinaturas"
+UnsubscribeFromEmails = "Cancelar inscrição de e-mails"
+SignupForABeta = "Cadastre-se para uma versão beta"
+GetDRMFreeGames = "Obtenha jogos livres de DRM"
+DownloadPersonalData = "Download de dados pessoais"
+SeeMyGames = "Meus Jogos"
+GamePlayerID = "Código de Jogador"
+UserNotFound = "Usuário não encontrado"
+
+; Linked Accounts
+; https://accounts.klei.com/account/linked/list
+
+LinkedAccounts = "Contas Vinculadas"
+LinkAccountButton = "Vincular Conta"
+RemoveAccount = "Remover Conta"
+AddedOn = "Adicionado em"
+AccountLinkRulesTitle = "Regras de Transmissão (Streaming)"
+AccountLinkRulesDescription = "O sistema de recompensas da Klei é uma maneira de oferecer suporte aos streamers que fornecem conteúdo de qualidade para a nossa comunidade, e as transmissões "Away From Keyboard (AFK)" interrompem a eficácia do nosso sistema. Transmissões AFK ou transmissões que exibem conteúdo diferente de Don’t Starve ou Don’t Starve Together não são permitidas. Streamers que quebrarem essas regras serão desvinculados do sistema e potencialmente proibidos de participar novamente."
+AccountLinkRulesAccept = "Aceitar e Continuar"
+
+; Privacy Change Email
+; https://accounts.klei.com/account/email/change
+
+ChangeEmail = "Alterar E-mail"
+ChangeEmailDescription = "Este é o endereço de e-mail que usaremos para enviar atualizações e notícias sobre sua conta ou jogos."
+EmailHasBeenChanged = "Seu endereço de e-mail está sendo alterado. Enviamos um e-mail com um link de verificação para autorizar a alteração."
+
+; Privacy Hide Inventory
+; https://accounts.klei.com/account/settings
+
+Inventory = "Inventário"
+HideSteamInventory = "Ocultar Inventário do Steam"
+HideSteamInventoryDescription = "Marcar as caixas abaixo ocultará os itens associados aos seus jogos da Klei no Steam. Você ainda possui seus itens e poderá vê-los nos jogos. Se você deseja tornar o inventário visível novamente, simplesmente desmarque as caixas e salve as alterações."
+InventoryHasBeenHidden = "O inventário foi ocultado"
+
+; Marketing Options
+; https://accounts.klei.com/account/privacy
+
+MarketingOptions = "Opções de Marketing"
+MarketingOptionsDescription = ""
+MarketingOptionsUnsubscribe = "Não quero receber e-mails de marketing"
+MarketingOptionsSubscribe = "Quero receber e-mails de marketing (notícias, novos jogos, promoções etc.)"
+MarketingOptionsDetails = "Para informações mais detalhadas sobre cada jogo, selecione as caixas abaixo:"
+MarketingOptionsPending = "Enviamos um e-mail para confirmar sua inscrição na nossa lista de e-mails."
+
+; GDPR Account Deletion
+; https://accounts.klei.com/account/limbo
+
+DeleteAccount = "Deletar Conta"
+DeleteAccountDescription = "Após excluir sua conta, não haverá como voltar atrás. Por favor, tenha certeza."
+DeleteAccountAreYouSure = "Você tem certeza absoluta?"
+DeleteAccountWarning = "Coisas ruins e inesperadas acontecerão se você não ler isso!"
+DeleteAccountExplanation = "A seu pedido, sua <b>Conta Klei</b> e todas as informações de identificação pessoal relacionadas à sua conta (excluindo transações financeiras e informações relacionadas a abuso) serão enviadas para serem removidas permanentemente do nosso sistema.</p><p><b>Observações: você não poderá reverter esta ação e todos os dados serão removidos completa e irreversivelmente.</b></p><p><p><strong>Isso significa que você não poderá mais jogar qualquer jogo que exija uma Conta Klei (Don’t Starve Together and Hot Lava), a conta {{.PlatformName}} será banida permanentemente e todos os dados serão destruídos para sempre, incluindo seu progresso e itens.</strong>"
+DeleteAccountOptions = "Marque as caixas para confirmar que você entende o que vai acontecer:"
+DeleteAccountOptionsProgress = "Excluir meu progresso nos jogos da Klei"
+DeleteAccountOptionsInventory = "Excluir todos os itens do meu inventário de jogos"
+DeleteAccountOptionsPurchases = "Excluir itens do meu inventário do Steam, incluindo itens comprados"
+DeleteAccountOptionsNoPlayDST = "Não quero mais jogar Don’t Starve Together"
+DeleteAccountOptionsNoPlayHL = "Não quero mais jogar Hot Lava"
+DeleteAccountOptionsBanAccount = "Proibir minha conta {{.PlatformName}} de jogar jogos da Klei por um PERÍODO MÍNIMO de 30 dias"
+DeleteAccountConfirm = "Confirmar"
+DeleteAccountConfirmation = "Digite “delete my account”, mas tudo em maiúsculas, para confirmar:"
+DeleteAccountButton = "Entendo as consequências, exclua esta conta"
+VerifyAccountDeletionTitle = "Verificar Exclusão de Conta"
+VerifyAccountDeletionDescription = "Enviamos um código de verificação para confirmar a exclusão da sua conta, copie o código e cole-o no formulário abaixo.</p><p>Se você não recebeu o código de verificação, clique em “Cancelar”, verifique se seu endereço de e-mail está correto e inicie o processo novamente.</p><p>Se você não solicitou a exclusão, alguém com acesso à sua conta {{.PlatformName}} pode ter feito isso por você. Clique em “Cancelar” para interromper completamente o processo e altere a senha da sua conta {{.PlatformName}} para impedir que isso aconteça novamente."
+VerifyAccountDeletionCode = "Código de Verificação"
+VerifyAccountDeletionProceed = "Continuar"
+VerifyAccountDeletionCancel = "Cancelar"
+
+; Account Games
+; https://accounts.klei.com/account/game/list
+; https://accounts.klei.com/account/game/info?game=DontStarveTogether
+; https://accounts.klei.com/account/game/servers?game=DontStarveTogether
+
+MyGames = "Meus Jogos"
+OtherGames = "Outros Jogos"
+AvailableOn = "Disponível em todas estas plataformas:"
+GoToWebsite = "Ir para o Site"
+DRMFreeDownload = "Download livre de DRM"
+DRMFreeDownloadDescription = "Obtenha o download livre de Gestão de Direitos Digitais (DRM) deste jogo. Mais informações <a href="/">aqui</a>."
+PlayerInfo = "Informações do Jogador"
+EnteredARGs = "ARGs inseridos"
+ParticipatedEvents = "Eventos Participados"
+FirstSeen = "Visto pela primeira vez"
+Download = "Download"
+GetKey = "Obter Chave"
+Servers = "Servidores"
+ServerName = "Nome do Servidor"
+ServerNameDescription = "Adicionar um servidor aqui fornece um token de acesso que permite executar sua própria instância de jogo dedicada."
+NoServersDescription = "Não há servidores associados a este jogo para sua conta."
+AddNewServer = "Adicionar Novo Servidor"
+AddingServer = "Adicionando Servidor…"
+GameServerWasGenerated = "O servidor foi criado com sucesso."
+RemoveServer = "Excluir"
+ConfigureServer = "Configurar"
+ConfigureServerTitle = "Configurar Servidor"
+ConfigureServerDescription = "O formulário a seguir permite definir as configurações do servidor do jogo. Dependendo do sistema operacional que você possui, você também precisa executar alguns scripts. Por favor, siga as instruções que correspondem ao seu sistema: <a href=’https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/’ target=’_blank’>Windows</a> &mdash; <a href=’https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/’ target=’_blank’>Linux</a> &mdash; <a href=’https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/’ target=’_blank’>macOS</a>."
+DownloadSettings = "Configurações de Download"
+FriendlyName = "Nome Amigável"
+
+; Account Betas
+; https://accounts.klei.com/account/betas
+
+UpcomingBetasTitle = "Betas Ativas e Futuras"
+UpcomingBetasDescription = "Você pode se registrar para betas de seu interesse. Você receberá um e-mail se for aceito em um."
+BetaStatus = "Status:"
+BetaStartDate = "Início:"
+BetaRegister = "Registrar"
+BetaRegistered = "Registrado"
+BetaNotAccepted = "Registrado - Não Aceito"
+BetaAccepted = "Aceito"
+BetaRegistrationEnded = "O Registro Terminou"
+
+; Community Translations
+; https://accounts.klei.com/community-translations
+
+CommunityTranslations = "Traduções"
+CommunityTranslationDisclaimer = "<a href=’/community-translations’>Esta é uma tradução não oficial.</a>"
+CommunityTranslationsDescription = "Se você deseja adicionar um novo idioma ou fazer correções no texto existente <a href=’https://github.com/kleientertainment/KleiAccountsLocale’ target=’_blank’ rel=’noopener noreferrer’>visite o seguinte link</a> e leia as instruções de como contribuir para as traduções do site."
+
+; Rewards
+; https://accounts.klei.com/account/rewards
+
+RewardTitle = "Drops & Recompensas (Beta)"
+RewardDescription = "Mantenha-se atualizado e ganhe recompensas no jogo. De vez em quando, adicionaremos novas recompensas. Por isso, volte sempre para ver as novidades!"
+RewardLabel = "Recompensa"
+RewardStartButton = "Vincular Conta"
+RewardClaimButton = "Resgatar recompensa"
+RewardWasClaimed = "Resgatado com sucesso!"
+RewardWasRedeemed = "Resgatado com sucesso!"
+RewardAlternative = "Alternativa"
+RewardPointsAbbreviation = "pts"
+RewardPointsMinutes = "min"
+RewardBalance = "Saldo Atual"
+RewardNameTwitch = "Assista “Don’t Starve Together” no Twitch"
+RewardNameDouyu = "Assista “Don’t Starve Together” no DouYu"
+RewardNameYoutube = "Siga-nos no YouTube"
+RewardNameTwitter = "Siga-nos no Twitter"
+RewardNameFacebook = "Siga-nos no Facebook"
+RewardNameWechat = "Siga-nos no WeChat"
+RewardNameInstagram = "Siga-nos no Instagram"
+RewardNameNewsletter = "Inscreva-se em nosso Boletim Informativo (newsletter)"
+RewardMessageYoutube = "<a href=’https://www.youtube.com/user/kleient’ target=’_blank’>Siga-nos no YouTube</a> para resgatar esta recompensa."
+RewardMessageTwitter = "<a href=’https://twitter.com/klei’ target=’_blank’>Siga-nos no Twitter</a> para resgatar esta recompensa."
+RewardMessageFacebook = "<a href=’https://www.facebook.com/kleientertainment/’ target=’_blank’>Siga-nos no Facebook</a> para resgatar esta recompensa."
+RewardMessageWechat = "<a href=’/assets/images/klei-wechat-qr.png’ target=’_blank’>Siga-nos no WeChat</a> para resgatar esta recompensa."
+RewardMessageInstagram = "<a href=’https://www.instagram.com/kleientertainment/’ target=’_blank’>Siga-nos no Instagram</a> para resgatar esta recompensa."
+RewardMessageNewsletter = "<a href=’/account/settings’ target=’_blank’>Inscreva-se em nosso Boletim Informativo (newsletter)</a> para resgatar esta recompensa."
+RewardItemsTitle = "Itens de Recompensa"
+RewardItemsDescription = "Use pontos para resgatar qualquer um dos seguintes itens exclusivos"
+RewardItemCost = "Preço"
+RewardItemReedem = "Resgatar"
+RewardItemCancel = "Cancelar"
+
+; Platform names
+
+Facebook = "Facebook"
+Instagram = "Instagram"
+Twitter = "Twitter"
+YouTube = "YouTube"
+Twitch = "Twitch"
+Douyu = "Douyu"
+Wechat = "WeChat"
+
+; Support
+
+SupportTitle = "Enviar uma Solicitação de Suporte"
+SupportDescription = "Informe os detalhes da sua solicitação. Um membro da nossa equipe de suporte responderá o mais breve possível."
+SupportSuccess = "Sua solicitação de suporte foi enviada com sucesso. Um membro da nossa equipe de suporte responderá o mais breve possível. Obrigado pela sua paciência."
+SupportName = "Nome"
+SupportGame = "Jogo"
+SupportCategory = "Categoria"
+SupportAttachments = "Anexos"
+SupportDetails = "Detalhes"
+SupportSubmit = "Enviar"
+E_ZENDESK_AUTH_PROBLEMS = "Não foi possível autenticar você. Verifique seu endereço de e-mail ou registre-se."
+E_ZENDESK_EMAIL_IS_MISSING = "Por favor <a href=’/account/settings’>associe um endereço de email válido à sua conta</a>. Caso contrário, não poderemos responder à sua solicitação de suporte."
+E_ZENDESK_EMAIL_NOT_VERIFIED = "O sistema de suporte está aberto apenas para jogadores com um endereço de email verificado. Por favor, vá para “Informações do Usuário” e localize o botão “Verificar” no painel “Preferências”."
+E_ZENDESK_COOLDOWN_TIME = "Você já enviou uma solicitação de suporte há alguns minutos atrás. Aguarde mais alguns minutos para nos dar tempo de responder a você e a outros usuários."
+
+; Klei Login Errors
+
+EmailAuthRequired = "Autenticação de e-mail necessária. Verifique seu e-mail e clique no link de autenticação."
+EnterDOB = "Por favor informe sua data de nascimento"
+VerifyAge = "Verifique sua idade para concluir o registro."
+ErrorDOBFormat = "Erro - Data de nascimento: os campos de data de nascimento precisam ser inseridos no formato correto (DD/MM/AAAA)"
+AcceptEULA = "O Contrato de licença do usuário final deve ser aceito para se registrar. Leia nosso Contrato de licença do usuário final e marque a caixa de confirmação para continuar."
+ErrorTooYoung = "Oops, amiguinho! Você precisa ter 13 anos ou mais para criar uma conta."
+EmailInvalid = "E-mail inválido. Verifique se o endereço de e-mail digitado está no formato correto. (Exemplo: nome@dominio.com)"
+Error = "Erro"
+NewAccount = "Criar uma Nova Conta"
+EmailInfoText = "Seu endereço de email será usado para gerenciar sua conta. Também enviaremos um e-mail de confirmação."
+DOBInfoText = "A data de nascimento é necessária para verificação de idade, segurança e suporte à recuperação de contas."
+EmailNewsletterText = "Receba e-mails com os principais anúncios, eventos e promoções. Você poderá alterar essa configuração mais tarde."
+EULACheck = "Leia o Contrato de licença do usuário final e concorde selecionando a caixa de seleção. Você deve concordar com o Contrato de licença do usuário final para continuar."
+ResendAccountInfo = "Reenviar e-mail de Ativação da Conta"
+AwaitingVerification = "Sua conta foi criada anteriormente, mas ainda aguarda verificação por e-mail. Verifique na sua conta de e-mail uma mensagem enviada em noreply@kleientertainment.com e clique no link de verificação para concluir o registro da sua conta. Verifique as pastas Spam ou Lixo eletrônico se não conseguir encontrar o e-mail."
+ResendVerification = "Se você não encontrar o e-mail, preencha o formulário abaixo para que o e-mail de verificação seja reenviado. Você pode usar um endereço de e-mail diferente. Por favor faça isso com atenção!"
+AccountNeeded = "Para jogar Don’t Starve Together, você precisará de uma conta. Esta conta permitirá que você se conecte ao Don’t Starve Together, crie e acesse servidores e participe da Comunidade da Klei!"
+SteamLinked = "Sua conta será vinculada à seguinte Conta Steam:"
+LoadingSteamProfile = "Carregando Perfil do Steam…"
+AOLNote = "NOTA: No momento, os endereços de e-mail da AOL estão enfrentando problemas ao receber e-mails de validação. Se você estiver usando um endereço de e-mail @aol, poderá não receber seu e-mail de confirmação até que esse problema seja resolvido. Recomendamos o uso de um endereço de e-mail de outro provedor."
+DOBUsage = "Data de nascimento (para verificar sua idade)"
+NewsletterAgreement = "Desejo receber o boletim informativo (newsletter)"
+EULAAgreement = "Eu aceito o <a href=’https://www.kleientertainment.com/games/dont-starve/terms-of-service’ target=’_blank’ rel=’noopener noreferrer’>Contrato de licença do usuário final</a>"
+PrivatePolicyAgreement = "Ao se inscrever, você concorda com nossa <a href=’https://www.kleientertainment.com/privacy-policy’ target=’_blank’ rel=’noopener noreferrer’>Política de Privacidade</a>"
+KleiEntertainment = "Klei Entertainment"
+ErrorURLMalformed = "O URL/Link que você usou para chegar aqui está quebrado ou faltam parâmetros necessários."
+Persona = "Pessoa:"
+UnableConnectSteam = "Falha ao conectar com o Steam"
+
+; Web API Errors
+
+E_JSON_BAD_EOF = "O servidor não conseguiu ler os dados que você enviou. Por favor, tente novamente mais tarde."
+E_AUTH_FAILURE = "As informações de autenticação fornecidas não correspondem a uma conta existente."
+E_EMAIL_IN_USE = "O endereço de e-mail já está sendo usado."
+E_FAILED_SENDING_EMAIL = "Houve um problema no servidor de e-mail. Por favor, tente novamente mais tarde."
+E_FIELD_IN_USE = "Esse valor já está sendo usado por outra conta. Por favor, use outro valor."
+E_GAME_NOT_FOUND = "O jogo não existe."
+E_INTERNAL_SERVER_ERROR = "Erro interno do servidor, tente novamente em alguns segundos."
+E_INVALID_DISPLAYNAME = "O nome de usuário escolhido contém caracteres inválidos."
+E_INVALID_EMAIL = "O endereço de e-mail não é válido. Verifique se você o inseriu corretamente."
+E_INVALID_PASSWORD = "A senha fornecida é inválida."
+E_INVALID_SESSION = "A sessão expirou, é necessário entrar novamente."
+E_INVALID_SESSION_SAFARI = "A sessão expirou, é necessário entrar novamente. <b>Você está usando Safari?</b> Caso sim, por favor, use um navegador alternativo por enquanto. A <a href=’https://webkit.org/tracking-prevention-policy/’ target=’_blank’>nova política de prevenção de rastreamento do WebKit</a>, que é construído nas versões mais recentes do Safari, desabilitou inadvertidamente a comunicação entre o site e os servidores de back-end."
+E_INVALID_STEAM_REQUEST = "Falha ao autenticar sua conta Steam sem uma conexão com a Internet."
+E_INVALID_STEAM_TICKET = "Falha ao autenticar sua conta Steam. Por favor, tente novamente mais tarde."
+E_INVALID_STEAMID = "O SteamID não é válido."
+E_INVALID_DATE = "A data é inválida."
+E_INVALID_OAUTH_CODE = "O código de autorização é inválido, tente novamente."
+E_INVALID_OAUTH_STATE = "O estado da autorização é inválido, tente novamente."
+E_INVALID_OAUTH_TOKEN = "Token de acesso OAuth faltando, tente novamente."
+E_WECHAT_OAUTH_CODE_BEEN_USED = "O WeChat rejeitou a solicitação para vincular sua conta porque o código de autenticação já foi usado."
+E_WECHAT_OAUTH_INVALID_CODE = "O WeChat rejeitou a solicitação para vincular sua conta porque o código de autenticação é inválido."
+E_KU_NOT_FOUND = "Não foi possível obter uma cópia das informações associadas à sua conta de usuário."
+E_INVALID_TOKEN = "O token do servidor é inválido."
+E_EXPIRED_TOKEN = "O token do servidor não é mais válido porque expirou."
+E_BANNED = "Sua conta foi banida."
+E_LOGIN_ERROR = "Não podemos validar suas credenciais no momento. Tente novamente após alguns minutos."
+E_LOGIN_ERROR_BANNED = "Sua conta foi banida."
+E_LOGIN_ERROR_DELETED = "Sua conta foi marcada para exclusão e ficará permanentemente irrecuperável dentro de 30 dias. Se precisar de mais assistência, por favor <a href=’http://support.kleientertainment.com/’ target=’blank_’ rel=’noopener noreferrer’>entre em contato com o suporte</a>."
+E_LOGIN_ERROR_JWT_AUTH = "A autenticação falhou. Os detalhes foram enviados aos administradores para investigarmos. Tente novamente após alguns minutos."
+E_LOGIN_ERROR_JWT_MISSING = "A plataforma da qual você veio não nos forneceu o código para validar sua conta."
+E_LOGIN_ERROR_JWT_AUDIENCE = "O código de autenticação foi gerado para uma plataforma diferente."
+E_LOGIN_ERROR_FROM_XBOX = "Não foi possível entrar com essa conta no momento. Entre no Xbox.com para resolver o problema com sua conta do Xbox Live."
+E_SESSION_ALREADY_EXISTS = "Parece que você já tem uma sessão válida. Se você deseja entrar usando uma plataforma de jogos diferente, saia primeiro."
+E_MISSING_DATA = "Não há dados suficientes para executar esta ação."
+E_MISSING_FIELD = "Você deve fornecer um Steam ID, nome de usuário ou endereço de e-mail."
+E_MUST_VALIDATE_EMAIL = "A conta já foi criada, mas está aguardando validação. Verifique seu e-mail."
+E_EMAIL_ALREADY_SET = "A conta já possui um e-mail definido."
+E_NO_AUTH = "Nenhum mecanismo de autenticação fornecido"
+E_NO_EULA = "Você deve concordar com o Contrato de licença do usuário final para continuar."
+E_NO_GAME_OWNERSHIP = "Parece que você não possui este jogo."
+E_NO_PASSWORD_RESET_CODE = "Nenhuma solicitação de alteração de senha foi feita para sua conta."
+E_NOT_FOUND = "Nome de Exibição / E-mail não encontrado"
+E_PASSWORD_RESET_CODE_EXPIRED = "Esta solicitação de alteração de senha expirou. Faça uma nova solicitação se você ainda precisar de uma nova senha."
+E_PASSWORD_RESET_CODE_MISMATCH = "Incompatibilidade de código de senha."
+E_POST_DATA_STATUS = "Erro interno do servidor: Os detalhes foram enviados para a equipe de desenvolvimento da Klei."
+E_NO_SUPPORT_ENTRY = "Não há informações sobre esse evento em nossos logs do sistema."
+E_STEAM_USER_OFFLINE = "O usuário do Steam está offline."
+E_STEAMID_IN_USE = "Esta conta do Steam já está em uso."
+E_UNKNOWN_GAME = "Este jogo é desconhecido."
+E_UNKNOWN_STEAMID = "O Steam ID não foi reconhecido."
+E_USERNAME_TAKEN = "Esse nome de usuário já está sendo usado por outra conta. Por favor, escolha um nome diferente."
+E_WHIPPERSNAPPER = "Você deve ter pelo menos 13 anos para criar uma conta."
+E_INVALID_BIRTHDAY = "Data de nascimento inválida, selecione a data."
+E_TWITCH_STATUS_400 = "Twitch rejeitou o pedido para conectar sua conta Klei; isso geralmente é um problema temporário nos servidores de autenticação do Twitch. Por favor <a href=’/account/twitch/link’>tente novamente</a> em alguns minutos."
+E_TWITCH_STATUS_409 = "Aparentemente, você já conectou o seu ID de jogo a outra conta do Twitch. Abra uma nova sessão no seu navegador da web (usando o modo privado, por exemplo) e entre com a conta secundária do Twitch, visite a página “Configurações”, depois “Conexões” e remova a inscrição “Klei Entertainment”. Após isso, retorne a esta página e tente conectar sua conta do Twitch novamente."
+E_TWITCH_BLACKLISTED = "A opção de vincular uma conta do Twitch à sua conta Klei foi removida. Se você acha que isso é um erro, por favor, <a href=’http://support.kleientertainment.com/customer/portal/emails/new’ target=’_blank’ rel=’noopener noreferrer’>entre em contato com o suporte</a>."
+E_TWITCH_ALREADY_DISCONNECTED = "Sua conta Klei já foi desconectada do Twitch. Se você acredita que a conexão ainda existe, por favor <a href=’https://www.twitch.tv/settings/connections’ target=’_blank’ rel=’noopener noreferrer’>acesse seu perfil do Twitch</a> e desconecte o aplicativo “Klei Entertainment” manualmente."
+E_UNAVAILABLE_GAME_SERVERS = "Este jogo ainda não suporta servidores adicionais."
+E_ALREADY_JOINED_BETA = "Sua conta já está registrada para esta versão beta."
+E_NOT_ACTIVE_BETA = "A versão beta não está mais ativa."
+E_CANNOT_PARSE_FORM = "Seu computador enviou dados incorretos para o servidor."
+E_STEAM_FORBIDDEN = "Sua conta foi temporariamente bloqueada pelo Steam."
+E_STEAM_INTERNAL_SERVER_ERROR = "Os servidores Steam estão atualmente offline."
+E_STEAM_INVALID_RETURN_TO = "O Steam o redirecionou para um URL incorreto. Não podemos validar suas credenciais aqui. Por favor, limpe o cache e cookies do navegador, e tente entrar mais uma vez. Se precisar de mais assistência, por favor <a href=’http://support.kleientertainment.com/’ target=’blank_’ rel=’noopener noreferrer’>entre em contato com o suporte</a>."
+E_STEAM_PLAYER_SUMMARY_FORBIDDEN = "O Steam nos impediu de mostrar as informações do seu perfil."
+E_STEAM_PLAYER_SUMMARY_TOO_MANY_REQUESTS = "Não podemos mostrar as informações do seu perfil porque seu computador está enviando muitas solicitações ao Steam."
+E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR = "Servidores do Steam não estão disponíveis no momento."
+E_OPENID_INVALID_MODE = "O site anterior nos enviou dados inválidos. O parâmetro “mode” do OpenID é inválido. Por favor, inicie o fluxo de entrada novamente."
+E_OPENID_INVALID_RETURN_TO = "O site anterior nos enviou dados inválidos. O parâmetro “return_to” do OpenID é inválido. Por favor, inicie o processo de entrada novamente."
+E_OPENID_INVALID_NAMESPACE = "O site anterior nos enviou dados inválidos. O parâmetro “namespace” do OpenID é inválido. Por favor, inicie o processo de entrada novamente."
+E_OPENID_INVALID_SIGNATURE = "O site anterior nos enviou dados inválidos. A assinatura da solicitação de verificação é inválida. Por favor, inicie o processo de entrada novamente."
+E_STEAM_ID_IS_MISSING = "O cliente do jogo não forneceu todas as informações necessárias para autenticar sua conta. Por favor, reinicie o jogo."
+E_STEAM_BROKEN_TICKET = "O cliente do jogo não forneceu todas as informações necessárias para autenticar sua conta. Por favor, reinicie o jogo."
+E_RAIL_ID_IS_MISSING = "O cliente do jogo não forneceu todas as informações necessárias para autenticar sua conta. Por favor, reinicie o jogo."
+E_RAIL_BROKEN_TICKET = "O cliente do jogo não forneceu todas as informações necessárias para autenticar sua conta. Por favor, reinicie o jogo."
+E_RAIL_EXPIRED_TOKEN = "O token de acesso expirou. A Tencent solicita que você inicie o processo novamente."
+E_CANNOT_PARSE_FORM = "Seu computador enviou dados incorretos para o servidor."
+E_EMAIL_VERIFIED = "Seu e-mail já foi verificado."
+E_DOUYU_ALREADY_BINDED_TO_KU = "Sua conta Douyu já está vinculada a um Código de Usuário Klei."
+E_DOUYU_ALREADY_DISCONNECTED = "Sua conta Klei já foi desconectada do Douyu. Se você acredita que a conexão ainda existe, por favor <a href=’https://www.douyu.com/member/cp’ target=’_blank’ rel=’noopener noreferrer’>acesse seu perfil do Douyu</a> e desconecte o aplicativo “Klei Entertainment” manualmente."
+E_INVALID_CSRF_TOKEN = "O formulário expirou. Recarregue a página e tente novamente."
+E_INVALID_USER_CONSENT = "Consentimento do usuário inválido, você precisa ler as instruções de exclusão da conta com muito cuidado."
+E_INVALID_VERIFICATION_CODE = "Código de verificação inválido."
+E_INVALID_AUTH_PROVIDER = "O provedor de autorização não foi detectado. Por favor, verifique se o seu navegador aceita cookies deste site, vá para a página "Login" e tente novamente."
+E_OAUTH_ACCESS_DENIED = "Klei não recebeu permissão para vincular sua conta. Para prosseguir, você deve permitir o acesso da Klei à sua conta quando solicitado."
+E_GOOGLE_OAUTH_NO_REFRESH_TOKEN = "O Google não permite vincular sua conta. Isso geralmente acontece se de alguma forma perdemos o vínculo da sua conta do Google, sem necessariamente ter desvinculado sua conta do Google. Por favor, abra <a href=’https://myaccount.google.com/permissions’ target=’_blank’ rel=’noopener noreferrer’>sua página de permissões da Conta do Google</a>, remova o vínculo da Conta Klei e tente vincular suas contas novamente."
+E_TWITTER_ALREADY_DISCONNECTED = "Sua Conta Klei já foi desconectada do Twitter. Se você acredita que a conexão ainda existe, por favor <a href=’https://twitter.com/settings/applications’ target=’_blank’ rel=’noopener noreferrer’>acesse seu perfil do Twitter</a> e desconecte o aplicativo “Klei Accounts” manualmente."
+E_TWITTER_INVALID_CREDENTIALS = "As credenciais temporárias usadas para se comunicar com o Twitter expiraram. Tente de novo mais tarde."
+E_TWITTER_SERVICE_UNAVAILABLE = "Os servidores do Twitter estão funcionando, mas sobrecarregados com solicitações. Tente mais tarde."
+E_GOOGLE_ALREADY_DISCONNECTED = "Sua Conta Klei já foi desconectada do Google. Se você acredita que a conexão ainda existe, por favor <a href=’https://myaccount.google.com/permissions’ target=’_blank’ rel=’noopener noreferrer’>acesse seu perfil do Google</a> e desconecte o aplicativo “Klei Accounts” manualmente."
+E_GOOGLE_BROKEN_OAUTH_SCOPES = "Sua conta do Google (YouTube) não possui as permissões corretas para concluir esta operação. Por favor <a href=’/account/info’>desvincule sua conta do Google</a>, e então visite a página de recompensas e vincule sua conta novamente. Se o problema persistir, por favor <a href=’https://myaccount.google.com/permissions’ target=’_blank’ rel=’noopener noreferrer’>remova o vínculo aqui</a>."
+E_GOOGLE_YOUTUBE_SIGNUP_REQUIRED = "É necessária inscrição no YouTube. Este erro indica que o usuário tem uma Conta do Google desvinculada, o que significa que o usuário tem uma Conta do Google, mas não possui um canal no YouTube. A Klei não poderá vincular sua conta do YouTube até que o Google remova as restrições adicionadas à sua conta. <a href=’https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired’ target=’_blank’ rel=’noopener noreferrer’>Leia mais sobre isto aqui</a>."
+E_GOOGLE_INVALID_GRANT = "Seu token de acesso do Google (YouTube) expirou ou foi revogado. Por favor <a href=’/account/info’>desvincule sua conta do Google</a>, e então visite a página de recompensas e vincule sua conta novamente."
+E_GOOGLE_AUTH_ERROR = "As credenciais de autorização fornecidas para a solicitação são inválidas. Se o problema persistir, por favor <a href=’https://myaccount.google.com/permissions’ target=’_blank’ rel=’noopener noreferrer’>remova o vínculo aqui</a>."
+E_FACEBOOK_ALREADY_DISCONNECTED = "Sua Conta Klei já foi desconectada do Facebook. Se você acredita que a conexão ainda existe, por favor <a href=’https://www.facebook.com/settings?tab=applications’ target=’_blank’ rel=’noopener noreferrer’>acesse seu perfil Facebook</a> e desconecte o aplicativo “Klei Accounts” manualmente."
+E_NOT_ENOUGH_CURRENCY = "Você não tem pontos suficientes para resgatar este item."
