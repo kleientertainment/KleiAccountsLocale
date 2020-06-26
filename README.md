@@ -4,6 +4,10 @@ This project contains the language localization files used to translate differen
 
 Each file is named using the ISO 639-1 language code for the language it contains (e.g. en, de, fr, ru). If there are regional variations the two letter country code can be added after (e.g. fr-CA, pt-BR, zh-TW).
 
+## New Languages
+
+To translate the website into a new language simply copy the `strings.po` file into a new directory. The name of the directory must be a valid [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). For example, if I want to add support for [Esperanto](https://en.wikipedia.org/wiki/Esperanto) I would create a directory `eo` because “eo” is the [ISO 639-1 Language Code for Esperanto](https://www.loc.gov/standards/iso639-2/php/langcodes_name.php?iso_639_1=eo). Then, I would copy `strings.po` inside this folder.
+
 ## Editing PO Files
 
 We anticipate that some gnu.org translators will find this format odd or inconvenient, if they never happened to work with PO files before. Don’t worry, you will soon get accustomed to it. It is the established format for translations in the Free World, and if you have any problems, other translators will help you.
