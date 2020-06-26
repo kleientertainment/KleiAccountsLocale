@@ -1,0 +1,403 @@
+[credits]
+
+Mahmut Sözen=
+
+[translations]
+
+Company="Klei"
+Email="Mail"
+Loading="Yükleniyor…"
+Select="Seç"
+SaveChanges="Değişiklikleri Kaydet"
+SavingChanges="Değişiklikler Kayıt Ediliyor…"
+Expiration="Süre Sonu"
+Redirecting="Yönlendiriliyor…"
+GoToPreviousPage="Geri Dön"
+Copyright="&copy; Tüm Hakları Klei Entertainment'da saklıdır"
+
+; Navigation Bar
+
+Rewards="Ödüller"
+Settings="Ayarlar"
+Games="Oyunlar"
+Betas="Betalar"
+Language="Dil"
+Support="Destek"
+VisitYourProfile="Profilini Ziyaret Et"
+
+; Months
+
+January="Ocak"
+February="Şubat"
+March="Mart"
+April="Nisan"
+May="Mayıs"
+June="Haziran"
+July="Temmuz"
+August="Ağustos"
+September="Eylül"
+October="Ekim"
+November="Kasım"
+December="Aralık"
+
+; Signup
+; https://accounts.klei.com/signup
+
+Register="Kayıt"
+Registering="Kayıt Olunuyor…"
+CreateNewAccount="Hesap Kaydı"
+CreateNewAccountDescription="Don’t Starve Together oynamak için bir hesaba ihtiyacınız olacak. Bu hesap Don Starve Together'a bağlanmanıza, sunucular oluşturmanıza ve sunuculara katılmanıza ve Klei Topluluğuna katılmanıza izin verecektir!"
+SteamLinkDescription="Hesabınız ilgili Steam hesabına bağlanacak:"
+Birthdate="Doğum Tarihi"
+NewsletterConsent="Bültenimize kayıt olun"
+EULA="<a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">Son Kullanıcı Lisans Anlaşmasını (EULA)</a> Kabul ediyorum"
+MustAcceptEULA="Kayıt için mutlaka EULA kabul edilmelidir. Lütfen Son Kullanıcı Lisans Sözleşmesini (EULA) okuyun ve devam etmek için onay kutusunu işaretleyin."
+PrivacyPolicy="Kayıt olarak <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a> kabul etmiş oluyorsunuz"
+FillAccountDetails="Hesap bilgilerinizi buraya girin:"
+SteamAccount="Steam Hesabı"
+Persona="Karakter:"
+
+; Signup Verify
+; https://accounts.klei.com/signup/verify
+
+Verify="Onay"
+Verifying="Onaylanıyor…"
+VerificationEmailSuccessTitle="Doğrulama E-postası Gönderildi"
+VerificationEmailSuccessDescription="E-posta adresinize bir doğrulama e-postası gönderdik. Kaydınızı tamamlamak için lütfen e-postadaki bağlantıyı tıklayın. E-postalar genellikle anında gönderilir. Bir saat sonra e-postayı almadıysanız, önce spam klasörünüzü kontrol edin."
+VerificationEmailFailureTitle="Geçersiz Doğrulama"
+VerificationEmailFailureDescription="Oops, Buraya ulaşmak için kullandığınız bağlantının geçersiz."
+
+; Signup Complete
+; https://accounts.klei.com/signup/complete
+
+RegistrationComplete="Doğrulama Başarılı"
+RegistrationCompleteDescription="E-postanızı doğruladığınız için teşekkür ederiz.</p><p>Gitmek için hazırsın! Artık oyununuza dönebilir ve çevrimiçi oynayabilirsiniz. Beta sırasında önerileriniz, geri bildiriminiz veya desteğe ihtiyacınız varsa, Klei topluluk forumuna gidebilirsiniz."
+VisiCommunityForum="Klei Topluluk Forum Sitesini Ziyaret Edin"
+
+; Login Page
+; https://accounts.klei.com/login
+
+Login="Oturum aç"
+Logout="Çıkış Yap"
+LoginTitle="Klei Hesabına Giriş Yap"
+LoginDescription="Tüm Klei oyunlarınızı görmek, arkadaşlarınızla oyun öğeleri alışverişi yapmak, betalara kaydolmak ve özel içeriğe erişmek için Klei hesabınıza giriş yapın.</p><p>Giriş yapmak için bir platform seçin:"
+
+; User Info Page
+; https://accounts.klei.com/account/info
+
+UserInfo="Kullanıcı Bilgisi"
+Preferences="Tercihler"
+UsefulLinks="Kullanışlı Bağlantılar"
+KleiUserID="Klei Kullanıcı ID"
+FirstSeen="İlk Görüş"
+Change="Değişiklik"
+KleiCommunity="Klei Topluluğu"
+OpenForums="Açık Forumlar"
+Newsletter="Bülten"
+EditSubscriptions="Abonelikleri Düzenle"
+UnsubscribeFromEmails="E-posta listesinden çık"
+SignupForABeta="Beta için kayıt ol"
+GetDRMFreeGames="DRM'siz Oyunlar Alın"
+DownloadPersonalData="Kişisel Verileri İndirin"
+SeeMyGames="Oyunlarımı Görüntüle"
+GamePlayerID="Kullanıcı Kimliği"
+UserNotFound="kullanıcı bulunamadı"
+
+; Linked Accounts
+; https://accounts.klei.com/account/linked/list
+
+LinkedAccounts="Bağlı Hesaplar"
+LinkAccountButton="Hesapları Bağla"
+RemoveAccount="Hesapları Kaldır"
+AddedOn="Eklendi"
+AccountLinkRulesTitle="Yayın Kuralları"
+AccountLinkRulesDescription="Klei Ödülleri, topluluğumuz için kaliteli içerik sağlayan yayıncıları desteklemenin bir yolu olarak tasarlanmıştır ve \"Klavyeden Uzakta (AFK)\" akışları, sistemin etkinliğini bozar. Aç kalmayın veya Birlikte Aç Kalmayın dışında içerik gösteren AFK akışlarına veya akışlarına izin verilmez. Bu kuralları ihlal eden yayıncıların bağlantısı kaldırılacak ve potansiyel olarak bir daha katılmaları yasaklanacaktır."
+AccountLinkRulesAccept="Kabul Et ve Devam Et"
+
+; Privacy Change Email
+; https://accounts.klei.com/account/email/change
+
+ChangeEmail="Mail Adresini Değiştir"
+ChangeEmailDescription="Bu, hesabınız veya oyunlarınızla ilgili güncellemeler ve haberler göndermek için kullanacağımız e-posta adresidir."
+EmailHasBeenChanged="Mail adresiniz değiştiriliyor. Değişikliğe izin vermek için size doğrulama bağlantısı içeren bir posta gönderdik."
+
+; Privacy Hide Inventory
+; https://accounts.klei.com/account/settings
+
+Inventory="Envanter"
+HideSteamInventory="Steam Envanterini Gizle"
+HideSteamInventoryDescription="Aşağıdaki kutuları işaretlediğinizde Klei oyunlarınızla ilişkili öğeler Steam'den gizlenir. Öğeleriniz hala sizde ve bunları oyunlarda görebileceksiniz. Envanteri tekrar görünür hale getirmek istiyorsanız, kutuların işaretlerini kaldırın ve değişikliklerinizi kaydedin."
+InventoryHasBeenHidden="Envanter gizlendi"
+
+; Marketing Options
+; https://accounts.klei.com/account/privacy
+
+MarketingOptions="Pazarlama Seçenekleri"
+MarketingOptionsDescription=""
+MarketingOptionsUnsubscribe="Pazarlama e-postaları almak istemiyorum"
+MarketingOptionsSubscribe="Pazarlama e-postaları almak istiyorum (haberler, yeni oyunlar, tanıtımlar, vb.)"
+MarketingOptionsDetails="Her oyun hakkında daha ayrıntılı bilgi için lütfen aşağıdaki kutuları seçin:"
+MarketingOptionsPending="Posta listesi aboneliğinizi onaylamak için size bir e-posta gönderdik."
+
+; GDPR Account Deletion
+; https://accounts.klei.com/account/limbo
+
+DeleteAccount="Hesabı Sil"
+DeleteAccountDescription="Hesabınızı sildikten sonra geri dönüş yoktur. Lütfen emin olun."
+DeleteAccountAreYouSure="Kesinlikle emin misin?"
+DeleteAccountWarning="Bunu okumazsanız beklenmedik kötü şeyler olur!"
+DeleteAccountExplanation="İsteğiniz üzerine, <b> Klei hesabınız</b> ve hesabınızla ilgili tüm kişisel olarak tanımlanabilir bilgiler (finansal işlemler ve kötüye kullanımla ilgili bilgiler hariç) sistemimizden kalıcı olarak kaldırılmak üzere gönderilir.</p><p><b>Lütfen dikkat: Bu işlemi geri alamayacaksınız ve tüm veriler tamamen ve geri alınamayacak şekilde kaldırılacak.</b></p><p><strong>Bu, artık Klei Hesabı gerektiren  (Don’t Starve Together and Hot lava) hiçbir oyunu oynayamayacağınız anlamına gelir. {{.PlatformName}} hesabı kalıcı olarak yasaklanacak ve ilerleme, eşyalar ve haklar dahil olmak üzere tüm kayıtlar sonsuza kadar imha edilecek.</strong>"
+DeleteAccountOptions="Ne olacağını anladığınızı doğrulamak için kutuları işaretleyin:"
+DeleteAccountOptionsProgress="Klei oyunlarındaki ilerlememi sil"
+DeleteAccountOptionsInventory="Oyun envanterindeki tüm öğeleri sil"
+DeleteAccountOptionsPurchases="Satın alınan ürünler de dahil olmak üzere Steam envanterimdeki tüm öğeleri sil"
+DeleteAccountOptionsNoPlayDST="Artık Don’t Starve Together oynamak istemiyorum"
+DeleteAccountOptionsNoPlayHL="Artık Hot Lava oynamak istemiyorum"
+DeleteAccountOptionsBanAccount="{{.PlatformName}} hesabımı Klei oyunlarını oynamaya en az 30 gün yasakla"
+DeleteAccountConfirm="Onayla"
+DeleteAccountConfirmation="Lütfen onaylamak için tümü büyük harflerle \"delete my account\" yazın:"
+DeleteAccountButton="Bu hesabı silmenin sonuçlarını anlıyoum, bu hesabı sil"
+VerifyAccountDeletionTitle="Hesap Silme İşlemini Doğrulayın"
+VerifyAccountDeletionDescription="Hesabınızın silinmesini onaylamak için size bir doğrulama kodu gönderdik, lütfen kodu kopyalayın ve aşağıdaki forma yapıştırın.
+</p><p>Doğrulama kodunu almadıysanız, \"İptal\"e tıklayın, e-postanızın doğru olduğundan emin olun ve işlemi tekrar başlatın.</p><p>Hesabınızın silinmesini istemediyseniz, {{.PlatformName}} hesabınıza erişimi olan başka biri sizin adınıza yaptı. İşlemi tamamen durdurmak için “İptal” düğmesini tıklayın ve ardından tekrar {{.PlatformName}} hesabınızın şifresini değiştirin."
+VerifyAccountDeletionCode="Doğrulama Kodu"
+VerifyAccountDeletionProceed="İlerle"
+VerifyAccountDeletionCancel="İptal"
+
+; Account Games
+; https://accounts.klei.com/account/game/list
+; https://accounts.klei.com/account/game/info?game=DontStarveTogether
+; https://accounts.klei.com/account/game/servers?game=DontStarveTogether
+
+MyGames="Oyunlarım"
+OtherGames="Diğer Oyunlar"
+AvailableOn="Tüm bu platformlarda kullanılabilir:"
+GoToWebsite="Web Sitesine Git"
+DRMFreeDownload="DRM-Free İndirme"
+DRMFreeDownloadDescription="Bu oyunu DRM-free olarak indirebilirsiniz. Daha fazla bilgi için <a href=\"/\">buraya</a>."
+PlayerInfo="Oyuncu Bilgisi"
+EnteredARGs="ARGleri Girin"
+ParticipatedEvents="Katıldığın Etkinlikler"
+Download="İndir"
+GetKey="Anahtarı Al"
+Servers="Sunucular"
+ServerName="Sunucu İsmi"
+ServerNameDescription="Buraya bir sunucu eklemek, size kendi özel oyun örneğinizi çalıştırmanıza izin veren bir erişim jetonu verir."
+NoServersDescription="Hesabınız için bu oyunla ilişkilendirilmiş sunucu yok."
+AddNewServer="Yeni Sunucu Ekle"
+AddingServer="Sunucu Ekleniyor…"
+GameServerWasGenerated="Sunucu başarıyla oluşturuldu."
+RemoveServer="Sil"
+ConfigureServer="Yapılandır"
+ConfigureServerTitle="Sunucuyu Yapılandır"
+ConfigureServerDescription="Aşağıdaki form, oyun sunucusu ayarlarını yapılandırmanıza olanak tanır. Hangi işletim sistemine sahip olduğunuza bağlı olarak birkaç komut dosyası yürütmeniz gerekir. Lütfen sisteminize uygun talimatları izleyin: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>."
+DownloadSettings="Ayarları İndir"
+FriendlyName="Name"
+
+; Account Betas
+; https://accounts.klei.com/account/betas
+
+UpcomingBetasTitle="Aktif ve Yaklaşan Betalar"
+UpcomingBetasDescription="İlgilendiğiniz betalar için kayıt olabilirsiniz. Kabul edildiyseniz bir e-posta alırsınız."
+BetaStatus="Durum:"
+BetaStartDate="Başlat:"
+BetaRegister="Kayıt"
+BetaRegistered="Kayıtlı"
+BetaNotAccepted="Kayıtlı - Kabul edilmedi"
+BetaAccepted="Kabul Edildi"
+BetaRegistrationEnded="Kayıt sona erdi"
+
+; Community Translations
+; https://accounts.klei.com/community-translations
+
+CommunityTranslations="Çeviriler"
+CommunityTranslationDisclaimer="<a href='/community-translations'>Bu resmi olmayan bir çeviri.</a>"
+CommunityTranslationsDescription="Yeni bir dil eklemek veya düzeltmeler yapmak istiyorsanız <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'> lütfen linki takip ediniz</a> ve web sitesinin çevirilerine nasıl katkıda bulunacağınıza ilişkin talimatları okuyun."
+
+; Rewards
+; https://accounts.klei.com/account/rewards
+
+RewardTitle="Düşenler ve Ödüller (Beta)"
+RewardDescription="Güncel tutun ve oyun içi ödüller kazanın. Zaman zaman yeni ödüller ekleyeceğiz, bu yüzden yenilikleri görmek için sık sık tekrar kontrol edin!"
+RewardLabel="Ödül"
+RewardStartButton="Hesabı Bağla"
+RewardClaimButton="Ödülü Al"
+RewardWasClaimed="Başarıyla Alındı!"
+RewardWasRedeemed="Başarıyla Kullanıldı!"
+RewardAlternative="Alternatif"
+RewardPointsAbbreviation="puan"
+RewardPointsMinutes="min"
+RewardBalance="Mevcut Bakiye"
+RewardNameTwitch="Twitch'te “Don’t Starve Together” ı izleyin"
+RewardNameDouyu="DouYu'da “Don’t Starve Together” ı izleyin"
+RewardNameYoutube="Bizi YouTube'da takip edin"
+RewardNameTwitter="Bizi Twitter'da takip edin"
+RewardNameFacebook="Bizi Facebook'da takip edin"
+RewardNameWechat="Bizi WeChat'te takip edin"
+RewardNameInstagram="Bizi Instagram'da takip edin"
+RewardNameNewsletter="Haber bültenimize abone olun"
+RewardMessageYoutube="Bu ödülü almak için <a href='https://www.youtube.com/user/kleient' target='_blank'>Bizi YouTube'da takip edin</a>."
+RewardMessageTwitter="Bu ödülü almak için <a href='https://twitter.com/klei' target='_blank'>Bizi Twitter'da takip edin</a>."
+RewardMessageFacebook="Bu ödülü almak için <a href='https://www.facebook.com/kleientertainment/' target='_blank'>Bizi Facebook'da takip edin</a>."
+RewardMessageWechat="Bu ödülü almak için<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Bizi WeChat'te takip edin</a>."
+RewardMessageInstagram="Bu ödülü almak için <a href='https://www.instagram.com/kleientertainment/' target='_blank'>Bizi Instagram'da takip edin</a>."
+RewardMessageNewsletter="Bu ödülü almak için <a href='/account/settings' target='_blank'>Haber bültenimize abone olun</a>."
+RewardItemsTitle="Ödül Öğeleri"
+RewardItemsDescription="Aşağıdaki özel öğelerden herhangi birini almak için puanlarınızı kullanın"
+RewardItemCost="Fiyat"
+RewardItemReedem="Öde"
+RewardItemCancel="İptal"
+
+; Platform names
+
+Facebook="Facebook"
+Instagram="Instagram"
+Twitter="Twitter"
+YouTube="YouTube"
+Twitch="Twitch"
+Douyu="Douyu"
+Wechat="WeChat"
+
+; Support
+
+SupportTitle="Destek İsteği Gönder"
+SupportDescription="Lütfen isteğinizin ayrıntılarını girin. Destek personelimizin bir üyesi en kısa zamanda yanıt verecektir."
+SupportSuccess="Destek isteğiniz başarıyla kaydedildi. Destek personelimizin bir üyesi en kısa zamanda yanıt verecektir. Sabrınız için teşekkürler."
+SupportName="İsim"
+SupportGame="Oyun"
+SupportCategory="Kategori"
+SupportAttachments="Ekler"
+SupportDetails="Ayrıntılar"
+SupportSubmit="Gönder"
+E_ZENDESK_AUTH_PROBLEMS="Kimlik doğrulanamadı. E-posta adresinizi kontrol edin veya kaydolun."
+E_ZENDESK_EMAIL_IS_MISSING="Lütfen <a href='/account/settings'>geçerli bir e-posta adresini hesabınızla ilişkilendirin</a>. Aksi takdirde, destek talebinize cevap veremeyiz."
+E_ZENDESK_EMAIL_NOT_VERIFIED="Destek sistemi yalnızca doğrulanmış e-posta adresine sahip oyunculara açıktır. Lütfen “Kullanıcı Bilgisi” kısmına gidin ve “Tercihler” panelinin altındaki “Doğrula” düğmesini bulun."
+E_ZENDESK_COOLDOWN_TIME="Birkaç dakika önce zaten bir destek isteği gönderdiniz. Size ve diğer kullanıcılara yanıt vermemiz için bize zaman vermek üzere lütfen birkaç dakika bekleyin."
+
+; Klei Login Errors
+
+EmailAuthRequired="E-posta Kimlik Doğrulaması Gerekli. Lütfen e-postanızı kontrol edin ve kimlik doğrulama bağlantısını tıklayın."
+EnterDOB="Lütfen Doğum Tarihinizi Giriniz"
+VerifyAge="Lütfen kaydı tamamlamak için yaşınızı doğrulayın."
+ErrorDOBFormat="Hata - Doğum Tarihi: Doğum Tarihi Alanların doğru biçimde girilmesi gerekir (GG / AA / YYYY)"
+AcceptEULA="Kayıt için mutlaka EULA kabul edilmelidir. Lütfen Son Kulanıcı Lisans Sözleşmesini (EULA) okuyun ve devam etmek için onay kutusunu işaretleyin."
+ErrorTooYoung="Wow Dur Bakalım Ufaklık. Bir hesaba kaydolmak için 13 yaşında veya daha büyük olmanız gerekir."
+EmailInvalid="Geçersiz e-posta. Lütfen girdiğiniz e-posta adresinin doğru biçimde olup olmadığını kontrol edin. (Example name@email.com)"
+Error="Hata"
+NewAccount="Yeni Bir Hesap Oluştur"
+EmailInfoText="Hesabınızı yönetmek için e-posta adresiniz kullanılacaktır. Buraya da bir onay e-postası göndereceğiz."
+DOBInfoText="Yaş doğrulaması, güvenlik ve hesap kurtarma desteği için gereklidir."
+EmailNewsletterText="Önemli duyurular, etkinlikler ve promosyonlar için e-postalar alın. Bu ayarı daha sonra değiştirebilirsiniz."
+EULACheck="Lütfen EULA şartlarını gözden geçirin ve onay kutusunu seçerek onaylayın. Devam etmek için EULA şartlarını kabul etmelisiniz."
+ResendAccountInfo="Hesap Etkinleştirme E-postasını Yeniden Gönder"
+AwaitingVerification="Hesabınız daha önce oluşturulmuş, ancak yine de e-posta doğrulaması bekleniyor. Noreply@kleientertainment.com adresinden gönderilen bir mesaj için e-posta hesabınızı kontrol edin ve hesap kaydınızı tamamlamak için içerdiği doğrulama bağlantısını tıklayın. E-postayı bulamıyorsanız Spam veya Önemsiz klasörlerinizi kontrol ettiğinizden emin olun."
+ResendVerification="E-postayı hala bulamıyorsanız, doğrulama e-postasının yeniden gönderilmesi için aşağıdaki formu doldurabilirsiniz. Farklı bir e-posta adresi kullanabilirsiniz. Lütfen doğruluğunu iki kez kontrol edin!"
+AccountNeeded="Don’t Starve Together oynamak için bir hesaba ihtiyacınız olacak. Bu hesap Don Starve Together'a bağlanmanıza, sunucular oluşturmanıza ve sunuculara katılmanıza ve Klei Topluluğuna katılmanıza izin verecektir!"
+SteamLinked="Hesabınız ilgili Steam hesabına bağlanacak:"
+LoadingSteamProfile="Steam Profili Yükleniyor…"
+AOLNote="NOT: Şu anda AOL e-posta adreslerinde doğrulama e-postaları alınırken sorun yaşanıyor. Bir @aol e-posta adresi kullanıyorsanız, bu sorun çözülene kadar onay e-postanızı alamayabilirsiniz. Başka bir sağlayıcıdan e-posta adresi kullanmanızı öneririz."
+DOBUsage="Doğum tarihi (yaşınızı doğrulamak için)"
+NewsletterAgreement="Bültenimize kayıt olun"
+EULAAgreement="<a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">Son Kullanıcı Lisans Anlaşmasını (EULA)</a> 'nı Kabul ediyorum"
+PrivatePolicyAgreement="Kayıt olarak <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Gizlilik Politikası</a> kabul etmiş oluyorsunuz"
+KleiEntertainment="Klei Entertainment"
+ErrorURLMalformed="Buraya ulaşmak için kullandığınız URL hatalı biçimlendirilmiş ve gerekli parametreler eksik."
+UnableConnectSteam="Steam'e bağlanılamadı"
+
+; Web API Errors
+
+E_JSON_BAD_EOF="Sunucu, gönderdiğiniz verileri okuyamadı. Lütfen daha sonra tekrar deneyiniz."
+E_AUTH_FAILURE="Sağlanan kimlik doğrulama bilgileri mevcut bir hesapla eşleşmedi."
+E_EMAIL_IN_USE="E-posta adresi zaten kullanılıyor."
+E_FAILED_SENDING_EMAIL="Posta sunucusunda bir sorun oluştu. Lütfen daha sonra tekrar deneyiniz."
+E_FIELD_IN_USE="Bu değer zaten başka bir hesap tarafından kullanılıyor. Lütfen başka bir değer kullanın."
+E_GAME_NOT_FOUND="Oyun mevcut değil."
+E_INTERNAL_SERVER_ERROR="Dahili sunucu hatası, birkaç saniye içinde tekrar deneyin."
+E_INVALID_DISPLAYNAME="Seçilen kullanıcı adı geçersiz karakterler içeriyordu."
+E_INVALID_EMAIL="E-Posta adresi geçerli değil. Lütfen doğru girdiğinize emin olun."
+E_INVALID_PASSWORD="Girilen şifre geçersiz."
+E_INVALID_SESSION="Oturumun süresi doldu, bir kez daha giriş yapmanız gerekiyor."
+E_INVALID_SESSION_SAFARI="Oturumun süresi doldu, bir kez daha giriş yapmanız gerekiyor. <b>Safari mi kullanıyorsunuz?</b> Evetse, lütfen şimdilik alternatif bir web tarayıcısı kullanın. Safari'nin en yeni sürümlerinde oluşturulan <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’in yeni İzleme Önleme Politikası</a>, web sitesi ile arka uç sunucuları arasındaki iletişimi yanlışlıkla devre dışı bıraktı."
+E_INVALID_STEAM_REQUEST="İnternet bağlantınız olmadığı için Steam hesabınızın kimliğini doğrulanamadı."
+E_INVALID_STEAM_TICKET="Steam hesabınızın kimliği doğrulanamadı. Lütfen daha sonra tekrar deneyiniz."
+E_INVALID_STEAMID="SteamID geçerli değil."
+E_INVALID_DATE="Tarih geçersiz."
+E_INVALID_OAUTH_CODE="Yetkilendirme kodu geçersiz, tekrar deneyin."
+E_INVALID_OAUTH_STATE="Yetkilendirme durumu geçersiz, tekrar deneyin."
+E_INVALID_OAUTH_TOKEN="OAuth erişim jetonu eksik, tekrar deneyin."
+E_WECHAT_OAUTH_CODE_BEEN_USED="WeChat, OAuth kodu zaten kullanıldığı için hesabınıza bağlama isteğini reddetti."
+E_WECHAT_OAUTH_INVALID_CODE="WeChat, OAuth kodu geçersiz olduğu için hesabınızı bağlama isteğini reddetti."
+E_KU_NOT_FOUND="Kullanıcı hesabınızla ilişkili bilgilerin bir kopyasını almak mümkün olmadı."
+E_INVALID_TOKEN="Sunucu jetonu artık geçerli değil."
+E_EXPIRED_TOKEN="Sunucu jetonun süresi dolduğundan artık geçerli değil."
+E_BANNED="Hesabınız yasaklandı."
+E_LOGIN_ERROR="Kimlik bilgilerinizi şu anda doğrulayamıyoruz. Birkaç dakika sonra tekrar deneyin."
+E_LOGIN_ERROR_BANNED="Hesabınız yasaklandı."
+E_LOGIN_ERROR_DELETED="Hesabınız silinmek üzere işaretlendi ve 30 gün içinde kalıcı olarak silinecek ve kurtarılamayacak. Daha fazla yardıma ihtiyacınız olursa lütfen <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>destek ile iletişime geçin</a>."
+E_LOGIN_ERROR_JWT_AUTH="Kimlik doğrulama başarısız oldu. Detaylar araştırılmak üzere yöneticilere gönderildi. Birkaç dakika sonra tekrar deneyin."
+E_LOGIN_ERROR_JWT_MISSING="Geldiğiniz platform, hesabınızı doğrulamak için bize kod sağlamadı."
+E_LOGIN_ERROR_JWT_AUDIENCE="Kimlik doğrulama kodu farklı bir platform için oluşturuldu."
+E_LOGIN_ERROR_FROM_XBOX="Şu anda bu hesapla giriş yapılamıyor. Xbox Live hesabınızla ilgili sorunu çözmek için lütfen Xbox.com'da oturum açın."
+E_SESSION_ALREADY_EXISTS="Zaten geçerli bir oturumunuz var gibi görünüyor. Farklı bir oyun platformu kullanarak giriş yapmak istiyorsanız, lütfen önce çıkış yapın."
+E_MISSING_DATA="Bu işlemi yürütmek için yeterli veri yok."
+E_MISSING_FIELD="Bir Steam Kimliği, kullanıcı adı veya e-posta adresi girmelisiniz."
+E_MUST_VALIDATE_EMAIL="Hesap zaten oluşturulmuş, ancak doğrulama bekleniyor. E-postanı kontrol et."
+E_EMAIL_ALREADY_SET="Hesabına zaten bir e-posta adresi girilmiş."
+E_NO_AUTH="Kimlik doğrulama mekanizması sağlanmadı"
+E_NO_EULA="Devam etmek için Son Kullanıcı Lisans Sözleşmesini kabul etmelisiniz."
+E_NO_GAME_OWNERSHIP="Oyuna sahip görünmüyorsunuz."
+E_NO_PASSWORD_RESET_CODE="Hesabınız için şifre değişikliği isteği yapılmadı."
+E_NOT_FOUND="Görünen Ad / E-posta bulunamadı"
+E_PASSWORD_RESET_CODE_EXPIRED="Bu şifre değiştirme isteğinin süresi doldu. Hala yeni bir şifre gerekiyorsa lütfen yeni bir istekte bulunun."
+E_PASSWORD_RESET_CODE_MISMATCH="Şifre kodu uyuşmazlığı."
+E_POST_DATA_STATUS="Dahili Sunucu Hatası: Ayrıntılar Klei geliştirme ekibine gönderildi."
+E_NO_SUPPORT_ENTRY="Sistem günlüklerimizde bu olay hakkında bilgi yok."
+E_STEAM_USER_OFFLINE="Steam kullanıcısı çevrimdışı."
+E_STEAMID_IN_USE="Bu Steam hesabı zaten kullanılıyor."
+E_UNKNOWN_GAME="Oyun bilinmiyor."
+E_UNKNOWN_STEAMID="Steam Kimliği tanınmadı."
+E_USERNAME_TAKEN="Bu kullanıcı adı başka bir hesap tarafından kullanılıyor. Lütfen başka bir ad seçin."
+E_WHIPPERSNAPPER="Bir hesap açmak için en az 13 yaşında olmalısınız."
+E_INVALID_BIRTHDAY="Geçersiz doğum tarihi, doğru tarihi seçtiğinizden emin olun."
+E_TWITCH_STATUS_400="Twitch, Klei hesabınızı bağlama isteğini reddetti; bu genellikle Twitch kimlik doğrulama sunucularında geçici bir sorundur. Lütfen bir kaç dakika içinde <a href='/account/twitch/link'>tekrar deneyin</a>."
+E_TWITCH_STATUS_409="Görünüşe göre zaten oyun kimliğini başka bir Twitch hesabına bağladın. Web tarayıcınızda yeni bir oturum açın (örneğin, \"Gizli\" veya \"Özel\" modunu kullanarak) ve ikincil Twitch hesabıyla giriş yapın, önce \"Ayarlar\" sayfasını, ardından \"Bağlantılar\" ı ziyaret edin, ardından \"Klei Entertainment\" bağlantısını kesin uygulama. Son olarak, bu sayfaya geri dönün ve Twitch hesabınızı tekrar bağlamayı deneyin."
+E_TWITCH_BLACKLISTED="Bir Twitch hesabını Klei hesabınızla bağlama seçeneği kaldırıldı. Bunun bir hata olduğunu düşünüyorsanız, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>lütfen bizimle iletişime geçin</a>."
+E_TWITCH_ALREADY_DISCONNECTED="Klei hesabınızın Twitch ile bağlantısı zaten kesilmiş. Bağlantının hala var olduğunu düşünüyorsanız, lütfen <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>Twitch profilinizi ziyaret edin</a> \"Klei Entertainment\" uygulamasını manuel olarak ayırın."
+E_UNAVAILABLE_GAME_SERVERS="Bu oyun henüz ek sunucuları desteklemiyor."
+E_ALREADY_JOINED_BETA="Hesabınız bu beta için zaten kayıtlı."
+E_NOT_ACTIVE_BETA="Beta artık aktif değil."
+E_CANNOT_PARSE_FORM="Bilgisayarınız sunucuya yanlış veri gönderdi."
+E_STEAM_FORBIDDEN="Hesabınız Steam tarafından geçici olarak engellendi."
+E_STEAM_INTERNAL_SERVER_ERROR="Steam sunucuları şu anda çevrimdışı."
+E_STEAM_INVALID_RETURN_TO="Steam sizi yanlış URL'ye yönlendirdi, burada kimlik bilgilerinizi doğrulayamıyoruz. Lütfen web tarayıcınızın önbelleğini ve çerezlerini temizleyin ve bir kez daha giriş yapmayı deneyin. Daha fazla yardıma ihtiyacınız olursa lütfen <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>destek ile geçin</a>."
+E_STEAM_PLAYER_SUMMARY_FORBIDDEN="Steam, profil bilgilerinizi göstermemizi engelledi."
+E_STEAM_PLAYER_SUMMARY_TOO_MANY_REQUESTS="Bilgisayarınız Steam'e çok fazla istek gönderdiğinden profil bilgilerinizi gösteremiyoruz."
+E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR="Steam sunucuları şu anda kullanılamıyor."
+E_OPENID_INVALID_MODE="E-posta adresi zaten kullanılıyor."
+E_OPENID_INVALID_RETURN_TO="Önceki web sitesi bize geçersiz veriler gönderdi. OpenID “return_to” parametresi geçersiz. Lütfen giriş akışını tekrar başlatın."
+E_OPENID_INVALID_NAMESPACE="Önceki web sitesi bize geçersiz veriler gönderdi. OpenID “ad alanı” parametresi geçersiz. Lütfen giriş akışını tekrar başlatın."
+E_OPENID_INVALID_SIGNATURE="Önceki web sitesi bize geçersiz veriler gönderdi. Doğrulama isteğinin imzası geçersiz. Lütfen giriş akışını tekrar başlatın."
+E_STEAM_ID_IS_MISSING="Oyun istemcisi, hesabınızın kimliğini doğrulamak için ihtiyacımız olan tüm bilgileri sağlamadı. Lütfen oyunu kapatıp tekrar başlayın."
+E_STEAM_BROKEN_TICKET="Oyun istemcisi, hesabınızın kimliğini doğrulamak için ihtiyacımız olan tüm bilgileri sağlamadı. Lütfen oyunu kapatıp tekrar başlayın."
+E_RAIL_ID_IS_MISSING="Oyun istemcisi, hesabınızın kimliğini doğrulamak için ihtiyacımız olan tüm bilgileri sağlamadı. Lütfen oyunu kapatıp tekrar başlayın."
+E_RAIL_BROKEN_TICKET="The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
+E_RAIL_EXPIRED_TOKEN="Erişim belirtecinin süresi doldu. Tencent sizden işlemi tekrar başlatmanızı istiyor."
+E_EMAIL_VERIFIED="E-posta zaten doğrulandı."
+E_DOUYU_ALREADY_BINDED_TO_KU="Douyu hesabınız zaten bir Klei Kullanıcı Kimliği ile bağlantılı."
+E_DOUYU_ALREADY_DISCONNECTED="Klei hesabınızın Douyu ile bağlantısı zaten kesilmiş. Bağlantının hala var olduğunu düşünüyorsanız, lütfen<a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>Douyu profilinizi ziyaret edin</a> \"Klei Entertainment\" uygulamasının bağlantısını manuel olarak kaldırın."
+E_INVALID_CSRF_TOKEN="Formun süresi doldu, lütfen geri dönün, sayfayı yeniden yükleyin ve tekrar deneyin."
+E_INVALID_USER_CONSENT="Geçersiz kullanıcı izni, hesap silme talimatlarını çok dikkatli bir şekilde okumalısınız."
+E_INVALID_VERIFICATION_CODE="Geçersiz doğrulama kodu."
+E_INVALID_AUTH_PROVIDER="Yetkilendirme sağlayıcısı tespit edilmedi. Lütfen web tarayıcınızın bu web sitesinden çerezleri kabul edip etmediğini kontrol edin, ardından \"Giriş\" sayfasına gidin ve bir kez daha deneyin."
+E_OAUTH_ACCESS_DENIED="Klei'ye hesabınızı bağlama izni verilmedi. Devam etmek için, istendiğinde Klei'nin hesabınıza erişmesine izin vermelisiniz."
+E_GOOGLE_OAUTH_NO_REFRESH_TOKEN="Google, hesabınızı bağlamamıza izin vermez. Bu genellikle, hesabınızın bağlantısını Google'ın ucundan kaldırmadan, bir şekilde sonunda Google hesabınıza olan bağlantıyı kaybettiğimizde olur. Lütfen Klei Hesaplarına erişimi kaldırmak için <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>Google Hesabı izinleri sayfanızı</a> açın ve hesaplarınızı tekrar bağlamayı deneyin."
+E_TWITTER_ALREADY_DISCONNECTED="Klei hesabınızın zaten Twitter ile bağlantısı kesildi. Bağlantının hala mevcut olduğunu düşünüyorsanız, lütfen <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>Twitter profilinizi ziyaret edin</a> ve \"Klei Accounts\" uygulamasının bağlantısını manuel olarak kesin."
+E_TWITTER_INVALID_CREDENTIALS="Twitter ile sizin adınıza iletişim kurmak için kullanılan geçici kimlik bilgilerinin süresi doldu. Daha sonra tekrar deneyin."
+E_TWITTER_SERVICE_UNAVAILABLE="Twitter sunucuları çalışıyor, ancak isteklerle aşırı yüklenmiş. Daha sonra tekrar deneyin."
+E_GOOGLE_ALREADY_DISCONNECTED="Klei hesabınızın zaten Google ile bağlantısı kesildi. Bağlantının hala var olduğunu düşünüyorsanız, lütfen <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>Google profilinizi ziyaret edin</a> ve \"Klei Hesapları\" uygulamasının bağlantısını manuel olarak kesin."
+E_GOOGLE_BROKEN_OAUTH_SCOPES="Google (YouTube) hesabınızın bu işlemi tamamlamak için doğru izinleri yok. Lütfen <a href='/account/info'> Google hesabınızın bağlantısını buradan kaldırın</a>, ödüller sayfasını ziyaret edin ve hesabınızı tekrar bağlayın. Sorun devam ederse, lütfen <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>buradan erişimi kaldırın </a>."
+E_GOOGLE_YOUTUBE_SIGNUP_REQUIRED="YouTube kaydı gerekiyor. Bu hata, kullanıcının bağlantısı kaldırılmış bir Google Hesabına sahip olduğunu gösterir. Bu, kullanıcının bir Google Hesabı olduğu, ancak bir YouTube kanalı olmadığı anlamına gelir. Klei, Google hesabınıza eklenen kısıtlamaları kaldırana kadar YouTube hesabınızı bağlayamayacak.<a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Bunun hakkında daha fazlasını burada okuyun</a>."
+E_GOOGLE_INVALID_GRANT="Google (YouTube) erişim jetonunuzun süresi doldu veya iptal edildi. Lütfen <a href='/account/info'> Google hesabınızın bağlantısını buradan kaldırın</a>, ardından ödüller sayfasını ziyaret edin ve hesabınızı tekrar bağlayın."
+E_GOOGLE_AUTH_ERROR="İstek için sağlanan yetkilendirme kimlik bilgileri geçersiz. Sorun devam ederse, lütfen<a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>buradan erişimi kaldır</a>."
+E_FACEBOOK_ALREADY_DISCONNECTED="Klei hesabınızın Facebook ile bağlantısı zaten kesilmiş. Bağlantının hala var olduğunu düşünüyorsanız, lütfen<a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>Facebook profilinizi ziyaret edin</a> ve \"Klei Hesapları\" uygulamasının bağlantısını manuel olarak kesin."
+E_NOT_ENOUGH_CURRENCY="Bu öğeyi sahiplenmek için yeterli puanınız yok."
