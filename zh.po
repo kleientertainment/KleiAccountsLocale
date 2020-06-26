@@ -848,6 +848,10 @@ msgstr "替代"
 msgid "pts"
 msgstr "点"
 
+#. i18n: keyword: RewardSpoolsAbbreviation
+msgid "spools"
+msgstr ""
+
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
 msgstr "分钟"

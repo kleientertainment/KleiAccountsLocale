@@ -848,6 +848,10 @@ msgstr "Альтернатива"
 msgid "pts"
 msgstr "бал."
 
+#. i18n: keyword: RewardSpoolsAbbreviation
+msgid "spools"
+msgstr ""
+
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
 msgstr "хвилин"
