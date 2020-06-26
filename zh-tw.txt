@@ -1,0 +1,404 @@
+[credits]
+
+Wei-Liang Liou (a.k.a. ALiangLiang)
+
+[translations]
+
+Company = "Klei"
+Email = "電子郵件"
+Loading = "正在載入…"
+Select = "選擇"
+SaveChanges = "儲存變更"
+SavingChanges = "正在儲存變更…"
+Expiration = "截止日期"
+Redirecting = "正在重新導向…"
+GoToPreviousPage = "回到上一頁"
+Copyright = "&copy; Klei Entertainment保留所有權利"
+
+; Navigation Bar
+
+Rewards = "獎勵"
+Settings = "帳號設定"
+Games = "遊戲"
+Betas = "Betas 測試"
+Language = "語言"
+Support = "技術支援"
+VisitYourProfile = "造訪您的個人資料"
+
+; Months
+
+January = "一月"
+February = "二月"
+March = "三月"
+April = "四月"
+May = "五月"
+June = "六月"
+July = "七月"
+August = "八月"
+September = "九月"
+October = "十月"
+November = "十一月"
+December = "十二月"
+
+; Signup
+; https://accounts.klei.com/signup
+
+Register = "註冊"
+Registering = "正在註冊…"
+CreateNewAccount = "帳號註冊"
+CreateNewAccountDescription = "您需要一個帳號來遊玩饑荒聯機版，這個帳號將允許您連接到饑荒聯機版、建立及加入伺服器，還能加入 Klei 社群！"
+SteamLinkDescription = "您的帳號將會被連接到以下 Steam 帳號:"
+Birthdate = "出生日期"
+NewsletterConsent = "我想要收到最新消息"
+EULA = "我同意 <a href="https://www.klei.com/games/dont-starve/terms-of-service" target="_blank" rel="noopener noreferrer">最終用戶許可協議</a>"
+MustAcceptEULA = "必須接受最終用戶許可協議才能通過註冊，請閱讀我們的最終用戶許可協議並勾選確認框以繼續進行。"
+PrivacyPolicy = "通過註冊，您將同意我們的 <a href="https://www.klei.com/privacy-policy" target="_blank" rel="noopener noreferrer">隱私政策</a>"
+FillAccountDetails = "在這裡填寫您的帳號資料:"
+SteamAccount = "Steam 帳號"
+Persona = "用戶名稱"
+
+; Signup Verify
+; https://accounts.klei.com/signup/verify
+
+Verify = "驗證"
+Verifying = "正在驗證…"
+VerificationEmailSuccessTitle = "發送驗證郵件"
+VerificationEmailSuccessDescription = "我們已經向您的電子郵件發送了一封驗證郵件，請點擊郵件里的超連結以完成註冊，郵件通常是立即發送的，如果在一個小時後仍未收到郵件，請檢查郵件是否在垃圾桶裡。"
+VerificationEmailFailureTitle = "無效驗證"
+VerificationEmailFailureDescription = "哎呀，您的超連結好像是無效的。"
+
+; Signup Complete
+; https://accounts.klei.com/signup/complete
+
+RegistrationComplete = "驗證成功"
+RegistrationCompleteDescription = "感謝驗證您的郵箱。</p><p>一切準備就緒! 現在您可以回到遊戲遊玩了，如果您有任何建議、反饋或者在 beta 測試期間需要幫助，請前往 Klei 社群論壇。"
+VisiCommunityForum = "造訪 Klei 的社群論壇"
+
+; Login Page
+; https://accounts.klei.com/login
+
+Login = "登入"
+Logout = "登出"
+LoginTitle = "Klei 帳號登入"
+LoginDescription = "登入您的 Klei 帳號以查看您擁有的 Klei 遊戲、與好友交換物品、註冊參與 beta 測試以及取得獨家內容。</p><p>請選擇一個平台登入："
+
+; User Info Page
+; https://accounts.klei.com/account/info
+
+UserInfo = "用戶資料"
+Preferences = "偏好設定"
+UsefulLinks = "有效超連結"
+KleiUserID = "Klei 用戶 ID"
+FirstSeen = "首次遊玩"
+Change = "變更"
+KleiCommunity = "Klei 社群"
+OpenForums = "打開社群論壇"
+Newsletter = "新郵件"
+EditSubscriptions = "編輯訂閱內容"
+UnsubscribeFromEmails = "從郵件里取消訂閱"
+SignupForABeta = "註冊參與Beta測試"
+GetDRMFreeGames = "獲取DRM-free遊戲"
+DownloadPersonalData = "下載個人數據"
+SeeMyGames = "查看我的遊戲"
+GamePlayerID = "玩家 ID"
+UserNotFound = "找不到用戶"
+
+; Linked Accounts
+
+LinkedAccounts = "已連接帳號"
+LinkAccountButton = "綁定帳號"
+AddedOn = "已添加"
+RemoveAccount = "移除帳號"
+AccountLinkRulesTitle = "Twitch 直播規則"
+AccountLinkRulesDescription = "Klei Drops 是為了支持為我們的社群提供高質量內容的直播主們，掛機直播會破壞系統的有效性，所以掛機直播和直播關於《饑荒》或者《饑荒：聯機版》以外的內容是不被允許的，違反這些規則的直播主會被取消連結，並會被禁止參與 Klei 的 Klei Drops。"
+AccountLinkRulesAccept = "接受條款並繼續"
+
+; Privacy Change Email
+; https://accounts.klei.com/account/email/change
+
+ChangeEmail = "修改電子郵件地址"
+ChangeEmailDescription = "我們會把關於您的帳號或遊戲的新消息和更新發送到該電子郵件。"
+EmailHasBeenChanged = "您的電子郵件地址已經修改完成，我們已經發送了一封包含驗證超連結的電子郵件來獲取更改的授權。"
+
+; Privacy Hide Inventory
+; https://accounts.klei.com/account/settings
+
+Inventory = "物品庫"
+HideSteamInventory = "隱藏 Steam 物品"
+HideSteamInventoryDescription = "勾選下面的選項將會從 Steam 隱藏與 Klei 遊戲相關的物品，您仍然擁有並可以在遊戲裡看到您的物品，如果您想要讓物品再次出現，只需取消勾選選項並儲存變更。"
+InventoryHasBeenHidden = "物品已被隱藏"
+
+; Marketing Options
+; https://accounts.klei.com/account/privacy
+
+MarketingOptions = "訂閱選項"
+MarketingOptionsDescription = ""
+MarketingOptionsUnsubscribe = "我不想收到任何推送郵件"
+MarketingOptionsSubscribe = "我想要收到推送郵件（新聞、新遊戲、促銷消息等）"
+MarketingOptionsDetails = "關於每個遊戲的更多詳細資料，請勾選以下選項框："
+MarketingOptionsPending = "我們已向您發送電子郵件以確認您訂閱我們的郵件清單。"
+
+; GDPR Account Deletion
+; https://accounts.klei.com/account/limbo
+
+DeleteAccount = "刪除帳號"
+DeleteAccountDescription = "刪除帳號後，無法還原此操作，請確認您了解後果。"
+DeleteAccountAreYouSure = "你真的確定嗎？"
+DeleteAccountWarning = "如果你不讀這個就會發生意想不到的壞事！"
+DeleteAccountExplanation = "根據您的請求，您的 Klei 帳號和所有與您的帳號相關的個人身份資料（不包括交易以及與您負面行為有關的資料），將被從我們的系統中永久刪除。</p><p><b>請注意：您將無法回復此操作，所有的資料將被徹底和不可逆轉地刪除。</b></p><p><strong>這意味著您將無法繼續遊玩任何需要使用 Klei 帳號的遊戲（饑荒 和 Hot Lava），您的{{.PlatformName}}帳號將被永久禁止使用，包括進度、物品和權限在內的所有記錄資料都會被徹底永久地刪除。</strong>"
+DeleteAccountOptions = "刪除帳號後將導致下列後果，如執意刪除請勾選各項後果："
+DeleteAccountOptionsProgress = "刪除我在 Klei 遊戲中的進度"
+DeleteAccountOptionsInventory = "刪除我的遊戲廣告資源中的所有項目"
+DeleteAccountOptionsPurchases = "從我的 Steam 物品庫中刪除物品，包括購買來的物品"
+DeleteAccountOptionsNoPlayDST = "我不想再玩「飢荒連機版」了"
+DeleteAccountOptionsNoPlayHL = "我不想再玩 Hot Lava 了"
+DeleteAccountOptionsBanAccount = "Ban 掉我的{{.PlatformName}}帳號玩 Klei 遊戲，最少30天"
+DeleteAccountConfirm = "確認"
+DeleteAccountConfirmation = "請輸入「delete my account」的大寫英文，以確認操作："
+DeleteAccountButton = "我理解後果，請刪除我的帳號"
+VerifyAccountDeletionTitle = "刪除帳號驗證"
+VerifyAccountDeletionDescription = "我們通過電子郵件向您發送了驗證碼以確認您的帳號會被刪除，請複製驗證碼並將其貼上至以下文字輸入框。</p><p>如果您沒有收到驗證碼，請點擊「取消」，並確認您的電子郵件填寫正確無誤，然後重新操作。</p><p>如果您並未請求刪除您的帳號，則有可能是其他擁有您{{.PlatformName}}帳號登入權限的人在進行操作。單擊「取消」完全停止刪除帳號流程，並請更改您的{{.PlatformName}}帳號密碼以防止這種情況再次發生。"
+VerifyAccountDeletionCode = "驗證碼"
+VerifyAccountDeletionProceed = "繼續"
+VerifyAccountDeletionCancel = "取消"
+
+; Account Games
+; https://accounts.klei.com/account/game/list
+; https://accounts.klei.com/account/game/info?game=DontStarveTogether
+; https://accounts.klei.com/account/game/servers?game=DontStarveTogether
+
+MyGames = "我的遊戲"
+OtherGames = "其他遊戲"
+AvailableOn = "在以下所有平台可用："
+GoToWebsite = "前往網站"
+DRMFreeDownload = "DRM-Free 下載"
+DRMFreeDownloadDescription = "您可以在 DRM-free 下載這個遊戲。更多資料詳見 <a href="/">這裡</a>."
+PlayerInfo = "玩家資料"
+EnteredARGs = "輸入 ARGs"
+ParticipatedEvents = "參與活動"
+FirstSeen = "首次遊玩"
+Download = "下載"
+GetKey = "獲取密鑰"
+Servers = "伺服器"
+ServerName = "伺服器名稱"
+ServerNameDescription = "在這裡新增伺服器，可以取得一個存取令牌，讓您可以建立自己的專屬遊戲伺服器。"
+NoServersDescription = "您的帳號中沒有與此遊戲相關的伺服器。"
+AddNewServer = "新增新伺服器"
+AddingServer = "正在新增伺服器…"
+GameServerWasGenerated = "成功新增伺服器"
+RemoveServer = "移除伺服器"
+ConfigureServer = "配置伺服器"
+ConfigureServerTitle = "配置伺服器"
+ConfigureServerDescription = "以下表單讓您可以配置遊戲伺服器的設置。 根據您擁有的作業系統，您還需要執行一些腳本，請按照與您的作業系統對應的說明進行操作：<a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>。"
+DownloadSettings = "下載設置"
+FriendlyName = "友好的名稱"
+
+; Account Betas
+; https://accounts.klei.com/account/betas
+
+UpcomingBetasTitle = "活動以及即將到來的 Beta 測試"
+UpcomingBetasDescription = "您可以註冊參與您感興趣的 Beta 測試，如果您被邀請參與測試，將會收到一封郵件。"
+BetaStatus = "狀態："
+BetaStartDate = "開始："
+BetaRegister = "註冊"
+BetaRegistered = "註冊"
+BetaNotAccepted = "未註冊 - 用戶未被接受"
+BetaAccepted = "用戶已被接受"
+BetaRegistrationEnded = "註冊已經結束"
+
+; Community Translations
+; https://accounts.klei.com/community-translations
+
+CommunityTranslations = "社群翻譯"
+CommunityTranslationDisclaimer = "<a href='/community-translations'>這是一個非官方的翻譯。</a>"
+CommunityTranslationsDescription = "如果您想要貢獻新的翻譯，或是修正錯誤，<a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>請造訪此連結</a>並閱讀教學，來了解如何幫此網站翻譯。"
+
+; Rewards
+; https://accounts.klei.com/account/rewards
+
+RewardTitle = "Drops 以及獎勵（Beta測試）"
+RewardDescription = "持續關注動態並獲得遊戲內獎勵，我們會不時添加新的獎勵，所以記得回來看看有什麼新內容哦！"
+RewardLabel = "獎勵"
+RewardStartButton = "新增帳號"
+RewardClaimButton = "兌換"
+RewardWasClaimed = "已獲得！"
+RewardWasRedeemed = "成功兌換！"
+RewardAlternative = "另一個"
+RewardPointsAbbreviation = "點"
+RewardPointsMinutes = "分鐘"
+RewardBalance = "剩余點數"
+RewardNameTwitch = "在 Twitch 上觀看「饑荒聯機版」"
+RewardNameDouyu = "在鬥魚上觀看「饑荒聯機版」"
+RewardNameYoutube = "在 YouTube 上關注我們"
+RewardNameTwitter = "在 Twitter 上關注我們"
+RewardNameFacebook = "在 Facebook 上關注我們"
+RewardNameWechat = "在微信上關注我們"
+RewardNameInstagram = "在 Instagram 上關注我們"
+RewardNameNewsletter = "訂閱我們的新聞"
+RewardMessageYoutube = "<a href='https://www.youtube.com/user/kleient' target='_blank'>在 YouTube 上關注我們</a>以獲得此獎勵。"
+RewardMessageTwitter = "<a href='https://twitter.com/klei' target='_blank'>在 Twitter 上關注我們</a>以獲得此獎勵。"
+RewardMessageFacebook = "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>在 Facebook 上關注我們</a>以獲得此獎勵。"
+RewardMessageWechat = "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>在微信上關注我們</a>以獲得此獎勵。"
+RewardMessageInstagram = "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>在 Instagram 上關注我們</a>以獲得此獎勵。"
+RewardMessageNewsletter = "<a href='/account/settings' target='_blank'>訂閱我們的新聞</a>以獲得此獎勵。"
+RewardItemsTitle = "獎勵物品"
+RewardItemsDescription = "使用點數來兌換以下限定特殊物品"
+RewardItemCost = "花費"
+RewardItemReedem = "兌換"
+RewardItemCancel = "取消"
+
+; Platform names
+
+Facebook = "Facebook"
+Instagram = "Instagram"
+Twitter = "Twitter"
+YouTube = "YouTube"
+Twitch = "Twitch"
+Douyu = "鬥魚"
+Wechat = "微信"
+
+; Support
+
+SupportTitle = "送出支援請求"
+SupportDescription = "請輸入關於您請求的詳細資訊，我們支援小組的成員將會盡快回覆您。"
+SupportSuccess = "您的支援請求已經成功紀錄，我們支援小組的成員將會盡可能快速回覆您，感謝您的參與。"
+SupportName = "名字"
+SupportGame = "遊戲"
+SupportCategory = "分類"
+SupportAttachments = "附件"
+SupportDetails = "詳細資訊"
+SupportSubmit = "送出"
+E_ZENDESK_AUTH_PROBLEMS = "無法對您授權，請確認您的電子郵件地址或註冊"
+E_ZENDESK_EMAIL_IS_MISSING = "請 <a href='/account/settings'>綁定一個可用的電子郵件至您的帳號</a>，否則我們將無法回覆您的支援請求。"
+E_ZENDESK_EMAIL_NOT_VERIFIED = "此支援系統只開放給有驗證過電子郵件的玩家，請至「用戶資訊」，然後移駕到「偏好設定」版塊的「驗證」按鈕"
+E_ZENDESK_COOLDOWN_TIME = "您已經在數分鐘前送出一個支援請求，請稍等個幾分鐘來讓我們回覆您與其他用戶。"
+
+; Klei Login Errors
+
+EmailAuthRequired = "需要電子郵件驗證，請查看您的電子郵件並點擊驗證超連結."
+EnterDOB = "請輸入您的出生日期。"
+VerifyAge = "請確認您的年齡，以完成註冊。"
+ErrorDOBFormat = "錯誤－出生日期：出生日期需要以正確的格式輸入（日／月／年）"
+AcceptEULA = "必須接受最終用戶許可協議才能通過註冊，請閱讀我們的最終用戶許可協議並勾選確認框以繼續進行。"
+ErrorTooYoung = "哈囉，小朋友，你必須年滿13歲能才註冊帳號。"
+EmailInvalid = "無效的電子郵件，請檢查您輸入的電子郵件地址是否格式正確。（例如：name@email.com）"
+Error = "錯誤"
+NewAccount = "建立新帳號"
+EmailInfoText = "您的電子郵件地址將用於管理您的帳號，我們也會對它發送確認電子郵件。"
+DOBInfoText = "我們需要您提供出生日期來做年齡核實、安全和帳號復原。"
+EmailNewsletterText = "通過郵件來獲取重大公告、活動和促銷活動，以後還是可以變更此設定。"
+EULACheck = "請閱讀最終用戶許可協議的條款，並勾選同意，您必須同意最終用戶許可協議才能繼續。"
+ResendAccountInfo = "重新發送帳號啟動電子郵件"
+AwaitingVerification = "您曾經建立過此帳號，但仍在等待電子郵件驗證，請檢視您的電子郵件，以獲得 norespon@kolyentertainment.com 發送的郵件，單擊裡頭包含的驗證超連結以完成您的帳號註冊。如果找不到電子郵件，請務必檢查您電子郵件的垃圾桶。"
+ResendVerification = "如果您仍未找到電子郵件，您可以填寫下面的表格，以便重新發送驗證電子郵件。您可以使用不同的電子郵件地址，請再次檢查它是否正確！"
+AccountNeeded = "您需要一個帳號來遊玩饑荒聯機版，這個帳號將允許您連線到饑荒聯機版、建立及加入伺服器，還能參與 Klei 社群！"
+SteamLinked = "您的帳號將連結到以下 Steam 帳號："
+LoadingSteamProfile = "載入 Steam 個人資訊中…"
+AOLNote = "請注意：AOL 的電子郵件地址在接收驗證郵件時遇到了問題，如果您使用的是 @aol 電子郵件地址，在此問題解決之前，您可能不會收到確認電子郵件，我們建議使用另一個提供商的電子郵件地址。"
+DOBUsage = "出生日期（用於驗證您的年齡）"
+NewsletterAgreement = "我想獲取最新消息。"
+EULAAgreement = "我同意 <a href='https://www.kleientertainment.com/games/dont-starve/terms-of-service' target='_blank' rel='noopener noreferrer'>最終用戶協議</a>"
+PrivatePolicyAgreement = "為了通過註冊, 您需要同意我們的 <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>隱私政策</a>"
+KleiEntertainment = "Klei Entertainment"
+ErrorURLMalformed = "您使用的網址格式不正確，缺少所需的參數。"
+Persona = "用戶名稱："
+UnableConnectSteam = "連接 Steam 失敗"
+
+; Web API Errors
+
+E_JSON_BAD_EOF = "伺服器無法讀取您提交的資料。請稍後再試。"
+E_AUTH_FAILURE = "所提供的身份驗證資料與現有帳號不相符。"
+E_EMAIL_IN_USE = "電子郵件地址已經被使用。"
+E_FAILED_SENDING_EMAIL = "郵件伺服器錯誤，請稍後再試。"
+E_FIELD_IN_USE = "該數值已被另一個帳號使用。請用另一個數值。"
+E_GAME_NOT_FOUND = "該遊戲不存在。"
+E_INTERNAL_SERVER_ERROR = "內部伺服器錯誤，請在幾秒鐘後重試。"
+E_INVALID_DISPLAYNAME = "選擇的用戶名包含無效字元。"
+E_INVALID_EMAIL = "電子郵件地址無效，請檢查您的輸入是否正確。"
+E_INVALID_PASSWORD = "您提供的密碼無效。
+E_INVALID_SESSION = "操作已逾時，您必須再次登入。"
+E_INVALID_SESSION_SAFARI = "操作已逾時，您必須再次登入。<b>您正在使用 Safari？</b>如果是，請使用其他網頁瀏覽器。<a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit 的新防止追蹤政策</a>，被內建在最新版的 Safari，導致無意間禁止了網站與後端伺服器間的通訊。"
+E_INVALID_STEAM_REQUEST = "在沒有連上網路的情況下無法驗證您的 Steam 帳號。"
+E_INVALID_STEAM_TICKET = "無法驗證您的 Steam 帳號，請稍後再試。"
+E_INVALID_STEAMID = "SteamID 無效。"
+E_INVALID_DATE = "日期無效。"
+E_INVALID_OAUTH_CODE = "授權碼無效，請重試。"
+E_INVALID_OAUTH_STATE = "授權狀態無效，請重試。"
+E_INVALID_OAUTH_TOKEN = "缺少 OAuth 存取令牌，請重試。"
+E_WECHAT_OAUTH_CODE_BEEN_USED = "微信拒絕了連接您帳號的請求，因為 OAuth 代碼已經被使用。"
+E_WECHAT_OAUTH_INVALID_CODE = "由於 OAuth 代碼無效，微信拒絕了連接您帳號的請求。"
+E_KU_NOT_FOUND = "無法獲得與用戶帳號資料關聯的遊戲。"
+E_INVALID_TOKEN = "伺服器令牌不再有效。"
+E_EXPIRED_TOKEN = "伺服器令牌不再有效，因為它已過期。"
+E_BANNED = "您的帳號已經被 Ban。。"
+E_LOGIN_ERROR = "我們現在無法驗證您的證書，請稍後再試。"
+E_LOGIN_ERROR_BANNED = "您的帳號已經被 Ban。"
+E_LOGIN_ERROR_DELETED = "您的帳號已被標記為刪除，並將在30天內變為永久無法恢復的狀態， 如果您需要進一步的協助，<a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>請聯繫支援</a>。"
+E_LOGIN_ERROR_JWT_AUTH = "身份驗證失敗，詳細資料已發送給管理員進行調查，幾分鐘後再試。"
+E_LOGIN_ERROR_JWT_MISSING = "您所在的平台沒有為我們提供驗證您帳號的代碼。"
+E_LOGIN_ERROR_JWT_AUDIENCE = "身份驗證代碼是不同的平台產生的。"
+E_LOGIN_ERROR_FROM_XBOX = "此時無法登入該帳號，請登入 Xbox.com 以解決 XboxLive 帳號的問題。"
+E_SESSION_ALREADY_EXISTS = "您已經有了一個有效的 session，如果您想使用其他遊戲平台登入，請先登出。"
+E_MISSING_DATA = "沒有足夠的資訊來執行此操作。"
+E_MISSING_FIELD = "您必須提供 Steam ID、用戶名或電子郵件地址."
+E_MUST_VALIDATE_EMAIL = "帳號已經建立，但正在等待驗證，請查看您的電子郵件。"
+E_EMAIL_ALREADY_SET = "該帳號已設定一個電子郵件地址。"
+E_NO_AUTH = "沒有提供身份驗證機制"
+E_NO_EULA = "您必須同意最終用戶許可協議才能繼續。"
+E_NO_GAME_OWNERSHIP = "您似乎還沒有這款遊戲。"
+E_NO_PASSWORD_RESET_CODE = "您的帳號沒有密碼變更請求。"
+E_NOT_FOUND = "顯示名稱／未找到電子郵件"
+E_PASSWORD_RESET_CODE_EXPIRED = "此密碼變更請求已逾期，如果您仍然需要一個新密碼，請發送新的請求。"
+E_PASSWORD_RESET_CODE_MISMATCH = "密碼不相符。"
+E_POST_DATA_STATUS = "內部伺服器錯誤：詳細資訊已發送給 Klei 開發團隊。"
+E_NO_SUPPORT_ENTRY = "我們的系統日誌中沒有關於此事件的資料。"
+E_STEAM_USER_OFFLINE = "Steam 用戶離線。"
+E_STEAMID_IN_USE = "該 Steam 帳號已經被使用。"
+E_UNKNOWN_GAME = "未知的遊戲"
+E_UNKNOWN_STEAMID = "未能識別該 Steam ID。"
+E_USERNAME_TAKEN = "該用戶名已被使用，請選擇其他名字。"
+E_WHIPPERSNAPPER = "您必須年滿13歲才能註冊帳號。"
+E_INVALID_BIRTHDAY = "出生日期無效，請務必選擇日期。"
+E_TWITCH_STATUS_400 = "Twitch 拒絕了連接您 Klei 帳號的請求，這是 Twitch 的授權伺服器常發生的暫時狀況，請在數分鐘後<a href='/account/twitch/link'>重試</a>。"
+E_TWITCH_STATUS_409 = "你 Twitch 帳號的遊戲 ID 似乎已經連接到了另一個帳號，請打開一個新的網頁瀏覽器視窗（比如使用無痕模式），然後使用您的第二個帳號登入 Twitch，前往「設置」，點擊「連接」，然後取消連接「Klei Entertainment」應用，最後返回這個頁面並重新進行帳號連接。"
+E_TWITCH_BLACKLISTED = "已移除將 Twitch 帳號與您的 Klei 帳號連接的選項，如果您認為這是一個錯誤，<a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>請與我們聯繫</a>。"
+E_TWITCH_ALREADY_DISCONNECTED = "您的 Klei 帳號已與 Twitch 斷開連接，如果您認為仍然連接著，請<a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>造訪您的 Twitch 個人資料</a>，並手動斷開「Klei Entertainment」應用程式。"
+E_UNAVAILABLE_GAME_SERVERS = "該遊戲尚未支援其它的伺服器。"
+E_ALREADY_JOINED_BETA = "您的帳號已經註冊了 beta 測試。"
+E_NOT_ACTIVE_BETA = "該 beta 測試已不存在。"
+E_CANNOT_PARSE_FORM = "您的電腦向伺服器發送了錯誤的資料。"
+E_STEAM_FORBIDDEN = "您的帳號已暫時被 Steam 禁止。"
+E_STEAM_INTERNAL_SERVER_ERROR = "Steam 伺服器當前處於無法服務狀態。"
+E_STEAM_INVALID_RETURN_TO = "Steam 將您導向到錯誤的網址，我們目前無法驗證您的證書，請清空您網頁瀏覽器的快取與 Cookie 後重新登入，如果您要更多的協助，請<a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>聯繫支援</a>。"
+E_STEAM_PLAYER_SUMMARY_FORBIDDEN = "Steam 阻止我們顯示您的個人資訊"
+E_STEAM_PLAYER_SUMMARY_TOO_MANY_REQUESTS = "我們無法顯示您的個人資訊，因為您的電腦送出太多請求給 Steam。"
+E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR = "Steam 伺服器當前無法運作。"
+E_OPENID_INVALID_MODE = "前一個網站送給我們錯誤的資料，OpenID 的「mode」參數是非法的，請重新開始登入流程。"
+E_OPENID_INVALID_RETURN_TO = "前一個網站送給我們錯誤的資料，OpenID 的「return_to」參數是非法的，請重新開始登入流程。"
+E_OPENID_INVALID_NAMESPACE = "前一個網站送給我們錯誤的資料，OpenID 的「namespace」參數是非法的，請重新開始登入流程。"
+E_OPENID_INVALID_SIGNATURE = "前一個網站送給我們錯誤的資料，驗證的簽章請求是非法的，請重新開始登入流程。"
+E_STEAM_ID_IS_MISSING = "遊戲用戶端無法提供所有我們所需要的授權資訊，請關閉遊戲並再次啟動。"
+E_STEAM_BROKEN_TICKET = "遊戲用戶端無法提供所有我們所需要的授權資訊，請關閉遊戲並再次啟動。"
+E_RAIL_ID_IS_MISSING = "遊戲用戶端無法提供所有我們所需要的授權資訊，請關閉遊戲並再次啟動。"
+E_RAIL_BROKEN_TICKET = "遊戲用戶端無法提供所有我們所需要的授權資訊，請關閉遊戲並再次啟動。"
+E_RAIL_EXPIRED_TOKEN = "訪問令牌已過期，騰訊要求您重新開始該過程。"
+E_CANNOT_PARSE_FORM = "您的電腦向伺服器發送了錯誤的資料。"
+E_EMAIL_VERIFIED = "你的電子郵件已被驗證。"
+E_DOUYU_ALREADY_BINDED_TO_KU = "您的鬥魚帳號已與 Klei User ID 連接。"
+E_DOUYU_ALREADY_DISCONNECTED = "您的 Klei 帳號已與鬥魚斷開連接，如果您認為仍然連接著，請 <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>造訪您的鬥魚個人資料</a> 並手動斷開「Klei Entertainment」應用程式。"
+E_INVALID_CSRF_TOKEN = "表單已逾期，請回到上一頁，重新整理頁面，然後重試。"
+E_INVALID_USER_CONSENT = "非法的用戶許可，您需要非常仔細地閱讀帳號刪除說明。"
+E_INVALID_VERIFICATION_CODE = "無效的驗證碼。"
+E_INVALID_AUTH_PROVIDER = "授權提供者未被偵測到，請確認您的網頁瀏覽器允許此網站使用 Cookie，然後前往「登入」頁面，然後再次嘗試。"
+E_OAUTH_ACCESS_DENIED = "Klei 尚未獲得連接您帳號的權限，要繼續此操作，您需要在提示出現時允許 Klei 造訪您的帳號。"
+E_GOOGLE_OAUTH_NO_REFRESH_TOKEN = "Google 不允許我們連接您的帳號，這種情況通常在我們這端不知為何丟失了與您 Google 帳號的連接，而且還是在 Google 端未取消連接您帳號的時候發生，請打開<a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>您的 Google 帳號權限頁面</a>，刪除 Klei 帳號的訪問權限，然後嘗試再次連接您的帳號。"
+E_TWITTER_ALREADY_DISCONNECTED = "您的 Klei 帳號已與 Twitter 斷開連接，如果您認為仍然連接著，請 <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>造訪您的 Twitter 個人資料</a> 並手動斷開「Klei Accounts」應用程式。"
+E_TWITTER_INVALID_CREDENTIALS = "The temporary credentials used to communicate with Twitter on your behalf have expired. Try again later."
+E_TWITTER_SERVICE_UNAVAILABLE = "The Twitter servers are up, but overloaded with requests. Try again later."
+E_GOOGLE_ALREADY_DISCONNECTED = "您的Klei帳號已與Google斷開連接。 如果您認為仍然連接著，請 <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>訪問您的Google個人資料</a> 並手動斷開「Klei Accounts」應用程序。"
+E_GOOGLE_BROKEN_OAUTH_SCOPES = "您 Google（YouTube）帳號未擁有正確的權限去完成此操作，請 <a href='/account/info'>在此取消連結您的 Google 帳號</a>，然後造訪獎勵頁面並且連結您的帳號，請<a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>在此移除存取權限</a>."
+E_GOOGLE_INVALID_GRANT = "Your Google（YouTube） access token has been expired or revoked. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again."
+E_GOOGLE_YOUTUBE_SIGNUP_REQUIRED = "需要您登入 YouTube，這個錯誤表示此用戶擁有一個未連接的 Google 帳號，意思是該用戶擁有 Google 帳號，卻未擁有 YouTube 頻道，Klei 將無法連接您的 YouTube 直到 Google 移除這項對您帳號的限制，<a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>在此閱讀更多相關訊息</a>。"
+E_GOOGLE_AUTH_ERROR = "此請求提供的授權證書是非法的，如果持續發生此問題，請<a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>在此移除存取權限</a>。"
+E_FACEBOOK_ALREADY_DISCONNECTED = "您的 Klei 帳號已與 Facebook 斷開連接。 如果您認為仍然連接著，請 <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>造訪您的 Facebook 個人資料</a> 並手動斷開「Klei Accounts」應用程式。"
+E_NOT_ENOUGH_CURRENCY = "您的點數不足，無法兌換該物品。"
