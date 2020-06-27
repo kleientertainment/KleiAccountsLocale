@@ -1628,7 +1628,7 @@ msgstr "您的點數不足，無法兌換該物品。"
 
 #. i18n: keyword: E_ALREADY_CLAIMED
 msgid "You already have claimed this reward."
-msgstr "您已經領取此獎裡。"
+msgstr "您已經領取此獎勵。"
 
 #. i18n: keyword: E_UNKNOWN_LINK
 msgid "The link you have used is not valid. Please check the source of this link and try again."
