@@ -19,7 +19,7 @@ msgstr ""
 
 #. i18n: keyword: Email
 msgid "E-mail"
-msgstr "Mail"
+msgstr "EPosta"
 
 #. i18n: keyword: Loading
 msgid "Loading…"
@@ -131,19 +131,19 @@ msgstr "Aralık"
 
 #. i18n: keyword: Activate
 msgid "Activate"
-msgstr ""
+msgstr "Aktif et"
 
 #. i18n: keyword: Activating
 msgid "Activating..."
-msgstr ""
+msgstr "Aktif ediliyor..."
 
 #. i18n: keyword: ActivateAccountTitle
 msgid "Activate Account"
-msgstr ""
+msgstr "Hesabı Aktif et"
 
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
-msgstr ""
+msgstr "Klei hesabınız başarıyla oluşturuldu! Lütfen ekstra özellikler ve hesabı aktif etmek için aşağıdaki formu doldur. Ek olarak haber bültenimize abone olabilir ve favori oyunların hakkında yeni bilgileri alabilirsin."
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -203,11 +203,11 @@ msgstr "E-posta zaten doğrulandı."
 
 #. i18n: keyword: EmailStatusNotVerified
 msgid "Not Verified"
-msgstr ""
+msgstr "Doğrulanmamış"
 
 #. i18n: keyword: EmailStatusVerified
 msgid "Verified"
-msgstr ""
+msgstr "Doğrulanmış"
 
 #. i18n: keyword: RegistrationComplete
 msgid "Successful Verification"
@@ -239,23 +239,23 @@ msgstr "Tüm Klei oyunlarınızı görmek, arkadaşlarınızla oyun öğeleri al
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
-msgstr ""
+msgstr "Abone ol"
 
 #. i18n: keyword: Subscribing
 msgid "Subscribing..."
-msgstr ""
+msgstr "Abone olunuyor..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr ""
+msgstr "{{.GameName}}. için son büyük haberleri ve güncellemeleri alın. Çok fazla posta göndermeyiz, fakat gönderdiğimizde hatrı sayılır bir posta göndeririz! İstediğiniz zaman gönderdiğimiz epostanın altından kolayca abonelikten çıkabilirsiniz. En yeni haberleri öğrenmek için bizi ayrıca Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> üzerinden takip edebilirsiniz. Ek olarak resmi <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a> ziyaret edebilirsiniz!"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
-msgstr ""
+msgstr "Abonelik işlemi tamamlandı"
 
 #. i18n: keyword: SubscribeCompleteDescription
 msgid "Your email subscription has been processed. If this is the first time you subscribe to one of our newsletters, you will receive a confirmation email."
-msgstr ""
+msgstr "Eposta aboneliğin işleme alındı. Eğer bu işlem bizim haber bültenlerimizden birine ilk aboneliğinse, bir onaylama postası alacaksın."
 
 #. i18n: keyword: UserInfo
 msgid "User Info"
@@ -351,7 +351,7 @@ msgstr "Bu, hesabınız veya oyunlarınızla ilgili güncellemeler ve haberler g
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "Your new e-mail is being changed. We have sent you a mail with a verification link to authorize the change."
-msgstr ""
+msgstr "Eposta adresin değişti. Bu değişimi onaylamak için sana bir doğrulama postası gönderdik."
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -375,7 +375,7 @@ msgstr "Pazarlama Seçenekleri"
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
-msgstr ""
+msgstr "Bu ayarlar ile haber bültenini aboneliğini ayarla. Unutma, istediğin zaman bülten aboneliğinden ayrılabilirsin."
 
 #. i18n: keyword: MarketingOptionsUnsubscribe
 msgid "I do not want to receive marketing emails"
@@ -395,7 +395,7 @@ msgstr "Posta listesi aboneliğinizi onaylamak için size bir e-posta gönderdik
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
-msgstr ""
+msgstr "Bir Hesabı Birleştir"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -411,7 +411,7 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountConfirm
 msgid "Confirm"
-msgstr ""
+msgstr "Onayla"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
@@ -423,11 +423,11 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountDoButton
 msgid "I understand, merge these accounts"
-msgstr ""
+msgstr "Onaylıyorum, bu hesapları birleştir"
 
 #. i18n: keyword: MergeAccountSuccessTitle
 msgid "Successful Account Merge"
-msgstr ""
+msgstr "Hesap Birleştirme Başarılı"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
@@ -435,11 +435,11 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
-msgstr ""
+msgstr "Uyarıları Düzelt"
 
 #. i18n: keyword: MergeAccountReviewEmail
 msgid "Below is your Klei account e-mail:"
-msgstr ""
+msgstr "Aşağıdaki Eposta senin Klei Hesabının Epostası"
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
