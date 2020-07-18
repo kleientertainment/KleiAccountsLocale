@@ -19,7 +19,7 @@ msgstr ""
 
 #. i18n: keyword: Email
 msgid "E-mail"
-msgstr "E-Mail"
+msgstr "EPosta"
 
 #. i18n: keyword: Loading
 msgid "Loading…"
@@ -243,6 +243,7 @@ msgstr "Abone ol"
 
 #. i18n: keyword: Subscribing
 msgid "Subscribing..."
+
 msgstr "Abone oluyorsunuz ..."
 
 #. i18n: keyword: SubscribeContent
@@ -377,6 +378,7 @@ msgstr "Pazarlama Seçenekleri"
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
 msgstr "Bülten aboneliğinizi yapılandırmak için bu seçenekleri kullanın. Unutmayın, istediğiniz zaman abonelikten çıkabilirsiniz."
 
+
 #. i18n: keyword: MarketingOptionsUnsubscribe
 msgid "I do not want to receive marketing emails"
 msgstr "Pazarlama e-postaları almak istemiyorum"
@@ -427,7 +429,7 @@ msgstr "Anlıyorum, bu hesapları birleştir"
 
 #. i18n: keyword: MergeAccountSuccessTitle
 msgid "Successful Account Merge"
-msgstr "Başarılı Hesap Birleştirme"
+msgstr "Hesap Birleştirme Başarılı"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
@@ -440,6 +442,7 @@ msgstr "Uyarıları Düzelt"
 #. i18n: keyword: MergeAccountReviewEmail
 msgid "Below is your Klei account e-mail:"
 msgstr "Klei hesabı e-postanız aşağıdadır:"
+
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
