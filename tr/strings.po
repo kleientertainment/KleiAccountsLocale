@@ -243,8 +243,7 @@ msgstr "Abone ol"
 
 #. i18n: keyword: Subscribing
 msgid "Subscribing..."
-
-msgstr "Abone oluyorsunuz ..."
+msgstr "Abone oluyorsunuz..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
@@ -378,7 +377,6 @@ msgstr "Pazarlama Seçenekleri"
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
 msgstr "Bülten aboneliğinizi yapılandırmak için bu seçenekleri kullanın. Unutmayın, istediğiniz zaman abonelikten çıkabilirsiniz."
 
-
 #. i18n: keyword: MarketingOptionsUnsubscribe
 msgid "I do not want to receive marketing emails"
 msgstr "Pazarlama e-postaları almak istemiyorum"
@@ -442,7 +440,6 @@ msgstr "Uyarıları Düzelt"
 #. i18n: keyword: MergeAccountReviewEmail
 msgid "Below is your Klei account e-mail:"
 msgstr "Klei hesabı e-postanız aşağıdadır:"
-
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
