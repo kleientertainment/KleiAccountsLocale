@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-06-26 21:20\n"
+"PO-Revision-Date: 2020-07-17 23:56\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -155,7 +155,7 @@ msgstr "Desejo receber o boletim informativo (Newsletter)"
 
 #. i18n: keyword: EULA
 msgid "I agree to the <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">EULA</a>"
-msgstr "Eu aceito os <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">Contrato de licença do usuário final.</a>"
+msgstr "Eu aceito os <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">Contrato de licença do usuário final</a>"
 
 #. i18n: keyword: MustAcceptEULA
 msgid "EULA Must Be Accepted to Register. Please read our EULA and check the confirmation box to proceed."
@@ -475,7 +475,7 @@ msgstr "É impossível mesclar sua conta agora porque alguma informação está 
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
-msgstr "Por favor atualiza sua conta *Klei* para usar o mesmo endereço de e-mail e comece o processo novamente." 
+msgstr "Por favor atualiza sua conta *Klei* para usar o mesmo endereço de e-mail e comece o processo novamente."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the e-mail address in both accounts and start the process again."
@@ -853,6 +853,10 @@ msgstr "Alternativa"
 msgid "pts"
 msgstr "pontos"
 
+#. i18n: keyword: RewardBoltsAbbreviation
+msgid "bolts"
+msgstr ""
+
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
 msgstr "carretéis"
@@ -960,10 +964,6 @@ msgstr "Resgatar Presente"
 #. i18n: keyword: GiftRedemptionDescription
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
 msgstr "Olá! Parece que você tem um item ou um código de presente, gostaria de resgatar agora? Digite o código no formulário abaixo e nós vamos te garantir esse item mais rápido que você possa piscar <em>&mdash;a menos que você pisque muito rápido, no caso você deve fechar seus olhos por alguns milisegundos&mdash;</em>"
-
-#. i18n: keyword: GiftRedemptionTokenLabel
-msgid "Enter Your Token"
-msgstr "Coloque seu Token"
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
@@ -1395,7 +1395,7 @@ msgstr "Twitch rejeitou a solicitação para conectar com sua conta Klei; isso g
 
 #. i18n: keyword: E_TWITCH_DATA_CONFLICT
 msgid "Apparently you have already connected your game ID with another Twitch account. Open a new session in your web browser (using “Incognito” or “Private” mode, for example) and log in with the secondary Twitch account, visit the “Settings” page, then “Connections”, then disconnect the “Klei Entertainment” application. Finally, return to this page and try to connect your Twitch account again."
-msgstr "Aparentemente você já conectou seu ID de jogo com outra conta Twitch. Abra uma nova sessão em seu navegador (usando o modo “Incognito” ou “Private” por exemplo)" e logue com uma das contas secundárias da Twitch, visite a página “Settings”, então “Connections”, e disconecte a aplicação “Klei Entertainment”. Por fim retorne para esta pagina e tente conecta sua conta Twitch novamente.
+msgstr "Aparentemente você já conectou seu ID de jogo com outra conta Twitch. Abra uma nova sessão em seu navegador (usando o modo “Incognito” ou “Private” por exemplo) e logue com uma das contas secundárias da Twitch, visite a página “Settings”, então “Connections”, e disconecte a aplicação “Klei Entertainment”. Por fim retorne para esta pagina e tente conecta sua conta Twitch novamente."
 
 #. i18n: keyword: E_TWITCH_DELETED_SECRET
 msgid "Twitch is having problems verifying the credentials associated to our application. This usually happens when an internal service on Twitch infrastructure is having internal server errors. Please try again in a few minutes."
@@ -1636,3 +1636,112 @@ msgstr "O link que você usou não é válido. Por favor cheque a fonte deste li
 #. i18n: keyword: E_EXPIRED_LINK
 msgid "We're sorry but this reward is no longer active. Please follow us on social media and subscribe to our mailing list to get new rewards as we publish them."
 msgstr "Nós sentimos muito essa recompensa não está mais ativa. Por favor siga-nos em nossas redes sociais e inscreva-se em nosso sistema de e-mails para receber as recompensas assim que as publicamos."
+
+#. i18n: keyword: UserTransactions
+msgid "User Transactions"
+msgstr ""
+
+#. i18n: keyword: UserTransactionsDescription
+msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
+msgstr ""
+
+#. i18n: keyword: PlatformName
+msgid "Platform Name"
+msgstr ""
+
+#. i18n: keyword: CurrentBalanceForSpools
+msgid "Current Spools Balance"
+msgstr ""
+
+#. i18n: keyword: CurrentBalanceForPoints
+msgid "Current Points Balance"
+msgstr ""
+
+#. i18n: keyword: NewBalance
+msgid "New Balance:"
+msgstr ""
+
+#. i18n: keyword: TXN_NOT_SUPPORTED
+msgid "Transaction Not Supported"
+msgstr ""
+
+#. i18n: keyword: TXN_CREATE_AN_ITEM
+msgid "Create An Item"
+msgstr ""
+
+#. i18n: keyword: TXN_LINK_FOR_SPOOLS
+msgid "Link For Spools"
+msgstr ""
+
+#. i18n: keyword: TXN_LINK_FOR_POINTS
+msgid "Link For Points"
+msgstr ""
+
+#. i18n: keyword: TXN_QUEST_FOR_SPOOLS
+msgid "Quest For Spools"
+msgstr ""
+
+#. i18n: keyword: TXN_QUEST_FOR_POINTS
+msgid "Quest For Points"
+msgstr ""
+
+#. i18n: keyword: TXN_QUEST_FOR_BOLTS
+msgid "Quest For Bolts"
+msgstr ""
+
+#. i18n: keyword: TXN_SPOOLS_FOR_ITEM
+msgid "Spools For Item"
+msgstr ""
+
+#. i18n: keyword: TXN_POINTS_FOR_ITEM
+msgid "Points For Item"
+msgstr ""
+
+#. i18n: keyword: TXN_BOLTS_FOR_ITEM
+msgid "Bolts For Item"
+msgstr ""
+
+#. i18n: keyword: TXN_REFUND_PURCHASE
+msgid "Refund Purchase"
+msgstr ""
+
+#. i18n: keyword: TXN_MARKET_LIST_ITEM
+msgid "Market List Item"
+msgstr ""
+
+#. i18n: keyword: TXN_MARKET_PURCHASE
+msgid "Market Purchase"
+msgstr ""
+
+#. i18n: keyword: TXN_MARKET_ROLLBACK
+msgid "Market Rollback"
+msgstr ""
+
+#. i18n: keyword: TXN_ITEM_TRADE_LOSE
+msgid "Item Trade Lose"
+msgstr ""
+
+#. i18n: keyword: TXN_ITEM_FOR_SPOOLS
+msgid "Item For Spools"
+msgstr ""
+
+#. i18n: keyword: TXN_ITEM_FOR_POINTS
+msgid "Item For Points"
+msgstr ""
+
+#. i18n: keyword: TXN_PURCHASEBOX_STEAM
+msgid "Steam Box"
+msgstr ""
+
+#. i18n: keyword: TXN_PURCHASEBOX_TENCENT
+msgid "Tencent Games Box"
+msgstr ""
+
+#. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
+msgid "Currency Box"
+msgstr ""
+
+#. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
+msgid "Steam Box DLC"
+msgstr ""
+
