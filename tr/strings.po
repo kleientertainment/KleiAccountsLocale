@@ -858,7 +858,7 @@ msgstr "makara"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
-msgstr "min"
+msgstr "dk"
 
 #. i18n: keyword: RewardBalance
 msgid "Current Balance"
