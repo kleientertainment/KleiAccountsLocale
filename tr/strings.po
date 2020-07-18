@@ -874,7 +874,7 @@ msgstr "DouYu'da “Don't Starve Together” ı izleyin"
 
 #. i18n: keyword: RewardNameBilibili
 msgid "Watch “Don’t Starve Together” on Bilibili"
-msgstr "Bilibili'de \"Don’t Starve Together\" yı izleyin"
+msgstr "Bilibili'de \"Don’t Starve Together\" ı izleyin"
 
 #. i18n: keyword: RewardNameYoutube
 msgid "Follow us on YouTube"
