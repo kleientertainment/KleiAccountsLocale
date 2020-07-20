@@ -1637,7 +1637,6 @@ msgstr "Посилання, яке ви використовували, неді
 msgid "We're sorry but this reward is no longer active. Please follow us on social media and subscribe to our mailing list to get new rewards as we publish them."
 msgstr "На жаль, ця нагорода більше не активна. Будь ласка, слідкуйте за нами в соціальних мережах і підпишіться на нашу розсилку, аби мати змогу отримати нові винагороди під час їх публікації."
 
-
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
 msgstr "Транзакції користувача"
@@ -1656,7 +1655,7 @@ msgstr "Поточний баланс котушок"
 
 #. i18n: keyword: CurrentBalanceForPoints
 msgid "Current Points Balance"
-msgstr "Поточних баланс балів"
+msgstr "Поточний баланс балів"
 
 #. i18n: keyword: NewBalance
 msgid "New Balance:"
