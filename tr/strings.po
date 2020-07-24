@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-07-18 22:32\n"
+"PO-Revision-Date: 2020-07-24 03:24\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -11,6 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: klei-accounts\n"
+"X-Crowdin-Project-ID: 401122\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: strings.po\n"
+"X-Crowdin-File-ID: 76\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -19,6 +24,10 @@ msgstr "E-Posta"
 #. i18n: keyword: Loading
 msgid "Loading…"
 msgstr "Yükleniyor…"
+
+#. i18n: keyword: Search
+msgid "Search"
+msgstr ""
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -648,6 +657,18 @@ msgstr "Bu oyunu DRM-free olarak indirebilirsiniz. Daha fazla bilgi için <a hre
 msgid "Don’t Starve Together Game Servers"
 msgstr "Don’t Starve Together Oyun Sunucusu"
 
+#. i18n: keyword: DontStarveTogetherInventory
+msgid "Don’t Starve Together Items Inventory"
+msgstr ""
+
+#. i18n: keyword: ItemsInventorySearchTips
+msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
+msgstr ""
+
+#. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
+msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
+msgstr ""
+
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
 msgstr "Oyuncu Bilgisi"
@@ -759,6 +780,10 @@ msgstr "Küme Açıklaması"
 #. i18n: keyword: ConfigureServerClusterPassword
 msgid "Cluster Password"
 msgstr "Küme Parolası"
+
+#. i18n: keyword: ItemsInventoryTitle
+msgid "Your Items Inventory"
+msgstr ""
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -1739,3 +1764,12 @@ msgstr "Para Birimi Kutusu"
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
 msgstr "Steam Kutusu (DLC)"
+
+#. i18n: keyword: Marketable
+msgid "Marketable"
+msgstr ""
+
+#. i18n: keyword: Tradeable
+msgid "Tradeable"
+msgstr ""
+

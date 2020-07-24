@@ -3,20 +3,19 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-07-23 11:20+0700\n"
+"PO-Revision-Date: 2020-07-24 03:24\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: klei-accounts\n"
 "X-Crowdin-Project-ID: 401122\n"
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: strings.po\n"
-"X-Crowdin-File-ID: 0\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Crowdin-File-ID: 76\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -25,6 +24,10 @@ msgstr "Email"
 #. i18n: keyword: Loading
 msgid "Loading…"
 msgstr "Đang tải…"
+
+#. i18n: keyword: Search
+msgid "Search"
+msgstr ""
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -143,15 +146,8 @@ msgid "Activate Account"
 msgstr "Kích hoạt tài khoản"
 
 #. i18n: keyword: ActivateAccountDescription
-msgid ""
-"Your Klei account was successfully created! Please complete the form to activate "
-"it and have access to additional features. You can also subscribe to our "
-"newsletter to receive information about your favorite game."
-msgstr ""
-"Tài khoản Klei của bạn đã được tạo thánh công ! Vui lòng hoàn thành biểu mẫu để "
-"kích hoạt tài khoản và sử dung những tính năng khác. Bạn cũng có thể đăng ký nhận "
-"thông báo của chúng tôi để có thể cập nhật những thông tin mới nhất về tựa game ưa "
-"thích của bạn."
+msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
+msgstr "Tài khoản Klei của bạn đã được tạo thánh công ! Vui lòng hoàn thành biểu mẫu để kích hoạt tài khoản và sử dung những tính năng khác. Bạn cũng có thể đăng ký nhận thông báo của chúng tôi để có thể cập nhật những thông tin mới nhất về tựa game ưa thích của bạn."
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -162,29 +158,16 @@ msgid "I wish to sign-up for our newsletter"
 msgstr "Đăng ký nhận email"
 
 #. i18n: keyword: EULA
-msgid ""
-"I agree to the <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">EULA</a>"
-msgstr ""
-"Tôi đồng ý với <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">thỏa thuận người dùng</a>"
+msgid "I agree to the <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">EULA</a>"
+msgstr "Tôi đồng ý với <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">thỏa thuận người dùng</a>"
 
 #. i18n: keyword: MustAcceptEULA
-msgid ""
-"EULA Must Be Accepted to Register. Please read our EULA and check the confirmation "
-"box to proceed."
-msgstr ""
-"Thỏa thuận người dùng phải được chấp nhận trước khi đăng ký. Xin vui lòng đọc thỏa "
-"thuận người dùng của chúng tôi và đánh dấu vào ô xác nhận để tiếp tục."
+msgid "EULA Must Be Accepted to Register. Please read our EULA and check the confirmation box to proceed."
+msgstr "Thỏa thuận người dùng phải được chấp nhận trước khi đăng ký. Xin vui lòng đọc thỏa thuận người dùng của chúng tôi và đánh dấu vào ô xác nhận để tiếp tục."
 
 #. i18n: keyword: PrivacyPolicy
-msgid ""
-"By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/"
-"privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
-msgstr ""
-"Bằng cách gửi biểu mẫu này, bạn đang đồng ý với <a href=\"https://www.klei.com/"
-"privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Chính sách bảo mật</"
-"a> của chúng tôi."
+msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
+msgstr "Bằng cách gửi biểu mẫu này, bạn đang đồng ý với <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Chính sách bảo mật</a> của chúng tôi."
 
 #. i18n: keyword: FillAccountDetails
 msgid "Fill your account details here:"
@@ -203,16 +186,8 @@ msgid "Verification Email Sent"
 msgstr "Email xác thực đã được gửi"
 
 #. i18n: keyword: VerificationEmailSuccessDescription
-msgid ""
-"We’ve sent a verification e-mail to your e-mail address. To complete your "
-"registration, please click the link contained in the email. Emails are usually "
-"sent instantly. If you have not received the e-mail after an hour, first check "
-"your spam folder."
-msgstr ""
-"Chúng tôi vừa gửi một e-mail xác thực tới địa chỉ e-mail của bạn. Để hoàn thánh "
-"việc đăng ký, vui lòng click vào đường dẫn đi kèm trong email. Email thường được "
-"gửi ngày lập tức. Nếu trong vòng một tiếng bạn không nhận được email, xin vui lòng "
-"kiểm tra mục thư rác."
+msgid "We’ve sent a verification e-mail to your e-mail address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the e-mail after an hour, first check your spam folder."
+msgstr "Chúng tôi vừa gửi một e-mail xác thực tới địa chỉ e-mail của bạn. Để hoàn thánh việc đăng ký, vui lòng click vào đường dẫn đi kèm trong email. Email thường được gửi ngày lập tức. Nếu trong vòng một tiếng bạn không nhận được email, xin vui lòng kiểm tra mục thư rác."
 
 #. i18n: keyword: VerificationEmailFailureTitle
 msgid "Invalid Verification"
@@ -223,10 +198,8 @@ msgid "Oops, it looks like the link you used to get here was invalid."
 msgstr "Oops, có vẻ như đường dẫn bạn sử dung để tới đây không tồn tại."
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
-msgid ""
-"We cannot execute this operation because your e-mail address is not verified yet."
-msgstr ""
-"Chúng tôi không thể hoành thánh việc này vì e-mail của bạn chưa được xác thực."
+msgid "We cannot execute this operation because your e-mail address is not verified yet."
+msgstr "Chúng tôi không thể hoành thánh việc này vì e-mail của bạn chưa được xác thực."
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -245,14 +218,8 @@ msgid "Successful Verification"
 msgstr "Xác thực thành công"
 
 #. i18n: keyword: RegistrationCompleteDescription
-msgid ""
-"Thanks for verifying your email.</p><p>You’re good to go! You can now return to "
-"your game and play online. If you have suggestions, feedback or need support "
-"during the beta, head over to the Klei community forum."
-msgstr ""
-"Cảm ơn đã xác minh e-mail của bạn.</p><p>Bạn có thể quay trở lại trò chơi và chơi "
-"trực tuyến. Nếu bạn có bất kỳ gợi ý, phản hồi hoặc cần sự trợ giúp trong quá trình "
-"thử nghiệm, vui lòng tới diện đàn cộng đồng của Klei."
+msgid "Thanks for verifying your email.</p><p>You’re good to go! You can now return to your game and play online. If you have suggestions, feedback or need support during the beta, head over to the Klei community forum."
+msgstr "Cảm ơn đã xác minh e-mail của bạn.</p><p>Bạn có thể quay trở lại trò chơi và chơi trực tuyến. Nếu bạn có bất kỳ gợi ý, phản hồi hoặc cần sự trợ giúp trong quá trình thử nghiệm, vui lòng tới diện đàn cộng đồng của Klei."
 
 #. i18n: keyword: VisitCommunityForum
 msgid "Visit Klei Community Forum"
@@ -271,14 +238,8 @@ msgid "Klei Account Log In"
 msgstr "Đăng nhập tài khoản Klei"
 
 #. i18n: keyword: LoginDescription
-msgid ""
-"Log into your Klei account to see all your Klei games, trade game items with "
-"friends, sign up for betas and get access to exclusive content.</p><p>Choose a "
-"platform to log in:"
-msgstr ""
-"Đăng nhập vào tài khoản của bạn để thấy tất cả những trò chơi từ Klei, giao lưu "
-"vật phẩm trong trò chơi với bạn bè, đăng ký chương trình thử nghiệm và tiếp cận "
-"với những nội dung độc đáo. </p><p>Chọn một nền tảng để đăng nhập:"
+msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
+msgstr "Đăng nhập vào tài khoản của bạn để thấy tất cả những trò chơi từ Klei, giao lưu vật phẩm trong trò chơi với bạn bè, đăng ký chương trình thử nghiệm và tiếp cận với những nội dung độc đáo. </p><p>Chọn một nền tảng để đăng nhập:"
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -289,32 +250,16 @@ msgid "Subscribing..."
 msgstr "Đang đăng ký..."
 
 #. i18n: keyword: SubscribeContent
-msgid ""
-"Get the latest major news and updates for {{.GameName}}. We do not send a lot of "
-"email, but when we do we try to make it count! Easily unsubscribe at any time from "
-"the bottom of any email we do send. For the latest news you can also follow us on "
-"Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit "
-"our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr ""
-"Nhận những tin tức và cập nhật mới nhất cho {{.GameName}}. Chúng tôi không gửi "
-"nhiều email, nhưng một khi đã gửi chúng tôi luôn cố gắng làm cho nó đáng giá! Bạn "
-"có thể dễ dàng hủy đăng ký nhận tin tức ở phần dưới cùng của bất cứ email nào "
-"chúng tôi gửi. Để nhận những tin tức mới nhất bạn có thể theo dõi Twitter của "
-"chúng tôi<a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> và tới "
-"diễn đàn chính thức <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
+msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
+msgstr "Nhận những tin tức và cập nhật mới nhất cho {{.GameName}}. Chúng tôi không gửi nhiều email, nhưng một khi đã gửi chúng tôi luôn cố gắng làm cho nó đáng giá! Bạn có thể dễ dàng hủy đăng ký nhận tin tức ở phần dưới cùng của bất cứ email nào chúng tôi gửi. Để nhận những tin tức mới nhất bạn có thể theo dõi Twitter của chúng tôi<a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> và tới diễn đàn chính thức <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
 msgstr "Hoàn tất đăng ký theo dõi"
 
 #. i18n: keyword: SubscribeCompleteDescription
-msgid ""
-"Your email subscription has been processed. If this is the first time you "
-"subscribe to one of our newsletters, you will receive a confirmation email."
-msgstr ""
-"Việc đăng ký nhận thông tin qua email của bạn vừa được thực hiện. Nếu đây là lần "
-"đầu bạn đăng ký theo dõi bản tin của chúng tôi, bạn sẽ nhận được một email xác "
-"nhận."
+msgid "Your email subscription has been processed. If this is the first time you subscribe to one of our newsletters, you will receive a confirmation email."
+msgstr "Việc đăng ký nhận thông tin qua email của bạn vừa được thực hiện. Nếu đây là lần đầu bạn đăng ký theo dõi bản tin của chúng tôi, bạn sẽ nhận được một email xác nhận."
 
 #. i18n: keyword: UserInfo
 msgid "User Info"
@@ -393,19 +338,8 @@ msgid "Streaming Rules"
 msgstr "Luật Streaming"
 
 #. i18n: keyword: AccountLinkRulesDescription
-msgid ""
-"Klei Rewards are intended to be a way to support streamers that provide quality "
-"content for our community, and “Away From Keyboard (AFK)” streams disrupt the "
-"effectiveness of the system. AFK streams or streams showing content other than "
-"Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these "
-"rules will be unlinked and potentially banned from participating ever again."
-msgstr ""
-"Klei Rewards là chương trình có mục đích như một cách hỗ trợ các streamer cung cấp "
-"những nội dung chất lượng cho cộng đồng, và những stream AFK phá vỡ sự hiệu quả "
-"của hệ thống này. Các AFK stream hoặc stream hiển thị những nội dung khác ngoài "
-"Don’t Starve hoặc Don’t Starve Together đều không được cho phép. Những streamer vi "
-"phạm các quy định này sẽ ngừng hợp tác và có thể bị cấm tham gia chương trình này "
-"vĩnh viễn."
+msgid "Klei Rewards are intended to be a way to support streamers that provide quality content for our community, and “Away From Keyboard (AFK)” streams disrupt the effectiveness of the system. AFK streams or streams showing content other than Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these rules will be unlinked and potentially banned from participating ever again."
+msgstr "Klei Rewards là chương trình có mục đích như một cách hỗ trợ các streamer cung cấp những nội dung chất lượng cho cộng đồng, và những stream AFK phá vỡ sự hiệu quả của hệ thống này. Các AFK stream hoặc stream hiển thị những nội dung khác ngoài Don’t Starve hoặc Don’t Starve Together đều không được cho phép. Những streamer vi phạm các quy định này sẽ ngừng hợp tác và có thể bị cấm tham gia chương trình này vĩnh viễn."
 
 #. i18n: keyword: AccountLinkRulesAccept
 msgid "Accept and Continue"
@@ -416,20 +350,12 @@ msgid "Change Email"
 msgstr "Thay đổi Email"
 
 #. i18n: keyword: ChangeEmailDescription
-msgid ""
-"This is the email address we will use to send you updates & news regarding your "
-"account or games."
-msgstr ""
-"Đây là địa chỉ email chúng tôi sẽ sử dung để gửi cho bạn những cập nhật và tin tức "
-"về tài khoản hoặc trò chơi của bạn."
+msgid "This is the email address we will use to send you updates & news regarding your account or games."
+msgstr "Đây là địa chỉ email chúng tôi sẽ sử dung để gửi cho bạn những cập nhật và tin tức về tài khoản hoặc trò chơi của bạn."
 
 #. i18n: keyword: ChangeEmailInProgress
-msgid ""
-"Your new e-mail is being changed. We have sent you a mail with a verification link "
-"to authorize the change."
-msgstr ""
-"Email mới của bạn đang được thay đổi. Chúng tôi đã gửi bạn một mail đi kèm với một "
-"đường dẫn xác nhận để ủy quyền cho thay đổi này."
+msgid "Your new e-mail is being changed. We have sent you a mail with a verification link to authorize the change."
+msgstr "Email mới của bạn đang được thay đổi. Chúng tôi đã gửi bạn một mail đi kèm với một đường dẫn xác nhận để ủy quyền cho thay đổi này."
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -440,14 +366,8 @@ msgid "Hide Steam Inventory"
 msgstr "Ẩn kho đồ Steam"
 
 #. i18n: keyword: HideSteamInventoryDescription
-msgid ""
-"Checking the boxes below will hide the items associated to your Klei games from "
-"Steam. You still own your items and will be able to see them in the games. If you "
-"want to make the inventory visible again, simply uncheck the boxes and save your "
-"changes."
-msgstr ""
-"Đánh dấu vào ô dưới đây sẽ ẩn vật phẩm liên kết với trò chơi từ Klei của bạn từ "
-"Steam."
+msgid "Checking the boxes below will hide the items associated to your Klei games from Steam. You still own your items and will be able to see them in the games. If you want to make the inventory visible again, simply uncheck the boxes and save your changes."
+msgstr "Đánh dấu vào ô dưới đây sẽ ẩn vật phẩm liên kết với trò chơi từ Klei của bạn từ Steam."
 
 #. i18n: keyword: InventoryHasBeenHidden
 msgid "Inventory has been hidden"
@@ -458,12 +378,8 @@ msgid "Marketing Options"
 msgstr "Lựa chọn tiếp thị"
 
 #. i18n: keyword: MarketingOptionsDescription
-msgid ""
-"Use these options to configure your newsletter subscription. Remember, you can "
-"unsubscribe at any time."
-msgstr ""
-"Sử dung những lựa chọn này để thiết lập bản tin đăng ký của bạn. Hãy nhớ, bạn có "
-"thể dừng đăng ký theo dõi bất cứ lúc nào."
+msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
+msgstr "Sử dung những lựa chọn này để thiết lập bản tin đăng ký của bạn. Hãy nhớ, bạn có thể dừng đăng ký theo dõi bất cứ lúc nào."
 
 #. i18n: keyword: MarketingOptionsUnsubscribe
 msgid "I do not want to receive marketing emails"
@@ -475,34 +391,23 @@ msgstr "Tôi muốn nhận email tiếp thị (tin tức, trò chơi mới, qu�
 
 #. i18n: keyword: MarketingOptionsDetails
 msgid "For more detailed information about each game, please select the boxes below:"
-msgstr ""
-"Để biết thêm thông tin chi tiết về mỗi trò chơi, vui lòng đánh dấu các ô bên dưới:"
+msgstr "Để biết thêm thông tin chi tiết về mỗi trò chơi, vui lòng đánh dấu các ô bên dưới:"
 
 #. i18n: keyword: MarketingOptionsPending
 msgid "We have sent you an email to confirm your subscription to our mailing list."
-msgstr ""
-"Chúng tôi đã gửi cho bạn một email để xác nhận việc đăng ký vào danh sách gửi thư."
+msgstr "Chúng tôi đã gửi cho bạn một email để xác nhận việc đăng ký vào danh sách gửi thư."
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
 msgstr "Hợp nhất tài khoản"
 
 #. i18n: keyword: MergeAccountDescription
-msgid ""
-"This process will allow one Klei account to be associated to multiple platforms. "
-"This is intended for when you have accounts on multiple platforms and want them "
-"all to be linked to a single Klei account."
-msgstr ""
-"Quá trình này sẽ cho phép một tài khoản Klei có thể kết nối với nhiều nền tảng. "
-"Điều này là có chủ ý khi bạn có nhiều tài khoản trên nhiều nền tảng và muốn liên "
-"kết chúng tới một tài khoản Klei duy nhất."
+msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
+msgstr "Quá trình này sẽ cho phép một tài khoản Klei có thể kết nối với nhiều nền tảng. Điều này là có chủ ý khi bạn có nhiều tài khoản trên nhiều nền tảng và muốn liên kết chúng tới một tài khoản Klei duy nhất."
 
 #. i18n: keyword: MergeAccountConsent
-msgid ""
-"Please click the checkmark to confirm that you have read and understand the "
-"following."
-msgstr ""
-"Vui lòng chọn phần đánh dấu để xác nhận bạn đã đọc và hiểu những mục sau đây."
+msgid "Please click the checkmark to confirm that you have read and understand the following."
+msgstr "Vui lòng chọn phần đánh dấu để xác nhận bạn đã đọc và hiểu những mục sau đây."
 
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
@@ -514,8 +419,7 @@ msgstr "Xác nhận"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr ""
-"Vui lòng điền \"merge accounts\" nhưng với tất cả các chữ cái IN HOA, để xác nhận:"
+msgstr "Vui lòng điền \"merge accounts\" nhưng với tất cả các chữ cái IN HOA, để xác nhận:"
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"
@@ -530,17 +434,8 @@ msgid "Successful Account Merge"
 msgstr "Hợp nhất tài khoản thành công"
 
 #. i18n: keyword: MergeAccountSuccessDescription
-msgid ""
-"The account merge operation was a success.</p><p>We have cleared your session to "
-"allow you to login with the new account.</p><p>Games will be granted on demand on "
-"the other gaming platform.</p><p>Remember you need to <strong>start the game at "
-"least once</strong> for us to be able to detect it."
-msgstr ""
-"Quá trình hợp nhất tài khoản đã thành công.</p><p>Chúng tôi đã dọn dẹp phiên để "
-"bạn có thể đăng nhập với tài khoản mới.</p><p>Các trò chơi sẽ được cung cấp tùy "
-"theo yêu cầu trên nền tảng chơi game khác.</p><p>Hãy nhớ rằng bạn phải "
-"<strong>khởi động trò chơi ít nhất một lần</strong> để chúng tôi có thể phát hiện "
-"ra nó."
+msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
+msgstr "Quá trình hợp nhất tài khoản đã thành công.</p><p>Chúng tôi đã dọn dẹp phiên để bạn có thể đăng nhập với tài khoản mới.</p><p>Các trò chơi sẽ được cung cấp tùy theo yêu cầu trên nền tảng chơi game khác.</p><p>Hãy nhớ rằng bạn phải <strong>khởi động trò chơi ít nhất một lần</strong> để chúng tôi có thể phát hiện ra nó."
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -555,23 +450,12 @@ msgid "Please double check this is the correct gaming account to merge."
 msgstr "Vui lòng kiểm tra lại đây có đúng tài khoản dùng để hợp nhất."
 
 #. i18n: keyword: MergeAccountReadyToExecute
-msgid ""
-"We have checked all the information we could find about the two accounts you are "
-"about to merge and did not find any warnings. You will be able to log in with the "
-"new account after submitting this form."
-msgstr ""
-"Chúng tôi đã kiểm tra tất cả thông tin có thể tìm thấy về hai tài khoản bạn sắp "
-"hợp nhất và không tìm thấy bất kỳ cảnh báo nào. Bạn sẽ có thể đăng nhập bằng tài "
-"khoản mới sau khi gửi biểu mẫu này."
+msgid "We have checked all the information we could find about the two accounts you are about to merge and did not find any warnings. You will be able to log in with the new account after submitting this form."
+msgstr "Chúng tôi đã kiểm tra tất cả thông tin có thể tìm thấy về hai tài khoản bạn sắp hợp nhất và không tìm thấy bất kỳ cảnh báo nào. Bạn sẽ có thể đăng nhập bằng tài khoản mới sau khi gửi biểu mẫu này."
 
 #. i18n: keyword: MergeAccountConsentQuestion1
-msgid ""
-"DO NOT use this if you do not own both accounts. Both accounts will be considered "
-"a single person and will not be able to play multiplayer games at the same time."
-msgstr ""
-"KHÔNG sử dụng điều này nếu bạn không sở hữu cả hai tài khoản. Cả hai tài khoản sẽ "
-"được coi là một người và sẽ không thể chơi các trò chơi nhiều người chơi cùng một "
-"lúc."
+msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
+msgstr "KHÔNG sử dụng điều này nếu bạn không sở hữu cả hai tài khoản. Cả hai tài khoản sẽ được coi là một người và sẽ không thể chơi các trò chơi nhiều người chơi cùng một lúc."
 
 #. i18n: keyword: MergeAccountConsentQuestion2
 msgid "This process is permanent and cannot be reverted or changed."
@@ -579,100 +463,55 @@ msgstr "Quá trình này là vĩnh viễn và không thể hoàn tác hoặc tha
 
 #. i18n: keyword: MergeAccountConsentQuestion3
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
-msgstr ""
-"Khi một nền tảng được liên kết với một tài khoản Klei, nó sẽ không thể hủy liên "
-"kết."
+msgstr "Khi một nền tảng được liên kết với một tài khoản Klei, nó sẽ không thể hủy liên kết."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
-msgid ""
-"Unfortunately, the gaming platform you are trying to merge does not have the "
-"capabilities to execute this operation yet."
-msgstr ""
-"Rất tiếc, hiện tại nền tảng trò chơi bạn đang cố gắng hợp nhất không có khả năng "
-"thực hiện chức năng này."
+msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
+msgstr "Rất tiếc, hiện tại nền tảng trò chơi bạn đang cố gắng hợp nhất không có khả năng thực hiện chức năng này."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_INVALID_CONSENT
-msgid ""
-"Invalid user consent, you need to read the account merge instructions very "
-"carefully."
-msgstr ""
-"Sự đồng ý của người dùng không hợp lệ, bạn cần đọc thật kỹ hướng dẫn hợp nhất tài "
-"khoản."
+msgid "Invalid user consent, you need to read the account merge instructions very carefully."
+msgstr "Sự đồng ý của người dùng không hợp lệ, bạn cần đọc thật kỹ hướng dẫn hợp nhất tài khoản."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_MISSING_DATA
-msgid ""
-"It is impossible to merge your accounts right now because some data is missing. "
-"Please log out and start the process again. Make sure that your web browser "
-"accepts cookies and the two accounts you are going to merge are correct."
-msgstr ""
-"Việc hợp nhất các tài khoản của bạn ngay bây giờ là bất khả thi vì một số dữ liệu "
-"bị thiếu. Vui lòng đăng xuất và bắt đầu lại quá trình. Hãy đảm bảo trình duyệt web "
-"của bạn chấp nhận cookie và hai tài khoản bạn sắp hợp nhất là chính xác."
+msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
+msgstr "Việc hợp nhất các tài khoản của bạn ngay bây giờ là bất khả thi vì một số dữ liệu bị thiếu. Vui lòng đăng xuất và bắt đầu lại quá trình. Hãy đảm bảo trình duyệt web của bạn chấp nhận cookie và hai tài khoản bạn sắp hợp nhất là chính xác."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
-msgid ""
-"Please update your *Klei* accounts to use the same e-mail address and start the "
-"process again."
-msgstr ""
-"Vui lòng cập nhật tài khoản * Klei * của bạn để sử dung địa chỉ email giống nhau "
-"và bắt đầu lại quy trình."
+msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
+msgstr "Vui lòng cập nhật tài khoản * Klei * của bạn để sử dung địa chỉ email giống nhau và bắt đầu lại quy trình."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid ""
-"Please verify/validate the e-mail address in both accounts and start the process "
-"again."
-msgstr ""
-"Vui lòng xác minh / xác thực địa chỉ e-mail trong cả hai tài khoản và bắt đầu lại "
-"quy trình."
+msgid "Please verify/validate the e-mail address in both accounts and start the process again."
+msgstr "Vui lòng xác minh / xác thực địa chỉ e-mail trong cả hai tài khoản và bắt đầu lại quy trình."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
-msgstr ""
-"Chúng tôi không thể hợp nhất tài khoản của bạn vì một trong số chúng đã bị khóa."
+msgstr "Chúng tôi không thể hợp nhất tài khoản của bạn vì một trong số chúng đã bị khóa."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PASSWORD_RESET
-msgid ""
-"It appears your password was reset some time ago but you never finished the "
-"verification process."
-msgstr ""
-"Có vẻ như mật khẩu của bạn đã được đặt lại gần đây nhưng bạn chưa bao giờ hoàn "
-"thánh quá trình xác minh."
+msgid "It appears your password was reset some time ago but you never finished the verification process."
+msgstr "Có vẻ như mật khẩu của bạn đã được đặt lại gần đây nhưng bạn chưa bao giờ hoàn thánh quá trình xác minh."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_MARKED_FOR_DELETION
 msgid "We cannot merge your accounts because one of them is marked for deletion."
-msgstr ""
-"Chúng tôi không thể hợp nhất tài khoản của bạn vì một trong số chúng được đánh dấu "
-"để xóa."
+msgstr "Chúng tôi không thể hợp nhất tài khoản của bạn vì một trong số chúng được đánh dấu để xóa."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_NOTHING_TO_MERGE
 msgid "There is nothing to merge for this account."
 msgstr "Không có gì để hợp nhất cho tài khoản này."
 
 #. i18n: keyword: OwnershipDescription
-msgid ""
-"Use this page to get access to the games you already own in a different gaming "
-"platform."
-msgstr ""
-"Sử dụng trang này để có quyền truy cập vào các trò chơi bạn đã sở hữu trên một nền "
-"tảng chơi trò chơi khác."
+msgid "Use this page to get access to the games you already own in a different gaming platform."
+msgstr "Sử dụng trang này để có quyền truy cập vào các trò chơi bạn đã sở hữu trên một nền tảng chơi trò chơi khác."
 
 #. i18n: keyword: OwnershipTableDescription
-msgid ""
-"The table below shows you the ownership status of your games in different gaming "
-"platforms."
-msgstr ""
-"Bảng dưới đây hiển thị trạng thái sở hữu các trò chơi của bạn trên các nền tảng "
-"chơi trò chơi khác nhau."
+msgid "The table below shows you the ownership status of your games in different gaming platforms."
+msgstr "Bảng dưới đây hiển thị trạng thái sở hữu các trò chơi của bạn trên các nền tảng chơi trò chơi khác nhau."
 
 #. i18n: keyword: OwnershipGrantingText
-msgid ""
-"Game granting is in progress. This operation may take several minutes, in the "
-"meantime you can visit the game ownership page for updates. We appreciate your "
-"patience and hope you enjoy playing the game with your friends."
-msgstr ""
-"Việc cấp trò chơi đang được tiến hành. Thao tác này có thể mất một vài phút, trong "
-"khi chờ đợi, bạn có thể truy cập trang sở hữu trò chơi để xem cập nhật. Chúng tôi "
-"đánh giá cao sự kiên nhẫn của bạn và hy vọng bạn thích chơi trò chơi với bạn bè."
+msgid "Game granting is in progress. This operation may take several minutes, in the meantime you can visit the game ownership page for updates. We appreciate your patience and hope you enjoy playing the game with your friends."
+msgstr "Việc cấp trò chơi đang được tiến hành. Thao tác này có thể mất một vài phút, trong khi chờ đợi, bạn có thể truy cập trang sở hữu trò chơi để xem cập nhật. Chúng tôi đánh giá cao sự kiên nhẫn của bạn và hy vọng bạn thích chơi trò chơi với bạn bè."
 
 #. i18n: keyword: OwnershipPageButton
 msgid "Visit Game Ownership Page"
@@ -727,26 +566,8 @@ msgid "Unexpected bad things will happen if you don’t read this!"
 msgstr "Những điều xấu sẽ bất ngờ xảy ra nếu bạn không đọc cái này!"
 
 #. i18n: keyword: DeleteAccountExplanation
-msgid ""
-"At your request, your <b>Klei account</b> and all personally identifiable "
-"information related to your account (excluding financial transactions and "
-"information related to abuse) will be submitted to be permanently removed from our "
-"system.</p><p><b>Please note: You will not be able to reverse this action, and all "
-"data will be completely and irrecoverably removed.</b></p><p><strong>This means "
-"you will no longer be able to play any game that requires a Klei Account (Don’t "
-"Starve Together and Hot Lava) the {{.PlatformName}} account will be banned "
-"permanently, and all records will be destroyed forever including progress, items "
-"and entitlements.</strong>"
-msgstr ""
-"Như yêu cầu của bạn, <b>tài khoản Klei</b> và toàn bộ dữ liệu định danh cá nhân "
-"lien quan tới tài khoản của bạn (không bao gồm các giao dịch tài chỉnh và thông "
-"tin liên quan tới lạm dụng) sẽ bị xóa vĩnh viễn khỏi hệ thống của chúng tôi.</"
-"p><p><b> Xin hãy ghi nhớ: Bạn sẽ không thể hoàn tác hành động này, và toàn bộ "
-"thông tin sẽ bị xóa hoàn toàn và vĩnh viễn.</b></p><p><strong> Điều này đồng nghĩa "
-"với việc bạn sẽ không thể chơi bất cứ trò chơi nào đòi hỏi một tài khoản Klei "
-"(Don’t Starve Together và Hot Lava) tài khoản trên nền tảng {{.PlatformName}} sẽ "
-"bị khóa vĩnh viễn, và toàn bộ các thông tin sẽ bị phá hủy mãi mãi bao gồm cả thông "
-"tin về quá trình chơi, vật phẩm và quyền lợi. </strong>"
+msgid "At your request, your <b>Klei account</b> and all personally identifiable information related to your account (excluding financial transactions and information related to abuse) will be submitted to be permanently removed from our system.</p><p><b>Please note: You will not be able to reverse this action, and all data will be completely and irrecoverably removed.</b></p><p><strong>This means you will no longer be able to play any game that requires a Klei Account (Don’t Starve Together and Hot Lava) the {{.PlatformName}} account will be banned permanently, and all records will be destroyed forever including progress, items and entitlements.</strong>"
+msgstr "Như yêu cầu của bạn, <b>tài khoản Klei</b> và toàn bộ dữ liệu định danh cá nhân lien quan tới tài khoản của bạn (không bao gồm các giao dịch tài chỉnh và thông tin liên quan tới lạm dụng) sẽ bị xóa vĩnh viễn khỏi hệ thống của chúng tôi.</p><p><b> Xin hãy ghi nhớ: Bạn sẽ không thể hoàn tác hành động này, và toàn bộ thông tin sẽ bị xóa hoàn toàn và vĩnh viễn.</b></p><p><strong> Điều này đồng nghĩa với việc bạn sẽ không thể chơi bất cứ trò chơi nào đòi hỏi một tài khoản Klei (Don’t Starve Together và Hot Lava) tài khoản trên nền tảng {{.PlatformName}} sẽ bị khóa vĩnh viễn, và toàn bộ các thông tin sẽ bị phá hủy mãi mãi bao gồm cả thông tin về quá trình chơi, vật phẩm và quyền lợi. </strong>"
 
 #. i18n: keyword: DeleteAccountOptions
 msgid "Check the boxes to confirm you understand what is going to happen:"
@@ -773,11 +594,8 @@ msgid "I do not want to play Hot Lava anymore"
 msgstr "Tôi không muốn chơi Hot Lava nữa"
 
 #. i18n: keyword: DeleteAccountOptionsBanAccount
-msgid ""
-"Ban my {{.PlatformName}} account from playing Klei games for a MINIMUM of 30 days"
-msgstr ""
-"Không cho tài khoản trên nền tảng {{.PlatformName}} của tôi chơi trò chơi của Klei "
-"ÍT NHẤT trong vòng 30 ngày"
+msgid "Ban my {{.PlatformName}} account from playing Klei games for a MINIMUM of 30 days"
+msgstr "Không cho tài khoản trên nền tảng {{.PlatformName}} của tôi chơi trò chơi của Klei ÍT NHẤT trong vòng 30 ngày"
 
 #. i18n: keyword: DeleteAccountConfirm
 msgid "Confirm Deletion"
@@ -785,9 +603,7 @@ msgstr "Xác nhận việc xóa"
 
 #. i18n: keyword: DeleteAccountConfirmation
 msgid "Please type in “delete my account” but in UPPERCASE letters, to confirm:"
-msgstr ""
-"Vui lòng nhập \"delete my account\" nhưng với tất cả các chữ cái IN HOA, để xác "
-"nhận:"
+msgstr "Vui lòng nhập \"delete my account\" nhưng với tất cả các chữ cái IN HOA, để xác nhận:"
 
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
@@ -798,23 +614,8 @@ msgid "Verify Account Deletion"
 msgstr "Xác nhận việc xóa tài khoản"
 
 #. i18n: keyword: VerifyAccountDeletionDescription
-msgid ""
-"We emailed you a verification code to confirm the deletion of your account, please "
-"copy the code, and paste it into the form below.</p><p>If you didn’t receive the "
-"verification code, click “Cancel”, make sure your email is correct, and start the "
-"process again.</p><p>If you didn’t request the deletion of your account, then "
-"someone else with access to your {{.PlatformName}} account did it on your behalf. "
-"Click “Cancel” to stop the process entirely, and then change the password of your "
-"{{.PlatformName}} account to prevent this from happening again."
-msgstr ""
-"Chúng tôi đã gửi email cho bạn một mã xác minh để xác nhận việc xóa tài khoản, vui "
-"lòng sao chép và dán mã này vào biểu mẫu dưới đây.</p><p>Nếu bạn không nhận được "
-"mã xác minh, hãy click \"Hủy\", đảm bảo email bạn đang cung cấp là chính xác, và "
-"thực hiện lại quá trình này.</p><p>Nếu bạn không yêu cầu việc xóa tài khoản, chắc "
-"chắn đã có ai đó truy cập vào tài khoản của bạn trên nền tảng {{.PlatformName}} và "
-"làm việc này trên danh nghĩa của bạn. Chọn \"Hủy\" để dừng hoàn toàn quá trình, và "
-"thay đổi mật khẩu tài khoản của bạn trên nền tảng {{.PlatformName}} để tránh việc "
-"này xảy ra thêm lần nữa."
+msgid "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.PlatformName}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.PlatformName}} account to prevent this from happening again."
+msgstr "Chúng tôi đã gửi email cho bạn một mã xác minh để xác nhận việc xóa tài khoản, vui lòng sao chép và dán mã này vào biểu mẫu dưới đây.</p><p>Nếu bạn không nhận được mã xác minh, hãy click \"Hủy\", đảm bảo email bạn đang cung cấp là chính xác, và thực hiện lại quá trình này.</p><p>Nếu bạn không yêu cầu việc xóa tài khoản, chắc chắn đã có ai đó truy cập vào tài khoản của bạn trên nền tảng {{.PlatformName}} và làm việc này trên danh nghĩa của bạn. Chọn \"Hủy\" để dừng hoàn toàn quá trình, và thay đổi mật khẩu tài khoản của bạn trên nền tảng {{.PlatformName}} để tránh việc này xảy ra thêm lần nữa."
 
 #. i18n: keyword: VerifyAccountDeletionCode
 msgid "Verification Code"
@@ -849,16 +650,24 @@ msgid "DRM-Free Download"
 msgstr "Tải xuống bản quyền miễn phí"
 
 #. i18n: keyword: DRMFreeDownloadDescription
-msgid ""
-"You can get a DRM-free download of this game. More information <a href=\"/\">here</"
-"a>."
-msgstr ""
-"Bạn có thể tải xuống phiên bản bản quyền miễn phí của trò chơi này. Thông tin thêm "
-"có thể tìm thấy <a href=\"/\">tại đây</a>."
+msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
+msgstr "Bạn có thể tải xuống phiên bản bản quyền miễn phí của trò chơi này. Thông tin thêm có thể tìm thấy <a href=\"/\">tại đây</a>."
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Don’t Starve Together Game Servers"
 msgstr "Máy chủ trò  Don’t Starve Together"
+
+#. i18n: keyword: DontStarveTogetherInventory
+msgid "Don’t Starve Together Items Inventory"
+msgstr ""
+
+#. i18n: keyword: ItemsInventorySearchTips
+msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
+msgstr ""
+
+#. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
+msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
+msgstr ""
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
@@ -885,12 +694,8 @@ msgid "Servers"
 msgstr "Các áy chủ"
 
 #. i18n: keyword: ServerNameDescription
-msgid ""
-"Adding a server here gives you an access token that allows you to run your own "
-"dedicated game instance."
-msgstr ""
-"Thêm một máy chủ ở đây sẽ cấp bạn một token truy cập, cho phép bạn chạy phiên bản "
-"trò chơi chuyên dụng của riêng mình."
+msgid "Adding a server here gives you an access token that allows you to run your own dedicated game instance."
+msgstr "Thêm một máy chủ ở đây sẽ cấp bạn một token truy cập, cho phép bạn chạy phiên bản trò chơi chuyên dụng của riêng mình."
 
 #. i18n: keyword: NoServersDescription
 msgid "There are no servers associated to this game for your account."
@@ -917,26 +722,8 @@ msgid "Configure Server"
 msgstr "Cấu hình máy chủ"
 
 #. i18n: keyword: ConfigureServerDescription
-msgid ""
-"The following form allows you to configure the settings for the game server. "
-"Depending on which operating system you have you also need to execute a few "
-"scripts. Please follow the instructions that correspond to your system: <a "
-"href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-"
-"quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://"
-"forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-"
-"linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums."
-"kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-"
-"x/' target='_blank'>macOS</a>."
-msgstr ""
-"Biểu mẫu dưới đây cho phép bạn cấu hình cài đặt cho máy chủ trò chơi. Dựa theo hệ "
-"điều hành nào bạn đang sử dụng, bạn cần thực hiện thêm một số lệnh. Vui lòng làm "
-"theo những chỉ dẫn phù hợp với hệ thống của bạn: <a href='https://forums."
-"kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-"
-"windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums."
-"kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-"
-"linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums."
-"kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-"
-"x/' target='_blank'>macOS</a>."
+msgid "The following form allows you to configure the settings for the game server. Depending on which operating system you have you also need to execute a few scripts. Please follow the instructions that correspond to your system: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
+msgstr "Biểu mẫu dưới đây cho phép bạn cấu hình cài đặt cho máy chủ trò chơi. Dựa theo hệ điều hành nào bạn đang sử dụng, bạn cần thực hiện thêm một số lệnh. Vui lòng làm theo những chỉ dẫn phù hợp với hệ thống của bạn: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
 
 #. i18n: keyword: ConfigureServerToken
 msgid "Server Token"
@@ -994,6 +781,10 @@ msgstr "Mô tả cụm"
 msgid "Cluster Password"
 msgstr "Mật khẩu cụm"
 
+#. i18n: keyword: ItemsInventoryTitle
+msgid "Your Items Inventory"
+msgstr ""
+
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
 msgstr "Tải xuống cài đặt"
@@ -1003,12 +794,8 @@ msgid "Active and Upcoming Betas"
 msgstr "Chương trình thử nghiệm đang và chuẩn bị kích hoạt"
 
 #. i18n: keyword: UpcomingBetasDescription
-msgid ""
-"You can register for betas you’re interested in. You’ll receive an email if you "
-"are accepted into one."
-msgstr ""
-"Bạn có thể đăng ký những chương trình thử nghiệm mà bạn quan tâm. Bạn sẽ nhận được "
-"một email thông báo nếu bạn được lựa chọn để tham gia."
+msgid "You can register for betas you’re interested in. You’ll receive an email if you are accepted into one."
+msgstr "Bạn có thể đăng ký những chương trình thử nghiệm mà bạn quan tâm. Bạn sẽ nhận được một email thông báo nếu bạn được lựa chọn để tham gia."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -1047,31 +834,16 @@ msgid "<a href='/community-translations'>This is an unofficial translation.</a>"
 msgstr "<a href='/community-translations'>Đây là bản dịch không chính thức.</a>"
 
 #. i18n: keyword: CommunityTranslationsDescription
-msgid ""
-"If you would like to add a new language or make corrections to the existing text "
-"<a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' "
-"rel='noopener noreferrer'>please visit the following link</a> and read the "
-"instructions of how to contribute to the translations of the website."
-msgstr ""
-"Nếu bạn muôn thêm ngôn ngữ mới hoặc sửa đổi bản dịch sẵn có <a href='https://"
-"github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener "
-"noreferrer'>vui lòng truy cập liên kết này</a> và đọc các hướng dẫn đóng góp bản "
-"dịch của trang web này."
+msgid "If you would like to add a new language or make corrections to the existing text <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>please visit the following link</a> and read the instructions of how to contribute to the translations of the website."
+msgstr "Nếu bạn muôn thêm ngôn ngữ mới hoặc sửa đổi bản dịch sẵn có <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>vui lòng truy cập liên kết này</a> và đọc các hướng dẫn đóng góp bản dịch của trang web này."
 
 #. i18n: keyword: RewardTitle
 msgid "Drops & Rewards (Beta)"
 msgstr "Quà và Phần thưởng (Thử nghiệm)"
 
 #. i18n: keyword: RewardDescription
-msgid ""
-"Keep up to date and earn in-game rewards. We'll be adding new rewards from time to "
-"time, so check back often to see what's new! Use points to redeem items listed in "
-"the page below. Spools are useful inside the games."
-msgstr ""
-"Hãy cập nhật thường xuyên và giành những phần thường trong trò chơi. Chúng tôi sẽ "
-"liên tục thêm những phần thưởng mới, vì vậy hãy thường xuyên quay lại để xem có gì "
-"mới! Sử dụng điểm để nhận những vật phẩm được liệt kê bên dưới. Cuộn chỉ rất hữu "
-"ích trong trò chơi."
+msgid "Keep up to date and earn in-game rewards. We'll be adding new rewards from time to time, so check back often to see what's new! Use points to redeem items listed in the page below. Spools are useful inside the games."
+msgstr "Hãy cập nhật thường xuyên và giành những phần thường trong trò chơi. Chúng tôi sẽ liên tục thêm những phần thưởng mới, vì vậy hãy thường xuyên quay lại để xem có gì mới! Sử dụng điểm để nhận những vật phẩm được liệt kê bên dưới. Cuộn chỉ rất hữu ích trong trò chơi."
 
 #. i18n: keyword: RewardLabel
 msgid "Reward"
@@ -1103,7 +875,7 @@ msgstr "điểm"
 
 #. i18n: keyword: RewardBoltsAbbreviation
 msgid "bolts"
-msgstr "bolts"
+msgstr ""
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
@@ -1154,52 +926,28 @@ msgid "Subscribe to our newsletter"
 msgstr "Đăng ký nhận tin tức từ chúng tôi"
 
 #. i18n: keyword: RewardMessageYoutube
-msgid ""
-"<a href='https://www.youtube.com/user/kleient' target='_blank'>Follow us on "
-"YouTube</a> to claim this reward."
-msgstr ""
-"<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi "
-"trên YouTube</a> để nhận phần thưởng này."
+msgid "<a href='https://www.youtube.com/user/kleient' target='_blank'>Follow us on YouTube</a> to claim this reward."
+msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi trên YouTube</a> để nhận phần thưởng này."
 
 #. i18n: keyword: RewardMessageTwitter
-msgid ""
-"<a href='https://twitter.com/klei' target='_blank'>Follow us on Twitter</a> to "
-"claim this reward."
-msgstr ""
-"<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi "
-"trên Twitter</a> để nhận phần thưởng này."
+msgid "<a href='https://twitter.com/klei' target='_blank'>Follow us on Twitter</a> to claim this reward."
+msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi trên Twitter</a> để nhận phần thưởng này."
 
 #. i18n: keyword: RewardMessageFacebook
-msgid ""
-"<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on "
-"Facebook</a> to claim this reward."
-msgstr ""
-"<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi "
-"trên Facebook</a> để nhận phần thưởng này."
+msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
+msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi trên Facebook</a> để nhận phần thưởng này."
 
 #. i18n: keyword: RewardMessageWechat
-msgid ""
-"<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Follow us on WeChat</"
-"a> to claim this reward."
-msgstr ""
-"<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi "
-"trên WeChat</a> để nhận phần thưởng này."
+msgid "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Follow us on WeChat</a> to claim this reward."
+msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi trên WeChat</a> để nhận phần thưởng này."
 
 #. i18n: keyword: RewardMessageInstagram
-msgid ""
-"<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Follow us "
-"on Instagram</a> to claim this reward."
-msgstr ""
-"<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi "
-"trên Instagram</a> để nhận phần thưởng này."
+msgid "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Follow us on Instagram</a> to claim this reward."
+msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi trên Instagram</a> để nhận phần thưởng này."
 
 #. i18n: keyword: RewardMessageNewsletter
-msgid ""
-"<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to "
-"claim this reward."
-msgstr ""
-"<a href='https://www.youtube.com/user/kleient' target='_blank'>Đăng ký nhận tin "
-"tức từ chúng tôi</a> để nhận phần thưởng này."
+msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
+msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Đăng ký nhận tin tức từ chúng tôi</a> để nhận phần thưởng này."
 
 #. i18n: keyword: RewardItemCost
 msgid "Cost"
@@ -1215,45 +963,27 @@ msgstr "Liên kết tới phần thường"
 
 #. i18n: keyword: RewardLinkResultDescription
 msgid "Congratulations!</p><p>You have found a valid reward link in the wild."
-msgstr ""
-"Xin chúc mừng!</p><p>Bạn đã tìm thấy một liên kết tới phần thường hợp lệ từ bên "
-"ngoài."
+msgstr "Xin chúc mừng!</p><p>Bạn đã tìm thấy một liên kết tới phần thường hợp lệ từ bên ngoài."
 
 #. i18n: keyword: RewardLinkResultMessagePoints
 msgid "You have claimed {{.Amount}} {{.Name}}."
 msgstr "Bạn đã lấy được {{.Amount}} {{.Name}}."
 
 #. i18n: keyword: RewardLinkResultMessageSpool
-msgid ""
-"You have claimed {{.Amount}} {{.Name}}. You will now find it in game next time you "
-"play."
-msgstr ""
-"Bạn đã lấy được {{.Amount}} {{.Name}}. Bạn sẽ tìm thấy nó trong trò chơi vào lần "
-"chơi tiếp theo."
+msgid "You have claimed {{.Amount}} {{.Name}}. You will now find it in game next time you play."
+msgstr "Bạn đã lấy được {{.Amount}} {{.Name}}. Bạn sẽ tìm thấy nó trong trò chơi vào lần chơi tiếp theo."
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
-msgid ""
-"Woah! It looks like you already clicked this link before. You can only redeem this "
-"reward once."
-msgstr ""
-"Woah! Có vẻ như bạn đã click vào đường dẫn này trước đây. Bạn chỉ có thể nhận phần "
-"thưởng này một lần duy nhất."
+msgid "Woah! It looks like you already clicked this link before. You can only redeem this reward once."
+msgstr "Woah! Có vẻ như bạn đã click vào đường dẫn này trước đây. Bạn chỉ có thể nhận phần thưởng này một lần duy nhất."
 
 #. i18n: keyword: GiftRedemptionTitle
 msgid "Gift Redemption"
 msgstr "Đổi quà"
 
 #. i18n: keyword: GiftRedemptionDescription
-msgid ""
-"Hello! It looks like you got an item key or gift code, would you like to redeem it "
-"now? Type in the code in the form below and we will grant you the item faster than "
-"you can blink <em>&mdash;unless you can blink very fast, in which case you should "
-"close your eyes for a few milliseconds&mdash;</em>"
-msgstr ""
-"Xin chào! Có vẻ như bạn đang sở hữu một mã quà tặng, bạn có muốn đổi ngay bây giờ? "
-"Nhập mã vào biểu mẫu bên dưới và chúng tôi sẽ tặng bạn vật phẩm nhanh hơn cả nháy "
-"mắt <em>&mdash;trừ khi bạn nháy mắt cực nhanh, trong trường hợp đó hãy nhắm mắt "
-"lại trong vòng một vài mili-giây&mdash;</em>"
+msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
+msgstr "Xin chào! Có vẻ như bạn đang sở hữu một mã quà tặng, bạn có muốn đổi ngay bây giờ? Nhập mã vào biểu mẫu bên dưới và chúng tôi sẽ tặng bạn vật phẩm nhanh hơn cả nháy mắt <em>&mdash;trừ khi bạn nháy mắt cực nhanh, trong trường hợp đó hãy nhắm mắt lại trong vòng một vài mili-giây&mdash;</em>"
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
@@ -1264,16 +994,8 @@ msgid "Redeem Code"
 msgstr "Nhận mã"
 
 #. i18n: keyword: GiftRedemptionSuccess
-msgid ""
-"Congratulations! Gift code redemption was a success.</p><p>Delivery-time variable "
-"due to temporal portal anomalies. Klei is not responsible for emotional injuries "
-"caused by waiting. Gifts may result in bragging, unsuspected delight and/or "
-"enhanced gameplay experience."
-msgstr ""
-"Xin chúc mừng! Nhận thưởng thành công.</p><p> Thời gian nhận sẽ bị ảnh hưởng do "
-"những bất thường tạm thời của cổng thời gian. Klei không chịu trách nhiệu về tổn "
-"thương tinh thầnh gây nên bởi sự chờ đợi này. Những quà tặng có thể dẫn đến kết "
-"quả là khoe khoang, vui mừng bất ngờ và/hoặc nâng cao trải nghiệm trò chơi."
+msgid "Congratulations! Gift code redemption was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
+msgstr "Xin chúc mừng! Nhận thưởng thành công.</p><p> Thời gian nhận sẽ bị ảnh hưởng do những bất thường tạm thời của cổng thời gian. Klei không chịu trách nhiệu về tổn thương tinh thầnh gây nên bởi sự chờ đợi này. Những quà tặng có thể dẫn đến kết quả là khoe khoang, vui mừng bất ngờ và/hoặc nâng cao trải nghiệm trò chơi."
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
@@ -1288,9 +1010,7 @@ msgid "Item key or gift code has already been used."
 msgstr "Mã thưởng đã được sử dụng."
 
 #. i18n: keyword: E_INVALID_PLATFORM
-msgid ""
-"The token used to redeem the gift code does not support the gaming platform you "
-"selected."
+msgid "The token used to redeem the gift code does not support the gaming platform you selected."
 msgstr "Mã được sử dụng để nhận quà tặng không hỗ trợ nền tảng trò chơi bạn đã chọn."
 
 #. i18n: keyword: E_INVALID_TOKENTYPE
@@ -1299,55 +1019,47 @@ msgstr "Mã được sử dụng để nhận quà tặng có mục đích sử 
 
 #. i18n: keyword: Facebook
 msgid "Facebook"
-msgstr "Facebook"
+msgstr ""
 
 #. i18n: keyword: Instagram
 msgid "Instagram"
-msgstr "Instagram"
+msgstr ""
 
 #. i18n: keyword: Twitter
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
 #. i18n: keyword: YouTube
 msgid "YouTube"
-msgstr "YouTube"
+msgstr ""
 
 #. i18n: keyword: Twitch
 msgid "Twitch"
-msgstr "Twitch"
+msgstr ""
 
 #. i18n: keyword: Douyu
 msgid "Douyu"
-msgstr "Douyu"
+msgstr ""
 
 #. i18n: keyword: Bilibili
 msgid "Bilibili"
-msgstr "Bilibili"
+msgstr ""
 
 #. i18n: keyword: Wechat
 msgid "WeChat"
-msgstr "WeChat"
+msgstr ""
 
 #. i18n: keyword: SupportTitle
 msgid "Submit a Support Request"
 msgstr "Gửi một yêu cầu hỗ trợ"
 
 #. i18n: keyword: SupportDescription
-msgid ""
-"Please enter the details of your request. A member of our support staff will "
-"respond as soon as possible."
-msgstr ""
-"Vui lòng nhập chi tiết yêu cầu của bạn. Một thành viên trong đội ngũ hỗ trợ của "
-"chúng tôi sẽ trả lời một cách sớm nhất."
+msgid "Please enter the details of your request. A member of our support staff will respond as soon as possible."
+msgstr "Vui lòng nhập chi tiết yêu cầu của bạn. Một thành viên trong đội ngũ hỗ trợ của chúng tôi sẽ trả lời một cách sớm nhất."
 
 #. i18n: keyword: SupportSuccess
-msgid ""
-"Your support request was successfully recorded. A member of our support staff will "
-"respond as soon as possible. Thank you for your patience."
-msgstr ""
-"Yêu cầu hỗ trợ của bạn đã được ghi lại thành công. Một thành viên trong đội ngũ hỗ "
-"trợ của chúng tôi sẽ trả lời một cách sớm nhất. Cảm ơn vì sự kiên nhẫn của bạn."
+msgid "Your support request was successfully recorded. A member of our support staff will respond as soon as possible. Thank you for your patience."
+msgstr "Yêu cầu hỗ trợ của bạn đã được ghi lại thành công. Một thành viên trong đội ngũ hỗ trợ của chúng tôi sẽ trả lời một cách sớm nhất. Cảm ơn vì sự kiên nhẫn của bạn."
 
 #. i18n: keyword: SupportName
 msgid "Name"
@@ -1378,37 +1090,20 @@ msgid "Could not authenticate you. Check your email address or register."
 msgstr "Không thể xác nhận. Hãy kiểm tra địa chỉ email của bạn hoặc đăng ký."
 
 #. i18n: keyword: E_ZENDESK_EMAIL_IS_MISSING
-msgid ""
-"Please <a href='/account/settings'>associate a valid email address to your "
-"account</a>. Otherwise, we will not be able to reply to your support request."
-msgstr ""
-"Vui lòng <a href='/account/settings'>liên kết một email hợp lệ với tài khoản của "
-"bạn</a>. Nếu không, chúng tôi sẽ không thể trả lời yêu cầu trợ giúp của bạn."
+msgid "Please <a href='/account/settings'>associate a valid email address to your account</a>. Otherwise, we will not be able to reply to your support request."
+msgstr "Vui lòng <a href='/account/settings'>liên kết một email hợp lệ với tài khoản của bạn</a>. Nếu không, chúng tôi sẽ không thể trả lời yêu cầu trợ giúp của bạn."
 
 #. i18n: keyword: E_ZENDESK_EMAIL_NOT_VERIFIED
-msgid ""
-"The support system is only open to players with a verified email address. Please "
-"go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
-msgstr ""
-"Hệ thống hỗ trợ chỉ mở cho những người chơi có địa chỉ email đã được xác minh. Vui "
-"lòng truy cập vào \"Thông tin người dùng\", và xác định vị trí nút \"Xác minh\" "
-"trong bảng điều khiển \"Tùy chọn\"."
+msgid "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
+msgstr "Hệ thống hỗ trợ chỉ mở cho những người chơi có địa chỉ email đã được xác minh. Vui lòng truy cập vào \"Thông tin người dùng\", và xác định vị trí nút \"Xác minh\" trong bảng điều khiển \"Tùy chọn\"."
 
 #. i18n: keyword: E_ZENDESK_COOLDOWN_TIME
-msgid ""
-"You already submitted a support request a few minutes ago. Please wait a few "
-"minutes to give us time to reply to you and other users."
-msgstr ""
-"Bạn đã gửi một yêu cầu hỗ trợ vài phút trước. Vui lòng đợi vài phút để chúng tôi "
-"có thời gian trả lời bạn và những người dùng khác."
+msgid "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
+msgstr "Bạn đã gửi một yêu cầu hỗ trợ vài phút trước. Vui lòng đợi vài phút để chúng tôi có thời gian trả lời bạn và những người dùng khác."
 
 #. i18n: keyword: EmailAuthRequired
-msgid ""
-"Email Authentication Required. Please check your e-mail and click the "
-"authentication link."
-msgstr ""
-"Xác thực email là điều bắt buộc. Vui lòng kiểm tra e-mail của bạn và nhấp vào liên "
-"kết xác thực."
+msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
+msgstr "Xác thực email là điều bắt buộc. Vui lòng kiểm tra e-mail của bạn và nhấp vào liên kết xác thực."
 
 #. i18n: keyword: EnterDOB
 msgid "Please Enter Your Date of Birth"
@@ -1419,27 +1114,16 @@ msgid "Please verify your age to complete registration."
 msgstr "Vui lòng xác minh độ tuổi của bạn để hoàn thành quá trình đăng ký."
 
 #. i18n: keyword: ErrorDOBFormat
-msgid ""
-"Error - Date of Birth: Date of Birth Fields need to be entered in the correct "
-"format (DD/MM/YYYY)"
-msgstr ""
-"Lỗi - Ngày sinh: Trường ngày sinh phải được điền theo đúng định dạng (DD/MM/YYYY)"
+msgid "Error - Date of Birth: Date of Birth Fields need to be entered in the correct format (DD/MM/YYYY)"
+msgstr "Lỗi - Ngày sinh: Trường ngày sinh phải được điền theo đúng định dạng (DD/MM/YYYY)"
 
 #. i18n: keyword: ErrorTooYoung
-msgid ""
-"Woah There, Whipper-Snapper. You need to be 13 years of age or older to register "
-"for an account."
-msgstr ""
-"Woah, này anh bạn láu cá. Bạn cần ít nhất 13 tuổi hoặc hơn để có thể đăng ký một "
-"tài khoản."
+msgid "Woah There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
+msgstr "Woah, này anh bạn láu cá. Bạn cần ít nhất 13 tuổi hoặc hơn để có thể đăng ký một tài khoản."
 
 #. i18n: keyword: EmailInvalid
-msgid ""
-"Invalid Email. Please check that the e-mail address you entered is in the correct "
-"format. (Example name@email.com)"
-msgstr ""
-"Email không hợp lệ. Vui lòng kiểm trả lại địa chỉ e-mail bạn đã nhập theo đúng "
-"định dạng (Ví dụ: tencuaban@email.com)"
+msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
+msgstr "Email không hợp lệ. Vui lòng kiểm trả lại địa chỉ e-mail bạn đã nhập theo đúng định dạng (Ví dụ: tencuaban@email.com)"
 
 #. i18n: keyword: Error
 msgid "Error"
@@ -1450,108 +1134,60 @@ msgid "Create A New Account"
 msgstr "Tạo tài khoản mới"
 
 #. i18n: keyword: EmailInfoText
-msgid ""
-"Your e-mail address will be used to manage your account. We will send a "
-"confirmation e-mail here as well."
-msgstr ""
-"Địa chỉ e-mail của bạn sẽ được dùng để quản lý tài khoản này. Chúng tôi cũng sẽ "
-"gửi cho bạn một e-mail xác nhận vào đó."
+msgid "Your e-mail address will be used to manage your account. We will send a confirmation e-mail here as well."
+msgstr "Địa chỉ e-mail của bạn sẽ được dùng để quản lý tài khoản này. Chúng tôi cũng sẽ gửi cho bạn một e-mail xác nhận vào đó."
 
 #. i18n: keyword: DOBInfoText
-msgid ""
-"Date of birth is required for age verification, security, and account recovery "
-"support."
-msgstr ""
-"Ngày sinh là bắt buộc để xác minh tuổi, bảo mật và hỗ trợ khôi phục tài khoản."
+msgid "Date of birth is required for age verification, security, and account recovery support."
+msgstr "Ngày sinh là bắt buộc để xác minh tuổi, bảo mật và hỗ trợ khôi phục tài khoản."
 
 #. i18n: keyword: EmailNewsletterText
-msgid ""
-"Get emails for major announcements, events and promotions. You may change this "
-"setting later."
-msgstr ""
-"Nhận email cho các thông báo, sự kiện và chương trình khuyến mãi lớn. Bạn có thể "
-"thay đổi cài đặt này sau."
+msgid "Get emails for major announcements, events and promotions. You may change this setting later."
+msgstr "Nhận email cho các thông báo, sự kiện và chương trình khuyến mãi lớn. Bạn có thể thay đổi cài đặt này sau."
 
 #. i18n: keyword: EULACheck
-msgid ""
-"Please review the EULA terms and agree by selecting the checkbox. You must agree "
-"with the EULA to continue."
-msgstr ""
-"Vui lòng xem lại các điều khoản EULA và đồng ý bằng cách đánh dấu vào ô . Bạn phải "
-"đồng ý với EULA để tiếp tục."
+msgid "Please review the EULA terms and agree by selecting the checkbox. You must agree with the EULA to continue."
+msgstr "Vui lòng xem lại các điều khoản EULA và đồng ý bằng cách đánh dấu vào ô . Bạn phải đồng ý với EULA để tiếp tục."
 
 #. i18n: keyword: ResendAccountInfo
 msgid "Re-send Account Activation E-mail"
 msgstr "Gửi lại E-mail kích hoạt tài khoản"
 
 #. i18n: keyword: AwaitingVerification
-msgid ""
-"Your account has been created previously, but is still awaiting e-mail "
-"verification.  Check your e-mail account for a message sent from "
-"noreply@kleientertainment.com and click the verification link contained therein to "
-"complete your account registration.  Be sure to check your Spam or Junk folders if "
-"you can’t find the e-mail."
-msgstr ""
-"Tài khoản của bạn đã được tạo trước đó, nhưng vẫn đang chờ xác minh e-mail. Kiểm "
-"tra thư gửi từ noreply@kleientertainment.com trong tài khoản e-mail của bạn và "
-"nhấp vào liên kết xác minh có trong đó để hoàn tất đăng ký tài khoản. Hãy chắc "
-"chắn kiểm tra các thư mục Thư rác nếu bạn không thể tìm thấy này."
+msgid "Your account has been created previously, but is still awaiting e-mail verification.  Check your e-mail account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the e-mail."
+msgstr "Tài khoản của bạn đã được tạo trước đó, nhưng vẫn đang chờ xác minh e-mail. Kiểm tra thư gửi từ noreply@kleientertainment.com trong tài khoản e-mail của bạn và nhấp vào liên kết xác minh có trong đó để hoàn tất đăng ký tài khoản. Hãy chắc chắn kiểm tra các thư mục Thư rác nếu bạn không thể tìm thấy này."
 
 #. i18n: keyword: ResendVerification
-msgid ""
-"If you still can’t find the e-mail, you can complete the form below to have the "
-"verification e-mail re-sent.  You may use a different e-mail address.  Please "
-"double-check it for accuracy!"
-msgstr ""
-"Nếu bạn vẫn không thể tìm thấy e-mail này, bạn có thể hoàn thành biểu mẫu sau để "
-"được gửi lại e-mail xác minh. Bạn có thể sử dụng một địa chỉ e-mail khác. Vui lòng "
-"kiểm tra lại để đảm bảo chính xác!"
+msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address.  Please double-check it for accuracy!"
+msgstr "Nếu bạn vẫn không thể tìm thấy e-mail này, bạn có thể hoàn thành biểu mẫu sau để được gửi lại e-mail xác minh. Bạn có thể sử dụng một địa chỉ e-mail khác. Vui lòng kiểm tra lại để đảm bảo chính xác!"
 
 #. i18n: keyword: LoadingSteamProfile
 msgid "Loading Steam Profile…"
 msgstr "Đang tải hồ sơ Steam…"
 
 #. i18n: keyword: AOLNote
-msgid ""
-"NOTE: At this time AOL e-mail addresses are experiencing issues receiving "
-"validation emails. If you are using an @aol e-mail address, you may not receive "
-"your confirmation e-mail until this issue is resolved. We recommend using an e-"
-"mail address from another provider."
-msgstr ""
-"LƯU Ý: Tại thời điểm này, các địa chỉ email AOL đang gặp sự cố khi nhận email xác "
-"thực. Nếu bạn đang sử dụng địa chỉ email có đuôi @aol, bạn có thể không nhận được "
-"email xác nhận cho đến khi vấn đề này được giải quyết. Chúng tôi khuyên bạn nên sử "
-"dụng một địa chỉ email từ nhà cung cấp khác."
+msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
+msgstr "LƯU Ý: Tại thời điểm này, các địa chỉ email AOL đang gặp sự cố khi nhận email xác thực. Nếu bạn đang sử dụng địa chỉ email có đuôi @aol, bạn có thể không nhận được email xác nhận cho đến khi vấn đề này được giải quyết. Chúng tôi khuyên bạn nên sử dụng một địa chỉ email từ nhà cung cấp khác."
 
 #. i18n: keyword: DOBUsage
 msgid "Date of birth (to verify your age)"
 msgstr "Ngày sinh (để xác minh độ tuổi)"
 
 #. i18n: keyword: EULAAgreement
-msgid ""
-"I agree to the <a href='https://www.kleientertainment.com/games/dont-starve/terms-"
-"of-service' target='_blank' rel='noopener noreferrer'>EULA</a>"
-msgstr ""
-"Tôi đồng ý với <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" "
-"target=\"_blank\" rel=\"noopener noreferrer\">thỏa thuận người dùng</a>"
+msgid "I agree to the <a href='https://www.kleientertainment.com/games/dont-starve/terms-of-service' target='_blank' rel='noopener noreferrer'>EULA</a>"
+msgstr "Tôi đồng ý với <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">thỏa thuận người dùng</a>"
 
 #. i18n: keyword: PrivatePolicyAgreement
-msgid ""
-"By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/"
-"privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
-msgstr ""
-"Bằng việc đăng ký, bạn đang đồng ý với <a href='https://www.kleientertainment.com/"
-"privacy-policy' target='_blank' rel='noopener noreferrer'>chính sách bảo mật</a> "
-"của chúng tôi"
+msgid "By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
+msgstr "Bằng việc đăng ký, bạn đang đồng ý với <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>chính sách bảo mật</a> của chúng tôi"
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
-msgstr "Klei Entertainment"
+msgstr ""
 
 #. i18n: keyword: ErrorURLMalformed
 msgid "The URL you used to arrive here is malformed and missing required parameters."
-msgstr ""
-"URL bạn đã sử dụng để đến đây không đúng định dạng và thiếu các tham số bắt buộc."
+msgstr "URL bạn đã sử dụng để đến đây không đúng định dạng và thiếu các tham số bắt buộc."
 
 #. i18n: keyword: UnableConnectSteam
 msgid "Failed to connect to Steam"
@@ -1575,8 +1211,7 @@ msgstr "Có một vấn đề xảy ra trên máy chủ thư điện tử. Vui l
 
 #. i18n: keyword: E_FIELD_IN_USE
 msgid "That value is already in use by another account. Please use another value."
-msgstr ""
-"Giá trị đó đã được sử dụng bởi tài khoản khác. Vui lòng sử dụng một giá trị khác."
+msgstr "Giá trị đó đã được sử dụng bởi tài khoản khác. Vui lòng sử dụng một giá trị khác."
 
 #. i18n: keyword: E_GAME_NOT_FOUND
 msgid "The game does not exists."
@@ -1587,12 +1222,8 @@ msgid "Internal server error, try again in a few seconds."
 msgstr "Lỗi máy chủ nội bộ, thử lại sau vài giây."
 
 #. i18n: keyword: E_INVALID_HTTP_REFERER
-msgid ""
-"We are unable to verify the origin of the request, please close this page and "
-"start again."
-msgstr ""
-"Chúng tôi không thể xác minh nguồn gốc của yêu cầu, vui lòng đóng trang này và bắt "
-"đầu lại."
+msgid "We are unable to verify the origin of the request, please close this page and start again."
+msgstr "Chúng tôi không thể xác minh nguồn gốc của yêu cầu, vui lòng đóng trang này và bắt đầu lại."
 
 #. i18n: keyword: E_INVALID_DISPLAYNAME
 msgid "The user name chosen contained invalid characters."
@@ -1611,18 +1242,8 @@ msgid "Session has expired, you have to log in once again."
 msgstr "Phiên đã hết hạn, bạn sẽ phải đăng nhập lại một lần nữa."
 
 #. i18n: keyword: E_INVALID_SESSION_SAFARI
-msgid ""
-"Session has expired, you have to log in once again. <b>Are you using Safari?</b> "
-"If yes, please use an alternative web browser for now. <a href='https://webkit.org/"
-"tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention "
-"Policy</a>, which is built in the newest versions of Safari, have inadvertently "
-"disabled the communication between the website and the back-end servers."
-msgstr ""
-"Phiên đã hết hạn, bạn sẽ phải đăng nhập lại một lần nữa.<b>Bạn có đang dùng trình "
-"duyệt Safari?</b> Nếu có, vui lòng sử dụng một trình duyệt khác thay thế. <a "
-"href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new "
-"Tracking Prevention Policy</a>, được xây dựng trong các phiên bản mới nhất của "
-"Safari, đã vô tình vô hiệu hóa giao tiếp giữa trang web và các máy chủ phụ trợ."
+msgid "Session has expired, you have to log in once again. <b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
+msgstr "Phiên đã hết hạn, bạn sẽ phải đăng nhập lại một lần nữa.<b>Bạn có đang dùng trình duyệt Safari?</b> Nếu có, vui lòng sử dụng một trình duyệt khác thay thế. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, được xây dựng trong các phiên bản mới nhất của Safari, đã vô tình vô hiệu hóa giao tiếp giữa trang web và các máy chủ phụ trợ."
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
@@ -1653,23 +1274,16 @@ msgid "The OAuth access token is missing, try again."
 msgstr "Thiếu mã truy cập OAuth, hãy thử lại."
 
 #. i18n: keyword: E_WECHAT_OAUTH_CODE_BEEN_USED
-msgid ""
-"WeChat rejected the request to link your account because the OAuth code has "
-"already been used."
-msgstr ""
-"WeChat từ chối yêu cầu liên kết tài khoản của bạn vì mã OAuth đã được sử dụng."
+msgid "WeChat rejected the request to link your account because the OAuth code has already been used."
+msgstr "WeChat từ chối yêu cầu liên kết tài khoản của bạn vì mã OAuth đã được sử dụng."
 
 #. i18n: keyword: E_WECHAT_OAUTH_INVALID_CODE
-msgid ""
-"WeChat rejected the request to link your account because the OAuth code is invalid."
+msgid "WeChat rejected the request to link your account because the OAuth code is invalid."
 msgstr "WeChat từ chối yêu cầu liên kết tài khoản của bạn vì mã OAuth không hợp lệ."
 
 #. i18n: keyword: E_KU_NOT_FOUND
-msgid ""
-"It was not possible to get a copy of the information associated to your user "
-"account."
-msgstr ""
-"Không thể lấy được bản sao thông tin liên kết đến tài khoản người dùng của bạn."
+msgid "It was not possible to get a copy of the information associated to your user account."
+msgstr "Không thể lấy được bản sao thông tin liên kết đến tài khoản người dùng của bạn."
 
 #. i18n: keyword: E_INVALID_TOKEN
 msgid "The server token is not valid anymore."
@@ -1685,60 +1299,35 @@ msgstr "Tài khoản của bạn đã bị khóa."
 
 #. i18n: keyword: E_LOGIN_ERROR
 msgid "We cannot validate your credentials right now. Try again after a few minutes."
-msgstr ""
-"Chúng tôi không thể xác thực thông tin đăng nhập của bạn ngay bây giờ. Hãy thử lại "
-"sau vài phút."
+msgstr "Chúng tôi không thể xác thực thông tin đăng nhập của bạn ngay bây giờ. Hãy thử lại sau vài phút."
 
 #. i18n: keyword: E_LOGIN_ERROR_BANNED
 msgid "You are not allowed to log in with this account because it has been banned."
 msgstr "Bạn không được phép đăng nhập bằng tài khoản này vì nó đã bị khóa."
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
-msgid ""
-"Your account has been marked for deletion and will be permanently unrecoverable "
-"within 30 days. If you require further assistance please <a href='http://support."
-"kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</"
-"a>."
-msgstr ""
-"Tài khoản của bạn đã được đánh dấu để xóa và sẽ vĩnh viễn không thể khôi phục "
-"trong vòng 30 ngày. Nếu bạn cần trợ giúp thêm xin vui lòng <a href='http://support."
-"kleientertainment.com/' target='blank_' rel='noopener noreferrer'>liên hệ hỗ trợ</"
-"a>."
+msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "Tài khoản của bạn đã được đánh dấu để xóa và sẽ vĩnh viễn không thể khôi phục trong vòng 30 ngày. Nếu bạn cần trợ giúp thêm xin vui lòng <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>liên hệ hỗ trợ</a>."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
-msgid ""
-"The authentication failed. The details have been sent to the administrators to "
-"investigate. Try again after a few minutes."
-msgstr ""
-"Xác thực thất bại. Các chi tiết đã được gửi đến các quản trị viên để điều tra. Hãy "
-"thử lại sau vài phút."
+msgid "The authentication failed. The details have been sent to the administrators to investigate. Try again after a few minutes."
+msgstr "Xác thực thất bại. Các chi tiết đã được gửi đến các quản trị viên để điều tra. Hãy thử lại sau vài phút."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_MISSING
-msgid ""
-"The platform you are coming from didn’t provide us with the code to validate your "
-"account."
-msgstr ""
-"Nền tảng bạn sử dụng không cung cấp cho chúng tôi mã để xác thực tài khoản của bạn."
+msgid "The platform you are coming from didn’t provide us with the code to validate your account."
+msgstr "Nền tảng bạn sử dụng không cung cấp cho chúng tôi mã để xác thực tài khoản của bạn."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUDIENCE
 msgid "The authentication code was generated for a different platform."
 msgstr "Mã xác thực đã được tạo cho một nền tảng khác."
 
 #. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
-msgid ""
-"Unable to log in with that account at this time. Please sign-in at Xbox.com to "
-"resolve the issue with your Xbox Live account."
-msgstr ""
-"Không thể đăng nhập bằng tài khoản này tại thời điểm này. Vui lòng đăng nhập tại "
-"Xbox.com để giải quyết vấn đề với tài khoản Xbox Live của bạn."
+msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Live account."
+msgstr "Không thể đăng nhập bằng tài khoản này tại thời điểm này. Vui lòng đăng nhập tại Xbox.com để giải quyết vấn đề với tài khoản Xbox Live của bạn."
 
 #. i18n: keyword: E_SESSION_ALREADY_EXISTS
-msgid ""
-"It appears you already have a valid session. If you want to login using a "
-"different gaming platform, please log out first."
-msgstr ""
-"Có vẻ như bạn đã có một phiên hợp lệ. Nếu bạn muốn đăng nhập bằng một nền tảng tro "
-"chơi khác, vui lòng đăng xuất trước."
+msgid "It appears you already have a valid session. If you want to login using a different gaming platform, please log out first."
+msgstr "Có vẻ như bạn đã có một phiên hợp lệ. Nếu bạn muốn đăng nhập bằng một nền tảng tro chơi khác, vui lòng đăng xuất trước."
 
 #. i18n: keyword: E_MISSING_DATA
 msgid "There’s not enough data to execute this action."
@@ -1749,11 +1338,8 @@ msgid "You must provide a Steam ID, user name, or e-mail address."
 msgstr "Bạn phải cung cấp một Steam ID, tên đăng nhập, hoặc địa chỉ e-mail."
 
 #. i18n: keyword: E_MUST_VALIDATE_EMAIL
-msgid ""
-"The account has already been created, but is awaiting validation.  Check your e-"
-"mail."
-msgstr ""
-"Tài khoản đã được tạo, nhưng đang chờ xác thực. Hãy kiểm tra thư điện tử của bạn."
+msgid "The account has already been created, but is awaiting validation.  Check your e-mail."
+msgstr "Tài khoản đã được tạo, nhưng đang chờ xác thực. Hãy kiểm tra thư điện tử của bạn."
 
 #. i18n: keyword: E_EMAIL_ALREADY_SET
 msgid "The account already has an email set."
@@ -1780,20 +1366,15 @@ msgid "DisplayName / Email not found"
 msgstr "Không tìm thấy Tên hiển thị/Email"
 
 #. i18n: keyword: E_PASSWORD_RESET_CODE_EXPIRED
-msgid ""
-"This password change request has expired. Please make a new request if you still "
-"require a new password."
-msgstr ""
-"Yêu cầu thay đổi mật khẩu này đã hết hạn. Vui lòng thực hiện một yêu cầu mới nếu "
-"bạn vẫn muốn có mật khẩu mới."
+msgid "This password change request has expired. Please make a new request if you still require a new password."
+msgstr "Yêu cầu thay đổi mật khẩu này đã hết hạn. Vui lòng thực hiện một yêu cầu mới nếu bạn vẫn muốn có mật khẩu mới."
 
 #. i18n: keyword: E_PASSWORD_RESET_CODE_MISMATCH
 msgid "Password code mismatch."
 msgstr "Mật khẩu không phù hợp."
 
 #. i18n: keyword: E_POST_DATA_STATUS
-msgid ""
-"Internal Server Error: The details has been sent to the Klei development team."
+msgid "Internal Server Error: The details has been sent to the Klei development team."
 msgstr "Lỗi máy chủ nội bộ: Chi tiết lỗi đã được gửi đến nhóm phát triển của Klei."
 
 #. i18n: keyword: E_NO_SUPPORT_ENTRY
@@ -1817,8 +1398,7 @@ msgid "The Steam ID was not recognized."
 msgstr "Không thể nhận diện được Steam ID."
 
 #. i18n: keyword: E_USERNAME_TAKEN
-msgid ""
-"That user name is already in use by another account. Please choose another name."
+msgid "That user name is already in use by another account. Please choose another name."
 msgstr "Tên người dùng đã được sử dụng. Vui lòng chọn một tên khác."
 
 #. i18n: keyword: E_WHIPPERSNAPPER
@@ -1830,71 +1410,28 @@ msgid "Invalid date of birth, date must be in this format: YYYY-MM-DD"
 msgstr "Ngày sinh không hợp lệ, thời gian phải theo định dạng sau: YYYY-MM-DD"
 
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
-msgid ""
-"Twitch rejected the request to connect your Klei account; this is usually a "
-"temporary problem in Twitch authentication servers. Please <a href='/account/"
-"twitch/link'>try again</a> in a few minutes."
-msgstr ""
-"Twitch đã từ chối yêu cầu kết nối tài khoản Klei của bạn; đây thường là sự cố tạm "
-"thời ở các máy chủ xác thực của Twitch. Vui lòng <a href='/account/twitch/"
-"link'>thử lại</a> sau vài phút."
+msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
+msgstr "Twitch đã từ chối yêu cầu kết nối tài khoản Klei của bạn; đây thường là sự cố tạm thời ở các máy chủ xác thực của Twitch. Vui lòng <a href='/account/twitch/link'>thử lại</a> sau vài phút."
 
 #. i18n: keyword: E_TWITCH_DATA_CONFLICT
-msgid ""
-"Apparently you have already connected your game ID with another Twitch account. "
-"Open a new session in your web browser (using “Incognito” or “Private” mode, for "
-"example) and log in with the secondary Twitch account, visit the “Settings” page, "
-"then “Connections”, then disconnect the “Klei Entertainment” application. Finally, "
-"return to this page and try to connect your Twitch account again."
-msgstr ""
-"Có vẻ như bạn đã kết nối ID trò chơi của bạn với một tài khoản Twitch khác. Tạo "
-"một phiên khác trên trình duyệt của bạn (ví dụ như sử dụng chế độ \"Riêng tư\" "
-"hoặc chế độ \"Ẩn danh\") và đăng nhập bằng tài khoản Twitch thứ hai, truy cập "
-"trang \"Settings\", sau đó là \"Connections\", sau đó ngắt kết nối với ứng dụng "
-"\"Klei Entertainment\". Cuối cùng, quay lại trang này và thử kết nối lại tài khoản "
-"Twitch của bạn."
+msgid "Apparently you have already connected your game ID with another Twitch account. Open a new session in your web browser (using “Incognito” or “Private” mode, for example) and log in with the secondary Twitch account, visit the “Settings” page, then “Connections”, then disconnect the “Klei Entertainment” application. Finally, return to this page and try to connect your Twitch account again."
+msgstr "Có vẻ như bạn đã kết nối ID trò chơi của bạn với một tài khoản Twitch khác. Tạo một phiên khác trên trình duyệt của bạn (ví dụ như sử dụng chế độ \"Riêng tư\" hoặc chế độ \"Ẩn danh\") và đăng nhập bằng tài khoản Twitch thứ hai, truy cập trang \"Settings\", sau đó là \"Connections\", sau đó ngắt kết nối với ứng dụng \"Klei Entertainment\". Cuối cùng, quay lại trang này và thử kết nối lại tài khoản Twitch của bạn."
 
 #. i18n: keyword: E_TWITCH_DELETED_SECRET
-msgid ""
-"Twitch is having problems verifying the credentials associated to our application. "
-"This usually happens when an internal service on Twitch infrastructure is having "
-"internal server errors. Please try again in a few minutes."
-msgstr ""
-"Twitch đang gặp vấn đề khi xác minh thông tin đăng nhập liên quan đến ứng dụng của "
-"chúng tôi. Điều này thường xảy ra khi một dịch vụ nội bộ của Twitch có lỗi. Vui "
-"lòng thử lại trong vài phút."
+msgid "Twitch is having problems verifying the credentials associated to our application. This usually happens when an internal service on Twitch infrastructure is having internal server errors. Please try again in a few minutes."
+msgstr "Twitch đang gặp vấn đề khi xác minh thông tin đăng nhập liên quan đến ứng dụng của chúng tôi. Điều này thường xảy ra khi một dịch vụ nội bộ của Twitch có lỗi. Vui lòng thử lại trong vài phút."
 
 #. i18n: keyword: E_TWITCH_BLACKLISTED
-msgid ""
-"The option to link a Twitch account with your Klei account has been removed. If "
-"you think this is a mistake, <a href='http://support.kleientertainment.com/"
-"customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please "
-"contact us</a>."
-msgstr ""
-"Tùy chọn liên kết tài khoản Twitch với tài khoản Klei của bạn đã bị xóa. Nếu bạn "
-"cho rằng đây là một sai lầm, <a href='http://support.kleientertainment.com/"
-"customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>xin vui lòng "
-"liên hệ với chúng tôi</a>."
+msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
+msgstr "Tùy chọn liên kết tài khoản Twitch với tài khoản Klei của bạn đã bị xóa. Nếu bạn cho rằng đây là một sai lầm, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>xin vui lòng liên hệ với chúng tôi</a>."
 
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
-msgid ""
-"Your Klei account has already been disconnected from Twitch. If you believe the "
-"connection still exists, please <a href='https://www.twitch.tv/settings/"
-"connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</"
-"a> and disconnect the “Klei Entertainment” app manually."
-msgstr ""
-"Tài khoản Klei của bạn đã bị ngắt kết nối khỏi Twitch. Nếu bạn tin rằng kết nối "
-"vẫn tồn tại, <a href='https://www.twitch.tv/settings/connections' target='_blank' "
-"rel='noopener noreferrer'>xin vui lòng truy cập hồ sơ Twitch của bạn</a> và ngắt "
-"kết nối ứng dụng “Klei Entertainment” thủ công."
+msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
+msgstr "Tài khoản Klei của bạn đã bị ngắt kết nối khỏi Twitch. Nếu bạn tin rằng kết nối vẫn tồn tại, <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>xin vui lòng truy cập hồ sơ Twitch của bạn</a> và ngắt kết nối ứng dụng “Klei Entertainment” thủ công."
 
 #. i18n: keyword: E_TWITCH_INTERNAL_SERVER_ERROR
-msgid ""
-"Twitch servers are having problems processing this operation. Please wait a few "
-"minutes and try again."
-msgstr ""
-"Máy chủ Twitch đang gặp vấn đề khi xử lý thao tác này. Xin chờ một vài phút và thử "
-"lại."
+msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
+msgstr "Máy chủ Twitch đang gặp vấn đề khi xử lý thao tác này. Xin chờ một vài phút và thử lại."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_SERVERS
 msgid "This game doesn’t support additional servers yet."
@@ -1921,199 +1458,104 @@ msgid "Steam servers are currently offline."
 msgstr "Các máy chủ Steam hiện tại đang ngoại tuyến."
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
-msgid ""
-"Steam redirected you to the incorrect URL, we cannot validate your credentials "
-"here. Please clear your web browser cache and cookies, and try to login one more "
-"time. If you require further assistance please <a href='http://support."
-"kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</"
-"a>."
-msgstr ""
-"Steam đã chuyển hướng bạn đến đường dẫn không chính xác, chúng tôi không thể xác "
-"thực thông tin đăng nhập của bạn tại đây. Vui lòng xóa bộ nhớ cache và cookie "
-"trình duyệt web bạn đang dùng và thử đăng nhập thêm một lần nữa. Nếu bạn cần hỗ "
-"trợ thêm xin vui lòng <a href='http://support.kleientertainment.com/' "
-"target='blank_' rel='noopener noreferrer'> liên hệ hỗ trợ</a>."
+msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "Steam đã chuyển hướng bạn đến đường dẫn không chính xác, chúng tôi không thể xác thực thông tin đăng nhập của bạn tại đây. Vui lòng xóa bộ nhớ cache và cookie trình duyệt web bạn đang dùng và thử đăng nhập thêm một lần nữa. Nếu bạn cần hỗ trợ thêm xin vui lòng <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'> liên hệ hỗ trợ</a>."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
 msgid "Steam prevented us from showing your profile information."
 msgstr "Steam đã ngăn chúng tôi hiển thị thông tin hồ sơ của bạn."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_TOO_MANY_REQUESTS
-msgid ""
-"We are unable to show your profile information because your computer is sending "
-"too many requests to Steam."
-msgstr ""
-"Chúng tôi không thể hiển thị thông tin hồ sơ của bạn bởi vì máy tính của bạn đang "
-"gửi quá nhiều yêu cầu tới Steam."
+msgid "We are unable to show your profile information because your computer is sending too many requests to Steam."
+msgstr "Chúng tôi không thể hiển thị thông tin hồ sơ của bạn bởi vì máy tính của bạn đang gửi quá nhiều yêu cầu tới Steam."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR
 msgid "Steam servers is not available at the moment."
 msgstr "Các máy chủ của Steam hiện không sẵn có tại thời điểm này."
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
-msgid ""
-"It appears you are viewing this web page using Steam In-Game Browser. "
-"Unfortunately, some features in this website do not work very well in this "
-"environment. If you have problems using this feature please consider using a "
-"regular web browser outside of Steam."
-msgstr ""
-"Có vẻ như bạn đang xem trang web này bằng Trình duyệt tích hợp của Steam. Thật "
-"không may, một số tính năng trong trang web không hoạt động tốt trong môi trường "
-"này. Nếu bạn gặp vấn đề khi sử dụng tính năng này, vui lòng xem xét sử dụng trình "
-"duyệt web thông thường bên ngoài Steam."
+msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
+msgstr "Có vẻ như bạn đang xem trang web này bằng Trình duyệt tích hợp của Steam. Thật không may, một số tính năng trong trang web không hoạt động tốt trong môi trường này. Nếu bạn gặp vấn đề khi sử dụng tính năng này, vui lòng xem xét sử dụng trình duyệt web thông thường bên ngoài Steam."
 
 #. i18n: keyword: E_OPENID_INVALID_MODE
-msgid ""
-"The previous website sent us invalid data. The OpenID “mode” parameter is invalid. "
-"Please start the login flow again."
-msgstr ""
-"Các trang web trước đó đã gửi cho chúng tôi dữ liệu không hợp lệ. Tham số \"mode\" "
-"của OpenID không hợp lệ. Vui lòng bắt đầu lại luồng đăng nhập."
+msgid "The previous website sent us invalid data. The OpenID “mode” parameter is invalid. Please start the login flow again."
+msgstr "Các trang web trước đó đã gửi cho chúng tôi dữ liệu không hợp lệ. Tham số \"mode\" của OpenID không hợp lệ. Vui lòng bắt đầu lại luồng đăng nhập."
 
 #. i18n: keyword: E_OPENID_INVALID_RETURN_TO
-msgid ""
-"The previous website sent us invalid data. The OpenID “return_to” parameter is "
-"invalid. Please start the login flow again."
-msgstr ""
-"Các trang web trước đó đã gửi cho chúng tôi dữ liệu không hợp lệ. Tham số "
-"“return_to” của OpenID không hợp lệ. Vui lòng bắt đầu lại luồng đăng nhập."
+msgid "The previous website sent us invalid data. The OpenID “return_to” parameter is invalid. Please start the login flow again."
+msgstr "Các trang web trước đó đã gửi cho chúng tôi dữ liệu không hợp lệ. Tham số “return_to” của OpenID không hợp lệ. Vui lòng bắt đầu lại luồng đăng nhập."
 
 #. i18n: keyword: E_OPENID_INVALID_NAMESPACE
-msgid ""
-"The previous website sent us invalid data. The OpenID “namespace” parameter is "
-"invalid. Please start the login flow again."
-msgstr ""
-"Các trang web trước đó đã gửi cho chúng tôi dữ liệu không hợp lệ. Tham số "
-"“namespace” của OpenID không hợp lệ. Vui lòng bắt đầu lại luồng đăng nhập."
+msgid "The previous website sent us invalid data. The OpenID “namespace” parameter is invalid. Please start the login flow again."
+msgstr "Các trang web trước đó đã gửi cho chúng tôi dữ liệu không hợp lệ. Tham số “namespace” của OpenID không hợp lệ. Vui lòng bắt đầu lại luồng đăng nhập."
 
 #. i18n: keyword: E_OPENID_INVALID_SIGNATURE
-msgid ""
-"The previous website sent us invalid data. The signature of the verification "
-"request is invalid. Please start the login flow again."
-msgstr ""
-"Các trang web trước đó đã gửi cho chúng tôi dữ liệu không hợp lệ. Chữ ký của yêu "
-"cầu xác minh là không hợp lệ. Vui lòng bắt đầu lại luồng đăng nhập."
+msgid "The previous website sent us invalid data. The signature of the verification request is invalid. Please start the login flow again."
+msgstr "Các trang web trước đó đã gửi cho chúng tôi dữ liệu không hợp lệ. Chữ ký của yêu cầu xác minh là không hợp lệ. Vui lòng bắt đầu lại luồng đăng nhập."
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
-msgid ""
-"Steam identifier is missing. The game client did not provide all the information "
-"we need to authenticate your account. Please close the game and start again."
-msgstr ""
-"Định danh Steam đang bị thiếu. Máy khách không cung cấp tất cả thông tin chúng tôi "
-"cần để xác thực tài khoản của bạn. Vui lòng đóng trò chơi và bắt đầu lại."
+msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
+msgstr "Định danh Steam đang bị thiếu. Máy khách không cung cấp tất cả thông tin chúng tôi cần để xác thực tài khoản của bạn. Vui lòng đóng trò chơi và bắt đầu lại."
 
 #. i18n: keyword: E_STEAM_BROKEN_TICKET
-msgid ""
-"Steam ticket is invalid. The game client did not provide all the information we "
-"need to authenticate your account. Please close the game and start again."
-msgstr ""
-"Steam ticket không hợp lệ. Máy khách không cung cấp tất cả thông tin chúng tôi cần "
-"để xác thực tài khoản của bạn. Vui lòng đóng trò chơi và bắt đầu lại."
+msgid "Steam ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
+msgstr "Steam ticket không hợp lệ. Máy khách không cung cấp tất cả thông tin chúng tôi cần để xác thực tài khoản của bạn. Vui lòng đóng trò chơi và bắt đầu lại."
 
 #. i18n: keyword: E_RAIL_ID_IS_MISSING
-msgid ""
-"Tencent Games identifier is missing. The game client did not provide all the "
-"information we need to authenticate your account. Please close the game and start "
-"again."
-msgstr ""
-"Định danh của Tencent Games đang bị thiếu. Máy khách không cung cấp tất cả thông "
-"tin chúng tôi cần để xác thực tài khoản của bạn. Vui lòng đóng trò chơi và bắt đầu "
-"lại."
+msgid "Tencent Games identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
+msgstr "Định danh của Tencent Games đang bị thiếu. Máy khách không cung cấp tất cả thông tin chúng tôi cần để xác thực tài khoản của bạn. Vui lòng đóng trò chơi và bắt đầu lại."
 
 #. i18n: keyword: E_RAIL_BROKEN_TICKET
-msgid ""
-"Tencent Games ticket is invalid. The game client did not provide all the "
-"information we need to authenticate your account. Please close the game and start "
-"again."
-msgstr ""
-"Tencent Games ticket không hợp lệ. Máy khách không cung cấp tất cả thông tin chúng "
-"tôi cần để xác thực tài khoản của bạn. Vui lòng đóng trò chơi và bắt đầu lại."
+msgid "Tencent Games ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
+msgstr "Tencent Games ticket không hợp lệ. Máy khách không cung cấp tất cả thông tin chúng tôi cần để xác thực tài khoản của bạn. Vui lòng đóng trò chơi và bắt đầu lại."
 
 #. i18n: keyword: E_RAIL_EXPIRED_TOKEN
-msgid ""
-"The access token has expired. Tencent is asking you to start the process again."
+msgid "The access token has expired. Tencent is asking you to start the process again."
 msgstr "Token truy cập đã hết hạn. Tencent đang yêu cầu bạn bắt đầu lại quá trình."
 
 #. i18n: keyword: E_RAIL_GATEWAY_TIMEOUT
-msgid ""
-"Tencent’s user authentication service is not available right now. Please <a href='/"
-"login'>try again</a> in a few minutes."
-msgstr ""
-"Dịch vụ xác thực người dùng của Tencent không có sẵn ngay bây giờ. Vui lòng <a "
-"href='/login'>thử lại</a> sau vài phút."
+msgid "Tencent’s user authentication service is not available right now. Please <a href='/login'>try again</a> in a few minutes."
+msgstr "Dịch vụ xác thực người dùng của Tencent không có sẵn ngay bây giờ. Vui lòng <a href='/login'>thử lại</a> sau vài phút."
 
 #. i18n: keyword: E_DOUYU_ALREADY_BINDED_TO_KU
 msgid "Your Douyu account is already linked with a Klei User ID."
 msgstr "Tài khoản Douyu của bạn đã liên kết với một tài khoản Klei khác."
 
 #. i18n: keyword: E_DOUYU_ALREADY_DISCONNECTED
-msgid ""
-"Your Klei account has already been disconnected from Douyu. If you believe the "
-"connection still exists, please <a href='https://www.douyu.com/member/cp' "
-"target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and "
-"disconnect the “Klei Entertainment” app manually."
-msgstr ""
-"Tài khoản Klei của bạn đã được ngắt kết nối khỏi Douyu. Nếu bạn tin rằng kết nối "
-"vẫn tồn tại, xin vui lòng <a href='https://www.douyu.com/member/cp' "
-"target='_blank' rel='noopener noreferrer'> truy cập hồ sơ Douyu của bạn</a> và "
-"ngắt kết nối ứng dụng “Klei Entertainment” thủ công."
+msgid "Your Klei account has already been disconnected from Douyu. If you believe the connection still exists, please <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and disconnect the “Klei Entertainment” app manually."
+msgstr "Tài khoản Klei của bạn đã được ngắt kết nối khỏi Douyu. Nếu bạn tin rằng kết nối vẫn tồn tại, xin vui lòng <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'> truy cập hồ sơ Douyu của bạn</a> và ngắt kết nối ứng dụng “Klei Entertainment” thủ công."
 
 #. i18n: keyword: E_DOUYU_GATEWAY_TIMEOUT
-msgid ""
-"Douyu servers (powered by Tengine) are currently unavailable. Please try again in "
-"a few minutes."
-msgstr ""
-"Máy chủ của Douyu (được cung cấp bởi Tengine) hiện tại không khả dụng. Xin thử lại "
-"sau một vài phút."
+msgid "Douyu servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
+msgstr "Máy chủ của Douyu (được cung cấp bởi Tengine) hiện tại không khả dụng. Xin thử lại sau một vài phút."
 
 #. i18n: keyword: E_BILIBILI_ALREADY_BINDED_TO_KU
 msgid "Your Bilibili account is already linked with a Klei User ID."
 msgstr "Tài khoản Bilibili của bạn đã liên kết với một tài khoản Klei khác."
 
 #. i18n: keyword: E_BILIBILI_ALREADY_DISCONNECTED
-msgid ""
-"Your Klei account has already been disconnected from Bilibili. If you believe the "
-"connection still exists, please <a href='https://www.bilibili.com/' "
-"target='_blank' rel='noopener noreferrer'>visit your Bilibili profile</a> and "
-"disconnect the “Klei Entertainment” app manually."
-msgstr ""
-"Tài khoản Klei của bạn đã được ngắt kết nối khỏi Bilibili. Nếu bạn tin rằng kết "
-"nối vẫn tồn tại, xin vui lòng <a href='https://www.bilibili.com/' target='_blank' "
-"rel='noopener noreferrer'>truy cập hồ sơ Bilibili của bạn</a> và ngắt kết nối ứng "
-"dụng “Klei Entertainment” thủ công."
+msgid "Your Klei account has already been disconnected from Bilibili. If you believe the connection still exists, please <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>visit your Bilibili profile</a> and disconnect the “Klei Entertainment” app manually."
+msgstr "Tài khoản Klei của bạn đã được ngắt kết nối khỏi Bilibili. Nếu bạn tin rằng kết nối vẫn tồn tại, xin vui lòng <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>truy cập hồ sơ Bilibili của bạn</a> và ngắt kết nối ứng dụng “Klei Entertainment” thủ công."
 
 #. i18n: keyword: E_BILIBILI_GATEWAY_TIMEOUT
-msgid ""
-"Bilibili servers (powered by Tengine) are currently unavailable. Please try again "
-"in a few minutes."
-msgstr ""
-"Máy chủ của Bilibili (được cung cấp bởi Tengine) hiện tại không khả dụng. Xin thử "
-"lại sau một vài phút."
+msgid "Bilibili servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
+msgstr "Máy chủ của Bilibili (được cung cấp bởi Tengine) hiện tại không khả dụng. Xin thử lại sau một vài phút."
 
 #. i18n: keyword: E_INVALID_CSRF_TOKEN
 msgid "The form has expired, please go back, reload the page, and try again."
 msgstr "Biểu mẫu đã hết hạn, vui lòng quay trở lại, tải lại trang và thử lại."
 
 #. i18n: keyword: E_INVALID_USER_CONSENT
-msgid ""
-"Invalid user consent, you need to read the account deletion instructions very "
-"carefully."
-msgstr ""
-"Sự đồng ý của người dùng không hợp lệ, bạn cần đọc kỹ hướng dẫn xóa tài khoản."
+msgid "Invalid user consent, you need to read the account deletion instructions very carefully."
+msgstr "Sự đồng ý của người dùng không hợp lệ, bạn cần đọc kỹ hướng dẫn xóa tài khoản."
 
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
 msgstr "Mã xác thực không hợp lệ."
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
-msgid ""
-"The authorization provider was not detected. Please check if your web browser "
-"accepts cookies from this website, then go to the “Login” page and try one more "
-"time."
-msgstr ""
-"Không tìm thấy các giấy phép ủy quyền. Vui lòng kiểm tra xem trình duyệt web của "
-"bạn có chấp nhận cookie từ trang web này không, sau đó truy cập trang Đăng nhập và "
-"thử thêm một lần nữa."
+msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
+msgstr "Không tìm thấy các giấy phép ủy quyền. Vui lòng kiểm tra xem trình duyệt web của bạn có chấp nhận cookie từ trang web này không, sau đó truy cập trang Đăng nhập và thử thêm một lần nữa."
 
 #. i18n: keyword: E_CLIENT_TOKEN_HAS_EXPIRED
 msgid "Client login token has expired."
@@ -2124,206 +1566,80 @@ msgid "Client login token was generated for a different game."
 msgstr "Token đăng nhập đã được tạo cho một trò chơi khác."
 
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_PURPOSE
-msgid ""
-"Web page only supports client login tokens. The token you provided is seems to be "
-"valid but it was generated for a completely different thing."
-msgstr ""
-"Trang web chỉ hỗ trợ token đăng nhập của máy khách. Token bạn cung cấp có vẻ hợp "
-"lệ nhưng nó được tạo cho một thứ hoàn toàn khác."
+msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr "Trang web chỉ hỗ trợ token đăng nhập của máy khách. Token bạn cung cấp có vẻ hợp lệ nhưng nó được tạo cho một thứ hoàn toàn khác."
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
-msgid ""
-"Klei has not been granted permission to link your account. In order to proceed, "
-"you must allow Klei access to your account when prompted."
-msgstr ""
-"Klei không được ủy quyền để liên kết tài khoản của bạn. Để tiếp tục quá trình. bạn "
-"phải cho phép Klei truy cập vào tài khoản của bạn khi được hỏi."
+msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
+msgstr "Klei không được ủy quyền để liên kết tài khoản của bạn. Để tiếp tục quá trình. bạn phải cho phép Klei truy cập vào tài khoản của bạn khi được hỏi."
 
 #. i18n: keyword: E_GOOGLE_OAUTH_NO_REFRESH_TOKEN
-msgid ""
-"Google won't let us link your account. This usually happens if we somehow lost the "
-"link to your Google account on our end, without also having unlinked your account "
-"on Google's end. Please open <a href='https://myaccount.google.com/permissions' "
-"target='_blank' rel='noopener noreferrer'>your Google Account permissions page</"
-"a>, remove access for Klei Accounts, and try to link your accounts again."
-msgstr ""
-"Google đã không để chúng tôi liên kết tài khoản của bạn. Điều này thường xảy ra "
-"nếu bằng cách nào đó chúng tôi đã làm mất liên kết đến tài khoản Google của bạn và "
-"đồng thời hủy liên kết tài khoản của bạn ở phía Google. Vui lòng mở <a "
-"href='https://myaccount.google.com/permissions' target='_blank' rel='noopener "
-"noreferrer'>trang cấp phép Tài khoản Google của bạn</a>, gỡ bỏ quyền truy cập vào "
-"tài khoản Klei và thử liên kết tài khoản của bạn một lần nữa."
+msgid "Google won't let us link your account. This usually happens if we somehow lost the link to your Google account on our end, without also having unlinked your account on Google's end. Please open <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>your Google Account permissions page</a>, remove access for Klei Accounts, and try to link your accounts again."
+msgstr "Google đã không để chúng tôi liên kết tài khoản của bạn. Điều này thường xảy ra nếu bằng cách nào đó chúng tôi đã làm mất liên kết đến tài khoản Google của bạn và đồng thời hủy liên kết tài khoản của bạn ở phía Google. Vui lòng mở <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>trang cấp phép Tài khoản Google của bạn</a>, gỡ bỏ quyền truy cập vào tài khoản Klei và thử liên kết tài khoản của bạn một lần nữa."
 
 #. i18n: keyword: E_TWITTER_ALREADY_DISCONNECTED
-msgid ""
-"Your Klei account has already been disconnected from Twitter. If you believe the "
-"connection still exists, please <a href='https://twitter.com/settings/"
-"applications' target='_blank' rel='noopener noreferrer'>visit your Twitter "
-"profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr ""
-"Tài khoản Klei của bạn đã được ngắt kết nối khỏi Twitter. Nếu bạn tin rằng kết nối "
-"vẫn tồn tại, xin vui lòng <a href='https://twitter.com/settings/applications' "
-"target='_blank' rel='noopener noreferrer'>truy cập hồ sơ Twitter của bạn</a> và "
-"ngắt kết nối “Tài khoản Klei” thủ công."
+msgid "Your Klei account has already been disconnected from Twitter. If you believe the connection still exists, please <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>visit your Twitter profile</a> and disconnect the “Klei Accounts” app manually."
+msgstr "Tài khoản Klei của bạn đã được ngắt kết nối khỏi Twitter. Nếu bạn tin rằng kết nối vẫn tồn tại, xin vui lòng <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>truy cập hồ sơ Twitter của bạn</a> và ngắt kết nối “Tài khoản Klei” thủ công."
 
 #. i18n: keyword: E_TWITTER_INVALID_CREDENTIALS
-msgid ""
-"The temporary credentials used to communicate with Twitter on your behalf have "
-"expired. Try again later."
-msgstr ""
-"Thông tin tạm thời được sử dụng để liên lạc với Twitter thay cho bạn đã hết hạn. "
-"Thử lại sau."
+msgid "The temporary credentials used to communicate with Twitter on your behalf have expired. Try again later."
+msgstr "Thông tin tạm thời được sử dụng để liên lạc với Twitter thay cho bạn đã hết hạn. Thử lại sau."
 
 #. i18n: keyword: E_TWITTER_SERVICE_UNAVAILABLE
 msgid "The Twitter servers are up, but overloaded with requests. Try again later."
-msgstr ""
-"Máy chủ Twitter trực tuyến, nhưng đang bị quá tải các yêu cầu. Vui lòng thử lại "
-"sau."
+msgstr "Máy chủ Twitter trực tuyến, nhưng đang bị quá tải các yêu cầu. Vui lòng thử lại sau."
 
 #. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
-msgid ""
-"Your Klei account has already been disconnected from Google. If you believe the "
-"connection still exists, please <a href='https://myaccount.google.com/permissions' "
-"target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and "
-"disconnect the “Klei Accounts” app manually."
-msgstr ""
-"Tài khoản Klei của bạn đã được ngắt kết nối khỏi Google. Nếu bạn tin rằng kết nối "
-"vẫn tồn tại, xin vui lòng <a href='https://myaccount.google.com/permissions' "
-"target='_blank' rel='noopener noreferrer'>truy cập hồ sơ Google của bạn</a> và "
-"ngắt kết nối “Tài khoản Klei” thủ công."
+msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
+msgstr "Tài khoản Klei của bạn đã được ngắt kết nối khỏi Google. Nếu bạn tin rằng kết nối vẫn tồn tại, xin vui lòng <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>truy cập hồ sơ Google của bạn</a> và ngắt kết nối “Tài khoản Klei” thủ công."
 
 #. i18n: keyword: E_GOOGLE_BROKEN_OAUTH_SCOPES
-msgid ""
-"Your Google (YouTube) account does not have the correct permissions to complete "
-"this operation. Please <a href='/account/info'>unlink your Google account from "
-"here</a>, then visit the rewards page and link your account again. If the problem "
-"persists, please <a href='https://myaccount.google.com/permissions' "
-"target='_blank' rel='noopener noreferrer'>remove access from here</a>."
-msgstr ""
-"Tài khoản Google(YouTube) không được cấp quyền chính xác để thực hiện hành động "
-"này. Vui lòng <a href='/account/info'>hủy liên kết với tài khoản Google của bạn ở "
-"đây</a>, sau đó tới trang nhận thưởng và liên kết tài khoản của bạn lại một lần "
-"nữa. Nếu có vấn đề vẫn xuất hiện, vui lòng <a href='https://myaccount.google.com/"
-"permissions' target='_blank' rel='noopener noreferrer'>gỡ bỏ quyền truy cập ở đây</"
-"a>."
+msgid "Your Google (YouTube) account does not have the correct permissions to complete this operation. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
+msgstr "Tài khoản Google(YouTube) không được cấp quyền chính xác để thực hiện hành động này. Vui lòng <a href='/account/info'>hủy liên kết với tài khoản Google của bạn ở đây</a>, sau đó tới trang nhận thưởng và liên kết tài khoản của bạn lại một lần nữa. Nếu có vấn đề vẫn xuất hiện, vui lòng <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>gỡ bỏ quyền truy cập ở đây</a>."
 
 #. i18n: keyword: E_GOOGLE_YOUTUBE_SIGNUP_REQUIRED
-msgid ""
-"YouTube signup required. This error indicates that the user has an unlinked Google "
-"Account, which means that the user has a Google Account but does not have a "
-"YouTube channel. Klei will be unable to link your YouTube account until Google "
-"removes the restrictions added to your account. <a href='https://developers.google."
-"com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-"
-"youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Read more about "
-"this here</a>."
-msgstr ""
-"Đăng ký YouTube là bắt buộc. Lỗi này cho thấy rằng người dùng có tài khoản Google "
-"chưa được liên kết, có nghĩa là người dùng có tài khoản Google nhưng không có kênh "
-"YouTube. Klei sẽ không thể liên kết tài khoản YouTube của bạn cho đến khi Google "
-"gỡ bỏ các hạn chế được thêm vào tài khoản của bạn. <a href='https://developers."
-"google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-"
-"youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Đọc thêm về điều "
-"này tại đây</a>."
+msgid "YouTube signup required. This error indicates that the user has an unlinked Google Account, which means that the user has a Google Account but does not have a YouTube channel. Klei will be unable to link your YouTube account until Google removes the restrictions added to your account. <a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
+msgstr "Đăng ký YouTube là bắt buộc. Lỗi này cho thấy rằng người dùng có tài khoản Google chưa được liên kết, có nghĩa là người dùng có tài khoản Google nhưng không có kênh YouTube. Klei sẽ không thể liên kết tài khoản YouTube của bạn cho đến khi Google gỡ bỏ các hạn chế được thêm vào tài khoản của bạn. <a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Đọc thêm về điều này tại đây</a>."
 
 #. i18n: keyword: E_GOOGLE_DAILY_LIMIT_EXCEEDED
-msgid ""
-"We cannot check your YouTube subscription at the moment. Please check again after "
-"midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/"
-"core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener "
-"noreferrer'>Read more about this here</a>."
-msgstr ""
-"Chúng tôi không thể kiểm tra đăng ký YouTube của bạn ngay lúc này. Vui lòng kiểm "
-"tra lại sau nửa đêm theo múi giờ Thái Bình Dương (PT). <a href='https://developers."
-"google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' "
-"rel='noopener noreferrer'>Đọc thêm về điều này tại đây</a>."
+msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
+msgstr "Chúng tôi không thể kiểm tra đăng ký YouTube của bạn ngay lúc này. Vui lòng kiểm tra lại sau nửa đêm theo múi giờ Thái Bình Dương (PT). <a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'>Đọc thêm về điều này tại đây</a>."
 
 #. i18n: keyword: E_GOOGLE_QUOTA_EXCEEDED
-msgid ""
-"We cannot check your YouTube subscription at the moment. Please check again after "
-"midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/"
-"errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' "
-"rel='noopener noreferrer'>Read more about this here</a>."
-msgstr ""
-"Chúng tôi không thể kiểm tra đăng ký YouTube của bạn ngay lúc này. Vui lòng kiểm "
-"tra lại sau nửa đêm theo múi giờ Thái Bình Dương (PT). <a href='https://developers."
-"google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-"
-"quotaExceeded' target='_blank' rel='noopener noreferrer'>Đọc thêm về điều này tại "
-"đây</a>."
+msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
+msgstr "Chúng tôi không thể kiểm tra đăng ký YouTube của bạn ngay lúc này. Vui lòng kiểm tra lại sau nửa đêm theo múi giờ Thái Bình Dương (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Đọc thêm về điều này tại đây</a>."
 
 #. i18n: keyword: E_GOOGLE_IS_UNAVAILABLE
-msgid ""
-"Google is unavailable right now. To process your request we need to pass some "
-"information to Google, but it seems their service is offline right now. Please "
-"wait a few minutes before trying again."
-msgstr ""
-"Google không khả dụng ngay lúc này. Để thực hiện yêu cầu của bạn chúng tôi cần "
-"chuyển một số thông tin cho Google, nhưng có vẻ như dịch vụ của họ hiện tại đang "
-"ngoại tuyến. Vui lòng chờ một vài phút trước khi thử lại."
+msgid "Google is unavailable right now. To process your request we need to pass some information to Google, but it seems their service is offline right now. Please wait a few minutes before trying again."
+msgstr "Google không khả dụng ngay lúc này. Để thực hiện yêu cầu của bạn chúng tôi cần chuyển một số thông tin cho Google, nhưng có vẻ như dịch vụ của họ hiện tại đang ngoại tuyến. Vui lòng chờ một vài phút trước khi thử lại."
 
 #. i18n: keyword: E_GOOGLE_INVALID_GRANT
-msgid ""
-"Your Google (YouTube) access token has been expired or revoked. Please <a href='/"
-"account/info'>unlink your Google account from here</a>, then visit the rewards "
-"page and link your account again."
-msgstr ""
-"Token Google(YouTube) của bạn đã hết hạn hoặc bị thu hồi. Vui lòng <a href='/"
-"account/info'>hủy liên kết tài khoản Google của bạn ở đây</a>, sau đó tới trang "
-"nhận thưởng và liên kết tài khoản của bạn lại một lần nữa."
+msgid "Your Google (YouTube) access token has been expired or revoked. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again."
+msgstr "Token Google(YouTube) của bạn đã hết hạn hoặc bị thu hồi. Vui lòng <a href='/account/info'>hủy liên kết tài khoản Google của bạn ở đây</a>, sau đó tới trang nhận thưởng và liên kết tài khoản của bạn lại một lần nữa."
 
 #. i18n: keyword: E_GOOGLE_AUTH_ERROR
-msgid ""
-"The authorization credentials provided for the request are invalid. If the problem "
-"persists, please <a href='https://myaccount.google.com/permissions' "
-"target='_blank' rel='noopener noreferrer'>remove access from here</a>."
-msgstr ""
-"Thông tin ủy quyền cho hành động này không hợp lệ, vui lòng <a href='https://"
-"myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>xóa "
-"quyền truy cập từ đây</a>."
+msgid "The authorization credentials provided for the request are invalid. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
+msgstr "Thông tin ủy quyền cho hành động này không hợp lệ, vui lòng <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>xóa quyền truy cập từ đây</a>."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
-msgid ""
-"Your Klei account has already been disconnected from Facebook. If you believe the "
-"connection still exists, please <a href='https://www.facebook.com/settings?"
-"tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook "
-"profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr ""
-"Tài khoản Klei của bạn đã được ngắt kết nối khỏi Facebook. Nếu bạn tin rằng kết "
-"nối vẫn tồn tại, xin vui lòng <a href='https://www.facebook.com/settings?"
-"tab=applications' target='_blank' rel='noopener noreferrer'>truy cập hồ sơ "
-"Facebook của bạn</a> và ngắt kết nối “Tài khoản Klei” thủ công."
+msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
+msgstr "Tài khoản Klei của bạn đã được ngắt kết nối khỏi Facebook. Nếu bạn tin rằng kết nối vẫn tồn tại, xin vui lòng <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>truy cập hồ sơ Facebook của bạn</a> và ngắt kết nối “Tài khoản Klei” thủ công."
 
 #. i18n: keyword: E_FACEBOOK_IS_UNAVAILABLE
-msgid ""
-"Facebook is unavailable right now. To process your request we need to pass some "
-"information to Facebook, but it seems their service is offline right now. Please "
-"wait a few minutes before trying again."
-msgstr ""
-"Facebook không khả dụng ngay lúc này. Để thực hiện yêu cầu của bạn chúng tôi cần "
-"chuyển một số thông tin cho Facebook , nhưng có vẻ như dịch vụ của họ hiện tại "
-"đang ngoại tuyến. Vui lòng chờ một vài phút trước khi thử lại."
+msgid "Facebook is unavailable right now. To process your request we need to pass some information to Facebook, but it seems their service is offline right now. Please wait a few minutes before trying again."
+msgstr "Facebook không khả dụng ngay lúc này. Để thực hiện yêu cầu của bạn chúng tôi cần chuyển một số thông tin cho Facebook , nhưng có vẻ như dịch vụ của họ hiện tại đang ngoại tuyến. Vui lòng chờ một vài phút trước khi thử lại."
 
 #. i18n: keyword: E_FACEBOOK_OAUTH_EXCEPTION
-msgid ""
-"An unexpected error has occurred on Facebook. Please retry your request later."
-msgstr ""
-"Một lỗi không mong muốn đã xảy ra trên Facebook. Vui lòng thử lại yêu cầu của bạn "
-"sau."
+msgid "An unexpected error has occurred on Facebook. Please retry your request later."
+msgstr "Một lỗi không mong muốn đã xảy ra trên Facebook. Vui lòng thử lại yêu cầu của bạn sau."
 
 #. i18n: keyword: E_FACEBOOK_CHECKPOINT_BLOCK
-msgid ""
-"Facebook stopped the process because there is an error validating access token: "
-"The user is enrolled in a blocking, logged-in checkpoint."
-msgstr ""
-"Facebook đã dừng quá trình vì có lỗi khi xác thực token truy cập: Người dùng đã "
-"đăng ký vào một điểm chặn, kiểm soát đăng nhập."
+msgid "Facebook stopped the process because there is an error validating access token: The user is enrolled in a blocking, logged-in checkpoint."
+msgstr "Facebook đã dừng quá trình vì có lỗi khi xác thực token truy cập: Người dùng đã đăng ký vào một điểm chặn, kiểm soát đăng nhập."
 
 #. i18n: keyword: E_EPIC_GAMES_EXPIRED_TOKEN
-msgid ""
-"Unfortunately, the token we use to communicate with Epic Games has expired. You "
-"will need to login again to allow the system to get a new token."
-msgstr ""
-"Thật không may, token chúng tôi sử dụng để liên lạc với Epic Games đã hết hạn. Bạn "
-"sẽ cần phải đăng nhập lại để cho phép hệ thống nhận được token mới."
+msgid "Unfortunately, the token we use to communicate with Epic Games has expired. You will need to login again to allow the system to get a new token."
+msgstr "Thật không may, token chúng tôi sử dụng để liên lạc với Epic Games đã hết hạn. Bạn sẽ cần phải đăng nhập lại để cho phép hệ thống nhận được token mới."
 
 #. i18n: keyword: E_NOT_ENOUGH_CURRENCY
 msgid "You do not have enough points to claim this item."
@@ -2334,37 +1650,20 @@ msgid "You already have claimed this reward."
 msgstr "Bạn đã nhận phần thưởng này."
 
 #. i18n: keyword: E_UNKNOWN_LINK
-msgid ""
-"The link you have used is not valid. Please check the source of this link and try "
-"again."
-msgstr ""
-"Đường dẫn bạn sử dụng không hợp lệ. Vui lòng kiểm tra lại nguồn gốc đường dẫn và "
-"thử lại."
+msgid "The link you have used is not valid. Please check the source of this link and try again."
+msgstr "Đường dẫn bạn sử dụng không hợp lệ. Vui lòng kiểm tra lại nguồn gốc đường dẫn và thử lại."
 
 #. i18n: keyword: E_EXPIRED_LINK
-msgid ""
-"We're sorry but this reward is no longer active. Please follow us on social media "
-"and subscribe to our mailing list to get new rewards as we publish them."
-msgstr ""
-"Chúng tôi xin lỗi vì phần thường này không còn được kích hoạt. Vui lòng theo dõi "
-"chúng tôi trên phương tiện xã hội và đăng ký nhận tin tức để lấy phần thưởng ngày "
-"khi chúng tôi công bố."
+msgid "We're sorry but this reward is no longer active. Please follow us on social media and subscribe to our mailing list to get new rewards as we publish them."
+msgstr "Chúng tôi xin lỗi vì phần thường này không còn được kích hoạt. Vui lòng theo dõi chúng tôi trên phương tiện xã hội và đăng ký nhận tin tức để lấy phần thưởng ngày khi chúng tôi công bố."
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
 msgstr "Giao dịch người dùng"
 
 #. i18n: keyword: UserTransactionsDescription
-msgid ""
-"All (relevant) transactions associated to your account are listed below in "
-"descending order (newest transactions at the top, oldest transactions at the "
-"bottom). Notice the time of the transaction is based on the web server timezone, "
-"you may need to adjust the numbers to match your computer clock."
-msgstr ""
-"Tất cả các giao dịch (có liên quan) liên quan đến tài khoản của bạn được liệt kê "
-"bên dưới theo thứ tự giảm dần (giao dịch mới nhất ở trên cùng, giao dịch cũ nhất ở "
-"phía dưới). Lưu ý thời gian giao dịch dựa trên múi giờ của máy chủ web, bạn có thể "
-"cần điều chỉnh các con số để khớp với đồng hồ máy tính của mình."
+msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
+msgstr "Tất cả các giao dịch (có liên quan) liên quan đến tài khoản của bạn được liệt kê bên dưới theo thứ tự giảm dần (giao dịch mới nhất ở trên cùng, giao dịch cũ nhất ở phía dưới). Lưu ý thời gian giao dịch dựa trên múi giờ của máy chủ web, bạn có thể cần điều chỉnh các con số để khớp với đồng hồ máy tính của mình."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
@@ -2436,7 +1735,7 @@ msgstr "Mua từ cửa hàng"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
-msgstr "Market Rollback"
+msgstr ""
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
@@ -2465,3 +1764,12 @@ msgstr "Hộp tiền tệ"
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
 msgstr "Hộp Steam DLC"
+
+#. i18n: keyword: Marketable
+msgid "Marketable"
+msgstr ""
+
+#. i18n: keyword: Tradeable
+msgid "Tradeable"
+msgstr ""
+
