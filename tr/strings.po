@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-07-24 03:24\n"
+"PO-Revision-Date: 2020-07-24 15:34\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
-"Language-Team: Turkish\n"
+"Language-Team: Turkish\Mahmut Sözen"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgstr "Yükleniyor…"
 
 #. i18n: keyword: Search
 msgid "Search"
-msgstr ""
+msgstr "Arama"
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -239,7 +239,7 @@ msgstr "Klei Hesabına Giriş Yap"
 
 #. i18n: keyword: LoginDescription
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
-msgstr "Tüm Klei oyunlarınızı görmek, arkadaşlarınızla oyun öğeleri alışverişi yapmak, betalara kaydolmak ve özel içeriğe erişmek için Klei hesabınıza giriş yapın.</p><p>Giriş yapmak için bir platform seçin:"
+msgstr "Tüm Klei oyunlarınızı görmek, arkadaşlarınızla oyun eşyalarının alışverişini yapmak, betalara kaydolmak ve özel içeriğe erişmek için Klei hesabınıza giriş yapın.</p><p>Giriş yapmak için bir platform seçin:"
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -367,7 +367,7 @@ msgstr "Steam Envanterini Gizle"
 
 #. i18n: keyword: HideSteamInventoryDescription
 msgid "Checking the boxes below will hide the items associated to your Klei games from Steam. You still own your items and will be able to see them in the games. If you want to make the inventory visible again, simply uncheck the boxes and save your changes."
-msgstr "Aşağıdaki kutuları işaretlediğinizde Klei oyunlarınızla ilişkili öğeler Steam'den gizlenir. Öğeleriniz hala sizde ve bunları oyunlarda görebileceksiniz. Envanteri tekrar görünür hale getirmek istiyorsanız, kutuların işaretlerini kaldırın ve değişikliklerinizi kaydedin."
+msgstr "Aşağıdaki kutuları işaretlediğinizde Klei oyunlarınızla ilişkili eşyalar Steam Envanterinizden gizlenir. Eşyalarınız hala sizde ve bunları oyunlarda görebileceksiniz. Envanteri tekrar görünür hale getirmek istiyorsanız, kutuların işaretlerini kaldırın ve değişikliklerinizi kaydedin."
 
 #. i18n: keyword: InventoryHasBeenHidden
 msgid "Inventory has been hidden"
@@ -479,11 +479,11 @@ msgstr "Bazı veriler eksik olduğu için hesaplarınızı şu anda birleştirme
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
-msgstr "Lütfen * Klei * hesaplarınızı aynı e-posta adresini kullanacak şekilde güncelleyin ve işlemi tekrar başlatın."
+msgstr "Lütfen *Klei* hesaplarınızı aynı e-posta adresini kullanacak şekilde güncelleyin ve işlemi tekrar başlatın."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the e-mail address in both accounts and start the process again."
-msgstr "Lütfen her iki hesaptaki e-posta adresini doğrulayın ve işlemi tekrar başlatın."
+msgstr "Lütfen her iki hesaptaki e-posta adresini doğrulayın/onaylayın ve işlemi tekrar başlatın."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
@@ -579,11 +579,11 @@ msgstr "Klei oyunlarındaki ilerlememi sil"
 
 #. i18n: keyword: DeleteAccountOptionsInventory
 msgid "Delete all the items in my game inventory"
-msgstr "Oyun envanterindeki tüm öğeleri sil"
+msgstr "Oyun envanterindeki tüm eşyaları sil"
 
 #. i18n: keyword: DeleteAccountOptionsPurchases
 msgid "Delete items from my Steam inventory, including purchased items"
-msgstr "Satın alınan ürünler de dahil olmak üzere Steam envanterimdeki tüm öğeleri sil"
+msgstr "Satın alınan ürünler de dahil olmak üzere Steam envanterimdeki tüm eşyaları sil"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayDST
 msgid "I do not want to play Don’t Starve Together anymore"
@@ -659,15 +659,15 @@ msgstr "Don’t Starve Together Oyun Sunucusu"
 
 #. i18n: keyword: DontStarveTogetherInventory
 msgid "Don’t Starve Together Items Inventory"
-msgstr ""
+msgstr "Don’t Starve Together Eşya Envanteri"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr ""
+msgstr "<b>Arama İpuçları:</b> Oyun envanterinizdeki bir eşyayı aramak için bir veya daha fazla kelime yazın. <b>Wilson Kırmızı Şapka</b> Adlı bir eşyayı bulmak istiyorsanız <b>Wilson</b> veya <b>Şapka</b> ve hatta <b>Wilson Şapka</b>'da yazabilirsiniz."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr ""
+msgstr "Seçtiğiniz oyundan eşya yok.Lütfen Don't Starve Together seçtiğinizden emin olun"
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
@@ -783,7 +783,7 @@ msgstr "Küme Parolası"
 
 #. i18n: keyword: ItemsInventoryTitle
 msgid "Your Items Inventory"
-msgstr ""
+msgstr "Eşya Envanteriniz"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -1643,7 +1643,7 @@ msgstr "Ne yazık ki, Epic Games ile iletişim kurmak için kullandığımız je
 
 #. i18n: keyword: E_NOT_ENOUGH_CURRENCY
 msgid "You do not have enough points to claim this item."
-msgstr "Bu öğeyi sahiplenmek için yeterli puanınız yok."
+msgstr "Bu eşyayı sahiplenmek için yeterli puanınız yok."
 
 #. i18n: keyword: E_ALREADY_CLAIMED
 msgid "You already have claimed this reward."
@@ -1687,7 +1687,7 @@ msgstr "İşlem Desteklenmiyor"
 
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
-msgstr "Öğe Oluştur"
+msgstr "Eşya Oluştur"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
@@ -1711,15 +1711,15 @@ msgstr "Cıvatalar için Görevler"
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
-msgstr "Makara için Öğeler"
+msgstr "Makara için Eşyalar"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
-msgstr "Puanlar için Öğeler"
+msgstr "Puanlar için Eşyalar"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr "Cıvatalar için Öğeler"
+msgstr "Cıvatalar için Eşyalar"
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
@@ -1727,7 +1727,7 @@ msgstr "Geri Ödeme"
 
 #. i18n: keyword: TXN_MARKET_LIST_ITEM
 msgid "Market List Item"
-msgstr "Öğe Pazar Listesi"
+msgstr "Eşya Pazar Listesi"
 
 #. i18n: keyword: TXN_MARKET_PURCHASE
 msgid "Market Purchase"
@@ -1743,11 +1743,11 @@ msgstr "Eşya Kaybı"
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
-msgstr "Makara için Öğeler"
+msgstr "Makara için Eşyalar"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
-msgstr "Puanlar için Öğeler"
+msgstr "Puanlar için Eşyalar"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
@@ -1772,4 +1772,3 @@ msgstr "Pazarlanabilir"
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
 msgstr "Takaslanabilir"
-
