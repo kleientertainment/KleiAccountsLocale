@@ -1767,9 +1767,9 @@ msgstr "Steam Kutusu (DLC)"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr ""
+msgstr "Pazarlanabilir"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr ""
+msgstr "Takaslanabilir"
 
