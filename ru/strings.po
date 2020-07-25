@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-07-17 23:56\n"
+"PO-Revision-Date: 2020-07-24 03:24\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -24,6 +24,10 @@ msgstr "Электронная почта"
 #. i18n: keyword: Loading
 msgid "Loading…"
 msgstr "Загрузка…"
+
+#. i18n: keyword: Search
+msgid "Search"
+msgstr ""
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -653,6 +657,18 @@ msgstr "Вы можете получить эту игру без DRM защит
 msgid "Don’t Starve Together Game Servers"
 msgstr "Игровые серверы для Don’t Starve Together"
 
+#. i18n: keyword: DontStarveTogetherInventory
+msgid "Don’t Starve Together Items Inventory"
+msgstr ""
+
+#. i18n: keyword: ItemsInventorySearchTips
+msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
+msgstr ""
+
+#. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
+msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
+msgstr ""
+
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
 msgstr "Информация об игроке"
@@ -763,6 +779,10 @@ msgstr ""
 
 #. i18n: keyword: ConfigureServerClusterPassword
 msgid "Cluster Password"
+msgstr ""
+
+#. i18n: keyword: ItemsInventoryTitle
+msgid "Your Items Inventory"
 msgstr ""
 
 #. i18n: keyword: DownloadSettings
@@ -1743,5 +1763,13 @@ msgstr ""
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
+msgstr ""
+
+#. i18n: keyword: Marketable
+msgid "Marketable"
+msgstr ""
+
+#. i18n: keyword: Tradeable
+msgid "Tradeable"
 msgstr ""
 
