@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-07-27 08:59+0700\n"
+"PO-Revision-Date: 2020-07-28 08:34+0700\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi\n"
@@ -188,7 +188,7 @@ msgstr "Email xác thực đã được gửi"
 
 #. i18n: keyword: VerificationEmailSuccessDescription
 msgid "We’ve sent a verification e-mail to your e-mail address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the e-mail after an hour, first check your spam folder."
-msgstr "Chúng tôi vừa gửi một e-mail xác thực tới địa chỉ e-mail của bạn. Để hoàn thánh việc đăng ký, vui lòng click vào đường dẫn đi kèm trong email. Email thường được gửi ngày lập tức. Nếu trong vòng một tiếng bạn không nhận được email, xin vui lòng kiểm tra mục thư rác."
+msgstr "Chúng tôi vừa gửi một e-mail xác thực tới địa chỉ e-mail của bạn. Để hoàn thành việc đăng ký, vui lòng click vào đường dẫn đi kèm trong email. Email thường được gửi ngày lập tức. Nếu trong vòng một tiếng bạn không nhận được email, xin vui lòng kiểm tra mục thư rác."
 
 #. i18n: keyword: VerificationEmailFailureTitle
 msgid "Invalid Verification"
@@ -200,7 +200,7 @@ msgstr "Oops, có vẻ như đường dẫn bạn sử dung để tới đây kh
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "We cannot execute this operation because your e-mail address is not verified yet."
-msgstr "Chúng tôi không thể hoành thánh việc này vì e-mail của bạn chưa được xác thực."
+msgstr "Chúng tôi không thể hoành thành việc này vì e-mail của bạn chưa được xác thực."
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -492,7 +492,7 @@ msgstr "Chúng tôi không thể hợp nhất tài khoản của bạn vì một
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PASSWORD_RESET
 msgid "It appears your password was reset some time ago but you never finished the verification process."
-msgstr "Có vẻ như mật khẩu của bạn đã được đặt lại gần đây nhưng bạn chưa bao giờ hoàn thánh quá trình xác minh."
+msgstr "Có vẻ như mật khẩu của bạn đã được đặt lại gần đây nhưng bạn chưa bao giờ hoàn thành quá trình xác minh."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_MARKED_FOR_DELETION
 msgid "We cannot merge your accounts because one of them is marked for deletion."
@@ -1768,8 +1768,8 @@ msgstr "Hộp Steam DLC"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr ""
+msgstr "Có thể bán được"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr ""
+msgstr "Có thể trao đổi được"
