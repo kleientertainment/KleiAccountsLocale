@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-07-24 03:24\n"
+"PO-Revision-Date: 2020-07-27 08:59+0700\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Vietnamese\n"
 "Language: vi\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -27,7 +28,7 @@ msgstr "Đang tải…"
 
 #. i18n: keyword: Search
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -147,7 +148,7 @@ msgstr "Kích hoạt tài khoản"
 
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
-msgstr "Tài khoản Klei của bạn đã được tạo thánh công ! Vui lòng hoàn thành biểu mẫu để kích hoạt tài khoản và sử dung những tính năng khác. Bạn cũng có thể đăng ký nhận thông báo của chúng tôi để có thể cập nhật những thông tin mới nhất về tựa game ưa thích của bạn."
+msgstr "Tài khoản Klei của bạn đã được tạo thành công! Vui lòng hoàn thành biểu mẫu để kích hoạt tài khoản và sử dung những tính năng khác. Bạn cũng có thể đăng ký nhận thông báo của chúng tôi để có thể cập nhật những thông tin mới nhất về tựa game ưa thích của bạn."
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -875,11 +876,11 @@ msgstr "điểm"
 
 #. i18n: keyword: RewardBoltsAbbreviation
 msgid "bolts"
-msgstr ""
+msgstr "bolts"
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
-msgstr "cuộn chỉ"
+msgstr "chỉ"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
@@ -1772,4 +1773,3 @@ msgstr ""
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
 msgstr ""
-
