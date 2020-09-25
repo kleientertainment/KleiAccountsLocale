@@ -27,7 +27,7 @@ msgstr "Завантаження…"
 
 #. i18n: keyword: Search
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -659,15 +659,15 @@ msgstr "Ігрові сервери для Don’t Starve Together"
 
 #. i18n: keyword: DontStarveTogetherInventory
 msgid "Don’t Starve Together Items Inventory"
-msgstr ""
+msgstr "Інвентар Don’t Starve Together"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr ""
+msgstr "<b>Пошукові поради:</b> Введіть одне або декілька слів для пошуку предметів у вашому інвентарі. Якщо ви хочете знайти предмет під назвою <b>Wilson Red Hat</b>, ви можете ввести <b>Wilson</b>, або <b>Hat</b>, і також <b>Wilson Hat</b>. Порядок написання слів має значення, це означає, що ви не знайдете результатів для запиту \"Hat Wilson\", тому що слова в іншому порядку. <b>Натисніть Enter</b> щоб ввести пошуковий запит. Видаліть пошуковий запит та натисніть Enter знову для скидання фільтрів."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr ""
+msgstr "Вибрана гра не містить предметів. Будь ласка, переконайтеся, що ви вибрали саме Don't Starve Together."
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
@@ -783,7 +783,7 @@ msgstr "Пароль кластеру"
 
 #. i18n: keyword: ItemsInventoryTitle
 msgid "Your Items Inventory"
-msgstr ""
+msgstr "Ваш інвентар"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -1767,9 +1767,9 @@ msgstr "Steam консоль DLC"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr ""
+msgstr "Продається"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr ""
+msgstr "Вимінюється"
 
