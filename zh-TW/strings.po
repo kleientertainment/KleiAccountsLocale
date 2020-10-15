@@ -1663,7 +1663,7 @@ msgstr "用戶交易紀錄"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
-msgstr "與您的帳號有關的交易紀錄均按照最新至最舊的順序列出。要注意的是，交易時間是參照網頁伺服器所在的時區，你可能得調整數字來符合你的電腦時間。"
+msgstr "與您的帳號有關的交易紀錄均按照最新至最舊的順序列出。要注意的是，交易時間是參照網頁伺服器所在的時區，你可能得調整數值來符合你的電腦時間。"
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
@@ -1707,7 +1707,7 @@ msgstr "獲得點數"
 
 #. i18n: keyword: TXN_QUEST_FOR_BOLTS
 msgid "Quest For Bolts"
-msgstr "獲得螺栓"
+msgstr ""
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
@@ -1719,7 +1719,7 @@ msgstr "以點數兌換物品"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr "以螺栓兌換物品"
+msgstr ""
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
@@ -1727,11 +1727,11 @@ msgstr "退貨"
 
 #. i18n: keyword: TXN_MARKET_LIST_ITEM
 msgid "Market List Item"
-msgstr "市場清單物品"
+msgstr "市集清單物品"
 
 #. i18n: keyword: TXN_MARKET_PURCHASE
 msgid "Market Purchase"
-msgstr "市場購買"
+msgstr "市集購買"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
@@ -1751,25 +1751,25 @@ msgstr "以物品兌換點數"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
-msgstr ""
+msgstr "Steam 箱子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
 msgid "Tencent Games Box"
-msgstr "騰訊 Games Box"
+msgstr "騰訊遊戲箱子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
 msgid "Currency Box"
-msgstr ""
+msgstr "貨幣箱子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
-msgstr ""
+msgstr "Steam 箱子 DLC"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr ""
+msgstr "可於市集販售"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr "可交易的"
+msgstr "可交易"
 
