@@ -549,6 +549,7 @@ msgstr "Временная ошибка, пожалуйста, повторит�
 msgid "Unknown Status"
 msgstr "Статус незвестен"
 
+
 #. i18n: keyword: DeleteAccount
 msgid "Delete Account"
 msgstr "Удалить аккаунт"
@@ -1303,7 +1304,7 @@ msgstr "Мы не можем проверить ваши учетные данн
 
 #. i18n: keyword: E_LOGIN_ERROR_BANNED
 msgid "You are not allowed to log in with this account because it has been banned."
-msgstr "Вы не можете войти в систему с этой учетной записью, поскольку она была деактивирована."
+msgstr "Вы не можете войти в систему с этой учетной записью, поскольку она была заблокирована."
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
 msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
