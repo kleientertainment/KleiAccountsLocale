@@ -403,7 +403,7 @@ msgstr "Об’єднати акаунти"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
-msgstr "Цей процес дозволить одному акаунти Klei бути пов'язаним з декількома платформами. Це зроблено для випадків, коли у вас є акаунти на декількох платформах і ви хочете, щоб вони всі були пов'язані з одним акаунтом Klei."
+msgstr "Цей процес дозволить одному акаунту Klei бути пов'язаним з декількома платформами. Це зроблено для випадків, коли у вас є акаунти на декількох платформах і ви хочете, щоб вони всі були пов'язані з одним акаунтом Klei."
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -663,7 +663,7 @@ msgstr "Інвентар Don’t Starve Together"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr "<b>Пошукові поради:</b> Введіть одне або декілька слів для пошуку предметів у вашому інвентарі. Якщо ви хочете знайти предмет під назвою <b>Wilson Red Hat</b>, ви можете ввести <b>Wilson</b>, або <b>Hat</b>, і також <b>Wilson Hat</b>. Порядок написання слів має значення, це означає, що ви не знайдете результатів для запиту \"Hat Wilson\", тому що слова в іншому порядку. <b>Натисніть Enter</b> щоб ввести пошуковий запит. Видаліть пошуковий запит та натисніть Enter знову для скидання фільтрів."
+msgstr "<b>Пошукові поради:</b> Введіть одне або декілька слів для пошуку предметів у вашому інвентарі. Якщо ви хочете знайти предмет під назвою <b>Wilson Red Hat</b>, ви можете ввести <b>Wilson</b>, або <b>Hat</b>, та також <b>Wilson Hat</b>. Порядок написання слів має значення, це означає, що ви не знайдете результатів для запиту \"Hat Wilson\", оскільки слова розміщені в іншому порядку. <b>Натисніть Enter</b> щоб надіслати пошуковий запит. Видаліть пошуковий запит та натисніть Enter знову для скидання фільтрів."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
@@ -955,7 +955,7 @@ msgstr "Вартість предмета"
 
 #. i18n: keyword: RewardItemReedem
 msgid "Redeem"
-msgstr "Викупити"
+msgstr "Погасити"
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
@@ -983,7 +983,7 @@ msgstr "Купівля подарунків"
 
 #. i18n: keyword: GiftRedemptionDescription
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
-msgstr "Привіт! Схоже, у вас є ключ предмета або подарунковий код, ви хочете його зараз активувати? Введіть код у нижченаведеній формі, і ми надамо вам товар швидше, ніж ви моргнете<em>&mdash;якщо ви не в змозі блимати дуже швидко, то в такому випадку вам слід закрити очі на кілька мілісекунд&mdash;</em>"
+msgstr "Привіт! Схоже, у вас є ключ предмета або подарунковий код, ви хочете його зараз активувати? Введіть код у нижченаведеній формі, і ми надамо вам товар швидше, ніж ви кліпнете <em>&mdash;якщо ви не в змозі кліпати дуже швидко, то в такому випадку вам слід закрити очі на кілька мілісекунд&mdash;</em>"
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
@@ -995,11 +995,11 @@ msgstr "Активувати код"
 
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Gift code redemption was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr "Вітаємо! Активація подарункового коду пройшла успішно.</p><p>Тривалість доставки залежить від тимчасових портальних аномалій. Klei не відповідає за емоційні травми, викликані очікуванням. Подарунки можуть спричинити хвастощі, несподіване захоплення та/або покращений ігрового процесу."
+msgstr "Вітаємо! Активація подарункового коду пройшла успішно.</p><p>Тривалість доставки залежить від тимчасових портальних аномалій. Klei не відповідає за емоційні травми, викликані очікуванням. Подарунки можуть спричинити хвастощі, несподіване захоплення та/або поліпшення ігрового процесу."
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
-msgstr "Натисніть тут, щоб викупити ще один подарунок"
+msgstr "Натисніть тут, щоб погасити ще один подарунок"
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
@@ -1007,7 +1007,7 @@ msgstr "Ключ предмета або подарунковий код нед�
 
 #. i18n: keyword: E_ALREADY_USED
 msgid "Item key or gift code has already been used."
-msgstr "Ключ предмета або подарунковий код вже використані."
+msgstr "Ключ предмета або подарунковий код вже використано."
 
 #. i18n: keyword: E_INVALID_PLATFORM
 msgid "The token used to redeem the gift code does not support the gaming platform you selected."
@@ -1167,7 +1167,7 @@ msgstr "Завантаження профілю Steam…"
 
 #. i18n: keyword: AOLNote
 msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
-msgstr "ПРИМІТКА. Нині з адресами електронної пошти AOL виникають проблеми щодо отриманням перевірочних листів. Якщо ви використовуєте адресу електронної пошти @aol, ви можете не отримати листа з підтвердженням, поки цю проблему не буде вирішено. Ми рекомендуємо використовувати іншу адресу електронної пошти."
+msgstr "ПРИМІТКА: Нині з адресами електронної пошти AOL виникають проблеми щодо отриманням перевірочних листів. Якщо ви використовуєте адресу електронної пошти @aol, ви можете не отримати листа з підтвердженням, поки цю проблему не буде вирішено. Ми рекомендуємо використовувати іншу адресу електронної пошти."
 
 #. i18n: keyword: DOBUsage
 msgid "Date of birth (to verify your age)"
@@ -1607,7 +1607,7 @@ msgstr "Наразі ми не можемо перевірити вашу під
 
 #. i18n: keyword: E_GOOGLE_QUOTA_EXCEEDED
 msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "Наразі ми не можемо перевірити вашу підписку на YouTube. Перевірте ще раз після півночі за тихоокеанським часом (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Докладніше про це читайте тут </a>."
+msgstr "Наразі ми не можемо перевірити вашу підписку на YouTube. Перевірте ще раз після півночі за тихоокеанським часом (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Докладніше про це читайте тут</a>."
 
 #. i18n: keyword: E_GOOGLE_IS_UNAVAILABLE
 msgid "Google is unavailable right now. To process your request we need to pass some information to Google, but it seems their service is offline right now. Please wait a few minutes before trying again."
@@ -1663,7 +1663,7 @@ msgstr "Транзакції користувача"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
-msgstr "Усі (відповідні) транзакції, пов'язані з вашим обліковим записом, перелічені у порядку спадання (новіші транзакції вгорі, старіші внизу). Зауважте, що час транзакції залежить від часового поясу веб-сервера, можливо, вам доведеться відрегулювати цифри відповідно до годинника вашого комп'ютера."
+msgstr "Усі (відповідні) транзакції, пов'язані з вашим обліковим записом, перелічені у порядку спадання (новіші транзакції вгорі, старіші внизу). Зауважте, що час транзакції залежить від часового поясу веб-сервера, можливо, вам доведеться відрегулювати цифри відповідно до часу на вашому комп'ютері."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
@@ -1767,9 +1767,9 @@ msgstr "Набір Steam DLC"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr "Можна обміняти"
+msgstr "Можна продати"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr "Можна продати"
+msgstr "Можна обміняти"
 
