@@ -55,7 +55,7 @@ msgstr "Назад"
 
 #. i18n: keyword: Copyright
 msgid "&copy; All Rights Reserved Klei Entertainment"
-msgstr "&copy; Все права защищены. Klei Entertainment"
+msgstr "&copy; Klei Entertainment. Все права защищены."
 
 #. i18n: keyword: Rewards
 msgid "Rewards"
@@ -147,7 +147,7 @@ msgstr "Создание учетной записи"
 
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
-msgstr "Ваша учётная запись Klei была успешно создана! Пожалуйста, заверите форму, чтобы активировать его и получить доступ к дополнтельным функциям. Также вы можете подписаться на нашу новостную рассылку, чтобы получать информацию о вашей любимой игре."
+msgstr "Ваша учётная запись Klei была успешно создана! Пожалуйста, заполните форму, чтобы активировать его и получить доступ к дополнтельным функциям. Также вы можете подписаться на нашу новостную рассылку, чтобы получать информацию о вашей любимой игре."
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -239,7 +239,7 @@ msgstr "Войти в учетную запись Klei"
 
 #. i18n: keyword: LoginDescription
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
-msgstr "Войдите в свою учётную запись Klei, чтобы увидеть все ваши игры Klei, начать обмениваться игровыми предметами с друзьями, записаться на бета-тест и получить доступ к эксклюзивному контенту.</p><p>Выберете платформу для входа:"
+msgstr "Войдите в свою учётную запись Klei, чтобы увидеть все ваши игры Klei, начать обмениваться игровыми предметами с друзьями, записаться на бета-тест и получить доступ к эксклюзивному контенту.</p><p>Выберите платформу для входа:"
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -455,7 +455,7 @@ msgstr "Мы проверили всю информацию о двух учёт
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
-msgstr "НЕ ИСПОЛЬЗУЙТЕ это, если вы не являетесь владельцем обеихучётных записей. Обе учётные записи будут восприниматься за одного человека и не смогут играть в многопользовательские игры одновременно."
+msgstr "НЕ ИСПОЛЬЗУЙТЕ это, если вы не являетесь владельцем обеих учётных записей. Обе учётные записи будут восприниматься за одного человека и не смогут играть в многопользовательские игры одновременно."
 
 #. i18n: keyword: MergeAccountConsentQuestion2
 msgid "This process is permanent and cannot be reverted or changed."
@@ -1648,7 +1648,7 @@ msgstr "У вас недостаточно очков, чтобы получит
 
 #. i18n: keyword: E_ALREADY_CLAIMED
 msgid "You already have claimed this reward."
-msgstr "Вы уж получили эту награду."
+msgstr "Вы уже получили эту награду."
 
 #. i18n: keyword: E_UNKNOWN_LINK
 msgid "The link you have used is not valid. Please check the source of this link and try again."
