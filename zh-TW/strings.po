@@ -1,0 +1,1775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: klei-accounts\n"
+"Report-Msgid-Bugs-To: support@kleientertainment.com\n"
+"POT-Creation-Date: 2018-05-24 11:14-0700\n"
+"PO-Revision-Date: 2020-07-24 03:24\n"
+"Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
+"Language-Team: Chinese Traditional\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: klei-accounts\n"
+"X-Crowdin-Project-ID: 401122\n"
+"X-Crowdin-Language: zh-TW\n"
+"X-Crowdin-File: strings.po\n"
+"X-Crowdin-File-ID: 76\n"
+
+#. i18n: keyword: Email
+msgid "E-mail"
+msgstr "電子郵件"
+
+#. i18n: keyword: Loading
+msgid "Loading…"
+msgstr "正在載入…"
+
+#. i18n: keyword: Search
+msgid "Search"
+msgstr "搜尋"
+
+#. i18n: keyword: Select
+msgid "Select"
+msgstr "選擇"
+
+#. i18n: keyword: SaveChanges
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#. i18n: keyword: SavingChanges
+msgid "Saving Changes…"
+msgstr "正在儲存變更…"
+
+#. i18n: keyword: Expiration
+msgid "Expiration"
+msgstr "截止日期"
+
+#. i18n: keyword: Redirecting
+msgid "Redirecting…"
+msgstr "正在重新導向…"
+
+#. i18n: keyword: GoToPreviousPage
+msgid "Go Back"
+msgstr "回到上一頁"
+
+#. i18n: keyword: Copyright
+msgid "&copy; All Rights Reserved Klei Entertainment"
+msgstr "&copy; Klei Entertainment 保留所有權利"
+
+#. i18n: keyword: Rewards
+msgid "Rewards"
+msgstr "獎勵"
+
+#. i18n: keyword: Settings
+msgid "Settings"
+msgstr "帳號設定"
+
+#. i18n: keyword: Games
+msgid "Games"
+msgstr "遊戲"
+
+#. i18n: keyword: Betas
+msgid "Betas"
+msgstr "Betas 測試"
+
+#. i18n: keyword: Language
+msgid "Language"
+msgstr "語言"
+
+#. i18n: keyword: Support
+msgid "Support"
+msgstr "技術支援"
+
+#. i18n: keyword: VisitYourProfile
+msgid "Visit your Profile"
+msgstr "造訪您的個人資料"
+
+#. i18n: keyword: January
+msgid "January"
+msgstr "一月"
+
+#. i18n: keyword: February
+msgid "February"
+msgstr "二月"
+
+#. i18n: keyword: March
+msgid "March"
+msgstr "三月"
+
+#. i18n: keyword: April
+msgid "April"
+msgstr "四月"
+
+#. i18n: keyword: May
+msgid "May"
+msgstr "五月"
+
+#. i18n: keyword: June
+msgid "June"
+msgstr "六月"
+
+#. i18n: keyword: July
+msgid "July"
+msgstr "七月"
+
+#. i18n: keyword: August
+msgid "August"
+msgstr "八月"
+
+#. i18n: keyword: September
+msgid "September"
+msgstr "九月"
+
+#. i18n: keyword: October
+msgid "October"
+msgstr "十月"
+
+#. i18n: keyword: November
+msgid "November"
+msgstr "十一月"
+
+#. i18n: keyword: December
+msgid "December"
+msgstr "十二月"
+
+#. i18n: keyword: Activate
+msgid "Activate"
+msgstr "啟用"
+
+#. i18n: keyword: Activating
+msgid "Activating..."
+msgstr "啟用中..."
+
+#. i18n: keyword: ActivateAccountTitle
+msgid "Activate Account"
+msgstr "啟用帳戶"
+
+#. i18n: keyword: ActivateAccountDescription
+msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
+msgstr "您的 Klei 帳戶已經成功建立！請完成以下表單來啟用它來存取其他功能，您也可以訂閱我們的郵件推送，來獲取您最喜歡的遊戲的資訊。"
+
+#. i18n: keyword: Birthdate
+msgid "Date of birth"
+msgstr "出生日期"
+
+#. i18n: keyword: NewsletterConsent
+msgid "I wish to sign-up for our newsletter"
+msgstr "我想要收到電子報"
+
+#. i18n: keyword: EULA
+msgid "I agree to the <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">EULA</a>"
+msgstr "我同意 <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">最終用戶許可協議</a>"
+
+#. i18n: keyword: MustAcceptEULA
+msgid "EULA Must Be Accepted to Register. Please read our EULA and check the confirmation box to proceed."
+msgstr "必須接受最終用戶許可協議才能通過註冊，請閱讀我們的最終用戶許可協議並勾選確認框以繼續進行。"
+
+#. i18n: keyword: PrivacyPolicy
+msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
+msgstr "通過註冊，您將同意我們的 <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">隱私政策</a>"
+
+#. i18n: keyword: FillAccountDetails
+msgid "Fill your account details here:"
+msgstr "在這裡填寫您的帳號資料:"
+
+#. i18n: keyword: SteamAccount
+msgid "Steam Account"
+msgstr "Steam 帳號"
+
+#. i18n: keyword: VerifyEmail
+msgid "Verify E-mail"
+msgstr "驗證"
+
+#. i18n: keyword: VerificationEmailSuccessTitle
+msgid "Verification Email Sent"
+msgstr "發送驗證郵件"
+
+#. i18n: keyword: VerificationEmailSuccessDescription
+msgid "We’ve sent a verification e-mail to your e-mail address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the e-mail after an hour, first check your spam folder."
+msgstr "我們已經向您的電子郵件發送了一封驗證郵件，請點擊郵件里的超連結以完成註冊，郵件通常是立即發送的，如果在一個小時後仍未收到郵件，請檢查郵件是否在垃圾桶裡。"
+
+#. i18n: keyword: VerificationEmailFailureTitle
+msgid "Invalid Verification"
+msgstr "無效驗證"
+
+#. i18n: keyword: VerificationEmailFailureDescription
+msgid "Oops, it looks like the link you used to get here was invalid."
+msgstr "哎呀，您的超連結好像是無效的。"
+
+#. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
+msgid "We cannot execute this operation because your e-mail address is not verified yet."
+msgstr "您無法執行此操作，因為您的電子郵件地址尚未被驗證。"
+
+#. i18n: keyword: E_EMAIL_VERIFIED
+msgid "Your e-mail has already been verified."
+msgstr "你的電子郵件已被驗證。"
+
+#. i18n: keyword: EmailStatusNotVerified
+msgid "Not Verified"
+msgstr "尚未驗證"
+
+#. i18n: keyword: EmailStatusVerified
+msgid "Verified"
+msgstr "已驗證"
+
+#. i18n: keyword: RegistrationComplete
+msgid "Successful Verification"
+msgstr "驗證成功"
+
+#. i18n: keyword: RegistrationCompleteDescription
+msgid "Thanks for verifying your email.</p><p>You’re good to go! You can now return to your game and play online. If you have suggestions, feedback or need support during the beta, head over to the Klei community forum."
+msgstr "感謝驗證您的郵箱。</p><p>一切準備就緒! 現在您可以回到遊戲遊玩了，如果您有任何建議、反饋或者在 beta 測試期間需要幫助，請前往 Klei 社群論壇。"
+
+#. i18n: keyword: VisitCommunityForum
+msgid "Visit Klei Community Forum"
+msgstr "造訪 Klei 的社群論壇"
+
+#. i18n: keyword: Login
+msgid "Login"
+msgstr "登入"
+
+#. i18n: keyword: Logout
+msgid "Logout"
+msgstr "登出"
+
+#. i18n: keyword: LoginTitle
+msgid "Klei Account Log In"
+msgstr "Klei 帳號登入"
+
+#. i18n: keyword: LoginDescription
+msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
+msgstr "登入您的 Klei 帳號以查看您擁有的 Klei 遊戲、與好友交換物品、註冊參與 beta 測試以及取得獨家內容。</p><p>請選擇一個平台登入："
+
+#. i18n: keyword: Subscribe
+msgid "Subscribe"
+msgstr "訂閱"
+
+#. i18n: keyword: Subscribing
+msgid "Subscribing..."
+msgstr "訂閱中..."
+
+#. i18n: keyword: SubscribeContent
+msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
+msgstr "取得最新的 {{.GameName}} 主要新聞與更新，我們不會送很多電子郵件，但我們會盡力去做！簡單地在任何時候按下電子郵件底部的取消訂閱。您也可以追蹤我們的 Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> 來收到第一手新聞，或造訪我們的 <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a> 官方網站。"
+
+#. i18n: keyword: SubscribeComplete
+msgid "Subscription is complete"
+msgstr "訂閱已完成"
+
+#. i18n: keyword: SubscribeCompleteDescription
+msgid "Your email subscription has been processed. If this is the first time you subscribe to one of our newsletters, you will receive a confirmation email."
+msgstr "您的電子郵件訂閱已被處理，如果您是第一次訂閱我們的電子報，您將會收到一封確認郵件。"
+
+#. i18n: keyword: UserInfo
+msgid "User Info"
+msgstr "用戶資料"
+
+#. i18n: keyword: UsefulLinks
+msgid "Useful Links"
+msgstr "有效超連結"
+
+#. i18n: keyword: KleiUserID
+msgid "Klei User ID"
+msgstr "Klei 用戶 ID"
+
+#. i18n: keyword: FirstSeen
+msgid "First Seen"
+msgstr "首次遊玩"
+
+#. i18n: keyword: Change
+msgid "Change"
+msgstr "變更"
+
+#. i18n: keyword: KleiCommunity
+msgid "Klei Community"
+msgstr "Klei 社群"
+
+#. i18n: keyword: OpenForums
+msgid "Open Forums"
+msgstr "打開社群論壇"
+
+#. i18n: keyword: Newsletter
+msgid "Newsletter"
+msgstr "電子報"
+
+#. i18n: keyword: EditSubscriptions
+msgid "Edit Subscriptions"
+msgstr "編輯訂閱內容"
+
+#. i18n: keyword: UnsubscribeFromEmails
+msgid "Unsubscribe from E-mails"
+msgstr "取消訂閱郵件訊息推送"
+
+#. i18n: keyword: SignupForABeta
+msgid "Sign up for a Beta"
+msgstr "註冊參與Beta測試"
+
+#. i18n: keyword: GetDRMFreeGames
+msgid "Get DRM-free Games"
+msgstr "獲取DRM-free遊戲"
+
+#. i18n: keyword: DownloadPersonalData
+msgid "Download Personal Data"
+msgstr "下載個人數據"
+
+#. i18n: keyword: GamePlayerID
+msgid "Player ID"
+msgstr "玩家 ID"
+
+#. i18n: keyword: UserNotFound
+msgid "user not found"
+msgstr "找不到用戶"
+
+#. i18n: keyword: LinkedAccounts
+msgid "Linked Accounts"
+msgstr "已連接帳號"
+
+#. i18n: keyword: LinkAccountButton
+msgid "Link Account"
+msgstr "綁定帳號"
+
+#. i18n: keyword: AddedOn
+msgid "Added On"
+msgstr "已添加"
+
+#. i18n: keyword: AccountLinkRulesTitle
+msgid "Streaming Rules"
+msgstr "Twitch 直播規則"
+
+#. i18n: keyword: AccountLinkRulesDescription
+msgid "Klei Rewards are intended to be a way to support streamers that provide quality content for our community, and “Away From Keyboard (AFK)” streams disrupt the effectiveness of the system. AFK streams or streams showing content other than Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these rules will be unlinked and potentially banned from participating ever again."
+msgstr "Klei Drops 是為了支持為我們的社群提供高質量內容的直播主們，掛機直播會破壞系統的有效性，所以掛機直播和直播關於《饑荒》或者《饑荒：聯機版》以外的內容是不被允許的，違反這些規則的直播主會被取消連結，並會被禁止參與 Klei 的 Klei Drops。"
+
+#. i18n: keyword: AccountLinkRulesAccept
+msgid "Accept and Continue"
+msgstr "接受條款並繼續"
+
+#. i18n: keyword: ChangeEmail
+msgid "Change Email"
+msgstr "修改電子郵件地址"
+
+#. i18n: keyword: ChangeEmailDescription
+msgid "This is the email address we will use to send you updates & news regarding your account or games."
+msgstr "我們會把關於您的帳號或遊戲的新消息和更新發送到該電子郵件。"
+
+#. i18n: keyword: ChangeEmailInProgress
+msgid "Your new e-mail is being changed. We have sent you a mail with a verification link to authorize the change."
+msgstr "您的新電子郵件已經被更新，我們將會發送一則帶有驗證連結的郵件來授權此更新。"
+
+#. i18n: keyword: Inventory
+msgid "Inventory"
+msgstr "物品庫"
+
+#. i18n: keyword: HideSteamInventory
+msgid "Hide Steam Inventory"
+msgstr "隱藏 Steam 物品"
+
+#. i18n: keyword: HideSteamInventoryDescription
+msgid "Checking the boxes below will hide the items associated to your Klei games from Steam. You still own your items and will be able to see them in the games. If you want to make the inventory visible again, simply uncheck the boxes and save your changes."
+msgstr "勾選下面的選項將會從 Steam 隱藏與 Klei 遊戲相關的物品，您仍然擁有並可以在遊戲裡看到您的物品，如果您想要讓物品再次出現，只需取消勾選選項並儲存變更。"
+
+#. i18n: keyword: InventoryHasBeenHidden
+msgid "Inventory has been hidden"
+msgstr "物品已被隱藏"
+
+#. i18n: keyword: MarketingOptions
+msgid "Marketing Options"
+msgstr "訂閱選項"
+
+#. i18n: keyword: MarketingOptionsDescription
+msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
+msgstr "使用這些選項來設定您的電子報訂閱，記得，您可以在任何時候取消訂閱。"
+
+#. i18n: keyword: MarketingOptionsUnsubscribe
+msgid "I do not want to receive marketing emails"
+msgstr "我不想收到任何推送郵件"
+
+#. i18n: keyword: MarketingOptionsSubscribe
+msgid "I want to receive marketing emails (news, new games, promos, etc)"
+msgstr "我想要收到推送郵件（新聞、新遊戲、促銷消息等）"
+
+#. i18n: keyword: MarketingOptionsDetails
+msgid "For more detailed information about each game, please select the boxes below:"
+msgstr "關於每個遊戲的更多詳細資料，請勾選以下選項框："
+
+#. i18n: keyword: MarketingOptionsPending
+msgid "We have sent you an email to confirm your subscription to our mailing list."
+msgstr "我們已向您發送電子郵件以確認您訂閱我們的郵件清單。"
+
+#. i18n: keyword: MergeAccountTitle
+msgid "Merge An Account"
+msgstr "合併帳戶"
+
+#. i18n: keyword: MergeAccountDescription
+msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
+msgstr "這個流程將允許 Klei 帳號去關聯多個平台，此功能適用於當您在多個平台上擁有帳戶，並希望將它們全部連接到同一個 Klei 帳戶時。"
+
+#. i18n: keyword: MergeAccountConsent
+msgid "Please click the checkmark to confirm that you have read and understand the following."
+msgstr "請點擊勾選框來確認您已閱讀並瞭解以下內容。"
+
+#. i18n: keyword: MergeAccountOptions
+msgid "Consent questions"
+msgstr "同意以下問題"
+
+#. i18n: keyword: MergeAccountConfirm
+msgid "Confirm"
+msgstr "確認"
+
+#. i18n: keyword: MergeAccountConfirmation
+msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
+msgstr "請輸入全大寫的「merge accounts」來確認："
+
+#. i18n: keyword: MergeAccountButton
+msgid "I understand the consequences, merge these accounts"
+msgstr "我瞭解後果，合併這些帳戶"
+
+#. i18n: keyword: MergeAccountDoButton
+msgid "I understand, merge these accounts"
+msgstr "我瞭解，合併這些帳戶"
+
+#. i18n: keyword: MergeAccountSuccessTitle
+msgid "Successful Account Merge"
+msgstr "成功合併帳戶"
+
+#. i18n: keyword: MergeAccountSuccessDescription
+msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
+msgstr "帳戶合併已成功。</p><p>我們已清除您的 session，讓您能夠以新帳戶登入。</p><p>遊戲將根據需要在其他遊戲平台上授予。</p><p>記住您必須<strong>至少啟動一次遊戲</strong>來讓我們能夠偵測到它。"
+
+#. i18n: keyword: MergeAccountFixWarnings
+msgid "Fix Warnings"
+msgstr "修正警告"
+
+#. i18n: keyword: MergeAccountReviewEmail
+msgid "Below is your Klei account e-mail:"
+msgstr "以下是您的 Klei 帳戶郵件地址："
+
+#. i18n: keyword: MergeAccountCheckProfile
+msgid "Please double check this is the correct gaming account to merge."
+msgstr "請再次確認要將此遊戲帳戶合併。"
+
+#. i18n: keyword: MergeAccountReadyToExecute
+msgid "We have checked all the information we could find about the two accounts you are about to merge and did not find any warnings. You will be able to log in with the new account after submitting this form."
+msgstr "我們已檢查所有與您將要合併的兩個帳戶有關的資訊，但未發現任何警告，在完成此表單後，您將可以登入新帳戶。"
+
+#. i18n: keyword: MergeAccountConsentQuestion1
+msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
+msgstr "如果您未擁有這兩個帳戶，請「不要」合併，這兩個帳戶將會被視為同一人擁有，且將無法同時在多人遊戲中遊玩。"
+
+#. i18n: keyword: MergeAccountConsentQuestion2
+msgid "This process is permanent and cannot be reverted or changed."
+msgstr "這個流程將是永久性的，且無法被復原或更改。"
+
+#. i18n: keyword: MergeAccountConsentQuestion3
+msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
+msgstr "一但有平台被連接到一個 Klei 帳戶，它將無法被解除連接。"
+
+#. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
+msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
+msgstr "不幸的是，您嘗試合併的遊戲平台尚不具備執行此操作的功能。"
+
+#. i18n: keyword: E_ACCOUNT_MERGE_INVALID_CONSENT
+msgid "Invalid user consent, you need to read the account merge instructions very carefully."
+msgstr "無效的用戶同意，您需要非常仔細地閱讀帳戶合併說明。"
+
+#. i18n: keyword: E_ACCOUNT_MERGE_MISSING_DATA
+msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
+msgstr "由於某些資料丟失，現在無法合併您的帳戶。請取消並重新開始該流程，確保您的網頁瀏覽器接受 cookie，並且您要合併的兩個帳戶是正確的。"
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
+msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
+msgstr "請更新您的 *Klei* 帳戶以使用相同的電子郵件地址，然後重新開始該流程。"
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
+msgid "Please verify/validate the e-mail address in both accounts and start the process again."
+msgstr "請驗證兩個帳戶中的電子郵件地址，然後重新開始該流程。"
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
+msgid "We cannot merge your accounts because one of them is banned."
+msgstr "我們無法合併您的帳戶，因為其中一個帳戶已被 ban。"
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PASSWORD_RESET
+msgid "It appears your password was reset some time ago but you never finished the verification process."
+msgstr "您的密碼似乎已在一段時間前重設，但您尚未完成驗證流程。"
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_MARKED_FOR_DELETION
+msgid "We cannot merge your accounts because one of them is marked for deletion."
+msgstr "我們無法合併您的帳戶，因為其中一個已標記為刪除。"
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_NOTHING_TO_MERGE
+msgid "There is nothing to merge for this account."
+msgstr "沒有任何東西可以合併進這個帳戶。"
+
+#. i18n: keyword: OwnershipDescription
+msgid "Use this page to get access to the games you already own in a different gaming platform."
+msgstr "使用此頁面可以造訪您在其他遊戲平台上已經擁有的遊戲。"
+
+#. i18n: keyword: OwnershipTableDescription
+msgid "The table below shows you the ownership status of your games in different gaming platforms."
+msgstr "下表顯示了您在不同遊戲平台上的遊戲的擁有狀態。"
+
+#. i18n: keyword: OwnershipGrantingText
+msgid "Game granting is in progress. This operation may take several minutes, in the meantime you can visit the game ownership page for updates. We appreciate your patience and hope you enjoy playing the game with your friends."
+msgstr "正在進行遊戲授權中，此操作可能需要幾分鐘，與此同時，您可以造訪我的遊戲頁面以進行更新。感謝您的耐心配合，並由衷希望您與朋友能快樂地遊玩。"
+
+#. i18n: keyword: OwnershipPageButton
+msgid "Visit Game Ownership Page"
+msgstr "造訪我的遊戲頁面"
+
+#. i18n: keyword: OWNERSHIP_STATUS_OWNED_BOUGHT
+msgid "Purchased"
+msgstr "購買"
+
+#. i18n: keyword: OWNERSHIP_STATUS_OWNED_GRANTED
+msgid "Granted by Klei"
+msgstr "由 Klei 授權"
+
+#. i18n: keyword: OWNERSHIP_STATUS_GRANTING
+msgid "Granting..."
+msgstr "授權中..."
+
+#. i18n: keyword: OWNERSHIP_STATUS_GRANT_AVAILABLE
+msgid "Available for free"
+msgstr "免費提供"
+
+#. i18n: keyword: OWNERSHIP_STATUS_TEMPORARY
+msgid "Temporarily allowed"
+msgstr "暫時允許"
+
+#. i18n: keyword: OWNERSHIP_STATUS_UNOWNED
+msgid "Not owned"
+msgstr "未擁有"
+
+#. i18n: keyword: OWNERSHIP_STATUS_UNKNOWN_TEMPORARY
+msgid "Temporary error, please retry later"
+msgstr "暫時性錯誤，請稍後再重新嘗試"
+
+#. i18n: keyword: OWNERSHIP_STATUS_UNKNOWN_PERMANENT
+msgid "Unknown Status"
+msgstr "未知狀態"
+
+#. i18n: keyword: DeleteAccount
+msgid "Delete Account"
+msgstr "刪除帳號"
+
+#. i18n: keyword: DeleteAccountDescription
+msgid "Once you delete your account, there is no going back. Please be certain."
+msgstr "刪除帳號後，無法還原此操作，請確認您了解後果。"
+
+#. i18n: keyword: DeleteAccountAreYouSure
+msgid "Are you absolutely sure?"
+msgstr "你真的確定嗎？"
+
+#. i18n: keyword: MustReadAllWarnings
+msgid "Unexpected bad things will happen if you don’t read this!"
+msgstr "如果你不讀這個就會發生意想不到的壞事！"
+
+#. i18n: keyword: DeleteAccountExplanation
+msgid "At your request, your <b>Klei account</b> and all personally identifiable information related to your account (excluding financial transactions and information related to abuse) will be submitted to be permanently removed from our system.</p><p><b>Please note: You will not be able to reverse this action, and all data will be completely and irrecoverably removed.</b></p><p><strong>This means you will no longer be able to play any game that requires a Klei Account (Don’t Starve Together and Hot Lava) the {{.PlatformName}} account will be banned permanently, and all records will be destroyed forever including progress, items and entitlements.</strong>"
+msgstr "根據您的請求，您的 Klei 帳號和所有與您的帳號相關的個人身份資料（不包括交易以及與您負面行為有關的資料），將被從我們的系統中永久刪除。</p><p><b>請注意：您將無法回復此操作，所有的資料將被徹底和不可逆轉地刪除。</b></p><p><strong>這意味著您將無法繼續遊玩任何需要使用 Klei 帳號的遊戲（饑荒 和 Hot Lava），您的{{.PlatformName}}帳號將被永久禁止使用，包括進度、物品和權限在內的所有記錄資料都會被徹底永久地刪除。</strong>"
+
+#. i18n: keyword: DeleteAccountOptions
+msgid "Check the boxes to confirm you understand what is going to happen:"
+msgstr "刪除帳號後將導致下列後果，如執意刪除請勾選各項後果："
+
+#. i18n: keyword: DeleteAccountOptionsProgress
+msgid "Delete my progress in Klei games"
+msgstr "刪除我在 Klei 遊戲中的進度"
+
+#. i18n: keyword: DeleteAccountOptionsInventory
+msgid "Delete all the items in my game inventory"
+msgstr "刪除我的遊戲廣告資源中的所有項目"
+
+#. i18n: keyword: DeleteAccountOptionsPurchases
+msgid "Delete items from my Steam inventory, including purchased items"
+msgstr "從我的 Steam 物品庫中刪除物品，包括購買來的物品"
+
+#. i18n: keyword: DeleteAccountOptionsNoPlayDST
+msgid "I do not want to play Don’t Starve Together anymore"
+msgstr "我不想再玩「飢荒連機版」了"
+
+#. i18n: keyword: DeleteAccountOptionsNoPlayHL
+msgid "I do not want to play Hot Lava anymore"
+msgstr "我不想再玩 Hot Lava 了"
+
+#. i18n: keyword: DeleteAccountOptionsBanAccount
+msgid "Ban my {{.PlatformName}} account from playing Klei games for a MINIMUM of 30 days"
+msgstr "Ban 掉我的{{.PlatformName}}帳號玩 Klei 遊戲，最少30天"
+
+#. i18n: keyword: DeleteAccountConfirm
+msgid "Confirm Deletion"
+msgstr "確認"
+
+#. i18n: keyword: DeleteAccountConfirmation
+msgid "Please type in “delete my account” but in UPPERCASE letters, to confirm:"
+msgstr "請輸入「delete my account」的大寫英文，以確認操作："
+
+#. i18n: keyword: DeleteAccountButton
+msgid "I understand the consequences, delete this account"
+msgstr "我理解後果，請刪除我的帳號"
+
+#. i18n: keyword: VerifyAccountDeletionTitle
+msgid "Verify Account Deletion"
+msgstr "刪除帳號驗證"
+
+#. i18n: keyword: VerifyAccountDeletionDescription
+msgid "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.PlatformName}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.PlatformName}} account to prevent this from happening again."
+msgstr "我們通過電子郵件向您發送了驗證碼以確認您的帳號會被刪除，請複製驗證碼並將其貼上至以下文字輸入框。</p><p>如果您沒有收到驗證碼，請點擊「取消」，並確認您的電子郵件填寫正確無誤，然後重新操作。</p><p>如果您並未請求刪除您的帳號，則有可能是其他擁有您{{.PlatformName}}帳號登入權限的人在進行操作。單擊「取消」完全停止刪除帳號流程，並請更改您的{{.PlatformName}}帳號密碼以防止這種情況再次發生。"
+
+#. i18n: keyword: VerifyAccountDeletionCode
+msgid "Verification Code"
+msgstr "驗證碼"
+
+#. i18n: keyword: VerifyAccountDeletionProceed
+msgid "Proceed"
+msgstr "繼續"
+
+#. i18n: keyword: CancelOperation
+msgid "Cancel"
+msgstr "取消"
+
+#. i18n: keyword: MyGames
+msgid "My Games"
+msgstr "我的遊戲"
+
+#. i18n: keyword: OtherGames
+msgid "Other Games"
+msgstr "其他遊戲"
+
+#. i18n: keyword: AvailableOn
+msgid "Available on all these platforms:"
+msgstr "在以下所有平台可用："
+
+#. i18n: keyword: GoToWebsite
+msgid "Go to Website"
+msgstr "前往網站"
+
+#. i18n: keyword: DRMFreeDownload
+msgid "DRM-Free Download"
+msgstr "DRM-Free 下載"
+
+#. i18n: keyword: DRMFreeDownloadDescription
+msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
+msgstr "您可以在 DRM-free 下載這個遊戲。更多資料詳見 <a href=\"/\">這裡</a>."
+
+#. i18n: keyword: DontStarveTogetherServers
+msgid "Don’t Starve Together Game Servers"
+msgstr "Don’t Starve Together 遊戲伺服器"
+
+#. i18n: keyword: DontStarveTogetherInventory
+msgid "Don’t Starve Together Items Inventory"
+msgstr "Don’t Starve Together 物品庫存"
+
+#. i18n: keyword: ItemsInventorySearchTips
+msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
+msgstr "<b>搜尋提示：</b>輸入一或多個詞語來搜尋您遊戲庫存的物品，如果您想要找一個名叫 <b>Wilson Red Hat</b> 的物品，你可以輸入 <b>Wilson</b>、<b>Hat</b> 或 <b>Wilson Hat</b>。另外搜尋關鍵字的順序很重要，這代表您無法以 \"Hat Wilson\" 找到任何物品，因為順序不對。按下 Enter 鍵來送出搜尋，刪除搜尋關鍵字並按下 Enter 來取消搜尋。"
+
+#. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
+msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
+msgstr "你選擇的遊戲並未擁有任何物品，請確定您選擇的是 Don't Starve Together。"
+
+#. i18n: keyword: PlayerInfo
+msgid "Player Info"
+msgstr "玩家資料"
+
+#. i18n: keyword: EnteredARGs
+msgid "Entered ARGs"
+msgstr "輸入 ARGs"
+
+#. i18n: keyword: ParticipatedEvents
+msgid "Participated Events"
+msgstr "參與活動"
+
+#. i18n: keyword: Download
+msgid "Download"
+msgstr "下載"
+
+#. i18n: keyword: GetKey
+msgid "Get Key"
+msgstr "獲取密鑰"
+
+#. i18n: keyword: Servers
+msgid "Servers"
+msgstr "伺服器"
+
+#. i18n: keyword: ServerNameDescription
+msgid "Adding a server here gives you an access token that allows you to run your own dedicated game instance."
+msgstr "在這裡新增伺服器，可以取得一個存取令牌，讓您可以建立自己的專屬遊戲伺服器。"
+
+#. i18n: keyword: NoServersDescription
+msgid "There are no servers associated to this game for your account."
+msgstr "您的帳號中沒有與此遊戲相關的伺服器。"
+
+#. i18n: keyword: AddNewServer
+msgid "Add New Server"
+msgstr "新增新伺服器"
+
+#. i18n: keyword: AddingServer
+msgid "Adding Server…"
+msgstr "正在新增伺服器…"
+
+#. i18n: keyword: GameServerWasGenerated
+msgid "The server was successfully created."
+msgstr "成功新增伺服器"
+
+#. i18n: keyword: RemoveServer
+msgid "Delete"
+msgstr "移除伺服器"
+
+#. i18n: keyword: ConfigureServerTitle
+msgid "Configure Server"
+msgstr "配置伺服器"
+
+#. i18n: keyword: ConfigureServerDescription
+msgid "The following form allows you to configure the settings for the game server. Depending on which operating system you have you also need to execute a few scripts. Please follow the instructions that correspond to your system: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
+msgstr "以下表單讓您可以配置遊戲伺服器的設置。 根據您擁有的作業系統，您還需要執行一些腳本，請按照與您的作業系統對應的說明進行操作：<a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>。"
+
+#. i18n: keyword: ConfigureServerToken
+msgid "Server Token"
+msgstr "伺服器 token"
+
+#. i18n: keyword: ConfigureServerGameMode
+msgid "Game Mode"
+msgstr "遊戲模式"
+
+#. i18n: keyword: ConfigureServerSurvival
+msgid "Survival"
+msgstr "生存"
+
+#. i18n: keyword: ConfigureServerWilderness
+msgid "Wilderness"
+msgstr "荒野"
+
+#. i18n: keyword: ConfigureServerEndless
+msgid "Endless"
+msgstr "無盡"
+
+#. i18n: keyword: ConfigureServerMaximumPlayers
+msgid "Maximum Players"
+msgstr "玩家最大數量"
+
+#. i18n: keyword: ConfigureServerPlaystyle
+msgid "Server Playstyle"
+msgstr "伺服器遊玩風格"
+
+#. i18n: keyword: ConfigureServerPlaystyleSocial
+msgid "Social"
+msgstr "社交"
+
+#. i18n: keyword: ConfigureServerPlaystyleCooperative
+msgid "Cooperative"
+msgstr "合作"
+
+#. i18n: keyword: ConfigureServerPlaystyleCompetitive
+msgid "Competitive"
+msgstr "競爭"
+
+#. i18n: keyword: ConfigureServerPlaystyleMadness
+msgid "Madness"
+msgstr "瘋狂"
+
+#. i18n: keyword: ConfigureServerClusterName
+msgid "Cluster Name"
+msgstr "叢集名稱"
+
+#. i18n: keyword: ConfigureServerClusterDescription
+msgid "Cluster Description"
+msgstr "叢集敘述"
+
+#. i18n: keyword: ConfigureServerClusterPassword
+msgid "Cluster Password"
+msgstr "叢集密碼"
+
+#. i18n: keyword: ItemsInventoryTitle
+msgid "Your Items Inventory"
+msgstr "你的物品清單"
+
+#. i18n: keyword: DownloadSettings
+msgid "Download Settings"
+msgstr "下載設置"
+
+#. i18n: keyword: UpcomingBetasTitle
+msgid "Active and Upcoming Betas"
+msgstr "活動以及即將到來的 Beta 測試"
+
+#. i18n: keyword: UpcomingBetasDescription
+msgid "You can register for betas you’re interested in. You’ll receive an email if you are accepted into one."
+msgstr "您可以註冊參與您感興趣的 Beta 測試，如果您被邀請參與測試，將會收到一封郵件。"
+
+#. i18n: keyword: BetaStatus
+msgid "Status:"
+msgstr "狀態："
+
+#. i18n: keyword: BetaStartDate
+msgid "Start:"
+msgstr "開始："
+
+#. i18n: keyword: BetaRegister
+msgid "Join Beta"
+msgstr "註冊"
+
+#. i18n: keyword: BetaRegistered
+msgid "Registered"
+msgstr "註冊"
+
+#. i18n: keyword: BetaNotAccepted
+msgid "Registered - Not Accepted"
+msgstr "未註冊 - 用戶未被接受"
+
+#. i18n: keyword: BetaAccepted
+msgid "Accepted"
+msgstr "用戶已被接受"
+
+#. i18n: keyword: BetaRegistrationEnded
+msgid "Registration has ended"
+msgstr "註冊已經結束"
+
+#. i18n: keyword: CommunityTranslations
+msgid "Translations"
+msgstr "社群翻譯"
+
+#. i18n: keyword: CommunityTranslationDisclaimer
+msgid "<a href='/community-translations'>This is an unofficial translation.</a>"
+msgstr "<a href='/community-translations'>這是一個非官方的翻譯。</a>"
+
+#. i18n: keyword: CommunityTranslationsDescription
+msgid "If you would like to add a new language or make corrections to the existing text <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>please visit the following link</a> and read the instructions of how to contribute to the translations of the website."
+msgstr "如果您想要貢獻新的翻譯，或是修正錯誤，<a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>請造訪此連結</a>並閱讀教學，來了解如何幫此網站翻譯。"
+
+#. i18n: keyword: RewardTitle
+msgid "Drops & Rewards (Beta)"
+msgstr "Drops 以及獎勵（Beta測試）"
+
+#. i18n: keyword: RewardDescription
+msgid "Keep up to date and earn in-game rewards. We'll be adding new rewards from time to time, so check back often to see what's new! Use points to redeem items listed in the page below. Spools are useful inside the games."
+msgstr "持續關注動態並獲得遊戲內獎勵，我們會不時添加新的獎勵，所以記得回來看看有什麼新內容哦！"
+
+#. i18n: keyword: RewardLabel
+msgid "Reward"
+msgstr "獎勵"
+
+#. i18n: keyword: RewardClaimButton
+msgid "Claim Reward"
+msgstr "兌換"
+
+#. i18n: keyword: RewardWasLinked
+msgid "Successfully Linked!"
+msgstr "成功連結！"
+
+#. i18n: keyword: RewardWasClaimed
+msgid "Successfully Claimed!"
+msgstr "已獲得！"
+
+#. i18n: keyword: RewardWasRedeemed
+msgid "Successfully Redeemed!"
+msgstr "成功兌換！"
+
+#. i18n: keyword: RewardAlternative
+msgid "Alternative"
+msgstr "另一個"
+
+#. i18n: keyword: RewardPointsAbbreviation
+msgid "pts"
+msgstr "點"
+
+#. i18n: keyword: RewardBoltsAbbreviation
+msgid "bolts"
+msgstr "螺栓"
+
+#. i18n: keyword: RewardSpoolsAbbreviation
+msgid "spools"
+msgstr "線軸"
+
+#. i18n: keyword: RewardPointsMinutes
+msgid "min"
+msgstr "分鐘"
+
+#. i18n: keyword: RewardBalance
+msgid "Current Balance"
+msgstr "剩餘點數"
+
+#. i18n: keyword: RewardNameTwitch
+msgid "Watch “Don’t Starve Together” on Twitch"
+msgstr "在 Twitch 上觀看「饑荒聯機版」"
+
+#. i18n: keyword: RewardNameDouyu
+msgid "Watch “Don’t Starve Together” on DouYu"
+msgstr "在鬥魚上觀看「饑荒聯機版」"
+
+#. i18n: keyword: RewardNameBilibili
+msgid "Watch “Don’t Starve Together” on Bilibili"
+msgstr "在 Bilibili 上觀看「饑荒聯機版」"
+
+#. i18n: keyword: RewardNameYoutube
+msgid "Follow us on YouTube"
+msgstr "在 YouTube 上關注我們"
+
+#. i18n: keyword: RewardNameTwitter
+msgid "Follow us on Twitter"
+msgstr "在 Twitter 上關注我們"
+
+#. i18n: keyword: RewardNameFacebook
+msgid "Follow us on Facebook"
+msgstr "在 Facebook 上關注我們"
+
+#. i18n: keyword: RewardNameWechat
+msgid "Follow us on WeChat"
+msgstr "在微信上關注我們"
+
+#. i18n: keyword: RewardNameInstagram
+msgid "Follow us on Instagram"
+msgstr "在 Instagram 上關注我們"
+
+#. i18n: keyword: RewardNameNewsletter
+msgid "Subscribe to our newsletter"
+msgstr "訂閱我們的電子報"
+
+#. i18n: keyword: RewardMessageYoutube
+msgid "<a href='https://www.youtube.com/user/kleient' target='_blank'>Follow us on YouTube</a> to claim this reward."
+msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>在 YouTube 上關注我們</a>以獲得此獎勵。"
+
+#. i18n: keyword: RewardMessageTwitter
+msgid "<a href='https://twitter.com/klei' target='_blank'>Follow us on Twitter</a> to claim this reward."
+msgstr "<a href='https://twitter.com/klei' target='_blank'>在 Twitter 上關注我們</a>以獲得此獎勵。"
+
+#. i18n: keyword: RewardMessageFacebook
+msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
+msgstr "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>在 Facebook 上關注我們</a>以獲得此獎勵。"
+
+#. i18n: keyword: RewardMessageWechat
+msgid "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Follow us on WeChat</a> to claim this reward."
+msgstr "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>在微信上關注我們</a>以獲得此獎勵。"
+
+#. i18n: keyword: RewardMessageInstagram
+msgid "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Follow us on Instagram</a> to claim this reward."
+msgstr "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>在 Instagram 上關注我們</a>以獲得此獎勵。"
+
+#. i18n: keyword: RewardMessageNewsletter
+msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
+msgstr "<a href='/account/settings' target='_blank'>訂閱我們的電子報</a>以獲得此獎勵。"
+
+#. i18n: keyword: RewardItemCost
+msgid "Cost"
+msgstr "花費"
+
+#. i18n: keyword: RewardItemReedem
+msgid "Redeem"
+msgstr "兌換"
+
+#. i18n: keyword: RewardLinkResultTitle
+msgid "Reward Link"
+msgstr "獎勵連結"
+
+#. i18n: keyword: RewardLinkResultDescription
+msgid "Congratulations!</p><p>You have found a valid reward link in the wild."
+msgstr "恭喜！</p><p>您在野外找到一個有效的獎勵連結。"
+
+#. i18n: keyword: RewardLinkResultMessagePoints
+msgid "You have claimed {{.Amount}} {{.Name}}."
+msgstr "您已領取 {{.Amount}} {{.Name}}。"
+
+#. i18n: keyword: RewardLinkResultMessageSpool
+msgid "You have claimed {{.Amount}} {{.Name}}. You will now find it in game next time you play."
+msgstr "您已領取 {{.Amount}} {{.Name}}，您將會在下次遊玩時找到它們。"
+
+#. i18n: keyword: E_TRANSACTION_REPLAY
+msgid "Woah! It looks like you already clicked this link before. You can only redeem this reward once."
+msgstr "哇～看來您似乎已經點擊過這個連結，您只能兌換一次該獎勵。"
+
+#. i18n: keyword: GiftRedemptionTitle
+msgid "Gift Redemption"
+msgstr "禮物兌換"
+
+#. i18n: keyword: GiftRedemptionDescription
+msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
+msgstr "嗨～看來您有物品鑰匙或禮品代碼，您要現在兌換嗎？在下面的表單中輸入代碼，我們將會以迅雷不及掩耳的速度兌換給您。"
+
+#. i18n: keyword: GiftRedemptionCodeLabel
+msgid "Enter Your Code"
+msgstr "輸入您的代碼"
+
+#. i18n: keyword: GiftRedemptionSubmitButton
+msgid "Redeem Code"
+msgstr "兌換代碼"
+
+#. i18n: keyword: GiftRedemptionSuccess
+msgid "Congratulations! Gift code redemption was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
+msgstr "恭喜！兌換禮品代碼成功，</p><p>禮品發送時間將受傳送門的異常影響，Klei 不負責任何因等待而造成的情緒受傷，禮品可能導致失望、驚喜和／或增加遊戲體驗。"
+
+#. i18n: keyword: GiftRedemptionAgainButton
+msgid "Click here to redeem another gift"
+msgstr "點擊這裡來兌換另一個禮物"
+
+#. i18n: keyword: E_INVALID_CODE
+msgid "Item key or gift code is invalid."
+msgstr "物品鑰匙或禮品代碼是失效的。"
+
+#. i18n: keyword: E_ALREADY_USED
+msgid "Item key or gift code has already been used."
+msgstr "物品鑰匙或禮品代碼已經被使用。"
+
+#. i18n: keyword: E_INVALID_PLATFORM
+msgid "The token used to redeem the gift code does not support the gaming platform you selected."
+msgstr "用來兌換禮品代碼的 token 不支援您選擇的遊戲平台。"
+
+#. i18n: keyword: E_INVALID_TOKENTYPE
+msgid "The token used to redeem the gift code has a different purpose."
+msgstr "用來兌換禮品代碼的 token 有不同的用途。"
+
+#. i18n: keyword: Facebook
+msgid "Facebook"
+msgstr "Facebook"
+
+#. i18n: keyword: Instagram
+msgid "Instagram"
+msgstr "Instagram"
+
+#. i18n: keyword: Twitter
+msgid "Twitter"
+msgstr "Twitter"
+
+#. i18n: keyword: YouTube
+msgid "YouTube"
+msgstr "YouTube"
+
+#. i18n: keyword: Twitch
+msgid "Twitch"
+msgstr "Twitch"
+
+#. i18n: keyword: Douyu
+msgid "Douyu"
+msgstr "鬥魚"
+
+#. i18n: keyword: Bilibili
+msgid "Bilibili"
+msgstr "Bilibili"
+
+#. i18n: keyword: Wechat
+msgid "WeChat"
+msgstr "微信"
+
+#. i18n: keyword: SupportTitle
+msgid "Submit a Support Request"
+msgstr "送出支援請求"
+
+#. i18n: keyword: SupportDescription
+msgid "Please enter the details of your request. A member of our support staff will respond as soon as possible."
+msgstr "請輸入關於您請求的詳細資訊，我們支援小組的成員將會盡快回覆您。"
+
+#. i18n: keyword: SupportSuccess
+msgid "Your support request was successfully recorded. A member of our support staff will respond as soon as possible. Thank you for your patience."
+msgstr "您的支援請求已經成功紀錄，我們支援小組的成員將會盡可能快速回覆您，感謝您的參與。"
+
+#. i18n: keyword: SupportName
+msgid "Name"
+msgstr "名字"
+
+#. i18n: keyword: SupportGame
+msgid "Game"
+msgstr "遊戲"
+
+#. i18n: keyword: SupportCategory
+msgid "Category"
+msgstr "分類"
+
+#. i18n: keyword: SupportAttachments
+msgid "Attachments"
+msgstr "附件"
+
+#. i18n: keyword: SupportDetails
+msgid "Details"
+msgstr "詳細資訊"
+
+#. i18n: keyword: SupportSubmit
+msgid "Submit"
+msgstr "送出"
+
+#. i18n: keyword: E_ZENDESK_AUTH_PROBLEMS
+msgid "Could not authenticate you. Check your email address or register."
+msgstr "無法對您授權，請確認您的電子郵件地址或註冊"
+
+#. i18n: keyword: E_ZENDESK_EMAIL_IS_MISSING
+msgid "Please <a href='/account/settings'>associate a valid email address to your account</a>. Otherwise, we will not be able to reply to your support request."
+msgstr "請 <a href='/account/settings'>綁定一個可用的電子郵件至您的帳號</a>，否則我們將無法回覆您的支援請求。"
+
+#. i18n: keyword: E_ZENDESK_EMAIL_NOT_VERIFIED
+msgid "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
+msgstr "此支援系統只開放給有驗證過電子郵件的玩家，請至「用戶資訊」，然後移駕到「偏好設定」版塊的「驗證」按鈕"
+
+#. i18n: keyword: E_ZENDESK_COOLDOWN_TIME
+msgid "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
+msgstr "您已經在數分鐘前送出一個支援請求，請稍等個幾分鐘來讓我們回覆您與其他用戶。"
+
+#. i18n: keyword: EmailAuthRequired
+msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
+msgstr "需要電子郵件驗證，請查看您的電子郵件並點擊驗證超連結."
+
+#. i18n: keyword: EnterDOB
+msgid "Please Enter Your Date of Birth"
+msgstr "請輸入您的出生日期。"
+
+#. i18n: keyword: VerifyAge
+msgid "Please verify your age to complete registration."
+msgstr "請確認您的年齡，以完成註冊。"
+
+#. i18n: keyword: ErrorDOBFormat
+msgid "Error - Date of Birth: Date of Birth Fields need to be entered in the correct format (DD/MM/YYYY)"
+msgstr "錯誤－出生日期：出生日期需要以正確的格式輸入（日／月／年）"
+
+#. i18n: keyword: ErrorTooYoung
+msgid "Woah There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
+msgstr "哈囉，小朋友，你必須年滿13歲能才註冊帳號。"
+
+#. i18n: keyword: EmailInvalid
+msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
+msgstr "無效的電子郵件，請檢查您輸入的電子郵件地址是否格式正確。（例如：name@email.com）"
+
+#. i18n: keyword: Error
+msgid "Error"
+msgstr "錯誤"
+
+#. i18n: keyword: NewAccount
+msgid "Create A New Account"
+msgstr "建立新帳號"
+
+#. i18n: keyword: EmailInfoText
+msgid "Your e-mail address will be used to manage your account. We will send a confirmation e-mail here as well."
+msgstr "您的電子郵件地址將用於管理您的帳號，我們也會對它發送確認電子郵件。"
+
+#. i18n: keyword: DOBInfoText
+msgid "Date of birth is required for age verification, security, and account recovery support."
+msgstr "我們需要您提供出生日期來做年齡核實、安全和帳號復原。"
+
+#. i18n: keyword: EmailNewsletterText
+msgid "Get emails for major announcements, events and promotions. You may change this setting later."
+msgstr "通過郵件來獲取重大公告、活動和促銷活動，以後還是可以變更此設定。"
+
+#. i18n: keyword: EULACheck
+msgid "Please review the EULA terms and agree by selecting the checkbox. You must agree with the EULA to continue."
+msgstr "請閱讀最終用戶許可協議的條款，並勾選同意，您必須同意最終用戶許可協議才能繼續。"
+
+#. i18n: keyword: ResendAccountInfo
+msgid "Re-send Account Activation E-mail"
+msgstr "重新發送帳號啟動電子郵件"
+
+#. i18n: keyword: AwaitingVerification
+msgid "Your account has been created previously, but is still awaiting e-mail verification.  Check your e-mail account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the e-mail."
+msgstr "您曾經建立過此帳號，但仍在等待電子郵件驗證，請檢視您的電子郵件，以獲得 norespon@kolyentertainment.com 發送的郵件，單擊裡頭包含的驗證超連結以完成您的帳號註冊。如果找不到電子郵件，請務必檢查您電子郵件的垃圾桶。"
+
+#. i18n: keyword: ResendVerification
+msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address.  Please double-check it for accuracy!"
+msgstr "如果您仍未找到電子郵件，您可以填寫下面的表格，以便重新發送驗證電子郵件。您可以使用不同的電子郵件地址，請再次檢查它是否正確！"
+
+#. i18n: keyword: LoadingSteamProfile
+msgid "Loading Steam Profile…"
+msgstr "載入 Steam 個人資訊中…"
+
+#. i18n: keyword: AOLNote
+msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
+msgstr "請注意：AOL 的電子郵件地址在接收驗證郵件時遇到了問題，如果您使用的是 @aol 電子郵件地址，在此問題解決之前，您可能不會收到確認電子郵件，我們建議使用另一個提供商的電子郵件地址。"
+
+#. i18n: keyword: DOBUsage
+msgid "Date of birth (to verify your age)"
+msgstr "出生日期（用於驗證您的年齡）"
+
+#. i18n: keyword: EULAAgreement
+msgid "I agree to the <a href='https://www.kleientertainment.com/games/dont-starve/terms-of-service' target='_blank' rel='noopener noreferrer'>EULA</a>"
+msgstr "我同意 <a href='https://www.kleientertainment.com/games/dont-starve/terms-of-service' target='_blank' rel='noopener noreferrer'>最終用戶協議</a>"
+
+#. i18n: keyword: PrivatePolicyAgreement
+msgid "By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
+msgstr "為了通過註冊, 您需要同意我們的 <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>隱私政策</a>"
+
+#. i18n: keyword: KleiEntertainment
+msgid "Klei Entertainment"
+msgstr "Klei Entertainment"
+
+#. i18n: keyword: ErrorURLMalformed
+msgid "The URL you used to arrive here is malformed and missing required parameters."
+msgstr "您使用的網址格式不正確，缺少所需的參數。"
+
+#. i18n: keyword: UnableConnectSteam
+msgid "Failed to connect to Steam"
+msgstr "連接 Steam 失敗"
+
+#. i18n: keyword: E_JSON_BAD_EOF
+msgid "The server was unable to read the data you submitted. Please try again later."
+msgstr "伺服器無法讀取您提交的資料。請稍後再試。"
+
+#. i18n: keyword: E_AUTH_FAILURE
+msgid "The authentication information provided did not match an existing account."
+msgstr "所提供的身份驗證資料與現有帳號不相符。"
+
+#. i18n: keyword: E_EMAIL_IN_USE
+msgid "The e-mail address is already being used."
+msgstr "電子郵件地址已經被使用。"
+
+#. i18n: keyword: E_FAILED_SENDING_EMAIL
+msgid "There was a problem on the mail server. Please try again later."
+msgstr "郵件伺服器錯誤，請稍後再試。"
+
+#. i18n: keyword: E_FIELD_IN_USE
+msgid "That value is already in use by another account. Please use another value."
+msgstr "該數值已被另一個帳號使用。請用另一個數值。"
+
+#. i18n: keyword: E_GAME_NOT_FOUND
+msgid "The game does not exists."
+msgstr "該遊戲不存在。"
+
+#. i18n: keyword: E_INTERNAL_SERVER_ERROR
+msgid "Internal server error, try again in a few seconds."
+msgstr "內部伺服器錯誤，請在幾秒鐘後重試。"
+
+#. i18n: keyword: E_INVALID_HTTP_REFERER
+msgid "We are unable to verify the origin of the request, please close this page and start again."
+msgstr "我們無法去驗證您原本的請求，請關閉此頁面並重新開始。"
+
+#. i18n: keyword: E_INVALID_DISPLAYNAME
+msgid "The user name chosen contained invalid characters."
+msgstr "選擇的用戶名包含無效字元。"
+
+#. i18n: keyword: E_INVALID_EMAIL
+msgid "The e-mail address is not valid. Please check that you entered it correctly."
+msgstr "電子郵件地址無效，請檢查您的輸入是否正確。"
+
+#. i18n: keyword: E_INVALID_PASSWORD
+msgid "The password provided is invalid."
+msgstr "您提供的密碼無效。"
+
+#. i18n: keyword: E_INVALID_SESSION
+msgid "Session has expired, you have to log in once again."
+msgstr "操作已逾時，您必須再次登入。"
+
+#. i18n: keyword: E_INVALID_SESSION_SAFARI
+msgid "Session has expired, you have to log in once again. <b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
+msgstr "操作已逾時，您必須再次登入。<b>您正在使用 Safari？</b>如果是，請使用其他網頁瀏覽器。<a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit 的新防止追蹤政策</a>，被內建在最新版的 Safari，導致無意間禁止了網站與後端伺服器間的通訊。"
+
+#. i18n: keyword: E_INVALID_STEAM_REQUEST
+msgid "Fail to authenticate your Steam account without an Internet connection."
+msgstr "在沒有連上網路的情況下無法驗證您的 Steam 帳號。"
+
+#. i18n: keyword: E_INVALID_STEAM_TICKET
+msgid "Fail to authenticate your Steam account. Please try again later."
+msgstr "無法驗證您的 Steam 帳號，請稍後再試。"
+
+#. i18n: keyword: E_INVALID_STEAMID
+msgid "The SteamID is not valid."
+msgstr "SteamID 無效。"
+
+#. i18n: keyword: E_INVALID_DATE
+msgid "The date is invalid."
+msgstr "日期無效。"
+
+#. i18n: keyword: E_INVALID_OAUTH_CODE
+msgid "The authorization code is invalid, try again."
+msgstr "授權碼無效，請重試。"
+
+#. i18n: keyword: E_INVALID_OAUTH_STATE
+msgid "The authorization state is invalid, try again."
+msgstr "授權狀態無效，請重試。"
+
+#. i18n: keyword: E_INVALID_OAUTH_TOKEN
+msgid "The OAuth access token is missing, try again."
+msgstr "缺少 OAuth 存取令牌，請重試。"
+
+#. i18n: keyword: E_WECHAT_OAUTH_CODE_BEEN_USED
+msgid "WeChat rejected the request to link your account because the OAuth code has already been used."
+msgstr "微信拒絕了連接您帳號的請求，因為 OAuth 代碼已經被使用。"
+
+#. i18n: keyword: E_WECHAT_OAUTH_INVALID_CODE
+msgid "WeChat rejected the request to link your account because the OAuth code is invalid."
+msgstr "由於 OAuth 代碼無效，微信拒絕了連接您帳號的請求。"
+
+#. i18n: keyword: E_KU_NOT_FOUND
+msgid "It was not possible to get a copy of the information associated to your user account."
+msgstr "無法獲得與用戶帳號資料關聯的遊戲。"
+
+#. i18n: keyword: E_INVALID_TOKEN
+msgid "The server token is not valid anymore."
+msgstr "伺服器令牌不再有效。"
+
+#. i18n: keyword: E_EXPIRED_TOKEN
+msgid "The server token is not valid anymore because it has expired."
+msgstr "伺服器令牌不再有效，因為它已過期。"
+
+#. i18n: keyword: E_BANNED
+msgid "Your account has been banned."
+msgstr "您的帳號已經被 Ban。。"
+
+#. i18n: keyword: E_LOGIN_ERROR
+msgid "We cannot validate your credentials right now. Try again after a few minutes."
+msgstr "我們現在無法驗證您的證書，請稍後再試。"
+
+#. i18n: keyword: E_LOGIN_ERROR_BANNED
+msgid "You are not allowed to log in with this account because it has been banned."
+msgstr "您的帳號已經被 Ban。"
+
+#. i18n: keyword: E_LOGIN_ERROR_DELETED
+msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "您的帳號已被標記為刪除，並將在30天內變為永久無法恢復的狀態， 如果您需要進一步的協助，<a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>請聯繫支援</a>。"
+
+#. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
+msgid "The authentication failed. The details have been sent to the administrators to investigate. Try again after a few minutes."
+msgstr "身份驗證失敗，詳細資料已發送給管理員進行調查，幾分鐘後再試。"
+
+#. i18n: keyword: E_LOGIN_ERROR_JWT_MISSING
+msgid "The platform you are coming from didn’t provide us with the code to validate your account."
+msgstr "您所在的平台沒有為我們提供驗證您帳號的代碼。"
+
+#. i18n: keyword: E_LOGIN_ERROR_JWT_AUDIENCE
+msgid "The authentication code was generated for a different platform."
+msgstr "身份驗證代碼是不同的平台產生的。"
+
+#. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
+msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Live account."
+msgstr "此時無法登入該帳號，請登入 Xbox.com 以解決 XboxLive 帳號的問題。"
+
+#. i18n: keyword: E_SESSION_ALREADY_EXISTS
+msgid "It appears you already have a valid session. If you want to login using a different gaming platform, please log out first."
+msgstr "您已經有了一個有效的 session，如果您想使用其他遊戲平台登入，請先登出。"
+
+#. i18n: keyword: E_MISSING_DATA
+msgid "There’s not enough data to execute this action."
+msgstr "沒有足夠的資訊來執行此操作。"
+
+#. i18n: keyword: E_MISSING_FIELD
+msgid "You must provide a Steam ID, user name, or e-mail address."
+msgstr "您必須提供 Steam ID、用戶名或電子郵件地址."
+
+#. i18n: keyword: E_MUST_VALIDATE_EMAIL
+msgid "The account has already been created, but is awaiting validation.  Check your e-mail."
+msgstr "帳號已經建立，但正在等待驗證，請查看您的電子郵件。"
+
+#. i18n: keyword: E_EMAIL_ALREADY_SET
+msgid "The account already has an email set."
+msgstr "該帳號已設定一個電子郵件地址。"
+
+#. i18n: keyword: E_NO_AUTH
+msgid "No authentication mechanism provided"
+msgstr "沒有提供身份驗證機制"
+
+#. i18n: keyword: E_NO_EULA
+msgid "You must agree to the End User License Agreement in order to proceed."
+msgstr "您必須同意最終用戶許可協議才能繼續。"
+
+#. i18n: keyword: E_NO_GAME_OWNERSHIP
+msgid "You do not appear to own the game."
+msgstr "您似乎還沒有這款遊戲。"
+
+#. i18n: keyword: E_NO_PASSWORD_RESET_CODE
+msgid "No password change request was make for your account."
+msgstr "您的帳號沒有密碼變更請求。"
+
+#. i18n: keyword: E_NOT_FOUND
+msgid "DisplayName / Email not found"
+msgstr "顯示名稱／未找到電子郵件"
+
+#. i18n: keyword: E_PASSWORD_RESET_CODE_EXPIRED
+msgid "This password change request has expired. Please make a new request if you still require a new password."
+msgstr "此密碼變更請求已逾期，如果您仍然需要一個新密碼，請發送新的請求。"
+
+#. i18n: keyword: E_PASSWORD_RESET_CODE_MISMATCH
+msgid "Password code mismatch."
+msgstr "密碼不相符。"
+
+#. i18n: keyword: E_POST_DATA_STATUS
+msgid "Internal Server Error: The details has been sent to the Klei development team."
+msgstr "內部伺服器錯誤：詳細資訊已發送給 Klei 開發團隊。"
+
+#. i18n: keyword: E_NO_SUPPORT_ENTRY
+msgid "There is no information about this event in our system logs."
+msgstr "我們的系統日誌中沒有關於此事件的資料。"
+
+#. i18n: keyword: E_STEAM_USER_OFFLINE
+msgid "Steam user is offline."
+msgstr "Steam 用戶離線。"
+
+#. i18n: keyword: E_STEAMID_IN_USE
+msgid "This Steam account is already in use."
+msgstr "該 Steam 帳號已經被使用。"
+
+#. i18n: keyword: E_UNKNOWN_GAME
+msgid "The game is unknown."
+msgstr "未知的遊戲"
+
+#. i18n: keyword: E_UNKNOWN_STEAMID
+msgid "The Steam ID was not recognized."
+msgstr "未能識別該 Steam ID。"
+
+#. i18n: keyword: E_USERNAME_TAKEN
+msgid "That user name is already in use by another account. Please choose another name."
+msgstr "該用戶名已被使用，請選擇其他名字。"
+
+#. i18n: keyword: E_WHIPPERSNAPPER
+msgid "You must be at least 13 years old to register an account."
+msgstr "您必須年滿13歲才能註冊帳號。"
+
+#. i18n: keyword: E_INVALID_BIRTHDAY
+msgid "Invalid date of birth, date must be in this format: YYYY-MM-DD"
+msgstr "出生日期無效，日期必須是此格式：YYYY-MM-DD"
+
+#. i18n: keyword: E_TWITCH_BAD_REQUEST
+msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
+msgstr "Twitch 拒絕了連接到您 Klei 帳戶的請求，這通常是 Twicth 授權伺服器內的暫時性錯誤，請在數分鐘後<a href='/account/twitch/link'>重新嘗試</a>。"
+
+#. i18n: keyword: E_TWITCH_DATA_CONFLICT
+msgid "Apparently you have already connected your game ID with another Twitch account. Open a new session in your web browser (using “Incognito” or “Private” mode, for example) and log in with the secondary Twitch account, visit the “Settings” page, then “Connections”, then disconnect the “Klei Entertainment” application. Finally, return to this page and try to connect your Twitch account again."
+msgstr "很明顯的，您已經以另一個 Twitch 帳戶連結您的遊戲 ID，請在網頁瀏覽器中開啟一個新的 session（例如使用「無痕式視窗」或「隱私瀏覽模式」）"
+
+#. i18n: keyword: E_TWITCH_DELETED_SECRET
+msgid "Twitch is having problems verifying the credentials associated to our application. This usually happens when an internal service on Twitch infrastructure is having internal server errors. Please try again in a few minutes."
+msgstr "Twitch 正發生驗證您的憑證關聯到我們的應用程式的問題，這通常發生在 Twitch 基礎設施中的一個內部服務出現內部伺服器錯誤，請在數分鐘後重新嘗試。"
+
+#. i18n: keyword: E_TWITCH_BLACKLISTED
+msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
+msgstr "已移除將 Twitch 帳號與您的 Klei 帳號連接的選項，如果您認為這是一個錯誤，<a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>請與我們聯繫</a>。"
+
+#. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
+msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
+msgstr "您的 Klei 帳號已與 Twitch 斷開連接，如果您認為仍然連接著，請<a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>造訪您的 Twitch 個人資料</a>，並手動斷開「Klei Entertainment」應用程式。"
+
+#. i18n: keyword: E_TWITCH_INTERNAL_SERVER_ERROR
+msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
+msgstr "Twitch 伺服器正發生無法處理此操作的問題，請在數分鐘後重新嘗試。"
+
+#. i18n: keyword: E_UNAVAILABLE_GAME_SERVERS
+msgid "This game doesn’t support additional servers yet."
+msgstr "該遊戲尚未支援其它的伺服器。"
+
+#. i18n: keyword: E_ALREADY_JOINED_BETA
+msgid "Your account is already registered for this beta."
+msgstr "您的帳號已經註冊了 beta 測試。"
+
+#. i18n: keyword: E_NOT_ACTIVE_BETA
+msgid "The beta is not active anymore."
+msgstr "該 beta 測試已不存在。"
+
+#. i18n: keyword: E_CANNOT_PARSE_FORM
+msgid "Your computer sent incorrect data to the server."
+msgstr "您的電腦向伺服器發送了錯誤的資料。"
+
+#. i18n: keyword: E_STEAM_FORBIDDEN
+msgid "Your account has been temporarily blocked by Steam."
+msgstr "您的帳號已暫時被 Steam 禁止。"
+
+#. i18n: keyword: E_STEAM_INTERNAL_SERVER_ERROR
+msgid "Steam servers are currently offline."
+msgstr "Steam 伺服器當前處於無法服務狀態。"
+
+#. i18n: keyword: E_STEAM_INVALID_RETURN_TO
+msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "Steam 將您導向到錯誤的網址，我們目前無法驗證您的證書，請清空您網頁瀏覽器的快取與 Cookie 後重新登入，如果您要更多的協助，請<a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>聯繫支援</a>。"
+
+#. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
+msgid "Steam prevented us from showing your profile information."
+msgstr "Steam 阻止我們顯示您的個人資訊。"
+
+#. i18n: keyword: E_STEAM_PLAYER_SUMMARY_TOO_MANY_REQUESTS
+msgid "We are unable to show your profile information because your computer is sending too many requests to Steam."
+msgstr "我們無法顯示您的個人資訊，因為您的電腦送出太多請求給 Steam。"
+
+#. i18n: keyword: E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR
+msgid "Steam servers is not available at the moment."
+msgstr "Steam 伺服器當前無法運作。"
+
+#. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
+msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
+msgstr "看來您正在使用 Steam 遊戲內瀏覽器查看此網頁，不幸的是，我們網站的一些功能無法在此環境下運作，如果您發生一些問題，請考慮使用 Steam 以外的一般的網頁瀏覽器。"
+
+#. i18n: keyword: E_OPENID_INVALID_MODE
+msgid "The previous website sent us invalid data. The OpenID “mode” parameter is invalid. Please start the login flow again."
+msgstr "前一個網站送給我們錯誤的資料，OpenID 的「mode」參數是非法的，請重新開始登入流程。"
+
+#. i18n: keyword: E_OPENID_INVALID_RETURN_TO
+msgid "The previous website sent us invalid data. The OpenID “return_to” parameter is invalid. Please start the login flow again."
+msgstr "前一個網站送給我們錯誤的資料，OpenID 的「return_to」參數是非法的，請重新開始登入流程。"
+
+#. i18n: keyword: E_OPENID_INVALID_NAMESPACE
+msgid "The previous website sent us invalid data. The OpenID “namespace” parameter is invalid. Please start the login flow again."
+msgstr "前一個網站送給我們錯誤的資料，OpenID 的「namespace」參數是非法的，請重新開始登入流程。"
+
+#. i18n: keyword: E_OPENID_INVALID_SIGNATURE
+msgid "The previous website sent us invalid data. The signature of the verification request is invalid. Please start the login flow again."
+msgstr "前一個網站送給我們錯誤的資料，驗證的簽章請求是非法的，請重新開始登入流程。"
+
+#. i18n: keyword: E_STEAM_ID_IS_MISSING
+msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
+msgstr "遊戲用戶端無法提供所有我們所需要的授權資訊，請關閉遊戲並再次啟動。"
+
+#. i18n: keyword: E_STEAM_BROKEN_TICKET
+msgid "Steam ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
+msgstr "遊戲用戶端無法提供所有我們所需要的授權資訊，請關閉遊戲並再次啟動。"
+
+#. i18n: keyword: E_RAIL_ID_IS_MISSING
+msgid "Tencent Games identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
+msgstr "遊戲用戶端無法提供所有我們所需要的授權資訊，請關閉遊戲並再次啟動。"
+
+#. i18n: keyword: E_RAIL_BROKEN_TICKET
+msgid "Tencent Games ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
+msgstr "遊戲用戶端無法提供所有我們所需要的授權資訊，請關閉遊戲並再次啟動。"
+
+#. i18n: keyword: E_RAIL_EXPIRED_TOKEN
+msgid "The access token has expired. Tencent is asking you to start the process again."
+msgstr "訪問令牌已過期，騰訊要求您重新開始該過程。"
+
+#. i18n: keyword: E_RAIL_GATEWAY_TIMEOUT
+msgid "Tencent’s user authentication service is not available right now. Please <a href='/login'>try again</a> in a few minutes."
+msgstr "騰訊的使用者授權服務現在正無法使用，請在數分鐘後<a href='/login'>重新嘗試</a>。"
+
+#. i18n: keyword: E_DOUYU_ALREADY_BINDED_TO_KU
+msgid "Your Douyu account is already linked with a Klei User ID."
+msgstr "您的鬥魚帳號已與 Klei User ID 連接。"
+
+#. i18n: keyword: E_DOUYU_ALREADY_DISCONNECTED
+msgid "Your Klei account has already been disconnected from Douyu. If you believe the connection still exists, please <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and disconnect the “Klei Entertainment” app manually."
+msgstr "您的 Klei 帳號已與鬥魚斷開連接，如果您認為仍然連接著，請 <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>造訪您的鬥魚個人資料</a> 並手動斷開「Klei Entertainment」應用程式。"
+
+#. i18n: keyword: E_DOUYU_GATEWAY_TIMEOUT
+msgid "Douyu servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
+msgstr "鬥魚伺服器（採用 Tengine）現在無法使用，請在數分鐘後重新嘗試。"
+
+#. i18n: keyword: E_BILIBILI_ALREADY_BINDED_TO_KU
+msgid "Your Bilibili account is already linked with a Klei User ID."
+msgstr "您的 Bilibili 帳戶已經連接到 Klei User ID。"
+
+#. i18n: keyword: E_BILIBILI_ALREADY_DISCONNECTED
+msgid "Your Klei account has already been disconnected from Bilibili. If you believe the connection still exists, please <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>visit your Bilibili profile</a> and disconnect the “Klei Entertainment” app manually."
+msgstr "您的 Klei 帳戶已經從 Bilibili 斷開連結，如果您認為您的連線還存在，請<a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>造訪您的 Bilibili 個人檔案</a>，並手動斷開「Klei Entertainment」的應用程式連結。"
+
+#. i18n: keyword: E_BILIBILI_GATEWAY_TIMEOUT
+msgid "Bilibili servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
+msgstr "Bilibili 伺服器（採用 Tengine）現在無法使用，請在數分鐘後重新嘗試。"
+
+#. i18n: keyword: E_INVALID_CSRF_TOKEN
+msgid "The form has expired, please go back, reload the page, and try again."
+msgstr "表單已逾期，請回到上一頁，重新整理頁面，然後重試。"
+
+#. i18n: keyword: E_INVALID_USER_CONSENT
+msgid "Invalid user consent, you need to read the account deletion instructions very carefully."
+msgstr "非法的用戶許可，您需要非常仔細地閱讀帳號刪除說明。"
+
+#. i18n: keyword: E_INVALID_VERIFICATION_CODE
+msgid "Invalid verification code."
+msgstr "無效的驗證碼。"
+
+#. i18n: keyword: E_INVALID_AUTH_PROVIDER
+msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
+msgstr "授權提供者未被偵測到，請確認您的網頁瀏覽器允許此網站使用 Cookie，然後前往「登入」頁面，然後再次嘗試。"
+
+#. i18n: keyword: E_CLIENT_TOKEN_HAS_EXPIRED
+msgid "Client login token has expired."
+msgstr "客戶端登入 token 已逾期。"
+
+#. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_GAME
+msgid "Client login token was generated for a different game."
+msgstr "客戶端登入 token 是為不同的遊戲產生的。"
+
+#. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr "網頁僅支援客戶端登入 token，您提供的 token 似乎有效，但是它是為完全不同的事物產生的。"
+
+#. i18n: keyword: E_OAUTH_ACCESS_DENIED
+msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
+msgstr "Klei 尚未獲得連接您帳號的權限，要繼續此操作，您需要在提示出現時允許 Klei 造訪您的帳號。"
+
+#. i18n: keyword: E_GOOGLE_OAUTH_NO_REFRESH_TOKEN
+msgid "Google won't let us link your account. This usually happens if we somehow lost the link to your Google account on our end, without also having unlinked your account on Google's end. Please open <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>your Google Account permissions page</a>, remove access for Klei Accounts, and try to link your accounts again."
+msgstr "Google 不允許我們連接您的帳號，這種情況通常在我們這端不知為何丟失了與您 Google 帳號的連接，而且還是在 Google 端未取消連接您帳號的時候發生，請打開<a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>您的 Google 帳號權限頁面</a>，刪除 Klei 帳號的訪問權限，然後嘗試再次連接您的帳號。"
+
+#. i18n: keyword: E_TWITTER_ALREADY_DISCONNECTED
+msgid "Your Klei account has already been disconnected from Twitter. If you believe the connection still exists, please <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>visit your Twitter profile</a> and disconnect the “Klei Accounts” app manually."
+msgstr "您的 Klei 帳號已與 Twitter 斷開連接，如果您認為仍然連接著，請 <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>造訪您的 Twitter 個人資料</a> 並手動斷開「Klei Accounts」應用程式。"
+
+#. i18n: keyword: E_TWITTER_INVALID_CREDENTIALS
+msgid "The temporary credentials used to communicate with Twitter on your behalf have expired. Try again later."
+msgstr "用於您與 Twitter 間通訊的臨時憑證已過期，請稍後再試。"
+
+#. i18n: keyword: E_TWITTER_SERVICE_UNAVAILABLE
+msgid "The Twitter servers are up, but overloaded with requests. Try again later."
+msgstr "Twitter 伺服器正常運作，但請求超載，請稍後再試。"
+
+#. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
+msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
+msgstr "您的 Klei 帳號已與 Google 斷開連接。 如果您認為仍然連接著，請 <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>訪問您的 Google 個人資料</a> 並手動斷開「Klei Accounts」應用程式。"
+
+#. i18n: keyword: E_GOOGLE_BROKEN_OAUTH_SCOPES
+msgid "Your Google (YouTube) account does not have the correct permissions to complete this operation. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
+msgstr "您 Google（YouTube）帳號未擁有正確的權限去完成此操作，請 <a href='/account/info'>在此取消連結您的 Google 帳號</a>，然後造訪獎勵頁面並且連結您的帳號，請<a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>在此移除存取權限</a>."
+
+#. i18n: keyword: E_GOOGLE_YOUTUBE_SIGNUP_REQUIRED
+msgid "YouTube signup required. This error indicates that the user has an unlinked Google Account, which means that the user has a Google Account but does not have a YouTube channel. Klei will be unable to link your YouTube account until Google removes the restrictions added to your account. <a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
+msgstr "需要您登入 YouTube，這個錯誤表示此用戶擁有一個未連接的 Google 帳號，意思是該用戶擁有 Google 帳號，卻未擁有 YouTube 頻道，Klei 將無法連接您的 YouTube 直到 Google 移除這項對您帳號的限制，<a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>在此閱讀更多相關訊息</a>。"
+
+#. i18n: keyword: E_GOOGLE_DAILY_LIMIT_EXCEEDED
+msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
+msgstr "我們當下無法檢查您的 YouTube 訂閱，請在太平洋時間（PT）的半夜後重新檢查，<a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'>閱讀更多有關此的訊息</a>。"
+
+#. i18n: keyword: E_GOOGLE_QUOTA_EXCEEDED
+msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
+msgstr "我們當下無法檢查您的 YouTube 訂閱，請在太平洋時間（PT）的半夜後重新檢查，<a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>閱讀更多有關此的訊息</a>。"
+
+#. i18n: keyword: E_GOOGLE_IS_UNAVAILABLE
+msgid "Google is unavailable right now. To process your request we need to pass some information to Google, but it seems their service is offline right now. Please wait a few minutes before trying again."
+msgstr "Google 當下無法使用，為了處理您的請求我們必須傳送一些資訊給 Google，但看起來他們的服務處於離線狀態中，請在數分鐘後重新嘗試。"
+
+#. i18n: keyword: E_GOOGLE_INVALID_GRANT
+msgid "Your Google (YouTube) access token has been expired or revoked. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again."
+msgstr "您的 Google（YouTube） 存取 token 已逾期或被註銷，請<a href='/account/info'>在此取消您 Google 帳戶的連結</a>，然後重新造訪獎勵頁面並連結您的帳戶。"
+
+#. i18n: keyword: E_GOOGLE_AUTH_ERROR
+msgid "The authorization credentials provided for the request are invalid. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
+msgstr "此請求提供的授權證書是非法的，如果持續發生此問題，請<a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>在此移除存取權限</a>。"
+
+#. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
+msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
+msgstr "您的 Klei 帳號已與 Facebook 斷開連接。 如果您認為仍然連接著，請 <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>造訪您的 Facebook 個人資料</a> 並手動斷開「Klei Accounts」應用程式。"
+
+#. i18n: keyword: E_FACEBOOK_IS_UNAVAILABLE
+msgid "Facebook is unavailable right now. To process your request we need to pass some information to Facebook, but it seems their service is offline right now. Please wait a few minutes before trying again."
+msgstr "Facebook 當下無法使用，為了處理您的請求我們必須傳送一些資訊給 Facebook，但看起來他們的服務處於離線狀態中，請在數分鐘後重新嘗試。"
+
+#. i18n: keyword: E_FACEBOOK_OAUTH_EXCEPTION
+msgid "An unexpected error has occurred on Facebook. Please retry your request later."
+msgstr "一個未預期的錯誤發生在 Facebook，請稍後重新嘗試您的請求。"
+
+#. i18n: keyword: E_FACEBOOK_CHECKPOINT_BLOCK
+msgid "Facebook stopped the process because there is an error validating access token: The user is enrolled in a blocking, logged-in checkpoint."
+msgstr "Facebook 停止程序，因為發生一個錯誤的驗證存取 token：The user is enrolled in a blocking, logged-in checkpoint."
+
+#. i18n: keyword: E_EPIC_GAMES_EXPIRED_TOKEN
+msgid "Unfortunately, the token we use to communicate with Epic Games has expired. You will need to login again to allow the system to get a new token."
+msgstr "不幸的是，這個我們用來與 Epic Games 通訊的 token 已逾期，您將要必須重新登入來讓系統取得新 token。"
+
+#. i18n: keyword: E_NOT_ENOUGH_CURRENCY
+msgid "You do not have enough points to claim this item."
+msgstr "您的點數不足，無法兌換該物品。"
+
+#. i18n: keyword: E_ALREADY_CLAIMED
+msgid "You already have claimed this reward."
+msgstr "您已經領取此獎勵。"
+
+#. i18n: keyword: E_UNKNOWN_LINK
+msgid "The link you have used is not valid. Please check the source of this link and try again."
+msgstr "您使用的此連結是無效的，請檢查此連結的來源並重新嘗試。"
+
+#. i18n: keyword: E_EXPIRED_LINK
+msgid "We're sorry but this reward is no longer active. Please follow us on social media and subscribe to our mailing list to get new rewards as we publish them."
+msgstr "我們很抱歉但此獎勵已不再可用，請追蹤我們的社群媒體，並訂閱我們的郵件列表來取得我們公布在上面的新獎勵。"
+
+#. i18n: keyword: UserTransactions
+msgid "User Transactions"
+msgstr "用戶交易紀錄"
+
+#. i18n: keyword: UserTransactionsDescription
+msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
+msgstr "與您的帳號有關的交易紀錄均按照最新至最舊的順序列出。要注意的是，交易時間是參照網頁伺服器所在的時區，你可能得調整數值來符合你的電腦時間。"
+
+#. i18n: keyword: PlatformName
+msgid "Platform Name"
+msgstr "平台名稱"
+
+#. i18n: keyword: CurrentBalanceForSpools
+msgid "Current Spools Balance"
+msgstr "目前線軸餘額"
+
+#. i18n: keyword: CurrentBalanceForPoints
+msgid "Current Points Balance"
+msgstr "目前點數餘額"
+
+#. i18n: keyword: NewBalance
+msgid "New Balance:"
+msgstr "新餘額："
+
+#. i18n: keyword: TXN_NOT_SUPPORTED
+msgid "Transaction Not Supported"
+msgstr "交易未被支援"
+
+#. i18n: keyword: TXN_CREATE_AN_ITEM
+msgid "Create An Item"
+msgstr "新增一件物品"
+
+#. i18n: keyword: TXN_LINK_FOR_SPOOLS
+msgid "Link For Spools"
+msgstr "以線軸連接"
+
+#. i18n: keyword: TXN_LINK_FOR_POINTS
+msgid "Link For Points"
+msgstr "以點數連接"
+
+#. i18n: keyword: TXN_QUEST_FOR_SPOOLS
+msgid "Quest For Spools"
+msgstr "獲得線軸"
+
+#. i18n: keyword: TXN_QUEST_FOR_POINTS
+msgid "Quest For Points"
+msgstr "獲得點數"
+
+#. i18n: keyword: TXN_QUEST_FOR_BOLTS
+msgid "Quest For Bolts"
+msgstr ""
+
+#. i18n: keyword: TXN_SPOOLS_FOR_ITEM
+msgid "Spools For Item"
+msgstr "以線軸兌換物品"
+
+#. i18n: keyword: TXN_POINTS_FOR_ITEM
+msgid "Points For Item"
+msgstr "以點數兌換物品"
+
+#. i18n: keyword: TXN_BOLTS_FOR_ITEM
+msgid "Bolts For Item"
+msgstr ""
+
+#. i18n: keyword: TXN_REFUND_PURCHASE
+msgid "Refund Purchase"
+msgstr "退貨"
+
+#. i18n: keyword: TXN_MARKET_LIST_ITEM
+msgid "Market List Item"
+msgstr "市集清單物品"
+
+#. i18n: keyword: TXN_MARKET_PURCHASE
+msgid "Market Purchase"
+msgstr "市集購買"
+
+#. i18n: keyword: TXN_MARKET_ROLLBACK
+msgid "Market Rollback"
+msgstr ""
+
+#. i18n: keyword: TXN_ITEM_TRADE_LOSE
+msgid "Item Trade Lose"
+msgstr "物品交易失去"
+
+#. i18n: keyword: TXN_ITEM_FOR_SPOOLS
+msgid "Item For Spools"
+msgstr "以物品兌換線軸"
+
+#. i18n: keyword: TXN_ITEM_FOR_POINTS
+msgid "Item For Points"
+msgstr "以物品兌換點數"
+
+#. i18n: keyword: TXN_PURCHASEBOX_STEAM
+msgid "Steam Box"
+msgstr "Steam 箱子"
+
+#. i18n: keyword: TXN_PURCHASEBOX_TENCENT
+msgid "Tencent Games Box"
+msgstr "騰訊遊戲箱子"
+
+#. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
+msgid "Currency Box"
+msgstr "貨幣箱子"
+
+#. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
+msgid "Steam Box DLC"
+msgstr "Steam 箱子 DLC"
+
+#. i18n: keyword: Marketable
+msgid "Marketable"
+msgstr "可於市集販售"
+
+#. i18n: keyword: Tradeable
+msgid "Tradeable"
+msgstr "可交易"
+
