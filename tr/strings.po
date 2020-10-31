@@ -674,7 +674,7 @@ msgid "Game Servers"
 msgstr "Don’t Starve Together Oyun Sunucusu"
 
 #. i18n: keyword: DontStarveTogetherInventory
-msgid "Don’t Starve Together Items Inventory"
+msgid "Items Inventory"
 msgstr ""
 
 #. i18n: keyword: ItemsInventorySearchTips
@@ -807,6 +807,18 @@ msgstr "Küme Parolası"
 
 #. i18n: keyword: ItemsInventoryTitle
 msgid "Your Items Inventory"
+msgstr ""
+
+#. i18n: keyword: ItemsDialogRarity
+msgid "Rarity:"
+msgstr ""
+
+#. i18n: keyword: ItemsDialogRedeemed
+msgid "Redeemed:"
+msgstr ""
+
+#. i18n: keyword: ItemsFilterRarity
+msgid "Rarity"
 msgstr ""
 
 #. i18n: keyword: DownloadSettings
