@@ -339,7 +339,7 @@ msgstr "Правіла трансляцыі"
 
 #. i18n: keyword: AccountLinkRulesDescription
 msgid "Klei Rewards are intended to be a way to support streamers that provide quality content for our community, and “Away From Keyboard (AFK)” streams disrupt the effectiveness of the system. AFK streams or streams showing content other than Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these rules will be unlinked and potentially banned from participating ever again."
-msgstr "Награвальны Klei прызначаныя для падтрымкі стрымераў, якія прадастаўляюць якасны кантэнт для нашага супольнасці," Away From Keyboard (AFK)» трансляцыі парушаюць эфектыўнасць сістэмы. Трансляцыі без удзелу стрымераў або трансляцыі, якія паказваюць ўтрыманне выдатнае ад Don't Starve ці ж Don't Starve Together, не дапушчальныя. Стрымераў, якія парушаюць гэтыя правілы, будуць адключаныя ад сістэмы ўзнагарод і пазбаўленыя магчымасці далёкага ўдзелу."
+msgstr "Награвальны Klei прызначаныя для падтрымкі стрымераў, якія прадастаўляюць якасны кантэнт для нашага супольнасці, “Away From Keyboard (AFK)” трансляцыі парушаюць эфектыўнасць сістэмы. Трансляцыі без удзелу стрымераў або трансляцыі, якія паказваюць ўтрыманне выдатнае ад Don't Starve ці ж Don't Starve Together, не дапушчальныя. Стрымераў, якія парушаюць гэтыя правілы, будуць адключаныя ад сістэмы ўзнагарод і пазбаўленыя магчымасці далёкага ўдзелу."
 
 #. i18n: keyword: AccountLinkRulesAccept
 msgid "Accept and Continue"
@@ -603,7 +603,7 @@ msgstr "Пацвердзіць выдаленне"
 
 #. i18n: keyword: DeleteAccountConfirmation
 msgid "Please type in “delete my account” but in UPPERCASE letters, to confirm:"
-msgstr "Калі Ласка, увядзіце "выдаліць my account" цалкам загалоўнымі літарамі, каб пацвердзіць:"
+msgstr "Калі Ласка, увядзіце “выдаліць my account” цалкам загалоўнымі літарамі, каб пацвердзіць:"
 
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
@@ -615,7 +615,7 @@ msgstr "Пацвердзіце выдаленне вашага акаўнта"
 
 #. i18n: keyword: VerifyAccountDeletionDescription
 msgid "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.PlatformName}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.PlatformName}} account to prevent this from happening again."
-msgstr "Мы даслалі вам па электроннай пошце код пацверджання для выдалення вашага ўліковага запісу. Калі ласка, скапіюйце код і ўстаўце яго ў форму ніжэй.< / p><p>Калі вы не атрымалі праверачны код, націсніце "Адмена". Пераканайцеся, што ваш адрас электроннай пошты правільны і пачніце спачатку.< / p> < p>Калі вы не запытвалі выдаленне свайго ўліковага запісу, Значыць нехта іншы, які мае доступ да вашай {{.PlatformName}} ўліковага запісу, зрабіў гэта ад вашага імя. Націсніце «Адмена», каб цалкам спыніць працэс, а затым зменіце пароль сваёй {{.PlatformName}} ўліковага запісу, каб гэта не паўтарылася."
+msgstr "Мы даслалі вам па электроннай пошце код пацверджання для выдалення вашага ўліковага запісу. Калі ласка, скапіюйце код і ўстаўце яго ў форму ніжэй.< / p><p>Калі вы не атрымалі праверачны код, націсніце “Адмена”. Пераканайцеся, што ваш адрас электроннай пошты правільны і пачніце спачатку.< / p> < p>Калі вы не запытвалі выдаленне свайго ўліковага запісу, Значыць нехта іншы, які мае доступ да вашай {{.PlatformName}} ўліковага запісу, зрабіў гэта ад вашага імя. Націсніце «Адмена», каб цалкам спыніць працэс, а затым зменіце пароль сваёй {{.PlatformName}} ўліковага запісу, каб гэта не паўтарылася."
 
 #. i18n: keyword: VerifyAccountDeletionCode
 msgid "Verification Code"
@@ -663,7 +663,7 @@ msgstr "Інвентар Don't Гэта Together"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr "Парады па пошуку. увядзіце адно або некалькі слоў для пошуку элемента ў вашым гульнявым інвентары. Калі вы хочаце знайсці прадмет пад назвай < b> Wilson Red Hat < / b>, увядзіце < b> Wilson </b>, <b> Hat < / b> ці нават < b> Wilson Hat < / б>. Парадак пошукавых запытаў мае значэнне, гэта азначае, што вы не знойдзеце вынікаў па запыце \" Hat Wilson \", таму што словы размешчаны ў іншым парадку. націсніце Назад, каб выканаць пошук. Выдаліце ўмовы пошуку і зноў націсніце Назад, каб скінуць фільтры."
+msgstr "Парады па пошуку. увядзіце адно або некалькі слоў для пошуку элемента ў вашым гульнявым інвентары. Калі вы хочаце знайсці прадмет пад назвай < b> Wilson Red Hat < / b>, увядзіце < b> Wilson </b>, <b> Hat < / b> ці нават < b> Wilson Hat < / б>. Парадак пошукавых запытаў мае значэнне, гэта азначае, што вы не знойдзеце вынікаў па запыце “Hat Wilson”, таму што словы размешчаны ў іншым парадку. націсніце Назад, каб выканаць пошук. Выдаліце ўмовы пошуку і зноў націсніце Назад, каб скінуць фільтры."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
@@ -1155,7 +1155,7 @@ msgstr "Даслаць ліст актывацыі ўліковага запіс
 
 #. i18n: keyword: AwaitingVerification
 msgid "Your account has been created previously, but is still awaiting e-mail verification. Check your e-mail account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration. Be sure to check your Spam or Junk folders if you can’t find the e-mail."
-msgstr "Ваш уліковы запіс была створана раней, але ўсё яшчэ чакае пацверджання па электроннай пошце. Праверце свой уліковы запіс электроннай пошты на наяўнасць паведамлення, адпраўленага з noreply@kleientertainment.com, і націсніце якая змяшчаецца ў ім спасылку, каб завяршыць рэгістрацыю свайго ўліковага запісу. Абавязкова праверце тэчкі» Спам «або "непажаданая пошта", калі не можаце знайсці ліст."
+msgstr "Ваш уліковы запіс была створана раней, але ўсё яшчэ чакае пацверджання па электроннай пошце. Праверце свой уліковы запіс электроннай пошты на наяўнасць паведамлення, адпраўленага з noreply@kleientertainment.com, і націсніце якая змяшчаецца ў ім спасылку, каб завяршыць рэгістрацыю свайго ўліковага запісу. Абавязкова праверце тэчкі» Спам або непажаданая пошта, калі не можаце знайсці ліст."
 
 #. i18n: keyword: ResendVerification
 msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent. You may use a different e-mail address. Please double-check it for accuracy!"
@@ -1427,7 +1427,7 @@ msgstr "Магчымасьць зьвязаць уліковы запіс Twitch
 
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "Ваш уліковы запіс Klei ўжо адключаная ад Twitch. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>зайдзіце ў свой профіль Twitch< / a> і адключыце дадатак» Klei Entertainment " ўручную."
+msgstr "Ваш уліковы запіс Klei ўжо адключаная ад Twitch. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>зайдзіце ў свой профіль Twitch< / a> і адключыце дадатак Klei Entertainment ўручную."
 
 #. i18n: keyword: E_TWITCH_INTERNAL_SERVER_ERROR
 msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
@@ -1479,15 +1479,15 @@ msgstr "Падобна на тое, вы праглядаеце гэтую вэ�
 
 #. i18n: keyword: E_OPENID_INVALID_MODE
 msgid "The previous website sent us invalid data. The OpenID “mode” parameter is invalid. Please start the login flow again."
-msgstr "Папярэдні сайт адправіў нам няслушныя дадзеныя. Параметр "mode" OpenID несапраўдны. Калі ласка, запусціце працэс ўваходу зноў."
+msgstr "Папярэдні сайт адправіў нам няслушныя дадзеныя. Параметр “mode” OpenID несапраўдны. Калі ласка, запусціце працэс ўваходу зноў."
 
 #. i18n: keyword: E_OPENID_INVALID_RETURN_TO
 msgid "The previous website sent us invalid data. The OpenID “return_to” parameter is invalid. Please start the login flow again."
-msgstr "Папярэдні сайт адправіў нам няслушныя дадзеныя. Параметр "return_to" OpenID несапраўдны. Калі ласка, запусціце працэс ўваходу зноў."
+msgstr "Папярэдні сайт адправіў нам няслушныя дадзеныя. Параметр “return_to” OpenID несапраўдны. Калі ласка, запусціце працэс ўваходу зноў."
 
 #. i18n: keyword: E_OPENID_INVALID_NAMESPACE
 msgid "The previous website sent us invalid data. The OpenID “namespace” parameter is invalid. Please start the login flow again."
-msgstr "Папярэдні сайт адправіў нам няслушныя дадзеныя. Параметр "namespace" OpenID несапраўдны. Калі ласка, запусціце працэс ўваходу зноў."
+msgstr "Папярэдні сайт адправіў нам няслушныя дадзеныя. Параметр “namespace” OpenID несапраўдны. Калі ласка, запусціце працэс ўваходу зноў."
 
 #. i18n: keyword: E_OPENID_INVALID_SIGNATURE
 msgid "The previous website sent us invalid data. The signature of the verification request is invalid. Please start the login flow again."
@@ -1523,7 +1523,7 @@ msgstr "Ваш уліковы запіс Douyu ўжо звязаны з ідэн
 
 #. i18n: keyword: E_DOUYU_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Douyu. If you believe the connection still exists, please <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "Ваш уліковы запіс Klei ўжо была адключаная ад Douyu. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>наведайце свой профіль Douyu< / a> і адключыце дадатак» Klei Entertainment " ўручную."
+msgstr "Ваш уліковы запіс Klei ўжо была адключаная ад Douyu. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>наведайце свой профіль Douyu< / a> і адключыце дадатак Klei Entertainment ўручную."
 
 #. i18n: keyword: E_DOUYU_GATEWAY_TIMEOUT
 msgid "Douyu servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
@@ -1535,7 +1535,7 @@ msgstr "Ваш уліковы запіс Bilibili ўжо звязаны з ід�
 
 #. i18n: keyword: E_BILIBILI_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Bilibili. If you believe the connection still exists, please <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>visit your Bilibili profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "Ваш уліковы запіс Klei ўжо была адключаная ад Bilibili. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://www.bilibili.com /' target='_blank' rel='noopener noreferrer'>наведайце свой профіль Bilibili< / a> і адключыце дадатак» Klei Entertainment " ўручную."
+msgstr "Ваш уліковы запіс Klei ўжо была адключаная ад Bilibili. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://www.bilibili.com /' target='_blank' rel='noopener noreferrer'>наведайце свой профіль Bilibili< / a> і адключыце дадатак Klei Entertainment ўручную."
 
 #. i18n: keyword: E_BILIBILI_GATEWAY_TIMEOUT
 msgid "Bilibili servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
@@ -1579,7 +1579,7 @@ msgstr "Google не дазволіў нам звязаць свой акаўнт
 
 #. i18n: keyword: E_TWITTER_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitter. If you believe the connection still exists, please <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>visit your Twitter profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "Ваш уліковы запіс Klei ўжо адключаная ад Twitter. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>зайдзіце ў свой профіль Twitter < / a> і адключыце дадатак» Klei Accounts " ўручную."
+msgstr "Ваш уліковы запіс Klei ўжо адключаная ад Twitter. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>зайдзіце ў свой профіль Twitter < / a> і адключыце дадатак Klei Accounts ўручную."
 
 #. i18n: keyword: E_TWITTER_INVALID_CREDENTIALS
 msgid "The temporary credentials used to communicate with Twitter on your behalf have expired. Try again later."
@@ -1591,7 +1591,7 @@ msgstr "Серверы Twitter працуюць, але перагружаныя
 
 #. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "Ваш уліковы запіс Klei ўжо была адключаная ад Google. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>зайдзіце ў свой профіль Google < / a> і адключыце дадатак» Klei Accounts " ўручную."
+msgstr "Ваш уліковы запіс Klei ўжо была адключаная ад Google. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>зайдзіце ў свой профіль Google < / a> і адключыце дадатак Klei Accounts ўручную."
 
 #. i18n: keyword: E_GOOGLE_BROKEN_OAUTH_SCOPES
 msgid "Your Google (YouTube) account does not have the correct permissions to complete this operation. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
@@ -1623,7 +1623,7 @@ msgstr "Уліковыя дадзеныя для аўтарызацыі, пра�
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "Ваш уліковы запіс Klei ўжо была адключаная ад Facebook. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>зайдзіце ў свой профіль Facebook < / a> і адключыце дадатак» Klei Accounts " ўручную."
+msgstr "Ваш уліковы запіс Klei ўжо была адключаная ад Facebook. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, < a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>зайдзіце ў свой профіль Facebook < / a> і адключыце дадатак Klei Accounts ўручную."
 
 #. i18n: keyword: E_FACEBOOK_IS_UNAVAILABLE
 msgid "Facebook is unavailable right now. To process your request we need to pass some information to Facebook, but it seems their service is offline right now. Please wait a few minutes before trying again."
