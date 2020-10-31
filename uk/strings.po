@@ -933,21 +933,9 @@ msgstr "Слідкуйте за нами в Instagram"
 msgid "Subscribe to our newsletter"
 msgstr "Підпишіться на нашу розсилку"
 
-#. i18n: keyword: RewardMessageYoutube
-msgid "<a href='https://www.youtube.com/user/kleient' target='_blank'>Follow us on YouTube</a> to claim this reward."
-msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Слідкуйте за нами на YouTube</a>, щоб отримати цю нагороду."
-
-#. i18n: keyword: RewardMessageTwitter
-msgid "<a href='https://twitter.com/klei' target='_blank'>Follow us on Twitter</a> to claim this reward."
-msgstr "<a href='https://twitter.com/klei' target='_blank'>Слідкуйте за нами у Twitter</a>, щоб отримати цю нагороду."
-
 #. i18n: keyword: RewardMessageFacebook
 msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
 msgstr "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Слідкуйте за нами у Facebook</a>, щоб отримати цю нагороду."
-
-#. i18n: keyword: RewardMessageWechat
-msgid "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Follow us on WeChat</a> to claim this reward."
-msgstr "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Слідкуйте за нами на WeChat</a>, щоб отримати цю нагороду."
 
 #. i18n: keyword: RewardMessageInstagram
 msgid "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Follow us on Instagram</a> to claim this reward."
@@ -1033,14 +1021,6 @@ msgstr "Facebook"
 msgid "Instagram"
 msgstr "Instagram"
 
-#. i18n: keyword: Twitter
-msgid "Twitter"
-msgstr "Twitter"
-
-#. i18n: keyword: YouTube
-msgid "YouTube"
-msgstr "YouTube"
-
 #. i18n: keyword: Twitch
 msgid "Twitch"
 msgstr "Twitch"
@@ -1052,10 +1032,6 @@ msgstr "Douyu"
 #. i18n: keyword: Bilibili
 msgid "Bilibili"
 msgstr "Bilibili"
-
-#. i18n: keyword: Wechat
-msgid "WeChat"
-msgstr "WeChat"
 
 #. i18n: keyword: SupportTitle
 msgid "Submit a Support Request"
@@ -1280,14 +1256,6 @@ msgstr "Неприпустимий стан авторизації, спробу
 #. i18n: keyword: E_INVALID_OAUTH_TOKEN
 msgid "The OAuth access token is missing, try again."
 msgstr "Токен доступу OAuth відсутній, спробуйте ще раз."
-
-#. i18n: keyword: E_WECHAT_OAUTH_CODE_BEEN_USED
-msgid "WeChat rejected the request to link your account because the OAuth code has already been used."
-msgstr "WeChat відхилив запит на прив'язку вашого акаунту, оскільки код OAuth вже використаний."
-
-#. i18n: keyword: E_WECHAT_OAUTH_INVALID_CODE
-msgid "WeChat rejected the request to link your account because the OAuth code is invalid."
-msgstr "WeChat відхилив запит на прив'язку вашого акаунту запису, оскільки код OAuth недійсний."
 
 #. i18n: keyword: E_KU_NOT_FOUND
 msgid "It was not possible to get a copy of the information associated to your user account."
@@ -1581,53 +1549,13 @@ msgstr "Веб-сторінка підтримує лише токени вхо�
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei не було надано дозвіл на прив'язку вашого профілю. Щоб продовжити, ви повинні дозволити Klei доступ до вашого облікового запису."
 
-#. i18n: keyword: E_GOOGLE_OAUTH_NO_REFRESH_TOKEN
-msgid "Google won't let us link your account. This usually happens if we somehow lost the link to your Google account on our end, without also having unlinked your account on Google's end. Please open <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>your Google Account permissions page</a>, remove access for Klei Accounts, and try to link your accounts again."
-msgstr "Google не дозволив нам зв'язати ваш обліковий запис. Це зазвичай відбувається, якщо ми якимось чином втратили посилання на ваш обліковий запис Google з нашого боку, а також не видалили зв'язок з вашим обліковим записом на стороні Google. Будь ласка, відкрийте <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>сторінку дозволів вашого облікового запису Google</a>, видаліть доступ до облікових записів Klei і спробуйте знову зв'язати свої акаунти."
-
 #. i18n: keyword: E_TWITTER_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitter. If you believe the connection still exists, please <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>visit your Twitter profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "Ваш обліковий запис Klei вже відключений від Twitter. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>зайдіть в свій профіль Twitter</a> і відключіть додаток «Klei Accounts» вручну."
 
-#. i18n: keyword: E_TWITTER_INVALID_CREDENTIALS
-msgid "The temporary credentials used to communicate with Twitter on your behalf have expired. Try again later."
-msgstr "Термін дії тимчасових облікових даних, які використовуються для зв'язку з Twitter від вашого імені, минув. Спробуйте пізніше."
-
-#. i18n: keyword: E_TWITTER_SERVICE_UNAVAILABLE
-msgid "The Twitter servers are up, but overloaded with requests. Try again later."
-msgstr "Сервери Twitter працюють, але перевантажені запитами. Спробуйте пізніше."
-
 #. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "Ваш обліковий запис Klei вже був відключений від Google. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>зайдіть в свій профіль Google</a> і відключіть додаток «Klei Accounts» вручну."
-
-#. i18n: keyword: E_GOOGLE_BROKEN_OAUTH_SCOPES
-msgid "Your Google (YouTube) account does not have the correct permissions to complete this operation. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
-msgstr "Ваш обліковий запис Google (YouTube) не має дозволів на завершення цієї операції. Будь ласка <a href='/account/info'>від'єднайте свій обліковий запис Google звідси</a>, потім перейдіть на сторінку винагород та зв'яжіть свій акаунт ще раз. Якщо проблема не зникне, будь ласка <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>видаліть доступ звідси</a>."
-
-#. i18n: keyword: E_GOOGLE_YOUTUBE_SIGNUP_REQUIRED
-msgid "YouTube signup required. This error indicates that the user has an unlinked Google Account, which means that the user has a Google Account but does not have a YouTube channel. Klei will be unable to link your YouTube account until Google removes the restrictions added to your account. <a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "Потрібна реєстрація на YouTube. Ця помилка вказує на те, що користувач має не підключений обліковий запис Google, це означає, що він має обліковий запис Google, але не має каналу YouTube. Klei не зможе зв'язати ваш обліковий запис YouTube, поки Google не усуне обмеження, додані до вашого облікового запису. <a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Детальніше про це читайте тут</a>."
-
-#. i18n: keyword: E_GOOGLE_DAILY_LIMIT_EXCEEDED
-msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "Наразі ми не можемо перевірити вашу підписку на YouTube. Перевірте ще раз після півночі за тихоокеанським часом (PT). <a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'>Докладніше про це читайте тут</a>."
-
-#. i18n: keyword: E_GOOGLE_QUOTA_EXCEEDED
-msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "Наразі ми не можемо перевірити вашу підписку на YouTube. Перевірте ще раз після півночі за тихоокеанським часом (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Докладніше про це читайте тут </a>."
-
-#. i18n: keyword: E_GOOGLE_IS_UNAVAILABLE
-msgid "Google is unavailable right now. To process your request we need to pass some information to Google, but it seems their service is offline right now. Please wait a few minutes before trying again."
-msgstr "На даний момент Google недоступний. Щоб обробити ваш запит, нам потрібно передати певну інформацію у Google, але, схоже, їхня служба зараз офлайн. Зачекайте кілька хвилин, перш ніж спробувати."
-
-#. i18n: keyword: E_GOOGLE_INVALID_GRANT
-msgid "Your Google (YouTube) access token has been expired or revoked. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again."
-msgstr "Термін дії вашого токена доступу Google (YouTube) минув або був анульований. Будь ласка <a href='/account/info'>від'єднайте свій обліковий запис Google звідси</a>, потім перейдіть на сторінку винагород та зв'яжіть свій акаунт ще раз."
-
-#. i18n: keyword: E_GOOGLE_AUTH_ERROR
-msgid "The authorization credentials provided for the request are invalid. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
-msgstr "Надані дані для авторизації, недійсні. Якщо проблема не зникне, будь ласка <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>видаліть доступ звідси</a>."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."

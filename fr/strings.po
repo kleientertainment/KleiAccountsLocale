@@ -1033,14 +1033,6 @@ msgstr ""
 msgid "Instagram"
 msgstr ""
 
-#. i18n: keyword: Twitter
-msgid "Twitter"
-msgstr ""
-
-#. i18n: keyword: YouTube
-msgid "YouTube"
-msgstr ""
-
 #. i18n: keyword: Twitch
 msgid "Twitch"
 msgstr ""
@@ -1051,10 +1043,6 @@ msgstr ""
 
 #. i18n: keyword: Bilibili
 msgid "Bilibili"
-msgstr ""
-
-#. i18n: keyword: Wechat
-msgid "WeChat"
 msgstr ""
 
 #. i18n: keyword: SupportTitle
@@ -1280,14 +1268,6 @@ msgstr "L'état de connexion/autorisation n'est pas valide, réessayer."
 #. i18n: keyword: E_INVALID_OAUTH_TOKEN
 msgid "The OAuth access token is missing, try again."
 msgstr "Le jeton d'accès OAuth est manquant, réessayer."
-
-#. i18n: keyword: E_WECHAT_OAUTH_CODE_BEEN_USED
-msgid "WeChat rejected the request to link your account because the OAuth code has already been used."
-msgstr "WeChat a rejeté la demande de liaison avec votre compte car le code OAuth a déjà été utilisé."
-
-#. i18n: keyword: E_WECHAT_OAUTH_INVALID_CODE
-msgid "WeChat rejected the request to link your account because the OAuth code is invalid."
-msgstr "WeChat a rejeté la demande de liaison avec votre compte car le code OAuth n'est pas valide."
 
 #. i18n: keyword: E_KU_NOT_FOUND
 msgid "It was not possible to get a copy of the information associated to your user account."
@@ -1581,53 +1561,13 @@ msgstr ""
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei n'a pas reçu l'autorisation de lier votre compte. Pour continuer, vous devez donner l'accès à votre compte quand demandé."
 
-#. i18n: keyword: E_GOOGLE_OAUTH_NO_REFRESH_TOKEN
-msgid "Google won't let us link your account. This usually happens if we somehow lost the link to your Google account on our end, without also having unlinked your account on Google's end. Please open <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>your Google Account permissions page</a>, remove access for Klei Accounts, and try to link your accounts again."
-msgstr "Google bloque la liaison à votre compte. Merci d'ouvrir <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>la page d'autorisation de votre compte Google</a> et de supprimer l'accès pour “Klei Accounts”. Ensuite, essayez à nouveau de connecter votre compte."
-
 #. i18n: keyword: E_TWITTER_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitter. If you believe the connection still exists, please <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>visit your Twitter profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "Votre compte Klei a déjà été déconnecté de Twitter. Si vous pensez que la connexion est toujours active, merci de  <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>vous rendre sur votre profile Twitter</a> et de déconnecter l'application “Klei Accounts” manuellement."
 
-#. i18n: keyword: E_TWITTER_INVALID_CREDENTIALS
-msgid "The temporary credentials used to communicate with Twitter on your behalf have expired. Try again later."
-msgstr "L'accès à Twitter a expiré. Réessayer plus tard."
-
-#. i18n: keyword: E_TWITTER_SERVICE_UNAVAILABLE
-msgid "The Twitter servers are up, but overloaded with requests. Try again later."
-msgstr "Les serveurs Twitter sont en surcharge. Réessayer plus tard."
-
 #. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "Votre compte Klei a déjà été déconnecté de Google. Si vous pensez que la connexion est toujours active, merci de <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>vous rendre sur votre profile Google</a> et de déconnecter l'application “Klei Accounts” manuellement."
-
-#. i18n: keyword: E_GOOGLE_BROKEN_OAUTH_SCOPES
-msgid "Your Google (YouTube) account does not have the correct permissions to complete this operation. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
-msgstr "Votre compte Google (YouTube) n'a pas les autorisations suffisantes pour cette opération. Merci de <a href='/account/info'>dissocier votre compte Google ici</a>, puis de visiter la page de récompenses et de lier votre compte à nouveau. Si le problème persiste, merci de <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>supprimer l'accès à partir d'ici</a>."
-
-#. i18n: keyword: E_GOOGLE_YOUTUBE_SIGNUP_REQUIRED
-msgid "YouTube signup required. This error indicates that the user has an unlinked Google Account, which means that the user has a Google Account but does not have a YouTube channel. Klei will be unable to link your YouTube account until Google removes the restrictions added to your account. <a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "Une connexion YouTube est nécessaire. Cette erreur indique que l'utilisateur à une compte Google mais pas de compte Youtube. Klei ne sera pas capable de relier votre compte tant que ce blocage existe. <a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Plus sur le sujet</a>."
-
-#. i18n: keyword: E_GOOGLE_DAILY_LIMIT_EXCEEDED
-msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr ""
-
-#. i18n: keyword: E_GOOGLE_QUOTA_EXCEEDED
-msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr ""
-
-#. i18n: keyword: E_GOOGLE_IS_UNAVAILABLE
-msgid "Google is unavailable right now. To process your request we need to pass some information to Google, but it seems their service is offline right now. Please wait a few minutes before trying again."
-msgstr "Google n'est pas disponible pour le moment. Pour traiter votre demande, nous devons transmettre certaines informations à Google, mais il semble que leur service est actuellement hors ligne. Veuillez patienter quelques minutes avant de réessayer."
-
-#. i18n: keyword: E_GOOGLE_INVALID_GRANT
-msgid "Your Google (YouTube) access token has been expired or revoked. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again."
-msgstr "Votre jeton d'accès Google (YouTube) est expiré. Merci de <a href='/account/info'>dissocier votre compte Google</a>, puis de visiter la page de récompenses et de lier votre compte à nouveau."
-
-#. i18n: keyword: E_GOOGLE_AUTH_ERROR
-msgid "The authorization credentials provided for the request are invalid. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
-msgstr "L'accès Google pour cette requête n'est pas valide. Si le problème persiste, merci de <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>supprimer l'accès à partir d'ici</a>."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
