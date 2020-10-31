@@ -305,10 +305,6 @@ msgstr "Dừng đăng ký theo dõi từ E-mail"
 msgid "Sign up for a Beta"
 msgstr "Đăng ký chương trình thử nghiệm"
 
-#. i18n: keyword: GetDRMFreeGames
-msgid "Get DRM-free Games"
-msgstr "Lấy trò chơi bản quyền miễn phí"
-
 #. i18n: keyword: DownloadPersonalData
 msgid "Download Personal Data"
 msgstr "Tải xuống dữ liệu cá nhân"
@@ -653,6 +649,14 @@ msgstr "Có mặt trên các nền tảng sau:"
 msgid "Go to Website"
 msgstr "Tới Website"
 
+#. i18n: keyword: GetDRMFreeGames
+msgid "Get DRM-free Games"
+msgstr "Lấy trò chơi bản quyền miễn phí"
+
+#. i18n: keyword: DRMFreeGameKey
+msgid "DRM Game Key"
+msgstr ""
+
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
 msgstr "Tải xuống bản quyền miễn phí"
@@ -660,6 +664,10 @@ msgstr "Tải xuống bản quyền miễn phí"
 #. i18n: keyword: DRMFreeDownloadDescription
 msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
 msgstr "Bạn có thể tải xuống phiên bản bản quyền miễn phí của trò chơi này. Thông tin thêm có thể tìm thấy <a href=\"/\">tại đây</a>."
+
+#. i18n: keyword: E_DRM_KEYS_NO_GAMES
+msgid "Error: You do not seem to own any elegible games."
+msgstr ""
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Don’t Starve Together Game Servers"

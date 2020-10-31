@@ -305,10 +305,6 @@ msgstr "Відмовитися від розсилки новин"
 msgid "Sign up for a Beta"
 msgstr "Записатися на бета-тест"
 
-#. i18n: keyword: GetDRMFreeGames
-msgid "Get DRM-free Games"
-msgstr "Отримати гру без DRM захисту"
-
 #. i18n: keyword: DownloadPersonalData
 msgid "Download Personal Data"
 msgstr "Завантажити особисті дані"
@@ -653,6 +649,14 @@ msgstr "Доступно на наступних платформах:"
 msgid "Go to Website"
 msgstr "Перейти на веб-сайт"
 
+#. i18n: keyword: GetDRMFreeGames
+msgid "Get DRM-free Games"
+msgstr "Отримати гру без DRM захисту"
+
+#. i18n: keyword: DRMFreeGameKey
+msgid "DRM Game Key"
+msgstr ""
+
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
 msgstr "Завантажити гру без DRM захисту"
@@ -660,6 +664,10 @@ msgstr "Завантажити гру без DRM захисту"
 #. i18n: keyword: DRMFreeDownloadDescription
 msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
 msgstr "Ви можете отримати цю гру без DRM захисту. Більше інформації <a href=\"/\">тут</a>."
+
+#. i18n: keyword: E_DRM_KEYS_NO_GAMES
+msgid "Error: You do not seem to own any elegible games."
+msgstr ""
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Don’t Starve Together Game Servers"

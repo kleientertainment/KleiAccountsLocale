@@ -305,10 +305,6 @@ msgstr "Cancelar inscrição de e-mails"
 msgid "Sign up for a Beta"
 msgstr "Cadastre-se para uma versão beta"
 
-#. i18n: keyword: GetDRMFreeGames
-msgid "Get DRM-free Games"
-msgstr "Obtenha jogos livres de DRM"
-
 #. i18n: keyword: DownloadPersonalData
 msgid "Download Personal Data"
 msgstr "Download de dados pessoais"
@@ -653,6 +649,14 @@ msgstr "Disponível em todas estas plataformas:"
 msgid "Go to Website"
 msgstr "Ir para o Site"
 
+#. i18n: keyword: GetDRMFreeGames
+msgid "Get DRM-free Games"
+msgstr "Obtenha jogos livres de DRM"
+
+#. i18n: keyword: DRMFreeGameKey
+msgid "DRM Game Key"
+msgstr ""
+
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
 msgstr "Download livre de DRM"
@@ -660,6 +664,10 @@ msgstr "Download livre de DRM"
 #. i18n: keyword: DRMFreeDownloadDescription
 msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
 msgstr "Obtenha o download livre de Gestão de Direitos Digitais (DRM) deste jogo. Mais informações <a href=\"/\">aqui</a>."
+
+#. i18n: keyword: E_DRM_KEYS_NO_GAMES
+msgid "Error: You do not seem to own any elegible games."
+msgstr ""
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Don’t Starve Together Game Servers"

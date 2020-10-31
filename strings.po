@@ -305,10 +305,6 @@ msgstr ""
 msgid "Sign up for a Beta"
 msgstr ""
 
-#. i18n: keyword: GetDRMFreeGames
-msgid "Get DRM-free Games"
-msgstr ""
-
 #. i18n: keyword: DownloadPersonalData
 msgid "Download Personal Data"
 msgstr ""
@@ -653,12 +649,24 @@ msgstr ""
 msgid "Go to Website"
 msgstr ""
 
+#. i18n: keyword: GetDRMFreeGames
+msgid "Get DRM-free Games"
+msgstr ""
+
+#. i18n: keyword: DRMFreeGameKey
+msgid "DRM Game Key"
+msgstr ""
+
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
 msgstr ""
 
 #. i18n: keyword: DRMFreeDownloadDescription
-msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
+msgid "You can get a DRM-free download of this game. More information <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>here</a>."
+msgstr ""
+
+#. i18n: keyword: E_DRM_KEYS_NO_GAMES
+msgid "Error: You do not seem to own any elegible games."
 msgstr ""
 
 #. i18n: keyword: DontStarveTogetherServers
