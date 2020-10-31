@@ -981,24 +981,24 @@ msgstr "物品需要"
 msgid "Redeem"
 msgstr "兑换"
 
+#. i18n: keyword: RewardLinkResultName
+msgid "Reward Name:"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
 msgstr "奖励链接"
 
-#. i18n: keyword: RewardLinkResultDescription
-msgid "Congratulations!</p><p>You have found a valid reward link in the wild."
-msgstr "恭喜！</p><p>你在荒野中找到了一条有用的链接。"
+#. i18n: keyword: RewardLinkResultDescriptionPoints
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr ""
 
-#. i18n: keyword: RewardLinkResultMessagePoints
-msgid "You have claimed {{.Amount}} {{.Name}}."
-msgstr "你已获得{{.Amount}}{{.Name}}。"
-
-#. i18n: keyword: RewardLinkResultMessageSpool
-msgid "You have claimed {{.Amount}} {{.Name}}. You will now find it in game next time you play."
-msgstr "你已获得{{.Amount}}{{.Name}}。现在，您下次玩游戏时会在游戏中找到它。"
+#. i18n: keyword: RewardLinkResultDescriptionSpools
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr ""
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
-msgid "Woah! It looks like you already clicked this link before. You can only redeem this reward once."
+msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
 msgstr ""
 
 #. i18n: keyword: GiftRedemptionTitle
@@ -1130,7 +1130,7 @@ msgid "Error - Date of Birth: Date of Birth Fields need to be entered in the cor
 msgstr "错误 - 出生日期： 出生日期需要以正确的格式输入 (日/月/年)"
 
 #. i18n: keyword: ErrorTooYoung
-msgid "Woah There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
+msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
 msgstr "哦嘿，年轻人. 你必须年满13岁能才注册账户。"
 
 #. i18n: keyword: EmailInvalid

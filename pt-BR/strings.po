@@ -981,25 +981,25 @@ msgstr "Preço"
 msgid "Redeem"
 msgstr "Resgatar"
 
+#. i18n: keyword: RewardLinkResultName
+msgid "Reward Name:"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
 msgstr "Link de Recompensa"
 
-#. i18n: keyword: RewardLinkResultDescription
-msgid "Congratulations!</p><p>You have found a valid reward link in the wild."
-msgstr "Parabéns!</p><p>Você encontrou um link válido para esta recompensa."
+#. i18n: keyword: RewardLinkResultDescriptionPoints
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr ""
 
-#. i18n: keyword: RewardLinkResultMessagePoints
-msgid "You have claimed {{.Amount}} {{.Name}}."
-msgstr "Você resgatou {{.Amount}} {{.Name}}."
-
-#. i18n: keyword: RewardLinkResultMessageSpool
-msgid "You have claimed {{.Amount}} {{.Name}}. You will now find it in game next time you play."
-msgstr "Você resgatou {{.Amount}} {{.Name}}. Você irá encontrá-lo no jogo na próxima vez que jogar."
+#. i18n: keyword: RewardLinkResultDescriptionSpools
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr ""
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
-msgid "Woah! It looks like you already clicked this link before. You can only redeem this reward once."
-msgstr "Woah! Parece que você já utilizou este link antes. Você só pode resgatar essa recompensa uma vez."
+msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
+msgstr "Whoa! Parece que você já utilizou este link antes. Você só pode resgatar essa recompensa uma vez."
 
 #. i18n: keyword: GiftRedemptionTitle
 msgid "Gift Redemption"
@@ -1130,7 +1130,7 @@ msgid "Error - Date of Birth: Date of Birth Fields need to be entered in the cor
 msgstr "Erro - Data de nascimento: os campos de data de nascimento precisam ser inseridos no formato correto (DD/MM/AAAA)"
 
 #. i18n: keyword: ErrorTooYoung
-msgid "Woah There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
+msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
 msgstr "Oops, amiguinho! Você precisa ter 13 anos ou mais para criar uma conta."
 
 #. i18n: keyword: EmailInvalid
