@@ -135,7 +135,7 @@ msgstr "Грудень"
 
 #. i18n: keyword: Activate
 msgid "Activate"
-msgstr "Активуйте"
+msgstr "Активувати"
 
 #. i18n: keyword: Activating
 msgid "Activating..."
@@ -163,11 +163,11 @@ msgstr "Я згоден з <a href=\"https://www.klei.com/games/dont-starve/term
 
 #. i18n: keyword: MustAcceptEULA
 msgid "EULA Must Be Accepted to Register. Please read our EULA and check the confirmation box to proceed."
-msgstr "Ліцензійна угода повинна бути прийнята аби закінчити реєстрацію. Будь ласка, прочитайте нашу ліцензійну угоду і встановіть прапорець для підтвердження, щоб продовжити."
+msgstr "Для закінчення реєстрації потрібно прийняти ліцензійну угоду. Будь ласка, прочитайте нашу ліцензійну угоду і встановіть прапорець для підтвердження, щоб продовжити."
 
 #. i18n: keyword: PrivacyPolicy
 msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
-msgstr "Надіславши цю форму, ви погоджуєтеся з нашою <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Політикою конфіденційності</a>."
+msgstr "Надіславши цю форму, ви погоджуєтеся з нашою <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">політикою конфіденційності</a>."
 
 #. i18n: keyword: FillAccountDetails
 msgid "Fill your account details here:"
@@ -187,7 +187,7 @@ msgstr "Лист з підтвердженням відправлено на п�
 
 #. i18n: keyword: VerificationEmailSuccessDescription
 msgid "We’ve sent a verification e-mail to your e-mail address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the e-mail after an hour, first check your spam folder."
-msgstr "Ми відправили лист з підтвердженням на вашу електронну пошту. Для завершення реєстрації, будь ласка, натисніть на посилання, яке зазначено у листі. Листи зазвичай відправляються миттєво. Якщо ви не отримали листа протягом години, перевірте папку зі спамом."
+msgstr "Ми відправили лист з підтвердженням на вашу електронну пошту. Для завершення реєстрації, будь ласка, натисніть на посилання, зазначене у листі. Листи зазвичай відправляються миттєво. Якщо ви не отримали листа протягом години, перевірте папку зі спамом."
 
 #. i18n: keyword: VerificationEmailFailureTitle
 msgid "Invalid Verification"
@@ -251,7 +251,7 @@ msgstr "Підписка..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr "Отримуйте останні новини та оновлення для {{.GameName}}. Зазвичай ми не надсилаємо багато листів, але коли ми це робимо, ми враховуємо це! Ви можете легко відписатися в будь-який час, в кінці будь-якого електронного листа, який ми надсилаємо, є відповідне посилання. Для отримання останніх новин ви також можете слідкувати за нами у Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> або відвідати наш офіційний <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
+msgstr "Отримуйте останні новини та оновлення для {{.GameName}}. Зазвичай ми не надсилаємо багато листів, але коли й надсилаємо, то тільки найважливіші! Ви можете легко відписатися в будь-який час, натиснувши на відповідне посилання в кінці будь-якого нашого електронного листа. Для отримання останніх новин ви також можете слідкувати за нами у Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> або відвідати наш офіційний <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
@@ -375,7 +375,7 @@ msgstr "Опції маркетингу"
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
-msgstr "Використовуйте ці параметри, аби налаштувати підписку на розсилку. Пам'ятайте, що ви можете скасувати підписку в будь-який час."
+msgstr "Використовуйте ці параметри, щоб налаштувати підписку на розсилку. Пам'ятайте, що ви можете скасувати підписку в будь-який час."
 
 #. i18n: keyword: MarketingOptionsUnsubscribe
 msgid "I do not want to receive marketing emails"
@@ -415,7 +415,7 @@ msgstr "Підтвердження"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "Будь ласка, введіть “merge accounts”, але ВЕЛИКИМИ літерами для підтвердження:"
+msgstr "Будь ласка, введіть «merge accounts» повністю ВЕЛИКИМИ літерами для підтвердження:"
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"
@@ -499,11 +499,11 @@ msgstr "Немає нічого, що можна об'єднати з цим а�
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
-msgstr "Ви вже об'єднали ваш Epic Games акаунт."
+msgstr "Ви вже об'єднали ваш акаунт Epic Games."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
-msgstr "Ви вже об'єднали ваш Steam акаунт."
+msgstr "Ви вже об'єднали ваш акаунт Steam."
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -607,7 +607,7 @@ msgstr "Підтвердити Видалення"
 
 #. i18n: keyword: DeleteAccountConfirmation
 msgid "Please type in “delete my account” but in UPPERCASE letters, to confirm:"
-msgstr "Будь ласка, введіть \"delete my account\" повністю великими літерами, щоб підтвердити:"
+msgstr "Будь ласка, введіть «delete my account» повністю ВЕЛИКИМИ літерами для підтвердження:"
 
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
@@ -671,7 +671,7 @@ msgstr "Помилка: Схоже, ви не володієте жодними 
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
-msgstr "Ігрові сервери для"
+msgstr "Ігрові сервери"
 
 #. i18n: keyword: DontStarveTogetherInventory
 msgid "Items Inventory"
@@ -775,7 +775,7 @@ msgstr "Максимум гравців"
 
 #. i18n: keyword: ConfigureServerPlaystyle
 msgid "Server Playstyle"
-msgstr "Стиль сервера"
+msgstr "Стиль гри"
 
 #. i18n: keyword: ConfigureServerPlaystyleSocial
 msgid "Social"
@@ -831,7 +831,7 @@ msgstr "Активні та майбутні бета-тестування"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for betas you’re interested in. You’ll receive an email if you are accepted into one."
-msgstr "Ви можете відправити заявку на бета-тест, що вас зацікавив. Ви отримаєте лист з повідомленням, якщо вас буде прийнято в один з них."
+msgstr "Ви можете відправити заявку на зацікавивший вас бета-тест. Ви отримаєте лист з повідомленням, якщо вас буде прийнято в один з них."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -907,15 +907,15 @@ msgstr "Альтернатива"
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
-msgstr "pts"
+msgstr "балів"
 
 #. i18n: keyword: RewardBoltsAbbreviation
 msgid "bolts"
-msgstr "рулон. тканини"
+msgstr "рулонів"
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
-msgstr "котуш."
+msgstr "котушок"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
@@ -1007,7 +1007,7 @@ msgstr "Купівля подарунків"
 
 #. i18n: keyword: GiftRedemptionDescription
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
-msgstr "Привіт! Схоже, у вас є ключ предмета або подарунковий код, ви хочете його зараз активувати? Введіть код у нижченаведеній формі, і ми надамо вам товар швидше, ніж ви кліпнете <em>&mdash;якщо ви не в змозі кліпати дуже швидко, то в такому випадку вам слід закрити очі на кілька мілісекунд&mdash;</em>"
+msgstr "Привіт! Схоже, у вас є ключ предмета або подарунковий код, ви хочете його зараз активувати? Введіть код у нижченаведеній формі, і ми надамо вам товар швидше, ніж ви кліпнете <em>&mdash;якщо ви в змозі кліпати дуже швидко, в такому випадку вам слід закрити очі на кілька мілісекунд&mdash;</em>"
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
@@ -1019,11 +1019,11 @@ msgstr "Активувати код"
 
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Gift code redemption was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr "Вітаємо! Активація подарункового коду пройшла успішно.</p><p>Тривалість доставки залежить від тимчасових портальних аномалій. Klei не відповідає за емоційні травми, викликані очікуванням. Подарунки можуть спричинити хвастощі, несподіване захоплення та/або поліпшення ігрового процесу."
+msgstr "Вітаємо! Активація подарункового коду пройшла успішно.</p><p>Тривалість доставки коливається із-за тимчасових портальних аномалій. Klei не відповідає за емоційні травми, викликані очікуванням. Подарунки можуть спричинити хвастощі, несподіване задоволення та/або поліпшення ігрового процесу."
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
-msgstr "Натисніть тут, щоб погасити ще один подарунок"
+msgstr "Натисніть тут, щоб погасити ще один подарунковий код"
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
@@ -1419,7 +1419,7 @@ msgstr "Twitch відхилив запит на підключення вашо�
 
 #. i18n: keyword: E_TWITCH_DATA_CONFLICT
 msgid "Apparently you have already connected your game ID with another Twitch account. Open a new session in your web browser (using “Incognito” or “Private” mode, for example) and log in with the secondary Twitch account, visit the “Settings” page, then “Connections”, then disconnect the “Klei Entertainment” application. Finally, return to this page and try to connect your Twitch account again."
-msgstr "Ймовірно, ви вже пов'язали свій ігровий ідентифікатор з іншим обліковим записом Twitch. Відкрийте новий сеанс в своєму веб-браузері (наприклад, в режимі «Інкогніто» або «Особистий») і увійдіть в систему за допомогою вторинного облікового запису Twitch, перейдіть на сторінку «Налаштування», потім «Підключення», потім вимкніть додаток «Klei Entertainment». Нарешті, поверніться на цю сторінку та спробуйте знову підключити свій обліковий запис Twitch."
+msgstr "Ймовірно, ви вже пов'язали свій ігровий ідентифікатор з іншим обліковим записом Twitch. Відкрийте новий сеанс в своєму веб-браузері (наприклад, в режимі «Інкогніто» або «Приватний») і увійдіть в систему за допомогою вторинного облікового запису Twitch, перейдіть на сторінку «Налаштування», потім «Підключення», потім вимкніть додаток «Klei Entertainment». Нарешті, поверніться на цю сторінку та спробуйте знову підключити свій обліковий запис Twitch."
 
 #. i18n: keyword: E_TWITCH_DELETED_SECRET
 msgid "Twitch is having problems verifying the credentials associated to our application. This usually happens when an internal service on Twitch infrastructure is having internal server errors. Please try again in a few minutes."
@@ -1767,15 +1767,15 @@ msgstr "Можна обміняти"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr "Недостатньо гайок. Відвідайте <a href='/account/transaction'>сторінку транзакцій</a>, щоб переконатися, що у вас достатньо гайок для продовження операції."
+msgstr "Недостатньо рулонів. Відвідайте <a href='/account/transaction'>сторінку транзакцій</a>, щоб переконатися, чи достатньо рулонів для продовження операції."
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
-msgstr "Недостатньо котушок. Відвідайте <a href='/account/transaction'>сторінку транзакцій</a>, щоб переконатися, що у вас достатньо котушок для продовження операції."
+msgstr "Недостатньо котушок. Відвідайте <a href='/account/transaction'>сторінку транзакцій</a>, щоб переконатися, чи достатньо котушок для продовження операції."
 
 #. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
 msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
-msgstr "Недостатньо балів. Відвідайте <a href='/account/transaction'>сторінку транзакцій</a>, щоб переконатися, що у вас достатньо балів для продовження операції."
+msgstr "Недостатньо балів. Відвідайте <a href='/account/transaction'>сторінку транзакцій</a>, щоб переконатися, чи достатньо балів для продовження операції."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_TYPE
 msgid "The file you selected is not allowed. Please select either a JPEG, GIF or PNG file."
@@ -1795,8 +1795,8 @@ msgstr "Адміністратор схвалив одну з ваших зая�
 
 #. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
 msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
-msgstr "Дякуємо за заявку. На жаль, ви, здається, досягли ліміту заявок для цього заходу. Будь ласка, зачекайте, поки інші заявки будуть схвалені або відхилені, перш ніж намагатись надіслати іншу."
+msgstr "Дякуємо за заявку. На жаль, здається, досягнуто ліміт заявок для цього заходу. Будь ласка, зачекайте, поки інші заявки будуть схвалені або відхилені, перш ніж намагатись надіслати ще одну."
 
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
-msgstr "Дякуємо за подання заявки та повідомлення. На жаль, нам потрібно застосувати обмеження у вісімдесят (80) символів. Будь ласка, спробуйте зробити коротше повідомлення."
+msgstr "Дякуємо за подання заявки та повідомлення. На жаль, нам потрібно застосувати обмеження у вісімдесят (80) символів. Будь ласка, зробіть повідомлення коротшим та повторіть спробу."
