@@ -27,7 +27,7 @@ msgstr "正在載入…"
 
 #. i18n: keyword: Search
 msgid "Search"
-msgstr ""
+msgstr "搜尋"
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -675,15 +675,15 @@ msgstr "Don’t Starve Together 遊戲伺服器"
 
 #. i18n: keyword: DontStarveTogetherInventory
 msgid "Items Inventory"
-msgstr ""
+msgstr "物品庫存"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr ""
+msgstr "<b>搜尋提示：</b>輸入一或多個詞語來搜尋您遊戲庫存的物品，如果您想要找一個名叫 <b>Wilson Red Hat</b> 的物品，你可以輸入 <b>Wilson</b>、<b>Hat</b> 或 <b>Wilson Hat</b>。另外搜尋關鍵字的順序很重要，這代表您無法以 \"Hat Wilson\" 找到任何物品，因為順序不對。按下 Enter 鍵來送出搜尋，刪除搜尋關鍵字並按下 Enter 來取消搜尋。"
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr ""
+msgstr "你選擇的遊戲並未擁有任何物品，請確定您選擇的是 Don't Starve Together。"
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
@@ -807,7 +807,7 @@ msgstr "叢集密碼"
 
 #. i18n: keyword: ItemsInventoryTitle
 msgid "Your Items Inventory"
-msgstr ""
+msgstr "你的物品清單"
 
 #. i18n: keyword: ItemsDialogRarity
 msgid "Rarity:"
@@ -911,7 +911,7 @@ msgstr "點"
 
 #. i18n: keyword: RewardBoltsAbbreviation
 msgid "bolts"
-msgstr ""
+msgstr "螺栓"
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
@@ -1623,15 +1623,15 @@ msgstr "我們很抱歉但此獎勵已不再可用，請追蹤我們的社群媒
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
-msgstr ""
+msgstr "用戶交易紀錄"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
-msgstr ""
+msgstr "與您的帳號有關的交易紀錄均按照最新至最舊的順序列出。要注意的是，交易時間是參照網頁伺服器所在的時區，你可能得調整數值來符合你的電腦時間。"
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
-msgstr ""
+msgstr "平台名稱"
 
 #. i18n: keyword: FilterBy
 msgid "Filter by"
@@ -1647,39 +1647,39 @@ msgstr ""
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
-msgstr ""
+msgstr "目前線軸餘額"
 
 #. i18n: keyword: CurrentBalanceForPoints
 msgid "Current Points Balance"
-msgstr ""
+msgstr "目前點數餘額"
 
 #. i18n: keyword: NewBalance
 msgid "New Balance:"
-msgstr ""
+msgstr "新餘額："
 
 #. i18n: keyword: TXN_NOT_SUPPORTED
 msgid "Transaction Not Supported"
-msgstr ""
+msgstr "交易未被支援"
 
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
-msgstr ""
+msgstr "新增一件物品"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
-msgstr ""
+msgstr "以線軸連接"
 
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
-msgstr ""
+msgstr "以點數連接"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
-msgstr ""
+msgstr "獲得線軸"
 
 #. i18n: keyword: TXN_QUEST_FOR_POINTS
 msgid "Quest For Points"
-msgstr ""
+msgstr "獲得點數"
 
 #. i18n: keyword: TXN_QUEST_FOR_BOLTS
 msgid "Quest For Bolts"
@@ -1687,11 +1687,11 @@ msgstr ""
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
-msgstr ""
+msgstr "以線軸兌換物品"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
-msgstr ""
+msgstr "以點數兌換物品"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
@@ -1699,15 +1699,15 @@ msgstr ""
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
-msgstr ""
+msgstr "退貨"
 
 #. i18n: keyword: TXN_MARKET_LIST_ITEM
 msgid "Market List Item"
-msgstr ""
+msgstr "市集清單物品"
 
 #. i18n: keyword: TXN_MARKET_PURCHASE
 msgid "Market Purchase"
-msgstr ""
+msgstr "市集購買"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
@@ -1715,7 +1715,7 @@ msgstr ""
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
-msgstr ""
+msgstr "物品交易失去"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
@@ -1723,11 +1723,11 @@ msgstr ""
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
-msgstr ""
+msgstr "以物品兌換線軸"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
-msgstr ""
+msgstr "以物品兌換點數"
 
 #. i18n: keyword: TXN_TWITCH_ITEM_DROP
 msgid "Twitch Item Drop"
@@ -1743,27 +1743,27 @@ msgstr ""
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
-msgstr ""
+msgstr "Steam 箱子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
 msgid "Tencent Games Box"
-msgstr ""
+msgstr "騰訊遊戲箱子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
 msgid "Currency Box"
-msgstr ""
+msgstr "貨幣箱子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
-msgstr ""
+msgstr "Steam 箱子 DLC"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr ""
+msgstr "可於市集販售"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr ""
+msgstr "可交易"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."

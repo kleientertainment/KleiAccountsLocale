@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-07-24 03:24\n"
+"PO-Revision-Date: 2020-10-27 12:40-0300\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -27,7 +28,7 @@ msgstr "Carregando…"
 
 #. i18n: keyword: Search
 msgid "Search"
-msgstr ""
+msgstr "Pesquisar"
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -167,7 +168,7 @@ msgstr "Você deve aceitar o Contrato de licença do usuário final para se regi
 
 #. i18n: keyword: PrivacyPolicy
 msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
-msgstr "Ao se inscrever, você concorda com nossa <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidade</a>"
+msgstr "Ao se inscrever, você concorda com nossa <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidade</a>."
 
 #. i18n: keyword: FillAccountDetails
 msgid "Fill your account details here:"
@@ -315,7 +316,7 @@ msgstr "Código de Jogador"
 
 #. i18n: keyword: UserNotFound
 msgid "user not found"
-msgstr "Usuário não encontrado"
+msgstr "usuário não encontrado"
 
 #. i18n: keyword: LinkedAccounts
 msgid "Linked Accounts"
@@ -671,19 +672,19 @@ msgstr ""
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
-msgstr "Servidores Don't Starve Together"
+msgstr "Servidores"
 
 #. i18n: keyword: DontStarveTogetherInventory
 msgid "Items Inventory"
-msgstr ""
+msgstr "Itens do Inventário"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr ""
+msgstr "<b>Dicas de Pesquisa:</b> Digite uma ou mais palavras para pesquisar um item no inventário do jogo. Se você deseja encontrar um item chamado <b>Wilson Red Hat</b>, você pode digitar <b>Wilson</b>, ou <b>Hat</b>, ou mesmo <b>Wilson Hat</b>. A ordem dos termos de pesquisa é importante, isso significa que você não encontrará resultados para a consulta \"Hat Wilson\" porque as palavras estão em uma ordem diferente. <b>Pressione Enter</b> para enviar a pesquisa. Exclua os termos de pesquisa e pressione enter novamente para redefinir os filtros."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr ""
+msgstr "O jogo que você selecionou não possui itens. Por favor, tenha certeza de que você selecionou Don't Starve Together."
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
@@ -807,7 +808,7 @@ msgstr "Senha do Servidor"
 
 #. i18n: keyword: ItemsInventoryTitle
 msgid "Your Items Inventory"
-msgstr ""
+msgstr "Seu Inventário de Itens"
 
 #. i18n: keyword: ItemsDialogRarity
 msgid "Rarity:"
@@ -879,7 +880,7 @@ msgstr "Drops & Recompensas (Beta)"
 
 #. i18n: keyword: RewardDescription
 msgid "Keep up to date and earn in-game rewards. We'll be adding new rewards from time to time, so check back often to see what's new! Use points to redeem items listed in the page below. Spools are useful inside the games."
-msgstr "Mantenha-se atualizado e ganhe recompensas no jogo. De vez em quando, adicionaremos novas recompensas. Por isso, volte sempre para ver as novidades!"
+msgstr "Mantenha-se atualizado e ganhe recompensas no jogo. Estaremos adicionando novas recompensas de vez em quando, então volte sempre para ver o que há de novo! Use Pontos para resgatar os itens listados na página abaixo. Os Carretéis são úteis dentro dos jogos."
 
 #. i18n: keyword: RewardLabel
 msgid "Reward"
@@ -911,7 +912,7 @@ msgstr "pontos"
 
 #. i18n: keyword: RewardBoltsAbbreviation
 msgid "bolts"
-msgstr ""
+msgstr "parafusos"
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
@@ -1411,7 +1412,7 @@ msgstr "Você deve ter pelo menos 13 anos para criar uma conta."
 
 #. i18n: keyword: E_INVALID_BIRTHDAY
 msgid "Invalid date of birth, date must be in this format: YYYY-MM-DD"
-msgstr "Data de nascimento inválida, selecione a data."
+msgstr "Data de nascimento inválida, a data deve estar neste formato: DD-MM-AAAA"
 
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
@@ -1623,15 +1624,15 @@ msgstr "Nós sentimos muito essa recompensa não está mais ativa. Por favor sig
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
-msgstr ""
+msgstr "Transações do Usuário"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
-msgstr ""
+msgstr "Todas as transações (relevantes) associadas à sua conta estão listadas abaixo em ordem decrescente (transações mais recentes no topo, transações mais antigas na parte inferior). Observe que a hora da transação é baseada no fuso horário do servidor da web, você pode precisar ajustar os números para corresponder ao relógio do seu computador."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
-msgstr ""
+msgstr "Nome da Plataforma"
 
 #. i18n: keyword: FilterBy
 msgid "Filter by"
@@ -1647,75 +1648,75 @@ msgstr ""
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
-msgstr ""
+msgstr "Saldo atual de Carretéis"
 
 #. i18n: keyword: CurrentBalanceForPoints
 msgid "Current Points Balance"
-msgstr ""
+msgstr "Saldo atual de Pontos"
 
 #. i18n: keyword: NewBalance
 msgid "New Balance:"
-msgstr ""
+msgstr "Novo Saldo:"
 
 #. i18n: keyword: TXN_NOT_SUPPORTED
 msgid "Transaction Not Supported"
-msgstr ""
+msgstr "Transação não suportada"
 
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
-msgstr ""
+msgstr "Criar um Item"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
-msgstr ""
+msgstr "Link para Carretéis"
 
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
-msgstr ""
+msgstr "Link para Pontos"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
-msgstr ""
+msgstr "Desafio por Carretéis"
 
 #. i18n: keyword: TXN_QUEST_FOR_POINTS
 msgid "Quest For Points"
-msgstr ""
+msgstr "Desafio por Pontos"
 
 #. i18n: keyword: TXN_QUEST_FOR_BOLTS
 msgid "Quest For Bolts"
-msgstr ""
+msgstr "Desafio por Parafusos"
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
-msgstr ""
+msgstr "Carretéis por Item"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
-msgstr ""
+msgstr "Pontos por Item"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr ""
+msgstr "Parafusos por Item"
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
-msgstr ""
+msgstr "Reembolso de Compra"
 
 #. i18n: keyword: TXN_MARKET_LIST_ITEM
 msgid "Market List Item"
-msgstr ""
+msgstr "Item da Lista de Mercado"
 
 #. i18n: keyword: TXN_MARKET_PURCHASE
 msgid "Market Purchase"
-msgstr ""
+msgstr "Compra no Mercado"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
-msgstr ""
+msgstr "Reversão (Rollback) do Mercado"
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
-msgstr ""
+msgstr "Perda de Troca de Item"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
@@ -1723,11 +1724,11 @@ msgstr ""
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
-msgstr ""
+msgstr "Item por Carretéis"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
-msgstr ""
+msgstr "Item por Pontos"
 
 #. i18n: keyword: TXN_TWITCH_ITEM_DROP
 msgid "Twitch Item Drop"
@@ -1743,27 +1744,27 @@ msgstr ""
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
-msgstr ""
+msgstr "Caixa Steam"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
 msgid "Tencent Games Box"
-msgstr ""
+msgstr "Caixa Tencent Games"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
 msgid "Currency Box"
-msgstr ""
+msgstr "Caixa de Moeda Corrente"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
-msgstr ""
+msgstr "Caixa Steam DLC"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr ""
+msgstr "Comercializável"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr ""
+msgstr "Negociável"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
