@@ -670,7 +670,7 @@ msgid "Error: You do not seem to own any elegible games."
 msgstr ""
 
 #. i18n: keyword: DontStarveTogetherServers
-msgid "Don’t Starve Together Game Servers"
+msgid "Game Servers"
 msgstr "Serveurs de jeux pour Don’t Starve Together"
 
 #. i18n: keyword: DontStarveTogetherInventory
@@ -728,6 +728,14 @@ msgstr "Ajout du serveur…"
 #. i18n: keyword: GameServerWasGenerated
 msgid "The server was successfully created."
 msgstr "Le serveur a été ajouté avec succès."
+
+#. i18n: keyword: DeleteGameServer
+msgid "Delete Game Server"
+msgstr ""
+
+#. i18n: keyword: DeleteGameServerConfirmation
+msgid "Are you sure you want to delete this server:"
+msgstr ""
 
 #. i18n: keyword: RemoveServer
 msgid "Delete"
