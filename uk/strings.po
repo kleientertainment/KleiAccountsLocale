@@ -487,7 +487,7 @@ msgstr "Ми не можемо об'єднати ваші акаунти, оск
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PASSWORD_RESET
 msgid "It appears your password was reset some time ago but you never finished the verification process."
-msgstr "Здається, ваш пароль нещодавно був скинутий, та ви досі не закінчили процес підтвердження."
+msgstr "Схоже, ваш пароль нещодавно був скинутий, але ви досі не закінчили процес підтвердження."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_MARKED_FOR_DELETION
 msgid "We cannot merge your accounts because one of them is marked for deletion."
@@ -499,11 +499,11 @@ msgstr "Немає нічого, що можна об'єднати з цим а�
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
-msgstr ""
+msgstr "Ви вже об'єднали ваш Epic Games акаунт."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
-msgstr ""
+msgstr "Ви вже об'єднали ваш Steam акаунт."
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -655,7 +655,7 @@ msgstr "Отримати гру без DRM захисту"
 
 #. i18n: keyword: DRMFreeGameKey
 msgid "DRM Game Key"
-msgstr ""
+msgstr "DRM ключ від гри"
 
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
@@ -667,7 +667,7 @@ msgstr "Ви можете отримати цю гру без DRM захисту
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
-msgstr ""
+msgstr "Помилка: Схоже, ви не володієте жодними іграми, що задовольняють вимогам."
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
@@ -731,11 +731,11 @@ msgstr "Сервер був успішно створений."
 
 #. i18n: keyword: DeleteGameServer
 msgid "Delete Game Server"
-msgstr ""
+msgstr "Видалити ігровий сервер"
 
 #. i18n: keyword: DeleteGameServerConfirmation
 msgid "Are you sure you want to delete this server:"
-msgstr ""
+msgstr "Ви впевненні, що хочете видалити цей сервер:"
 
 #. i18n: keyword: RemoveServer
 msgid "Delete"
@@ -811,15 +811,15 @@ msgstr "Ваш інвентар предметів"
 
 #. i18n: keyword: ItemsDialogRarity
 msgid "Rarity:"
-msgstr ""
+msgstr "Рідкість:"
 
 #. i18n: keyword: ItemsDialogRedeemed
 msgid "Redeemed:"
-msgstr ""
+msgstr "Викуплено:"
 
 #. i18n: keyword: ItemsFilterRarity
 msgid "Rarity"
-msgstr ""
+msgstr "Рідкість"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -983,7 +983,7 @@ msgstr "Погасити"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
-msgstr ""
+msgstr "Назва нагороди:"
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
@@ -991,11 +991,11 @@ msgstr "Посилання на винагороду"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr ""
+msgstr "<p>Вітаємо!</p><p>Ви знайшли дійсне посилання на винагороду в дикий природі з {{.Amount}} {{.Name}}.</p><p>Ваш баланс буде негайно оновленний. Будь ласка, перейдіть на сторінку \"Транзакції користувача\" щоб побачити зміни в балансі акаунта.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr ""
+msgstr "<p>Вітаємо!</p><p>Ви знайшли дійсне посилання на винагороду в дикий природі з {{.Amount}} {{.Name}}.</p><p>Ви знайдете її в грі наступного разу. Будь ласка, перейдіть на сторінку \"Транзакції користувача\" щоб побачити зміни в балансі акаунта.</p>"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1479,7 +1479,7 @@ msgstr "Сервери Steam в даний момент недоступні."
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
 msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
-msgstr "Здається, ви переглядаєте цю веб-сторінку за допомогою браузера Steam In-Game. На жаль, деякі функції цього веб-сайту не дуже добре працюють у цьому середовищі. Якщо у вас є проблеми з використанням цієї функції, будь ласка, подумайте про використання звичайного веб-браузера поза Steam."
+msgstr "Схоже, ви переглядаєте цю веб-сторінку за допомогою браузера Steam In-Game. На жаль, деякі функції цього веб-сайту не дуже добре працюють у цьому середовищі. Якщо у вас є проблеми з використанням цієї функції, будь ласка, подумайте про використання звичайного веб-браузера поза Steam."
 
 #. i18n: keyword: E_OPENID_INVALID_MODE
 msgid "The previous website sent us invalid data. The OpenID “mode” parameter is invalid. Please start the login flow again."
@@ -1571,7 +1571,7 @@ msgstr "Токен для входу клієнта був створений д
 
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_PURPOSE
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
-msgstr "Веб-сторінка підтримує лише токени входу клієнта. Токен, який ви надали, здається, дійсний, але він був створений для зовсім іншого."
+msgstr "Веб-сторінка підтримує лише токени входу клієнта. Токен, який ви надали, схоже, дійсний, але він був створений для зовсім іншого."
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
@@ -1635,15 +1635,15 @@ msgstr "Назва платформи"
 
 #. i18n: keyword: FilterBy
 msgid "Filter by"
-msgstr ""
+msgstr "Фільтрувати за:"
 
 #. i18n: keyword: AllTransactions
 msgid "All Transactions"
-msgstr ""
+msgstr "Усі транзакції"
 
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
-msgstr ""
+msgstr "Транзакцій немає."
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -1719,7 +1719,7 @@ msgstr "Предмет втрачено при обміні"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
-msgstr ""
+msgstr "Отримано через обмін"
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
@@ -1731,15 +1731,15 @@ msgstr "Предмет за бали"
 
 #. i18n: keyword: TXN_TWITCH_ITEM_DROP
 msgid "Twitch Item Drop"
-msgstr ""
+msgstr "Twitch Drop"
 
 #. i18n: keyword: TXN_DAILY_GIFT_ITEM
 msgid "Daily Gift Item"
-msgstr ""
+msgstr "Щоденний подарунок"
 
 #. i18n: keyword: TXN_WEEKLY_GIFT_ITEM
 msgid "Weekly Gift Item"
-msgstr ""
+msgstr "Щотижневий подарунок"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
@@ -1767,36 +1767,36 @@ msgstr "Можна обміняти"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr ""
+msgstr "Недостатньо гайок. Відвідайте <a href='/account/transaction'>сторінку транзакцій</a>, щоб переконатися, що у вас достатньо гайок для продовження операції."
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
-msgstr ""
+msgstr "Недостатньо котушок. Відвідайте <a href='/account/transaction'>сторінку транзакцій</a>, щоб переконатися, що у вас достатньо котушок для продовження операції."
 
 #. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
 msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
-msgstr ""
+msgstr "Недостатньо балів. Відвідайте <a href='/account/transaction'>сторінку транзакцій</a>, щоб переконатися, що у вас достатньо балів для продовження операції."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_TYPE
 msgid "The file you selected is not allowed. Please select either a JPEG, GIF or PNG file."
-msgstr ""
+msgstr "Вибраний файл не допускається. Виберіть файл у форматі JPEG, GIF або PNG."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_SIZE
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
-msgstr ""
+msgstr "Вибраний файл завеликий. Будь ласка, зменште його розмір, щоб продовжити завантаження."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
-msgstr ""
+msgstr "На жаль, ви не можете взяти участь у Хелловінському заході, якщо ви не згодні з правилами заходу."
 
 #. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
-msgstr ""
+msgstr "Адміністратор схвалив одну з ваших заявок. Ви отримаєте винагороду зовсім скоро. Якщо через пару годин ви нічого не отримали, відвідайте <a href='/account/transaction'>сторінку транзакцій</a> та за потреби зв’яжіться зі службою підтримки."
 
 #. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
 msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
-msgstr ""
+msgstr "Дякуємо за заявку. На жаль, ви, здається, досягли ліміту заявок для цього заходу. Будь ласка, зачекайте, поки інші заявки будуть схвалені або відхилені, перш ніж намагатись надіслати іншу."
 
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
-msgstr ""
+msgstr "Дякуємо за подання заявки та повідомлення. На жаль, нам потрібно застосувати обмеження у вісімдесят (80) символів. Будь ласка, спробуйте зробити коротше повідомлення."
