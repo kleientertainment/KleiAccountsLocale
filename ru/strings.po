@@ -553,7 +553,6 @@ msgstr "Временная ошибка, пожалуйста, повторит�
 msgid "Unknown Status"
 msgstr "Статус незвестен"
 
-
 #. i18n: keyword: DeleteAccount
 msgid "Delete Account"
 msgstr "Удалить аккаунт"

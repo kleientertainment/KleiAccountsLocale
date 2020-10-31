@@ -999,10 +999,6 @@ msgstr "<p>Congratulations!</p><p>You have found a valid reward link in the wild
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
-msgstr "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
-
-#. i18n: keyword: E_TRANSACTION_REPLAY
-msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
 msgstr "Whoa! Anscheinend haben Sie diesen Link bereits verwendet. Sie können diese Belohnung nur einmal einlösen."
 
 #. i18n: keyword: GiftRedemptionTitle

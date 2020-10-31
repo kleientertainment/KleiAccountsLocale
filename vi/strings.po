@@ -16,7 +16,6 @@ msgstr ""
 "X-Crowdin-Language: vi\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
-"X-Generator: Poedit 2.3.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
