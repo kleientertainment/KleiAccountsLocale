@@ -305,10 +305,6 @@ msgstr "Dừng đăng ký theo dõi từ E-mail"
 msgid "Sign up for a Beta"
 msgstr "Đăng ký chương trình thử nghiệm"
 
-#. i18n: keyword: GetDRMFreeGames
-msgid "Get DRM-free Games"
-msgstr "Lấy trò chơi bản quyền miễn phí"
-
 #. i18n: keyword: DownloadPersonalData
 msgid "Download Personal Data"
 msgstr "Tải xuống dữ liệu cá nhân"
@@ -501,6 +497,14 @@ msgstr "Chúng tôi không thể hợp nhất tài khoản của bạn vì một
 msgid "There is nothing to merge for this account."
 msgstr "Không có gì để hợp nhất cho tài khoản này."
 
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
+msgid "You already merged your Epic Games account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
+msgid "You already merged your Steam account."
+msgstr ""
+
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
 msgstr "Sử dụng trang này để có quyền truy cập vào các trò chơi bạn đã sở hữu trên một nền tảng chơi trò chơi khác."
@@ -645,6 +649,14 @@ msgstr "Có mặt trên các nền tảng sau:"
 msgid "Go to Website"
 msgstr "Tới Website"
 
+#. i18n: keyword: GetDRMFreeGames
+msgid "Get DRM-free Games"
+msgstr "Lấy trò chơi bản quyền miễn phí"
+
+#. i18n: keyword: DRMFreeGameKey
+msgid "DRM Game Key"
+msgstr ""
+
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
 msgstr "Tải xuống bản quyền miễn phí"
@@ -653,12 +665,16 @@ msgstr "Tải xuống bản quyền miễn phí"
 msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
 msgstr "Bạn có thể tải xuống phiên bản bản quyền miễn phí của trò chơi này. Thông tin thêm có thể tìm thấy <a href=\"/\">tại đây</a>."
 
+#. i18n: keyword: E_DRM_KEYS_NO_GAMES
+msgid "Error: You do not seem to own any elegible games."
+msgstr ""
+
 #. i18n: keyword: DontStarveTogetherServers
-msgid "Don’t Starve Together Game Servers"
+msgid "Game Servers"
 msgstr "Máy chủ trò  Don’t Starve Together"
 
 #. i18n: keyword: DontStarveTogetherInventory
-msgid "Don’t Starve Together Items Inventory"
+msgid "Items Inventory"
 msgstr ""
 
 #. i18n: keyword: ItemsInventorySearchTips
@@ -712,6 +728,14 @@ msgstr "Đang thêm máy chủ…"
 #. i18n: keyword: GameServerWasGenerated
 msgid "The server was successfully created."
 msgstr "Máy chủ đã được tạo thành công."
+
+#. i18n: keyword: DeleteGameServer
+msgid "Delete Game Server"
+msgstr ""
+
+#. i18n: keyword: DeleteGameServerConfirmation
+msgid "Are you sure you want to delete this server:"
+msgstr ""
 
 #. i18n: keyword: RemoveServer
 msgid "Delete"
@@ -783,6 +807,18 @@ msgstr "Mật khẩu cụm"
 
 #. i18n: keyword: ItemsInventoryTitle
 msgid "Your Items Inventory"
+msgstr ""
+
+#. i18n: keyword: ItemsDialogRarity
+msgid "Rarity:"
+msgstr ""
+
+#. i18n: keyword: ItemsDialogRedeemed
+msgid "Redeemed:"
+msgstr ""
+
+#. i18n: keyword: ItemsFilterRarity
+msgid "Rarity"
 msgstr ""
 
 #. i18n: keyword: DownloadSettings
@@ -925,21 +961,9 @@ msgstr "Theo dõi chúng tôi trên Instagram"
 msgid "Subscribe to our newsletter"
 msgstr "Đăng ký nhận tin tức từ chúng tôi"
 
-#. i18n: keyword: RewardMessageYoutube
-msgid "<a href='https://www.youtube.com/user/kleient' target='_blank'>Follow us on YouTube</a> to claim this reward."
-msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi trên YouTube</a> để nhận phần thưởng này."
-
-#. i18n: keyword: RewardMessageTwitter
-msgid "<a href='https://twitter.com/klei' target='_blank'>Follow us on Twitter</a> to claim this reward."
-msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi trên Twitter</a> để nhận phần thưởng này."
-
 #. i18n: keyword: RewardMessageFacebook
 msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
 msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi trên Facebook</a> để nhận phần thưởng này."
-
-#. i18n: keyword: RewardMessageWechat
-msgid "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Follow us on WeChat</a> to claim this reward."
-msgstr "<a href='https://www.youtube.com/user/kleient' target='_blank'>Theo dõi chúng tôi trên WeChat</a> để nhận phần thưởng này."
 
 #. i18n: keyword: RewardMessageInstagram
 msgid "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Follow us on Instagram</a> to claim this reward."
@@ -957,25 +981,25 @@ msgstr "Giá"
 msgid "Redeem"
 msgstr "Nhận lại"
 
+#. i18n: keyword: RewardLinkResultName
+msgid "Reward Name:"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
 msgstr "Liên kết tới phần thường"
 
-#. i18n: keyword: RewardLinkResultDescription
-msgid "Congratulations!</p><p>You have found a valid reward link in the wild."
-msgstr "Xin chúc mừng!</p><p>Bạn đã tìm thấy một liên kết tới phần thường hợp lệ từ bên ngoài."
+#. i18n: keyword: RewardLinkResultDescriptionPoints
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr ""
 
-#. i18n: keyword: RewardLinkResultMessagePoints
-msgid "You have claimed {{.Amount}} {{.Name}}."
-msgstr "Bạn đã lấy được {{.Amount}} {{.Name}}."
-
-#. i18n: keyword: RewardLinkResultMessageSpool
-msgid "You have claimed {{.Amount}} {{.Name}}. You will now find it in game next time you play."
-msgstr "Bạn đã lấy được {{.Amount}} {{.Name}}. Bạn sẽ tìm thấy nó trong trò chơi vào lần chơi tiếp theo."
+#. i18n: keyword: RewardLinkResultDescriptionSpools
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr ""
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
-msgid "Woah! It looks like you already clicked this link before. You can only redeem this reward once."
-msgstr "Woah! Có vẻ như bạn đã click vào đường dẫn này trước đây. Bạn chỉ có thể nhận phần thưởng này một lần duy nhất."
+msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
+msgstr "Whoa! Có vẻ như bạn đã click vào đường dẫn này trước đây. Bạn chỉ có thể nhận phần thưởng này một lần duy nhất."
 
 #. i18n: keyword: GiftRedemptionTitle
 msgid "Gift Redemption"
@@ -1025,14 +1049,6 @@ msgstr ""
 msgid "Instagram"
 msgstr ""
 
-#. i18n: keyword: Twitter
-msgid "Twitter"
-msgstr ""
-
-#. i18n: keyword: YouTube
-msgid "YouTube"
-msgstr ""
-
 #. i18n: keyword: Twitch
 msgid "Twitch"
 msgstr ""
@@ -1043,10 +1059,6 @@ msgstr ""
 
 #. i18n: keyword: Bilibili
 msgid "Bilibili"
-msgstr ""
-
-#. i18n: keyword: Wechat
-msgid "WeChat"
 msgstr ""
 
 #. i18n: keyword: SupportTitle
@@ -1118,8 +1130,8 @@ msgid "Error - Date of Birth: Date of Birth Fields need to be entered in the cor
 msgstr "Lỗi - Ngày sinh: Trường ngày sinh phải được điền theo đúng định dạng (DD/MM/YYYY)"
 
 #. i18n: keyword: ErrorTooYoung
-msgid "Woah There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
-msgstr "Woah, này anh bạn láu cá. Bạn cần ít nhất 13 tuổi hoặc hơn để có thể đăng ký một tài khoản."
+msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
+msgstr "Whoa, này anh bạn láu cá. Bạn cần ít nhất 13 tuổi hoặc hơn để có thể đăng ký một tài khoản."
 
 #. i18n: keyword: EmailInvalid
 msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
@@ -1272,14 +1284,6 @@ msgstr "Trạng thái ủy quyền không hợp lệ, hãy thử lại."
 #. i18n: keyword: E_INVALID_OAUTH_TOKEN
 msgid "The OAuth access token is missing, try again."
 msgstr "Thiếu mã truy cập OAuth, hãy thử lại."
-
-#. i18n: keyword: E_WECHAT_OAUTH_CODE_BEEN_USED
-msgid "WeChat rejected the request to link your account because the OAuth code has already been used."
-msgstr "WeChat từ chối yêu cầu liên kết tài khoản của bạn vì mã OAuth đã được sử dụng."
-
-#. i18n: keyword: E_WECHAT_OAUTH_INVALID_CODE
-msgid "WeChat rejected the request to link your account because the OAuth code is invalid."
-msgstr "WeChat từ chối yêu cầu liên kết tài khoản của bạn vì mã OAuth không hợp lệ."
 
 #. i18n: keyword: E_KU_NOT_FOUND
 msgid "It was not possible to get a copy of the information associated to your user account."
@@ -1573,53 +1577,13 @@ msgstr "Trang web chỉ hỗ trợ token đăng nhập của máy khách. Token 
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei không được ủy quyền để liên kết tài khoản của bạn. Để tiếp tục quá trình. bạn phải cho phép Klei truy cập vào tài khoản của bạn khi được hỏi."
 
-#. i18n: keyword: E_GOOGLE_OAUTH_NO_REFRESH_TOKEN
-msgid "Google won't let us link your account. This usually happens if we somehow lost the link to your Google account on our end, without also having unlinked your account on Google's end. Please open <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>your Google Account permissions page</a>, remove access for Klei Accounts, and try to link your accounts again."
-msgstr "Google đã không để chúng tôi liên kết tài khoản của bạn. Điều này thường xảy ra nếu bằng cách nào đó chúng tôi đã làm mất liên kết đến tài khoản Google của bạn và đồng thời hủy liên kết tài khoản của bạn ở phía Google. Vui lòng mở <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>trang cấp phép Tài khoản Google của bạn</a>, gỡ bỏ quyền truy cập vào tài khoản Klei và thử liên kết tài khoản của bạn một lần nữa."
-
 #. i18n: keyword: E_TWITTER_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitter. If you believe the connection still exists, please <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>visit your Twitter profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "Tài khoản Klei của bạn đã được ngắt kết nối khỏi Twitter. Nếu bạn tin rằng kết nối vẫn tồn tại, xin vui lòng <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>truy cập hồ sơ Twitter của bạn</a> và ngắt kết nối “Tài khoản Klei” thủ công."
 
-#. i18n: keyword: E_TWITTER_INVALID_CREDENTIALS
-msgid "The temporary credentials used to communicate with Twitter on your behalf have expired. Try again later."
-msgstr "Thông tin tạm thời được sử dụng để liên lạc với Twitter thay cho bạn đã hết hạn. Thử lại sau."
-
-#. i18n: keyword: E_TWITTER_SERVICE_UNAVAILABLE
-msgid "The Twitter servers are up, but overloaded with requests. Try again later."
-msgstr "Máy chủ Twitter trực tuyến, nhưng đang bị quá tải các yêu cầu. Vui lòng thử lại sau."
-
 #. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "Tài khoản Klei của bạn đã được ngắt kết nối khỏi Google. Nếu bạn tin rằng kết nối vẫn tồn tại, xin vui lòng <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>truy cập hồ sơ Google của bạn</a> và ngắt kết nối “Tài khoản Klei” thủ công."
-
-#. i18n: keyword: E_GOOGLE_BROKEN_OAUTH_SCOPES
-msgid "Your Google (YouTube) account does not have the correct permissions to complete this operation. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
-msgstr "Tài khoản Google(YouTube) không được cấp quyền chính xác để thực hiện hành động này. Vui lòng <a href='/account/info'>hủy liên kết với tài khoản Google của bạn ở đây</a>, sau đó tới trang nhận thưởng và liên kết tài khoản của bạn lại một lần nữa. Nếu có vấn đề vẫn xuất hiện, vui lòng <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>gỡ bỏ quyền truy cập ở đây</a>."
-
-#. i18n: keyword: E_GOOGLE_YOUTUBE_SIGNUP_REQUIRED
-msgid "YouTube signup required. This error indicates that the user has an unlinked Google Account, which means that the user has a Google Account but does not have a YouTube channel. Klei will be unable to link your YouTube account until Google removes the restrictions added to your account. <a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "Đăng ký YouTube là bắt buộc. Lỗi này cho thấy rằng người dùng có tài khoản Google chưa được liên kết, có nghĩa là người dùng có tài khoản Google nhưng không có kênh YouTube. Klei sẽ không thể liên kết tài khoản YouTube của bạn cho đến khi Google gỡ bỏ các hạn chế được thêm vào tài khoản của bạn. <a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Đọc thêm về điều này tại đây</a>."
-
-#. i18n: keyword: E_GOOGLE_DAILY_LIMIT_EXCEEDED
-msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "Chúng tôi không thể kiểm tra đăng ký YouTube của bạn ngay lúc này. Vui lòng kiểm tra lại sau nửa đêm theo múi giờ Thái Bình Dương (PT). <a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'>Đọc thêm về điều này tại đây</a>."
-
-#. i18n: keyword: E_GOOGLE_QUOTA_EXCEEDED
-msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "Chúng tôi không thể kiểm tra đăng ký YouTube của bạn ngay lúc này. Vui lòng kiểm tra lại sau nửa đêm theo múi giờ Thái Bình Dương (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Đọc thêm về điều này tại đây</a>."
-
-#. i18n: keyword: E_GOOGLE_IS_UNAVAILABLE
-msgid "Google is unavailable right now. To process your request we need to pass some information to Google, but it seems their service is offline right now. Please wait a few minutes before trying again."
-msgstr "Google không khả dụng ngay lúc này. Để thực hiện yêu cầu của bạn chúng tôi cần chuyển một số thông tin cho Google, nhưng có vẻ như dịch vụ của họ hiện tại đang ngoại tuyến. Vui lòng chờ một vài phút trước khi thử lại."
-
-#. i18n: keyword: E_GOOGLE_INVALID_GRANT
-msgid "Your Google (YouTube) access token has been expired or revoked. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again."
-msgstr "Token Google(YouTube) của bạn đã hết hạn hoặc bị thu hồi. Vui lòng <a href='/account/info'>hủy liên kết tài khoản Google của bạn ở đây</a>, sau đó tới trang nhận thưởng và liên kết tài khoản của bạn lại một lần nữa."
-
-#. i18n: keyword: E_GOOGLE_AUTH_ERROR
-msgid "The authorization credentials provided for the request are invalid. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
-msgstr "Thông tin ủy quyền cho hành động này không hợp lệ, vui lòng <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>xóa quyền truy cập từ đây</a>."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
@@ -1668,6 +1632,18 @@ msgstr "Tất cả các giao dịch (có liên quan) liên quan đến tài kho�
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
 msgstr "Tên nền tảng"
+
+#. i18n: keyword: FilterBy
+msgid "Filter by"
+msgstr ""
+
+#. i18n: keyword: AllTransactions
+msgid "All Transactions"
+msgstr ""
+
+#. i18n: keyword: ThereAreNoTransactions
+msgid "There are no transactions."
+msgstr ""
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -1741,6 +1717,10 @@ msgstr ""
 msgid "Item Trade Lose"
 msgstr "Vật phẩm giao dịch mất"
 
+#. i18n: keyword: TXN_ITEM_TRADE_GAIN
+msgid "Item Trade Gain"
+msgstr ""
+
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
 msgstr "Vật phẩm cho Cuộn chỉ"
@@ -1748,6 +1728,18 @@ msgstr "Vật phẩm cho Cuộn chỉ"
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
 msgstr "Vật phẩm cho Điểm"
+
+#. i18n: keyword: TXN_TWITCH_ITEM_DROP
+msgid "Twitch Item Drop"
+msgstr ""
+
+#. i18n: keyword: TXN_DAILY_GIFT_ITEM
+msgid "Daily Gift Item"
+msgstr ""
+
+#. i18n: keyword: TXN_WEEKLY_GIFT_ITEM
+msgid "Weekly Gift Item"
+msgstr ""
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
@@ -1773,3 +1765,38 @@ msgstr ""
 msgid "Tradeable"
 msgstr ""
 
+#. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
+msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
+msgstr ""
+
+#. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
+msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
+msgstr ""
+
+#. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
+msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_SELECTED_FILE_TYPE
+msgid "The file you selected is not allowed. Please select either a JPEG, GIF or PNG file."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_SELECTED_FILE_SIZE
+msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
+msgstr ""
+
+#. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
+msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
+msgstr ""
+
+#. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
+msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
+msgstr ""
+
+#. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
+msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
+msgstr ""
+
+#. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
+msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
+msgstr ""
