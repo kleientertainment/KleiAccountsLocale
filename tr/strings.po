@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-07-24 03:24\n"
+"PO-Revision-Date: 2020-07-24 15:34\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
-"Language-Team: Turkish\n"
+"Language-Team: Turkish\Mahmut Sözen"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgstr "Yükleniyor…"
 
 #. i18n: keyword: Search
 msgid "Search"
-msgstr ""
+msgstr "Arama"
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -239,7 +239,7 @@ msgstr "Klei Hesabına Giriş Yap"
 
 #. i18n: keyword: LoginDescription
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
-msgstr "Tüm Klei oyunlarınızı görmek, arkadaşlarınızla oyun öğeleri alışverişi yapmak, betalara kaydolmak ve özel içeriğe erişmek için Klei hesabınıza giriş yapın.</p><p>Giriş yapmak için bir platform seçin:"
+msgstr "Tüm Klei oyunlarınızı görmek, arkadaşlarınızla oyun eşyalarının alışverişini yapmak, betalara kaydolmak ve özel içeriğe erişmek için Klei hesabınıza giriş yapın.</p><p>Giriş yapmak için bir platform seçin:"
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -305,10 +305,6 @@ msgstr "E-posta listesinden çık"
 msgid "Sign up for a Beta"
 msgstr "Beta için kayıt ol"
 
-#. i18n: keyword: GetDRMFreeGames
-msgid "Get DRM-free Games"
-msgstr "DRM'siz Oyunlar Alın"
-
 #. i18n: keyword: DownloadPersonalData
 msgid "Download Personal Data"
 msgstr "Kişisel Verileri İndirin"
@@ -367,7 +363,7 @@ msgstr "Steam Envanterini Gizle"
 
 #. i18n: keyword: HideSteamInventoryDescription
 msgid "Checking the boxes below will hide the items associated to your Klei games from Steam. You still own your items and will be able to see them in the games. If you want to make the inventory visible again, simply uncheck the boxes and save your changes."
-msgstr "Aşağıdaki kutuları işaretlediğinizde Klei oyunlarınızla ilişkili öğeler Steam'den gizlenir. Öğeleriniz hala sizde ve bunları oyunlarda görebileceksiniz. Envanteri tekrar görünür hale getirmek istiyorsanız, kutuların işaretlerini kaldırın ve değişikliklerinizi kaydedin."
+msgstr "Aşağıdaki kutuları işaretlediğinizde Klei oyunlarınızla ilişkili eşyalar Steam Envanterinizden gizlenir. Eşyalarınız hala sizde ve bunları oyunlarda görebileceksiniz. Envanteri tekrar görünür hale getirmek istiyorsanız, kutuların işaretlerini kaldırın ve değişikliklerinizi kaydedin."
 
 #. i18n: keyword: InventoryHasBeenHidden
 msgid "Inventory has been hidden"
@@ -479,11 +475,11 @@ msgstr "Bazı veriler eksik olduğu için hesaplarınızı şu anda birleştirme
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
-msgstr "Lütfen * Klei * hesaplarınızı aynı e-posta adresini kullanacak şekilde güncelleyin ve işlemi tekrar başlatın."
+msgstr "Lütfen *Klei* hesaplarınızı aynı e-posta adresini kullanacak şekilde güncelleyin ve işlemi tekrar başlatın."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the e-mail address in both accounts and start the process again."
-msgstr "Lütfen her iki hesaptaki e-posta adresini doğrulayın ve işlemi tekrar başlatın."
+msgstr "Lütfen her iki hesaptaki e-posta adresini doğrulayın/onaylayın ve işlemi tekrar başlatın."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
@@ -500,6 +496,14 @@ msgstr "Hesaplarınızdan biri silinmek üzere işaretlendiğinden hesaplarını
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_NOTHING_TO_MERGE
 msgid "There is nothing to merge for this account."
 msgstr "Bu hesap için birleştirilecek bir şey yok."
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
+msgid "You already merged your Epic Games account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
+msgid "You already merged your Steam account."
+msgstr ""
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -579,11 +583,11 @@ msgstr "Klei oyunlarındaki ilerlememi sil"
 
 #. i18n: keyword: DeleteAccountOptionsInventory
 msgid "Delete all the items in my game inventory"
-msgstr "Oyun envanterindeki tüm öğeleri sil"
+msgstr "Oyun envanterindeki tüm eşyaları sil"
 
 #. i18n: keyword: DeleteAccountOptionsPurchases
 msgid "Delete items from my Steam inventory, including purchased items"
-msgstr "Satın alınan ürünler de dahil olmak üzere Steam envanterimdeki tüm öğeleri sil"
+msgstr "Satın alınan ürünler de dahil olmak üzere Steam envanterimdeki tüm eşyaları sil"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayDST
 msgid "I do not want to play Don’t Starve Together anymore"
@@ -645,6 +649,14 @@ msgstr "Tüm bu platformlarda kullanılabilir:"
 msgid "Go to Website"
 msgstr "Web Sitesine Git"
 
+#. i18n: keyword: GetDRMFreeGames
+msgid "Get DRM-free Games"
+msgstr "DRM'siz Oyunlar Alın"
+
+#. i18n: keyword: DRMFreeGameKey
+msgid "DRM Game Key"
+msgstr ""
+
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
 msgstr "DRM-Free İndirme"
@@ -653,21 +665,25 @@ msgstr "DRM-Free İndirme"
 msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
 msgstr "Bu oyunu DRM-free olarak indirebilirsiniz. Daha fazla bilgi için <a href=\"/\">buraya</a>."
 
+#. i18n: keyword: E_DRM_KEYS_NO_GAMES
+msgid "Error: You do not seem to own any elegible games."
+msgstr ""
+
 #. i18n: keyword: DontStarveTogetherServers
-msgid "Don’t Starve Together Game Servers"
+msgid "Game Servers"
 msgstr "Don’t Starve Together Oyun Sunucusu"
 
 #. i18n: keyword: DontStarveTogetherInventory
-msgid "Don’t Starve Together Items Inventory"
-msgstr ""
+msgid "Items Inventory"
+msgstr "Eşya Envanteri"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr ""
+msgstr "<b>Arama İpuçları:</b> Oyun envanterinizdeki bir eşyayı aramak için bir veya daha fazla kelime yazın. <b>Wilson Kırmızı Şapka</b> Adlı bir eşyayı bulmak istiyorsanız <b>Wilson</b> veya <b>Şapka</b> ve hatta <b>Wilson Şapka</b>'da yazabilirsiniz."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr ""
+msgstr "Seçtiğiniz oyundan eşya yok.Lütfen Don't Starve Together seçtiğinizden emin olun"
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
@@ -712,6 +728,14 @@ msgstr "Sunucu Ekleniyor…"
 #. i18n: keyword: GameServerWasGenerated
 msgid "The server was successfully created."
 msgstr "Sunucu başarıyla oluşturuldu."
+
+#. i18n: keyword: DeleteGameServer
+msgid "Delete Game Server"
+msgstr ""
+
+#. i18n: keyword: DeleteGameServerConfirmation
+msgid "Are you sure you want to delete this server:"
+msgstr ""
 
 #. i18n: keyword: RemoveServer
 msgid "Delete"
@@ -783,6 +807,18 @@ msgstr "Küme Parolası"
 
 #. i18n: keyword: ItemsInventoryTitle
 msgid "Your Items Inventory"
+msgstr "Eşya Envanteriniz"
+
+#. i18n: keyword: ItemsDialogRarity
+msgid "Rarity:"
+msgstr ""
+
+#. i18n: keyword: ItemsDialogRedeemed
+msgid "Redeemed:"
+msgstr ""
+
+#. i18n: keyword: ItemsFilterRarity
+msgid "Rarity"
 msgstr ""
 
 #. i18n: keyword: DownloadSettings
@@ -925,21 +961,9 @@ msgstr "Bizi Instagram'da takip edin"
 msgid "Subscribe to our newsletter"
 msgstr "Haber bültenimize abone olun"
 
-#. i18n: keyword: RewardMessageYoutube
-msgid "<a href='https://www.youtube.com/user/kleient' target='_blank'>Follow us on YouTube</a> to claim this reward."
-msgstr "Bu ödülü almak için <a href='https://www.youtube.com/user/kleient' target='_blank'>Bizi YouTube'da takip edin</a>."
-
-#. i18n: keyword: RewardMessageTwitter
-msgid "<a href='https://twitter.com/klei' target='_blank'>Follow us on Twitter</a> to claim this reward."
-msgstr "Bu ödülü almak için <a href='https://twitter.com/klei' target='_blank'>Bizi Twitter'da takip edin</a>."
-
 #. i18n: keyword: RewardMessageFacebook
 msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
 msgstr "Bu ödülü almak için <a href='https://www.facebook.com/kleientertainment/' target='_blank'>Bizi Facebook'da takip edin</a>."
-
-#. i18n: keyword: RewardMessageWechat
-msgid "<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Follow us on WeChat</a> to claim this reward."
-msgstr "Bu ödülü almak için<a href='/assets/images/klei-wechat-qr.png' target='_blank'>Bizi WeChat'te takip edin</a>."
 
 #. i18n: keyword: RewardMessageInstagram
 msgid "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Follow us on Instagram</a> to claim this reward."
@@ -957,24 +981,24 @@ msgstr "Fiyat"
 msgid "Redeem"
 msgstr "Öde"
 
+#. i18n: keyword: RewardLinkResultName
+msgid "Reward Name:"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
 msgstr "Ödül Bağlantısı"
 
-#. i18n: keyword: RewardLinkResultDescription
-msgid "Congratulations!</p><p>You have found a valid reward link in the wild."
-msgstr "Tebrikler! </p> <p> Vahşi doğada geçerli bir ödül bağlantısı buldunuz."
+#. i18n: keyword: RewardLinkResultDescriptionPoints
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr ""
 
-#. i18n: keyword: RewardLinkResultMessagePoints
-msgid "You have claimed {{.Amount}} {{.Name}}."
-msgstr "{{.Amount}} {{.Name}} Talep ettin."
-
-#. i18n: keyword: RewardLinkResultMessageSpool
-msgid "You have claimed {{.Amount}} {{.Name}}. You will now find it in game next time you play."
-msgstr "{{.Amount}} {{.Name}} Talep ettin.Bir sonraki oynayışınızda oyununuzda bulacaksınız."
+#. i18n: keyword: RewardLinkResultDescriptionSpools
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr ""
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
-msgid "Woah! It looks like you already clicked this link before. You can only redeem this reward once."
+msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
 msgstr "Vay! Bu bağlantıyı daha önce tıklamışsınız gibi görünüyor. Bu ödülü yalnızca bir kez kullanabilirsiniz."
 
 #. i18n: keyword: GiftRedemptionTitle
@@ -1025,14 +1049,6 @@ msgstr "Facebook"
 msgid "Instagram"
 msgstr "Instagram"
 
-#. i18n: keyword: Twitter
-msgid "Twitter"
-msgstr "Twitter"
-
-#. i18n: keyword: YouTube
-msgid "YouTube"
-msgstr "YouTube"
-
 #. i18n: keyword: Twitch
 msgid "Twitch"
 msgstr "Twitch"
@@ -1044,10 +1060,6 @@ msgstr "Douyu"
 #. i18n: keyword: Bilibili
 msgid "Bilibili"
 msgstr "Bilibili"
-
-#. i18n: keyword: Wechat
-msgid "WeChat"
-msgstr "WeChat"
 
 #. i18n: keyword: SupportTitle
 msgid "Submit a Support Request"
@@ -1118,7 +1130,7 @@ msgid "Error - Date of Birth: Date of Birth Fields need to be entered in the cor
 msgstr "Hata - Doğum Tarihi: Doğum Tarihi Alanların doğru biçimde girilmesi gerekir (GG / AA / YYYY)"
 
 #. i18n: keyword: ErrorTooYoung
-msgid "Woah There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
+msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
 msgstr "Wow Dur Bakalım Ufaklık. Bir hesaba kaydolmak için 13 yaşında veya daha büyük olmanız gerekir."
 
 #. i18n: keyword: EmailInvalid
@@ -1272,14 +1284,6 @@ msgstr "Yetkilendirme durumu geçersiz, tekrar deneyin."
 #. i18n: keyword: E_INVALID_OAUTH_TOKEN
 msgid "The OAuth access token is missing, try again."
 msgstr "OAuth erişim jetonu eksik, tekrar deneyin."
-
-#. i18n: keyword: E_WECHAT_OAUTH_CODE_BEEN_USED
-msgid "WeChat rejected the request to link your account because the OAuth code has already been used."
-msgstr "WeChat, OAuth kodu zaten kullanıldığı için hesabınıza bağlama isteğini reddetti."
-
-#. i18n: keyword: E_WECHAT_OAUTH_INVALID_CODE
-msgid "WeChat rejected the request to link your account because the OAuth code is invalid."
-msgstr "WeChat, OAuth kodu geçersiz olduğu için hesabınızı bağlama isteğini reddetti."
 
 #. i18n: keyword: E_KU_NOT_FOUND
 msgid "It was not possible to get a copy of the information associated to your user account."
@@ -1573,53 +1577,13 @@ msgstr "Web sayfası yalnızca istemci oturum açma jetonlarını destekler. Sa�
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei'ye hesabınızı bağlama izni verilmedi. Devam etmek için, istendiğinde Klei'nin hesabınıza erişmesine izin vermelisiniz."
 
-#. i18n: keyword: E_GOOGLE_OAUTH_NO_REFRESH_TOKEN
-msgid "Google won't let us link your account. This usually happens if we somehow lost the link to your Google account on our end, without also having unlinked your account on Google's end. Please open <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>your Google Account permissions page</a>, remove access for Klei Accounts, and try to link your accounts again."
-msgstr "Google, hesabınızı bağlamamıza izin vermez. Bu genellikle, hesabınızın bağlantısını Google'ın ucundan kaldırmadan, bir şekilde sonunda Google hesabınıza olan bağlantıyı kaybettiğimizde olur. Lütfen Klei Hesaplarına erişimi kaldırmak için <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>Google Hesabı izinleri sayfanızı</a> açın ve hesaplarınızı tekrar bağlamayı deneyin."
-
 #. i18n: keyword: E_TWITTER_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitter. If you believe the connection still exists, please <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>visit your Twitter profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "Klei hesabınızın zaten Twitter ile bağlantısı kesildi. Bağlantının hala mevcut olduğunu düşünüyorsanız, lütfen <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>Twitter profilinizi ziyaret edin</a> ve \"Klei Accounts\" uygulamasının bağlantısını manuel olarak kesin."
 
-#. i18n: keyword: E_TWITTER_INVALID_CREDENTIALS
-msgid "The temporary credentials used to communicate with Twitter on your behalf have expired. Try again later."
-msgstr "Twitter ile sizin adınıza iletişim kurmak için kullanılan geçici kimlik bilgilerinin süresi doldu. Daha sonra tekrar deneyin."
-
-#. i18n: keyword: E_TWITTER_SERVICE_UNAVAILABLE
-msgid "The Twitter servers are up, but overloaded with requests. Try again later."
-msgstr "Twitter sunucuları çalışıyor, ancak isteklerle aşırı yüklenmiş. Daha sonra tekrar deneyin."
-
 #. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "Klei hesabınızın zaten Google ile bağlantısı kesildi. Bağlantının hala var olduğunu düşünüyorsanız, lütfen <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>Google profilinizi ziyaret edin</a> ve \"Klei Hesapları\" uygulamasının bağlantısını manuel olarak kesin."
-
-#. i18n: keyword: E_GOOGLE_BROKEN_OAUTH_SCOPES
-msgid "Your Google (YouTube) account does not have the correct permissions to complete this operation. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
-msgstr "Google (YouTube) hesabınızın bu işlemi tamamlamak için doğru izinleri yok. Lütfen <a href='/account/info'> Google hesabınızın bağlantısını buradan kaldırın</a>, ödüller sayfasını ziyaret edin ve hesabınızı tekrar bağlayın. Sorun devam ederse, lütfen <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>buradan erişimi kaldırın </a>."
-
-#. i18n: keyword: E_GOOGLE_YOUTUBE_SIGNUP_REQUIRED
-msgid "YouTube signup required. This error indicates that the user has an unlinked Google Account, which means that the user has a Google Account but does not have a YouTube channel. Klei will be unable to link your YouTube account until Google removes the restrictions added to your account. <a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "YouTube kaydı gerekiyor. Bu hata, kullanıcının bağlantısı kaldırılmış bir Google Hesabına sahip olduğunu gösterir. Bu, kullanıcının bir Google Hesabı olduğu, ancak bir YouTube kanalı olmadığı anlamına gelir. Klei, Google hesabınıza eklenen kısıtlamaları kaldırana kadar YouTube hesabınızı bağlayamayacak.<a href='https://developers.google.com/youtube/v3/docs/errors#youtube.api.RequestContextError-unauthorized-youtubeSignupRequired' target='_blank' rel='noopener noreferrer'>Bunun hakkında daha fazlasını burada okuyun</a>."
-
-#. i18n: keyword: E_GOOGLE_DAILY_LIMIT_EXCEEDED
-msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "Şu anda YouTube aboneliğinizi kontrol edemiyoruz. Lütfen Pasifik Saati (PT) gece yarısından sonra tekrar kontrol edin. <a href='https://developers.google.com/youtube/v3/docs/core_errors#error_dailyLimitExceeded' target='_blank' rel='noopener noreferrer'> Bununla ilgili daha fazla bilgiyi buradan okuyun </a>."
-
-#. i18n: keyword: E_GOOGLE_QUOTA_EXCEEDED
-msgid "We cannot check your YouTube subscription at the moment. Please check again after midnight Pacific Time (PT). <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'>Read more about this here</a>."
-msgstr "Şu anda YouTube aboneliğinizi kontrol edemiyoruz. Lütfen Pasifik Saati (PT) gece yarısından sonra tekrar kontrol edin. <a href='https://developers.google.com/youtube/v3/docs/errors#gdata.CoreErrorDomain-quotaExceeded-quotaExceeded' target='_blank' rel='noopener noreferrer'> Bununla ilgili daha fazla bilgiyi burada bulabilirsiniz </ a>."
-
-#. i18n: keyword: E_GOOGLE_IS_UNAVAILABLE
-msgid "Google is unavailable right now. To process your request we need to pass some information to Google, but it seems their service is offline right now. Please wait a few minutes before trying again."
-msgstr "Google şu anda kullanılamıyor. İsteğinizi işleme koymak için Google'a bazı bilgiler aktarmamız gerekiyor, ancak hizmetlerinin şu anda çevrimdışı olduğu anlaşılıyor. Lütfen tekrar denemeden önce birkaç dakika bekleyin."
-
-#. i18n: keyword: E_GOOGLE_INVALID_GRANT
-msgid "Your Google (YouTube) access token has been expired or revoked. Please <a href='/account/info'>unlink your Google account from here</a>, then visit the rewards page and link your account again."
-msgstr "Google (YouTube) erişim jetonunuzun süresi doldu veya iptal edildi. Lütfen <a href='/account/info'> Google hesabınızın bağlantısını buradan kaldırın</a>, ardından ödüller sayfasını ziyaret edin ve hesabınızı tekrar bağlayın."
-
-#. i18n: keyword: E_GOOGLE_AUTH_ERROR
-msgid "The authorization credentials provided for the request are invalid. If the problem persists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>remove access from here</a>."
-msgstr "İstek için sağlanan yetkilendirme kimlik bilgileri geçersiz. Sorun devam ederse, lütfen<a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>buradan erişimi kaldır</a>."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
@@ -1643,7 +1607,7 @@ msgstr "Ne yazık ki, Epic Games ile iletişim kurmak için kullandığımız je
 
 #. i18n: keyword: E_NOT_ENOUGH_CURRENCY
 msgid "You do not have enough points to claim this item."
-msgstr "Bu öğeyi sahiplenmek için yeterli puanınız yok."
+msgstr "Bu eşyayı sahiplenmek için yeterli puanınız yok."
 
 #. i18n: keyword: E_ALREADY_CLAIMED
 msgid "You already have claimed this reward."
@@ -1669,6 +1633,18 @@ msgstr "Hesabınızla ilişkili tüm (alakalı) işlemler aşağıda azalan sır
 msgid "Platform Name"
 msgstr "Platform Adı"
 
+#. i18n: keyword: FilterBy
+msgid "Filter by"
+msgstr ""
+
+#. i18n: keyword: AllTransactions
+msgid "All Transactions"
+msgstr ""
+
+#. i18n: keyword: ThereAreNoTransactions
+msgid "There are no transactions."
+msgstr ""
+
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
 msgstr "Mevcut Makara Bakiyesi"
@@ -1687,7 +1663,7 @@ msgstr "İşlem Desteklenmiyor"
 
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
-msgstr "Öğe Oluştur"
+msgstr "Eşya Oluştur"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
@@ -1711,15 +1687,15 @@ msgstr "Cıvatalar için Görevler"
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
-msgstr "Makara için Öğeler"
+msgstr "Makara için Eşyalar"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
-msgstr "Puanlar için Öğeler"
+msgstr "Puanlar için Eşyalar"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr "Cıvatalar için Öğeler"
+msgstr "Cıvatalar için Eşyalar"
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
@@ -1727,7 +1703,7 @@ msgstr "Geri Ödeme"
 
 #. i18n: keyword: TXN_MARKET_LIST_ITEM
 msgid "Market List Item"
-msgstr "Öğe Pazar Listesi"
+msgstr "Eşya Pazar Listesi"
 
 #. i18n: keyword: TXN_MARKET_PURCHASE
 msgid "Market Purchase"
@@ -1741,13 +1717,29 @@ msgstr "Pazar İadesi"
 msgid "Item Trade Lose"
 msgstr "Eşya Kaybı"
 
+#. i18n: keyword: TXN_ITEM_TRADE_GAIN
+msgid "Item Trade Gain"
+msgstr ""
+
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
-msgstr "Makara için Öğeler"
+msgstr "Makara için Eşyalar"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
-msgstr "Puanlar için Öğeler"
+msgstr "Puanlar için Eşyalar"
+
+#. i18n: keyword: TXN_TWITCH_ITEM_DROP
+msgid "Twitch Item Drop"
+msgstr ""
+
+#. i18n: keyword: TXN_DAILY_GIFT_ITEM
+msgid "Daily Gift Item"
+msgstr ""
+
+#. i18n: keyword: TXN_WEEKLY_GIFT_ITEM
+msgid "Weekly Gift Item"
+msgstr ""
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
@@ -1767,9 +1759,44 @@ msgstr "Steam Kutusu (DLC)"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr ""
+msgstr "Pazarlanabilir"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
+msgstr "Takaslanabilir"
+
+#. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
+msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
 msgstr ""
 
+#. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
+msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
+msgstr ""
+
+#. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
+msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_SELECTED_FILE_TYPE
+msgid "The file you selected is not allowed. Please select either a JPEG, GIF or PNG file."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_SELECTED_FILE_SIZE
+msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
+msgstr ""
+
+#. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
+msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
+msgstr ""
+
+#. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
+msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
+msgstr ""
+
+#. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
+msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
+msgstr ""
+
+#. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
+msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
+msgstr ""
