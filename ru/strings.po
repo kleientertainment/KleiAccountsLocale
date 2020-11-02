@@ -499,11 +499,11 @@ msgstr "С этой учётной записью нечего объединя�
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
-msgstr ""
+msgstr "Вы уже объединили свою учётную запись Epic Games."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
-msgstr ""
+msgstr "Вы уже объединили свою учётную запись Steam."
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -655,7 +655,7 @@ msgstr "Получить игру без DRM защиты"
 
 #. i18n: keyword: DRMFreeGameKey
 msgid "DRM Game Key"
-msgstr ""
+msgstr "DRM ключ игры"
 
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
@@ -667,7 +667,7 @@ msgstr "Вы можете получить эту игру без DRM защит
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
-msgstr ""
+msgstr "Ошибка: У вас нет подходящих игр."
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
@@ -731,11 +731,11 @@ msgstr "Сервер был успешно создан."
 
 #. i18n: keyword: DeleteGameServer
 msgid "Delete Game Server"
-msgstr ""
+msgstr "Удалить игровой сервер"
 
 #. i18n: keyword: DeleteGameServerConfirmation
 msgid "Are you sure you want to delete this server:"
-msgstr ""
+msgstr "Вы уверены, что хотите удалить этот сервер:"
 
 #. i18n: keyword: RemoveServer
 msgid "Delete"
@@ -811,15 +811,15 @@ msgstr "Ваш инвентарь предметов"
 
 #. i18n: keyword: ItemsDialogRarity
 msgid "Rarity:"
-msgstr ""
+msgstr "Качество:"
 
 #. i18n: keyword: ItemsDialogRedeemed
 msgid "Redeemed:"
-msgstr ""
+msgstr "Получено:"
 
 #. i18n: keyword: ItemsFilterRarity
 msgid "Rarity"
-msgstr ""
+msgstr "Качество"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -983,19 +983,19 @@ msgstr "Получить"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
-msgstr ""
+msgstr "Название награды:"
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
-msgstr ""
+msgstr "Наградная ссылка"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr ""
+msgstr "<p>Поздравляем!</p><p>В дикой природе вы сумели отыскать правильную ссылку с {{.Amount}} {{.Name}}.</p><p>Ваш баланс обновлён. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш баланс.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr ""
+msgstr "<p>Поздравляем!</p><p>В дикой природе вы сумели отыскать правильную ссылку с {{.Amount}} {{.Name}}.</p><p>Вы сможете увидеть это в следующий раз, когда зайдёте в игру. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш баланс.</p>"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1635,23 +1635,23 @@ msgstr "Имя платформы"
 
 #. i18n: keyword: FilterBy
 msgid "Filter by"
-msgstr ""
+msgstr "Фильтр"
 
 #. i18n: keyword: AllTransactions
 msgid "All Transactions"
-msgstr ""
+msgstr "Все транзакции"
 
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
-msgstr ""
+msgstr "Транзакций не существует."
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
-msgstr "Нынешний баланс катушек"
+msgstr "Текущий баланс катушек"
 
 #. i18n: keyword: CurrentBalanceForPoints
 msgid "Current Points Balance"
-msgstr "Нынешний баланс очков"
+msgstr "Текущий баланс очков"
 
 #. i18n: keyword: NewBalance
 msgid "New Balance:"
@@ -1715,15 +1715,15 @@ msgstr "Откат магазина"
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
-msgstr "Предмет утерян при обмене"
+msgstr "Потеря при обмене"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
-msgstr ""
+msgstr "Получение при обмене"
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
-msgstr "Предмет получен при обмене"
+msgstr "Предмет за катушки"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
@@ -1731,15 +1731,15 @@ msgstr "Предмет за очки"
 
 #. i18n: keyword: TXN_TWITCH_ITEM_DROP
 msgid "Twitch Item Drop"
-msgstr ""
+msgstr "Twitch-дроп"
 
 #. i18n: keyword: TXN_DAILY_GIFT_ITEM
 msgid "Daily Gift Item"
-msgstr ""
+msgstr "Ежедневный подарок"
 
 #. i18n: keyword: TXN_WEEKLY_GIFT_ITEM
 msgid "Weekly Gift Item"
-msgstr ""
+msgstr "Еженедельный подарок"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
@@ -1767,36 +1767,36 @@ msgstr "Можно обменять"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr ""
+msgstr "Недостаточно рулонов. Пожалуйста, посетите <a href='/account/transactions'>страницу транзакций</a> чтобы убедиться, что у вас достаточно рулонов для совершения это операции."
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
-msgstr ""
+msgstr "Недостаточно катушек. Пожалуйста, посетите <a href='/account/transactions'>страницу транзакций</a> чтобы убедиться, что у вас достаточно катушек для совершения это операции."
 
 #. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
 msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
-msgstr ""
+msgstr "Недостаточно очков. Пожалуйста, посетите <a href='/account/transactions'>страницу транзакций</a> чтобы убедиться, что у вас достаточно очков для совершения это операции."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_TYPE
 msgid "The file you selected is not allowed. Please select either a JPEG, GIF or PNG file."
-msgstr ""
+msgstr "Вы загрузили файл неверного формата. Пожалуйста, загрузите файл формат JPEG, GIF или PNG."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_SIZE
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
-msgstr ""
+msgstr "Загруженный вами файл слишком большой. Пожалуйста, уменьшите его размер, чтобы продолжить."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
-msgstr ""
+msgstr "К сожалению, вы не можете участвовать в Хеллоуинском событии, если вы не согласны с его правилами."
 
 #. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
-msgstr ""
+msgstr "Администратор уже одобрил одну из ваших работ. Вскоре выполучите награду. Если вы ничего не получили в течение пары часов, пожалуйста, посетите <a href='/account/transactions'>страницу транзакций</a> и при необходимости свяжитесь с поддержкой."
 
 #. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
 msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
-msgstr ""
+msgstr "Спасибо за участие. К сожалению, вы достигли лимита для этого события. Пожалуйста, подождите, пока другие запросы будут одобрены или отклонены, прежде чем загружать другую работу."
 
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
-msgstr ""
+msgstr "Спасибо за участие и сообщение. К сожалению, мы установили ограничение в восемьдесят (80) символов. Пожалуйста, попробуйте снова, написав более короткое сообщение."
