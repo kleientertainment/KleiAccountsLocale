@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-10-27 12:40-0300\n"
-"Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
+"PO-Revision-Date: 2020-11-02 22:19-0300\n"
+"Last-Translator: Geeris\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -499,11 +499,11 @@ msgstr "Não há nada para mesclar nessa conta."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
-msgstr ""
+msgstr "Você já vinculou sua conta Epic Games."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
-msgstr ""
+msgstr "Você já vinculou sua conta Steam."
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -655,7 +655,7 @@ msgstr "Obtenha jogos livres de DRM"
 
 #. i18n: keyword: DRMFreeGameKey
 msgid "DRM Game Key"
-msgstr ""
+msgstr "Chave DRM do Jogo"
 
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
@@ -667,7 +667,7 @@ msgstr "Obtenha o download livre de Gestão de Direitos Digitais (DRM) deste jog
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
-msgstr ""
+msgstr "Erro: Parece que você não possui nenhum jogo elegível."
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
@@ -731,11 +731,11 @@ msgstr "O servidor foi criado com sucesso."
 
 #. i18n: keyword: DeleteGameServer
 msgid "Delete Game Server"
-msgstr ""
+msgstr "Excluir Servidor de Jogo"
 
 #. i18n: keyword: DeleteGameServerConfirmation
 msgid "Are you sure you want to delete this server:"
-msgstr ""
+msgstr "Tem certeza de que deseja excluir este servidor:"
 
 #. i18n: keyword: RemoveServer
 msgid "Delete"
@@ -811,15 +811,15 @@ msgstr "Seu Inventário de Itens"
 
 #. i18n: keyword: ItemsDialogRarity
 msgid "Rarity:"
-msgstr ""
+msgstr "Raridade:"
 
 #. i18n: keyword: ItemsDialogRedeemed
 msgid "Redeemed:"
-msgstr ""
+msgstr "Resgatado:"
 
 #. i18n: keyword: ItemsFilterRarity
 msgid "Rarity"
-msgstr ""
+msgstr "Raridade"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -983,7 +983,7 @@ msgstr "Resgatar"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
-msgstr ""
+msgstr "Nome da Recompensa:"
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
@@ -991,15 +991,15 @@ msgstr "Link de Recompensa"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr ""
+msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido com {{.Amount}} {{.Name}}.</p><p>Seu saldo será atualizado imediatamente. Consulte a página \"Transações do Usuário\" para entender como essa operação afetou o saldo da sua conta.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr ""
+msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido com {{.Amount}} {{.Name}}.</p><p>Agora você irá encontrá-lo no jogo da próxima vez que você jogar. Consulte a página \"Transações do Usuário\" para entender como essa operação afetou o saldo da sua conta.</p>"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
-msgstr "Whoa! Parece que você já utilizou este link antes. Você só pode resgatar essa recompensa uma vez."
+msgstr "Oops! Parece que você já utilizou este link antes. Você só pode resgatar essa recompensa uma vez."
 
 #. i18n: keyword: GiftRedemptionTitle
 msgid "Gift Redemption"
@@ -1195,7 +1195,7 @@ msgstr "Ao se inscrever, você concorda com nossa <a href='https://www.kleienter
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
-msgstr ""
+msgstr "Klei Entertainment"
 
 #. i18n: keyword: ErrorURLMalformed
 msgid "The URL you used to arrive here is malformed and missing required parameters."
@@ -1635,15 +1635,15 @@ msgstr "Nome da Plataforma"
 
 #. i18n: keyword: FilterBy
 msgid "Filter by"
-msgstr ""
+msgstr "Filtrar por"
 
 #. i18n: keyword: AllTransactions
 msgid "All Transactions"
-msgstr ""
+msgstr "Todas as Transações"
 
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
-msgstr ""
+msgstr "Não há transações."
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -1663,7 +1663,7 @@ msgstr "Transação não suportada"
 
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
-msgstr "Criar um Item"
+msgstr "Gerar um Item"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
@@ -1719,7 +1719,7 @@ msgstr "Perda de Troca de Item"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
-msgstr ""
+msgstr "Ganho na Troca de Item"
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
@@ -1731,15 +1731,15 @@ msgstr "Item por Pontos"
 
 #. i18n: keyword: TXN_TWITCH_ITEM_DROP
 msgid "Twitch Item Drop"
-msgstr ""
+msgstr "Drops da Twitch"
 
 #. i18n: keyword: TXN_DAILY_GIFT_ITEM
 msgid "Daily Gift Item"
-msgstr ""
+msgstr "Presente Diário"
 
 #. i18n: keyword: TXN_WEEKLY_GIFT_ITEM
 msgid "Weekly Gift Item"
-msgstr ""
+msgstr "Presente Semanal"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
@@ -1763,40 +1763,40 @@ msgstr "Comercializável"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr "Negociável"
+msgstr "Trocável"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr ""
+msgstr "O saldo de Parafusos é insuficiente. Visite a <a href='/account/transactions'>página de transações</a> para verificar se você tem Parafusos suficientes para prosseguir com esta operação."
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
-msgstr ""
+msgstr "O saldo de Carretéis é insuficiente. Visite a <a href='/account/transactions'>página de transações</a> para verificar se você tem Carretéis suficientes para prosseguir com esta operação."
 
 #. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
 msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
-msgstr ""
+msgstr "O saldo de Pontos é insuficiente. Visite a <a href='/account/transactions'>página de transações</a> para verificar se você tem Pontos suficientes para prosseguir com esta operação."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_TYPE
 msgid "The file you selected is not allowed. Please select either a JPEG, GIF or PNG file."
-msgstr ""
+msgstr "O arquivo que você selecionou não é permitido. Selecione um arquivo JPEG, GIF ou PNG."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_SIZE
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
-msgstr ""
+msgstr "O arquivo selecionado é muito grande. Reduza o tamanho para prosseguir com o upload."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
-msgstr ""
+msgstr "Infelizmente, você não poderá participar do evento de Halloween se não concordar com as regras do evento."
 
 #. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
-msgstr ""
+msgstr "Um administrador já aprovou um de seus envios. Você receberá uma recompensa muito em breve. Se você não receber nada após algumas horas, visite a <a href='/account/transactions'>página de transações</a> e entre em contato com o suporte, se necessário."
 
 #. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
 msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
-msgstr ""
+msgstr "Obrigado pelo envio. Infelizmente, parece que você atingiu o limite para este evento. Por favor, aguarde até que as outras solicitações sejam aprovadas ou rejeitadas antes de tentar enviar novamente."
 
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
-msgstr ""
+msgstr "Obrigado pelo envio e pela mensagem. Infelizmente, precisamos impor um limite de oitenta (80) caracteres. Por favor, tente mais uma vez com uma mensagem mais curta."
