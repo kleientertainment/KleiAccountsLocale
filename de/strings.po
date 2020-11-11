@@ -83,7 +83,7 @@ msgstr ""
 
 #. i18n: keyword: VisitYourProfile
 msgid "Visit your Profile"
-msgstr "Zu Ihrem Profil"
+msgstr "Zu deinem Profil"
 
 #. i18n: keyword: January
 msgid "January"
@@ -147,7 +147,7 @@ msgstr "Account aktivieren"
 
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
-msgstr "Ihr Klei-Account wurde erfolgreich erstellt. Bitte füllen Sie zum Aktivieren und zum Zugriff auf zusätzliche Features das Formular aus. Sie können sich außerdem zu unserem Newsletter anmelden, wenn Sie weitere Informationen zu Ihrem Lieblingsspiel erhalten möchten."
+msgstr "Dein Klei-Account wurde erfolgreich erstellt. Bitte fülle zum Aktivieren und zum Zugriff auf zusätzliche Features das Formular aus. Du kannst dich außerdem für unseren Newsletter anmelden, wenn du weitere Informationen zu deinem Lieblingsspiel erhalten möchtest."
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -163,15 +163,15 @@ msgstr "Ich stimme der <a href=\"https://www.klei.com/games/dont-starve/terms-of
 
 #. i18n: keyword: MustAcceptEULA
 msgid "EULA Must Be Accepted to Register. Please read our EULA and check the confirmation box to proceed."
-msgstr "Die EULA muss zum Registrieren akzeptiert werden. Bitte lesen Sie unsere EULA und aktivieren das Bestätigungsfeld um fortzufahren."
+msgstr "Die EULA muss zum Registrieren akzeptiert werden. Bitte lese unsere EULA und aktiviere das Bestätigungsfeld, um fortzufahren."
 
 #. i18n: keyword: PrivacyPolicy
 msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
-msgstr "Durch die Anmeldung stimmen Sie unseren <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Datenschutzbestimmungen</a> zu"
+msgstr "Durch die Anmeldung stimmst du unseren <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Datenschutzbestimmungen</a> zu"
 
 #. i18n: keyword: FillAccountDetails
 msgid "Fill your account details here:"
-msgstr "Tragen Sie Ihre Accountdetails hier ein:"
+msgstr "Trage deine Accountdetails hier ein:"
 
 #. i18n: keyword: SteamAccount
 msgid "Steam Account"
@@ -187,7 +187,7 @@ msgstr "Verifizierungs-Mail gesendet"
 
 #. i18n: keyword: VerificationEmailSuccessDescription
 msgid "We’ve sent a verification e-mail to your e-mail address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the e-mail after an hour, first check your spam folder."
-msgstr "Wir haben eine Verifizierungs-Mail an Ihre E-Mail-Adresse gesendet. Um die Registrierung abzuschließen, klicken Sie bitte den Bestätigungslink in der E-Mail an. E-Mails werden typischerweise sofort versendet. Falls Sie die E-Mail auch nach einer Stunde noch nicht erhalten haben, überprüfen Sie bitte zunächst Ihren Spam-Ordner."
+msgstr "Wir haben eine Verifizierungs-Mail an deine E-Mail-Adresse gesendet. Um die Registrierung abzuschließen, klicke bitte den Bestätigungslink in der E-Mail an. E-Mails werden typischerweise sofort versendet. Falls du die E-Mail auch nach einer Stunde noch nicht erhalten hast, überprüfe bitte zunächst deinen Spam-Ordner."
 
 #. i18n: keyword: VerificationEmailFailureTitle
 msgid "Invalid Verification"
@@ -199,11 +199,11 @@ msgstr "Ups, es scheint als wäre der Link ungültig, der verwendet wurde um hie
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "We cannot execute this operation because your e-mail address is not verified yet."
-msgstr "Wir können diese Aktion nicht ausführen, da Ihre E-Mail-Adresse noch nicht verifiziert ist."
+msgstr "Wir können diese Aktion nicht ausführen, da deine E-Mail-Adresse noch nicht verifiziert ist."
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
-msgstr "Ihre E-Mail wurde bereits verifiziert."
+msgstr "Deine E-Mail wurde bereits verifiziert."
 
 #. i18n: keyword: EmailStatusNotVerified
 msgid "Not Verified"
@@ -219,7 +219,7 @@ msgstr "Verifizierung erfolgreich"
 
 #. i18n: keyword: RegistrationCompleteDescription
 msgid "Thanks for verifying your email.</p><p>You’re good to go! You can now return to your game and play online. If you have suggestions, feedback or need support during the beta, head over to the Klei community forum."
-msgstr "Vielen Dank für die Verifizierung Ihrer E-Mail-Adresse.</p><p>Sie können jetzt loslegen! Sie können nun zum Spiel zurückkehren und online spielen. Für Vorschläge, Feedback während einer Beta, oder falls Sie Support benötigen, nutzen Sie bitte das Klei Community Forum."
+msgstr "Vielen Dank für die Verifizierung deiner E-Mail-Adresse.</p><p>SDu kannst jetzt loslegen! Du kannst nun zum Spiel zurückkehren und online spielen. Für Vorschläge, Feedback während einer Beta, oder falls du Support benötigst, nutze bitte das Klei Community Forum."
 
 #. i18n: keyword: VisitCommunityForum
 msgid "Visit Klei Community Forum"
@@ -239,7 +239,7 @@ msgstr "Klei-Account Anmeldung"
 
 #. i18n: keyword: LoginDescription
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
-msgstr "Melden Sie sich bei Ihrem Klei-Account an, um alle Ihre Klei Spiele einzusehen, Spielgegenstände mit Freunden zu handeln, sich bei Betas anzumelden und um Zugriff zu exklusiven Inhalten zu erhalten.</p><p>Wählen Sie eine Plattform zum Anmelden:"
+msgstr "Melde dich bei deinem Klei-Account an, um alle deine Klei-Spiele einzusehen, Spielgegenstände mit Freunden zu handeln, sich bei Betas anzumelden und um Zugriff zu exklusiven Inhalten zu erhalten.</p><p>Wähle eine Plattform zum Anmelden:"
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -251,7 +251,7 @@ msgstr "Abonniere..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr "Erhalten Sie aktuelle Neuigkeiten für {{.GameName}}. Wir senden nicht viele E-Mails, aber wenn, dann lohnt es sich! Sie können sich problemlos über einen Link in der Fußzeile jeder versendeten Mail wieder abmelden. Für weitere aktuelle Neuigkeiten folgen Sie uns auch auf Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> und besuchen Sie unser offizielles <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}} Forum</a>!"
+msgstr "Erhalte aktuelle Neuigkeiten für {{.GameName}}. Wir senden nicht viele E-Mails, aber wenn, dann lohnt es sich! Du kannst dich problemlos über einen Link in der Fußzeile jeder versendeten Mail wieder abmelden. Für weitere aktuelle Neuigkeiten folge uns auch auf Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> und besuche unser offizielles <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}} Forum</a>!"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
@@ -259,7 +259,7 @@ msgstr "Abonnement erfolgreich"
 
 #. i18n: keyword: SubscribeCompleteDescription
 msgid "Your email subscription has been processed. If this is the first time you subscribe to one of our newsletters, you will receive a confirmation email."
-msgstr "Ihre E-Mail Anmeldung wurde ausgeführt. Wenn dies die erste Anmeldung zu einem unserer Newsletter ist, werden Sie eine Bestätigungs-Mail erhalten."
+msgstr "DEine E-Mail Anmeldung wurde ausgeführt. Wenn dies die erste Anmeldung zu einem unserer Newsletter ist, wirst du eine Bestätigungs-Mail erhalten."
 
 #. i18n: keyword: UserInfo
 msgid "User Info"
@@ -271,7 +271,7 @@ msgstr "Nützliche Links"
 
 #. i18n: keyword: KleiUserID
 msgid "Klei User ID"
-msgstr "Klei Benutzer ID"
+msgstr "Klei Benutzer-ID"
 
 #. i18n: keyword: FirstSeen
 msgid "First Seen"
@@ -311,7 +311,7 @@ msgstr "Persönliche Daten herunterladen"
 
 #. i18n: keyword: GamePlayerID
 msgid "Player ID"
-msgstr "Spieler ID"
+msgstr "Spieler-ID"
 
 #. i18n: keyword: UserNotFound
 msgid "user not found"
@@ -331,7 +331,7 @@ msgstr "Hinzugefügt am"
 
 #. i18n: keyword: AccountLinkRulesTitle
 msgid "Streaming Rules"
-msgstr "Streaming Regeln"
+msgstr "Streaming-Regeln"
 
 #. i18n: keyword: AccountLinkRulesDescription
 msgid "Klei Rewards are intended to be a way to support streamers that provide quality content for our community, and “Away From Keyboard (AFK)” streams disrupt the effectiveness of the system. AFK streams or streams showing content other than Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these rules will be unlinked and potentially banned from participating ever again."
@@ -347,11 +347,11 @@ msgstr "E-Mail-Adresse bearbeiten"
 
 #. i18n: keyword: ChangeEmailDescription
 msgid "This is the email address we will use to send you updates & news regarding your account or games."
-msgstr "Dies ist die E-Mail-Adresse, an die wir Updates & Neuigkeiten bezüglich Spielen sowie Ihres Accounts versenden."
+msgstr "Dies ist die E-Mail-Adresse, an die wir Updates & Neuigkeiten bezüglich deines Accounts oder deinen Spielen versenden."
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "Your new e-mail is being changed. We have sent you a mail with a verification link to authorize the change."
-msgstr "Ihre E-Mail-Adresse wird geändert. Wir haben Ihnen eine Mail mit einem Bestätigungslink gesendet, um die Änderung abzuschließen."
+msgstr "Deine E-Mail-Adresse wird geändert. Wir haben dir eine Mail mit einem Bestätigungslink gesendet, mit der du die Änderung abschließen kannst."
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -359,11 +359,11 @@ msgstr "Inventar"
 
 #. i18n: keyword: HideSteamInventory
 msgid "Hide Steam Inventory"
-msgstr "Steam Inventar unsichtbar machen"
+msgstr "Steam-Inventar unsichtbar machen"
 
 #. i18n: keyword: HideSteamInventoryDescription
 msgid "Checking the boxes below will hide the items associated to your Klei games from Steam. You still own your items and will be able to see them in the games. If you want to make the inventory visible again, simply uncheck the boxes and save your changes."
-msgstr "Das Anklicken der folgenden Auswahlfelder macht die Gegenstände Ihrer Klei Spiele in Steam unsichtbar. Sie bleiben weiterhin im Besitz Ihrer Gegenstände und können sie in den Spielen sehen. Wenn Sie Ihr Inventar wieder sichtbar machen möchten, deaktivieren Sie einfach die Auswahlfelder und speichern die Änderungen."
+msgstr "Das Anklicken der folgenden Auswahlfelder macht die Gegenstände deiner Klei Spiele in Steam unsichtbar. Du bleibst weiterhin im Besitz deiner Gegenstände und kannst sie in den Spielen sehen. Wenn du dein Inventar wieder sichtbar machen möchtest, deaktiviere einfach die Auswahlfelder und speichere die Änderungen."
 
 #. i18n: keyword: InventoryHasBeenHidden
 msgid "Inventory has been hidden"
@@ -371,11 +371,11 @@ msgstr "Inventar wurde unsichtbar gemacht"
 
 #. i18n: keyword: MarketingOptions
 msgid "Marketing Options"
-msgstr "Marketing Einstellungen"
+msgstr "Marketing-Einstellungen"
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
-msgstr "Verwenden Sie diese Optionen um Ihre Newsletter-Abonnements zu konfigurieren. Sie können sich jederzeit wieder abmelden."
+msgstr "Verwende  diese Optionen um deine Newsletter-Abonnements zu konfigurieren. Vergiss nicht, du kannst dich jederzeit wieder abmelden."
 
 #. i18n: keyword: MarketingOptionsUnsubscribe
 msgid "I do not want to receive marketing emails"
@@ -387,11 +387,11 @@ msgstr "Ich möchte Marketing-E-Mails erhalten (Neuigkeiten, neue Spiele, Ankün
 
 #. i18n: keyword: MarketingOptionsDetails
 msgid "For more detailed information about each game, please select the boxes below:"
-msgstr "Für genauere Informationen bezüglich jedes Spiels aktivieren Sie die folgenden Auswahlfelder:"
+msgstr "Für genauere Informationen bezüglich jedes Spiels aktiviere die folgenden Auswahlfelder:"
 
 #. i18n: keyword: MarketingOptionsPending
 msgid "We have sent you an email to confirm your subscription to our mailing list."
-msgstr "Wir haben Ihenen eine Bestätigungs-Mail für das Anmelden in unseren Mail-Verteiler geschickt."
+msgstr "Wir haben dir eine Bestätigungs-Mail für das Anmelden in unseren Mail-Verteiler geschickt."
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -399,11 +399,11 @@ msgstr "Account zusammenschließen"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
-msgstr "Diese Aktion erlaubt es, einen Klei-Account mit mehreren Plattformen zu verknüpfen. Dies ist dafür gedacht, wenn Sie über Accounts auf verschiedenen Plattformen verfügen und diese mit einem einzelnen Klei-Account verknüpfen möchten."
+msgstr "Diese Aktion erlaubt es, einen Klei-Account mit mehreren Plattformen zu verknüpfen. Dies ist dafür gedacht, wenn du über Accounts auf verschiedenen Plattformen verfügst und diese mit einem einzelnen Klei-Account verknüpfen möchtest."
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
-msgstr "Aktivieren Sie das Auswahlfeld um zu bestätigen, dass Sie das folgende gelesen und verstanden haben."
+msgstr "Aktiviere das Auswahlfeld um zu bestätigen, dass du das folgende gelesen und verstanden hast."
 
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
@@ -415,7 +415,7 @@ msgstr "Bestätigen"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "Bitte geben Sie zum Bestätigen “merge accounts” ein, aber alles in Großbuchstaben:"
+msgstr "Bitte gebenzum Bestätigen “merge accounts” ein, aber alles in Großbuchstaben:"
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"
@@ -423,7 +423,7 @@ msgstr "Ich verstehe die Auswirkungen, diese Accounts zusammenschließen"
 
 #. i18n: keyword: MergeAccountDoButton
 msgid "I understand, merge these accounts"
-msgstr "Ich verstehe, diese Accounts zusammenschließen"
+msgstr "Ich verstehe, schließe diese Accounts zusammen"
 
 #. i18n: keyword: MergeAccountSuccessTitle
 msgid "Successful Account Merge"
@@ -431,7 +431,7 @@ msgstr "Account erfolgreich zusammengeschlossen"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr "Das Zusammenschließen der Accounts war erfolgreich.</p><p>Wir haben Ihre Session gelöscht, damit Sie sich mit dem neuen Account einloggen können.</p><p>Spiele werden auf Anfrage auf den anderen Spiele-Plattformen gewährt.</p><p>Beachten Sie, dass Sie das <strong>Spiel mindestens einmal starten</strong> müssen, damit wir dieses erkennen können."
+msgstr "Das Zusammenschließen der Accounts war erfolgreich.</p><p>Wir haben deine Session gelöscht, damit du dich mit dem neuen Account einloggen können.</p><p>Spiele werden auf Anfrage auf den anderen Spiele-Plattformen gewährt.</p><p>Beachte, dass du das <strong>Spiel mindestens einmal starten</strong> musst, damit wir dieses erkennen können."
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -439,19 +439,19 @@ msgstr "Warnungen beheben"
 
 #. i18n: keyword: MergeAccountReviewEmail
 msgid "Below is your Klei account e-mail:"
-msgstr "Folgendes ist Ihre Klei-Account E-Mail:"
+msgstr "Folgendes ist deine Klei-Account E-Mail:"
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
-msgstr "Bitte versichern Sie sich, dass dieses der korrekte Spiele-Account zum zusammenschließen ist."
+msgstr "Bitte versichere dich, dass dieses der korrekte Spiele-Account zum zusammenschließen ist."
 
 #. i18n: keyword: MergeAccountReadyToExecute
 msgid "We have checked all the information we could find about the two accounts you are about to merge and did not find any warnings. You will be able to log in with the new account after submitting this form."
-msgstr "Wir haben alle Informationen über Ihre beiden Accounts zum Zusammenschließen überprüft und es traten keine Warnungen auf. Sie können sich mit dem neuen Account einloggen, nachdem das Formular abgeschickt wurde."
+msgstr "Wir haben alle Informationen über deine beiden Accounts zum Zusammenschließen überprüft und es traten keine Warnungen auf. Du kannst dich mit dem neuen Account einloggen, nachdem das Formular abgeschickt wurde."
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
-msgstr "NICHT VERWENDEN, falls Ihnen nicht beide Accounts gehören. Beide Accounts werden einer einzelnen Person zugeordnet und es wird nicht möglich sein, mit den Accounts zeitgleich Mehrspieler-Spiele zu spielen."
+msgstr "NICHT VERWENDEN, falls dir nicht beide Accounts gehören. Beide Accounts werden einer einzelnen Person zugeordnet und es wird nicht möglich sein, mit den Accounts zeitgleich Mehrspieler-Spiele zu spielen."
 
 #. i18n: keyword: MergeAccountConsentQuestion2
 msgid "This process is permanent and cannot be reverted or changed."
@@ -463,35 +463,35 @@ msgstr "Wenn eine Plattform mit einem Klei-Account verlinkt wird, kann die Verkn
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
-msgstr "Unglücklicherweise unterstützt die Spiele-Plattform, die Sie zusammenzuschließen möchten, diese Operation noch nicht."
+msgstr "Unglücklicherweise unterstützt die Spiele-Plattform, die du zusammenzuschließen möchtest, diese Operation noch nicht."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_INVALID_CONSENT
 msgid "Invalid user consent, you need to read the account merge instructions very carefully."
-msgstr "Ungültige Nutzerzustimmung, Sie müssen die Instruktionen zum Zusammenzuschließen von Accounts genau durchlesen."
+msgstr "Ungültige Nutzerzustimmung, du musst die Instruktionen zum Zusammenzuschließen von Accounts genau durchlesen."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_MISSING_DATA
 msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
-msgstr "Es ist zur Zeit nicht möglich, Ihre Accounts zusammenzuschließen, da noch einige Daten fehlen. Bitte melden Sie sich ab und starten den Vorgang erneut. Stellen Sie sicher, dass Ihr Webbrowser Cookies akzeptiert und dass die beiden Accounts, die Sie zusammenzuschließen möchten, korrekt sind."
+msgstr "Es ist zur Zeit nicht möglich, deine Accounts zusammenzuschließen, da noch einige Daten fehlen. Bitte melde dich ab und starte den Vorgang erneut. Stelle sicher, dass dein Webbrowser Cookies akzeptiert und dass die beiden Accounts, die du zusammenzuschließen möchtest, korrekt sind."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
-msgstr "Bitte aktualisieren Sie Ihre *Klei*-Accounts, so dass diese dieselbe E-Mail-Adresse verwenden und starten den Vorgang erneut."
+msgstr "Bitte aktualisiere deine *Klei*-Accounts, so dass diese dieselbe E-Mail-Adresse verwenden, und starte den Vorgang erneut."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the e-mail address in both accounts and start the process again."
-msgstr "Bitte verifizieren Sie die E-Mail-Adresse in beiden Accounts und starten den Vorgang erneut."
+msgstr "Bitte verifiziere die E-Mail-Adresse in beiden Accounts und starte den Vorgang erneut."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
-msgstr "Wir können Ihre Accounts nicht zusammenzuschließen, da einer von diesen gesperrt wurde."
+msgstr "Wir können deine Accounts nicht zusammenzuschließen, da einer von diesen gesperrt wurde."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PASSWORD_RESET
 msgid "It appears your password was reset some time ago but you never finished the verification process."
-msgstr "Anscheinend wurde Ihr Passwort vor einiger Zeit zurückgesetzt, aber Sie haben den Verifizierungsprozess nicht abgeschlossen."
+msgstr "Anscheinend wurde dein Passwort vor einiger Zeit zurückgesetzt, aber du hast den Verifizierungsprozess nicht abgeschlossen."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_MARKED_FOR_DELETION
 msgid "We cannot merge your accounts because one of them is marked for deletion."
-msgstr "Wir können Ihre Accounts nicht zusammenzuschließen, da einer von diesen zur Löschung vorgemerkt wurde."
+msgstr "Wir können deine Accounts nicht zusammenzuschließen, da einer von diesen zur Löschung vorgemerkt wurde."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_NOTHING_TO_MERGE
 msgid "There is nothing to merge for this account."
@@ -499,27 +499,27 @@ msgstr "Für diesen Account gibt es nichts zum Zusammenschließen."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
-msgstr ""
+msgstr "Du hast deinen Epic-Games-Account bereits zusammengeschlossen."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
-msgstr ""
+msgstr "Du hast deinen Steam-Account bereits zusammengeschlossen."
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
-msgstr "Verwenden Sie diese Seite, um Zugang zu Spielen zu erhalten, die Ihnen bereits auf anderen Spiele-Plattformen gehören."
+msgstr "Verwende diese Seite, um Zugang zu Spielen zu erhalten, die dir bereits auf anderen Spiele-Plattformen gehören."
 
 #. i18n: keyword: OwnershipTableDescription
 msgid "The table below shows you the ownership status of your games in different gaming platforms."
-msgstr "Die untenstehende Tabelle zeigt Ihnen den Besitzstatus Ihrer Spiele auf verschiedenen Spiele-Plattformen an."
+msgstr "Die untenstehende Tabelle zeigt dir den Besitzstatus deiner Spiele auf verschiedenen Spiele-Plattformen an."
 
 #. i18n: keyword: OwnershipGrantingText
 msgid "Game granting is in progress. This operation may take several minutes, in the meantime you can visit the game ownership page for updates. We appreciate your patience and hope you enjoy playing the game with your friends."
-msgstr "Das Gewähren des Spiels ist in Bearbeitung. Dieser Vorgang kann mehrere Minuten dauern, unterdessen können Sie Besitzstatus-Seite Ihrer Spiele besuchen, um Aktualisierungen zu sehen. Wir danken Ihnen für Ihre Geduld und hoffen, dass Sie Spaß mit den Spielen haben."
+msgstr "Das Gewähren des Spiels ist in Bearbeitung. Dieser Vorgang kann mehrere Minuten dauern, unterdessen kannst du die Besitzstatus-Seite deiner Spiele besuchen, um Aktualisierungen zu sehen. Wir danken dir für deine Geduld und hoffen, dass du Spaß mit den Spielen hast."
 
 #. i18n: keyword: OwnershipPageButton
 msgid "Visit Game Ownership Page"
-msgstr "Besitzstatus-Seite für Ihre Spiele besuchen"
+msgstr "Besitzstatus-Seite für deine Spiele besuchen"
 
 #. i18n: keyword: OWNERSHIP_STATUS_OWNED_BOUGHT
 msgid "Purchased"
@@ -559,27 +559,27 @@ msgstr "Account löschen"
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
-msgstr "Wenn Sie Ihren Account löschen gibt es kein Zurück. Bitte seien Sie sich sicher!"
+msgstr "Wenn du deinen Account löschst, gibt es kein Zurück. Bitte sei dir sicher!"
 
 #. i18n: keyword: DeleteAccountAreYouSure
 msgid "Are you absolutely sure?"
-msgstr "Sind Sie absolut sicher?"
+msgstr "Bist du absolut sicher?"
 
 #. i18n: keyword: MustReadAllWarnings
 msgid "Unexpected bad things will happen if you don’t read this!"
-msgstr "Unerwartete schlechte Dinge werden geschehen, wenn Sie dieses nicht lesen!"
+msgstr "Unerwartete schlechte Dinge werden geschehen, wenn du dies nicht liest!"
 
 #. i18n: keyword: DeleteAccountExplanation
 msgid "At your request, your <b>Klei account</b> and all personally identifiable information related to your account (excluding financial transactions and information related to abuse) will be submitted to be permanently removed from our system.</p><p><b>Please note: You will not be able to reverse this action, and all data will be completely and irrecoverably removed.</b></p><p><strong>This means you will no longer be able to play any game that requires a Klei Account (Don’t Starve Together and Hot Lava) the {{.PlatformName}} account will be banned permanently, and all records will be destroyed forever including progress, items and entitlements.</strong>"
-msgstr "Auf Ihren Wunsch hin wird Ihr <b>Klei-Account</b> und alle persönlichen Daten zu Ihrem Account (ausgenommen finanzielle Transaktionen und Informationen bezüglich Missbrauchs) für die dauerhafte Löschung von unserem System übermittelt.</p><p><b>Bitte beachten: Es wird Ihnen nicht möglich sein diese Aktion rückgängig zu machen und alle Daten werden vollständig und unwiderruflich gelöscht.</b></p><p><strong>Das bedeutet, dass Sie kein Spiel mehr spielen können, welches einen Klei-Account benötigt (Don't Starve Together und Hot Lava). Der {{.PlatformName}}-Account wird dauerhaft entfernt und alle Daten werden vernichtet, einschließlich Fortschritte, Gegenstände und Berechtigungen.</strong>"
+msgstr "Auf deinen Wunsch hin wird dein <b>Klei-Account</b> und alle persönlichen Daten zu deinem Account (ausgenommen finanzielle Transaktionen und Informationen bezüglich Missbrauchs) für die dauerhafte Löschung von unserem System übermittelt.</p><p><b>Bitte beachten: Es wird dir nicht möglich sein, diese Aktion rückgängig zu machen und alle Daten werden vollständig und unwiderruflich gelöscht.</b></p><p><strong>Das bedeutet, dass du kein Spiel mehr spielen kannst, das einen Klei-Account benötigt (Don't Starve Together und Hot Lava). Der {{.PlatformName}}-Account wird dauerhaft entfernt und alle Daten werden vernichtet, einschließlich Fortschritte, Gegenstände und Berechtigungen.</strong>"
 
 #. i18n: keyword: DeleteAccountOptions
 msgid "Check the boxes to confirm you understand what is going to happen:"
-msgstr "Aktivieren Sie die Auswahlfelder um zu bestätigen, dass Sie verstehen was geschehen wird:"
+msgstr "Aktiviere die Auswahlfelder um zu bestätigen, dass du verstehst, was geschehen wird:"
 
 #. i18n: keyword: DeleteAccountOptionsProgress
 msgid "Delete my progress in Klei games"
-msgstr "Lösche meine Fortschritte in Klei Spielen"
+msgstr "Lösche meine Fortschritte in Klei-Spielen"
 
 #. i18n: keyword: DeleteAccountOptionsInventory
 msgid "Delete all the items in my game inventory"
@@ -599,7 +599,7 @@ msgstr "Ich möchte Hot Lava nicht mehr spielen"
 
 #. i18n: keyword: DeleteAccountOptionsBanAccount
 msgid "Ban my {{.PlatformName}} account from playing Klei games for a MINIMUM of 30 days"
-msgstr "Blockieren Sie meinen {{.PlatformName}}-Account für das Spielen von Klei Spielen für MINDESTENS 30 Tage"
+msgstr "Blockiere meinen {{.PlatformName}}-Account für das Spielen von Klei-Spielen für MINDESTENS 30 Tage"
 
 #. i18n: keyword: DeleteAccountConfirm
 msgid "Confirm Deletion"
@@ -607,7 +607,7 @@ msgstr "Bestätigen"
 
 #. i18n: keyword: DeleteAccountConfirmation
 msgid "Please type in “delete my account” but in UPPERCASE letters, to confirm:"
-msgstr "Bitte geben Sie zur Bestätigung “delete my account” ein, aber alles in Großbuchstaben:"
+msgstr "Bitte gebe zur Bestätigung “delete my account” ein, aber alles in Großbuchstaben:"
 
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
@@ -619,7 +619,7 @@ msgstr "Account-Löschung verifizieren"
 
 #. i18n: keyword: VerifyAccountDeletionDescription
 msgid "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.PlatformName}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.PlatformName}} account to prevent this from happening again."
-msgstr "Wir haben Ihnen eine E-Mail mit einem Verifizierungscode zur Bestätigung der Löschung Ihres Accounts gesendet. Bitte kopieren Sie den Code und fügen Sie ihn in das Feld unten ein.</p><p>Falls Sie keinen Verifizierungscode erhalten haben, klicken Sie auf “Abbrechen”, stellen Sie sicher, dass Ihre E-Mail korrekt ist und starten den Vorgang erneut.</p><p>Falls Sie die Löschung Ihres Accounts nicht beantragt haben, dann tat es jemand anderes mit Zugang zu Ihrem {{.PlatformName}}-Account. Klicken Sie auf “Abbrechen” um den Vorgang abzubrechen und dann ändern Sie bitte das Passwort zu Ihrem {{.PlatformName}}-Account, um zu verhindern, dass dieses noch einmal geschieht."
+msgstr "Wir haben dir eine E-Mail mit einem Verifizierungscode zur Bestätigung der Löschung deines Accounts gesendet. Bitte kopiere den Code und füge ihn in das Feld unten ein.</p><p>Falls du keinen Verifizierungscode erhalten hast, klicke auf “Abbrechen”, stelle sicher, dass deine E-Mail korrekt ist, und starte den Vorgang erneut.</p><p>Falls du die Löschung deines Accounts nicht beantragt hast, dann hat dies jemand anderes mit Zugang zu deinem {{.PlatformName}}-Account getan. Klicke auf “Abbrechen”, um den Vorgang abzubrechen, und ändere dann bitte das Passwort zu deinem {{.PlatformName}}-Account, um zu verhindern, dass dies noch einmal geschieht."
 
 #. i18n: keyword: VerifyAccountDeletionCode
 msgid "Verification Code"
@@ -663,11 +663,11 @@ msgstr "DRM-freier Download"
 
 #. i18n: keyword: DRMFreeDownloadDescription
 msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
-msgstr "Sie können einen DRM-freien Download für dieses Spiel erhalten. Weitere Informationen <a href=\"/\">hier</a>."
+msgstr "Du kannst einen DRM-freien Download für dieses Spiel erhalten. Weitere Informationen <a href=\"/\">hier</a>."
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
-msgstr ""
+msgstr "Fehler: Du scheinst keine dafür qualifizierten Spiele zu besitzen."
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
@@ -679,11 +679,11 @@ msgstr "Gegenstands-Inventar"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr "<b>Such-Tipps:</b> Geben Sie ein oder mehrere Wörter ein, um einen Gegenstand in Ihrem Spiele-Inventar zu suchen. Wenn Sie einen Gegenstand namens <b>Wilson Red Hat</b> finden möchten, geben Sie entweder <b>Wilson</b>, oder <b>Hat</b>, oder auch <b>Wilson Hat</b> ein. Die Reihenfolge der Suchbegriffe ist wichtig, was bedeuted, dass etwa \"Hat Wilson\" aufgrund falscher Wortreihenfolge keine Suchtreffer erzielen wird. Drücken Sie <b>Return</b> um die Suche zu starten. Löschen Sie die Suchbegriffe und drücken Return erneut, um die Filter zurückzusetzen."
+msgstr "<b>Such-Tipps:</b> Gebe ein oder mehrere Wörter ein, um einen Gegenstand in deinem Spiele-Inventar zu suchen. Wenn du einen Gegenstand namens <b>Wilson Red Hat</b> finden möchtest, gib entweder <b>Wilson</b>, oder <b>Hat</b>, oder auch <b>Wilson Hat</b> ein. Die Reihenfolge der Suchbegriffe ist wichtig, was bedeutet, dass etwa \"Hat Wilson\" aufgrund falscher Wortreihenfolge keine Suchtreffer erzielen wird. Drücke <b>Return</b>, um die Suche zu starten. Lösche die Suchbegriffe und drücke Return erneut, um die Filter zurückzusetzen."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr "Das ausgewählte Spiel besitzt keine Gegenstände. Bitte wählen Sie Don't Starve Together aus."
+msgstr "Das ausgewählte Spiel besitzt keine Gegenstände. Vergewissere dich bitte, dass du Don't Starve Together ausgewählt hast."
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
@@ -711,11 +711,11 @@ msgstr "Server"
 
 #. i18n: keyword: ServerNameDescription
 msgid "Adding a server here gives you an access token that allows you to run your own dedicated game instance."
-msgstr "Einen Server hier hinzuzufügen erteilt Ihnen einen Zugangstoken, welcher es Ihnen erlaubt Ihre eigenen dedizierten Spiele zu erstellen."
+msgstr "Einen Server hier hinzuzufügen, erteilt dir einen Zugangstoken, welcher dir erlaubt, deine eigenen dedizierten Spiele zu erstellen."
 
 #. i18n: keyword: NoServersDescription
 msgid "There are no servers associated to this game for your account."
-msgstr "Zu diesem Spiel sind für Ihren Account keine Server zugeordnet."
+msgstr "Zu diesem Spiel sind für deinen Account keine Server zugeordnet."
 
 #. i18n: keyword: AddNewServer
 msgid "Add New Server"
@@ -731,11 +731,11 @@ msgstr "Der Server wurde erfolgreich erstellt."
 
 #. i18n: keyword: DeleteGameServer
 msgid "Delete Game Server"
-msgstr ""
+msgstr "Lösche Spiele-Server"
 
 #. i18n: keyword: DeleteGameServerConfirmation
 msgid "Are you sure you want to delete this server:"
-msgstr ""
+msgstr "Bist du dir sicher, dass du diesen Server löschen möchtest?"
 
 #. i18n: keyword: RemoveServer
 msgid "Delete"
@@ -747,7 +747,7 @@ msgstr "Server konfigurieren"
 
 #. i18n: keyword: ConfigureServerDescription
 msgid "The following form allows you to configure the settings for the game server. Depending on which operating system you have you also need to execute a few scripts. Please follow the instructions that correspond to your system: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
-msgstr "Das folgende Formular erlaubt die Konfigurierung des Spieleservers. Abhängig davon welches Betriebssystem Sie nutzen, müssen Sie möglicherweise auch einige Skripte ausführen. Bitte folgen Sie der Anleitung für Ihr System: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
+msgstr "Das folgende Formular erlaubt die Konfigurierung des Spieleservers. Abhängig davon welches Betriebssystem du nutzt, musst du möglicherweise auch einige Skripte ausführen. Bitte folge der Anleitung für dein System: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
 
 #. i18n: keyword: ConfigureServerToken
 msgid "Server Token"
@@ -831,7 +831,7 @@ msgstr "Aktive und bevorstehende Betas"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for betas you’re interested in. You’ll receive an email if you are accepted into one."
-msgstr "Sie können sich für Betas registrieren, für die Sie sich interessieren. Sie werden eine E-Mail bekommen, falls Sie eine Zusage zu einer Beta erhalten."
+msgstr "Du kannst dich für Betas registrieren, für die du dich interessierst. Du wirst eine E-Mail bekommen, falls du eine Zusage zu einer Beta erhälst."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -871,7 +871,7 @@ msgstr "<a href='/community-translations'>Dieses ist eine inoffizielle Übersetz
 
 #. i18n: keyword: CommunityTranslationsDescription
 msgid "If you would like to add a new language or make corrections to the existing text <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>please visit the following link</a> and read the instructions of how to contribute to the translations of the website."
-msgstr "Wenn Sie eine weitere Sprache hinzufügen oder die bestehende Übersetzung korrigieren möchten, <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>besuchen Sie bitte den folgenden Link</a> und lesen die Anweisungen zum Bearbeiten der Übersetzungen dieser Webseite."
+msgstr "Wenn du eine weitere Sprache hinzufügen oder die bestehende Übersetzung korrigieren möchten, <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>besuche bitte diesen Link</a> und lese die Anweisungen zum Bearbeiten der Übersetzungen dieser Webseite."
 
 #. i18n: keyword: RewardTitle
 msgid "Drops & Rewards (Beta)"
@@ -879,7 +879,7 @@ msgstr "Gegenstände und Belohnungen (Beta)"
 
 #. i18n: keyword: RewardDescription
 msgid "Keep up to date and earn in-game rewards. We'll be adding new rewards from time to time, so check back often to see what's new! Use points to redeem items listed in the page below. Spools are useful inside the games."
-msgstr "Bleiben Sie auf dem Laufenden und verdienen Ingame-Belohnungen. Wir werden von Zeit zu Zeit neue Belohnungen hinzufügen, also schauen Sie öfters vorbei für Neuigkeiten."
+msgstr "Bleibe auf dem Laufenden und verdiene Ingame-Belohnungen. Wir werden von Zeit zu Zeit neue Belohnungen hinzufügen, also schaue öfters vorbei für Neuigkeiten."
 
 #. i18n: keyword: RewardLabel
 msgid "Reward"
@@ -891,7 +891,7 @@ msgstr "Belohnung einlösen"
 
 #. i18n: keyword: RewardWasLinked
 msgid "Successfully Linked!"
-msgstr ""
+msgstr "Erfolgreich verlinkt!"
 
 #. i18n: keyword: RewardWasClaimed
 msgid "Successfully Claimed!"
@@ -991,15 +991,15 @@ msgstr "Reward Link"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr "<p>Gratulation!</p><p>Du hast einen gültigen Belohnungslink in freier Wildbahn gefunden mit {{.Amount}} {{.Name}}.</p><p>Dein Guthaben wird sofort aktualisiert. Besuche bitte die Seite \"Benutzertransaktionen\" , um zu erfahren, wie sich dieser Vorgang auf deinen Kontostand ausgewirkt hat.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr "<p>Gratulation!</p><p>Du hast einen gültigen Belohnungslink in freier Wildbahn gefunden mit {{.Amount}} {{.Name}}.</p><p>Du wirst es jetzt im Spiel finden, wenn du es das nächste mal spielst. Besuche bitte die Seite \"Benutzertransaktionen\" , um zu erfahren, wie sich dieser Vorgang auf deinen Kontostand ausgewirkt hat.</p>"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
-msgstr "Whoa! Anscheinend haben Sie diesen Link bereits verwendet. Sie können diese Belohnung nur einmal einlösen."
+msgstr "Whoa! Anscheinend hast du diesen Link bereits verwendet. Du kannst diese Belohnung nur einmal einlösen."
 
 #. i18n: keyword: GiftRedemptionTitle
 msgid "Gift Redemption"
@@ -1007,7 +1007,7 @@ msgstr "Geschenk einlösen"
 
 #. i18n: keyword: GiftRedemptionDescription
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
-msgstr "Hallo! Es sieht so aus, als haben Sie einen Gegenstands- oder Belohnungs-Code, möchten Sie diesen jetzt einlösen? Tragen Sie den Code in das untenstehende Formular ein und Sie erhalten den Gegenstand schneller als Sie blinzeln können, <em>&mdash;außer wenn Sie extrem schnell blinzeln können, in diesem Fall die Augen bitte für einige Millisekunden schließen&mdash;</em>"
+msgstr "Hallo! Es sieht so aus, als hast du einen Gegenstands- oder Belohnungs-Code - möchtest du diesen jetzt einlösen? Trage den Code in das untenstehende Formular ein und du erhälst den Gegenstand schneller als du blinzeln kannst, <em>&mdash;außer wenn du extrem schnell blinzeln kannst, in diesem Fall die Augen bitte für einige Millisekunden schließen&mdash;</em>"
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
@@ -1067,11 +1067,11 @@ msgstr "Support-Anfrage erstellen"
 
 #. i18n: keyword: SupportDescription
 msgid "Please enter the details of your request. A member of our support staff will respond as soon as possible."
-msgstr "Bitte tragen Sie eine genaue Beschreibung Ihrer Anfrage ein (auf Englisch). Ein Mitarbeiter unseres Support-Teams wird Ihnen so schnell wie möglich antworten."
+msgstr "Bitte trage  eine genaue Beschreibung deiner Anfrage ein (auf Englisch). Ein Mitarbeiter unseres Support-Teams wird dir so schnell wie möglich antworten."
 
 #. i18n: keyword: SupportSuccess
 msgid "Your support request was successfully recorded. A member of our support staff will respond as soon as possible. Thank you for your patience."
-msgstr "Ihre Support-Anfrage wurde erfolgreich übermittelt. Ein Mitarbeiter unseres Support-Teams wird Ihnen so schnell wie möglich antworten. Vielen Dank für Ihre Geduld."
+msgstr "Deine Support-Anfrage wurde erfolgreich übermittelt. Ein Mitarbeiter unseres Support-Teams wird dir so schnell wie möglich antworten. Vielen Dank für deine Geduld."
 
 #. i18n: keyword: SupportName
 msgid "Name"
@@ -1099,31 +1099,31 @@ msgstr "Senden"
 
 #. i18n: keyword: E_ZENDESK_AUTH_PROBLEMS
 msgid "Could not authenticate you. Check your email address or register."
-msgstr "Wir konnten Sie nicht authentifizieren. Bitte überprüfen Sie Ihre E-Mail-Adresse oder registrieren Sie sich."
+msgstr "Wir konnten dich nicht authentifizieren. Bitte überprüfe deine E-Mail-Adresse oder registriere dich."
 
 #. i18n: keyword: E_ZENDESK_EMAIL_IS_MISSING
 msgid "Please <a href='/account/settings'>associate a valid email address to your account</a>. Otherwise, we will not be able to reply to your support request."
-msgstr "Bitte <a href='/account/settings'>verknüpfen Sie eine gültige E-Mail-Adresse mit Ihrem Account</a>. Andernfalls ist es uns nicht möglich, auf Ihre Support-Anfrage zu antworten."
+msgstr "Bitte <a href='/account/settings'>verknüpfe  eine gültige E-Mail-Adresse mit deinem Account</a>. Andernfalls ist es uns nicht möglich, auf deine Support-Anfrage zu antworten."
 
 #. i18n: keyword: E_ZENDESK_EMAIL_NOT_VERIFIED
 msgid "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
-msgstr "Das Support-System ist nur für Spieler mit einer verifizierten E-Mail-Adresse verfügbar. Bitte gehen Sie zu “Benutzer-Info” und verwenden die Schaltfläche “Verifizieren” unter dem Abschnitt “Einstellungen”."
+msgstr "Das Support-System ist nur für Spieler mit einer verifizierten E-Mail-Adresse verfügbar. Bitte gehe zu “Benutzer-Info” und verwende die Schaltfläche “Verifizieren” unter dem Abschnitt “Einstellungen”."
 
 #. i18n: keyword: E_ZENDESK_COOLDOWN_TIME
 msgid "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
-msgstr "Sie haben bereits vor wenigen Minuten eine Support-Anfrage übermittelt. Bitte warten Sie einige Minuten, um uns Zeit zu geben Ihnen und anderen Benutzern zu antworten."
+msgstr "Du hast bereits vor wenigen Minuten eine Support-Anfrage übermittelt. Bitte warte einige Minuten, um uns Zeit zu geben, dir und anderen Benutzern zu antworten."
 
 #. i18n: keyword: EmailAuthRequired
 msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
-msgstr "E-Mail Authentifizierung erforderlich. Bitte überprüfen Sie Ihre E-Mail und klicken auf den Authentifizierungslink."
+msgstr "E-Mail Authentifizierung erforderlich. Bitte überprüfe deine E-Mail und klicke auf den Authentifizierungslink."
 
 #. i18n: keyword: EnterDOB
 msgid "Please Enter Your Date of Birth"
-msgstr "Bitte tragen Sie Ihr Geburtsdatum ein."
+msgstr "Bitte trage dein Geburtsdatum ein."
 
 #. i18n: keyword: VerifyAge
 msgid "Please verify your age to complete registration."
-msgstr "Bitte bestätigen Sie Ihr Alter um die Registrierung abzuschließen."
+msgstr "Bitte bestätige dein Alter, um die Registrierung abzuschließen."
 
 #. i18n: keyword: ErrorDOBFormat
 msgid "Error - Date of Birth: Date of Birth Fields need to be entered in the correct format (DD/MM/YYYY)"
@@ -1135,7 +1135,7 @@ msgstr "Hey da, Jungspund. Du musst 13 Jahre oder älter sein, um einen Account 
 
 #. i18n: keyword: EmailInvalid
 msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
-msgstr "Ungültige E-Mail. Bitte überprüfen Sie, dass die E-Mail-Adresse im korrekten Format eingegeben wurde (z.B. name@email.com)."
+msgstr "Ungültige E-Mail. Bitte überprüfe, dass die E-Mail-Adresse im korrekten Format eingegeben wurde (z.B. name@email.com)."
 
 #. i18n: keyword: Error
 msgid "Error"
@@ -1147,7 +1147,7 @@ msgstr "Neuen Account erstellen"
 
 #. i18n: keyword: EmailInfoText
 msgid "Your e-mail address will be used to manage your account. We will send a confirmation e-mail here as well."
-msgstr "Ihre E-Mail-Adresse wird zur Verwaltung Ihres Accounts verwendet. Wir werden ebenfalls eine Bestätigungs-Mail an diese versenden."
+msgstr "Deine E-Mail-Adresse wird zur Verwaltung deines Accounts verwendet. Wir werden ebenfalls eine Bestätigungs-Mail an diese versenden."
 
 #. i18n: keyword: DOBInfoText
 msgid "Date of birth is required for age verification, security, and account recovery support."
@@ -1155,11 +1155,11 @@ msgstr "Das Geburtsdatum ist erforderlich für eine Altersverifizierung, Sicherh
 
 #. i18n: keyword: EmailNewsletterText
 msgid "Get emails for major announcements, events and promotions. You may change this setting later."
-msgstr "Erhalte E-Mails für größere Ankündigungen, Events und Promotionen. Sie können diese Einstellung jederzeit ändern."
+msgstr "Erhalte E-Mails für größere Ankündigungen, Events und Promotionen. Du kannst diese Einstellung jederzeit ändern."
 
 #. i18n: keyword: EULACheck
 msgid "Please review the EULA terms and agree by selecting the checkbox. You must agree with the EULA to continue."
-msgstr "Bitte lesen Sie unsere EULA und aktivieren das Bestätigungsfeld. Die EULA muss zum Fortfahren akzeptiert werden."
+msgstr "Bitte lese unsere EULA und aktiviere das Bestätigungsfeld. Die EULA muss zum Fortfahren akzeptiert werden."
 
 #. i18n: keyword: ResendAccountInfo
 msgid "Re-send Account Activation E-mail"
@@ -1167,11 +1167,11 @@ msgstr "E-Mail zur Account-Aktivierung erneut senden"
 
 #. i18n: keyword: AwaitingVerification
 msgid "Your account has been created previously, but is still awaiting e-mail verification.  Check your e-mail account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the e-mail."
-msgstr "Ihr Account wurde bereits erstellt, benötigt jedoch noch eine E-Mail-Verifizierung. Überprüfen Sie Ihren E-Mail-Account bzgl. Nachrichten von noreply@kleientertainment.com und klicken Sie auf den darin enthaltenen Bestätigungslink, um Ihre Account-Registrierung abzuschließen. Überprüfen Sie bitte auch den Spam-Ordner, falls Sie die E-Mail nicht finden können."
+msgstr "Dein Account wurde bereits erstellt, benötigt jedoch noch eine E-Mail-Verifizierung. Überprüfe deinen E-Mail-Account bzgl. Nachrichten von noreply@kleientertainment.com und klicke auf den darin enthaltenen Bestätigungslink, um deine Account-Registrierung abzuschließen. Überprüfe bitte auch den Spam-Ordner, falls du die E-Mail nicht finden kannst."
 
 #. i18n: keyword: ResendVerification
 msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address.  Please double-check it for accuracy!"
-msgstr "Falls Sie die E-Mail noch immer nicht finden können, nutzen Sie das untenstehende Formular um die Verifizierungs-Mail erneut zu senden. Sie können dabei eine andere E-Mail-Adresse verwenden. Bitte überprüfen Sie die Korrektheit der Eingabe!"
+msgstr "Falls du die E-Mail noch immer nicht finden kannst, nutze das untenstehende Formular, um die Verifizierungs-Mail erneut zu senden. Du kannst dabei eine andere E-Mail-Adresse verwenden. Bitte überprüfe die Korrektheit der Eingabe!"
 
 #. i18n: keyword: LoadingSteamProfile
 msgid "Loading Steam Profile…"
@@ -1179,7 +1179,7 @@ msgstr "Lade Steam-Profil…"
 
 #. i18n: keyword: AOLNote
 msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
-msgstr "HINWEIS: Zur Zeit gibt es Probleme bei AOL E-Mail-Adressen, die Validierungs-Mails zu erhalten. Falls Sie eine @aol E-Mail-Adresse verwenden, kann es sein, dass Sie die Validierungs-Mail nicht erhalten bis die Probleme gelöst sind. Wir empfehlen die Verwendung einer E-Mail-Adresse eines anderen Anbieters."
+msgstr "HINWEIS: Zur Zeit gibt es Probleme bei AOL E-Mail-Adressen, die Validierungs-Mails zu erhalten. Falls du eine @aol E-Mail-Adresse verwendest, kann es sein, dass du die Validierungs-Mail nicht erhälst bis die Probleme gelöst sind. Wir empfehlen die Verwendung einer E-Mail-Adresse eines anderen Anbieters."
 
 #. i18n: keyword: DOBUsage
 msgid "Date of birth (to verify your age)"
@@ -1191,7 +1191,7 @@ msgstr "Ich stimme der <a href='https://www.kleientertainment.com/games/dont-sta
 
 #. i18n: keyword: PrivatePolicyAgreement
 msgid "By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
-msgstr "Durch die Anmeldung stimmen Sie unseren <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Datenschutzbestimmungen</a> zu."
+msgstr "Durch die Anmeldung stimmst du unseren <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Datenschutzbestimmungen</a> zu."
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
@@ -1207,11 +1207,11 @@ msgstr "Fehler beim Verbinden zu Steam"
 
 #. i18n: keyword: E_JSON_BAD_EOF
 msgid "The server was unable to read the data you submitted. Please try again later."
-msgstr "Der Server konnte die übermittelten Daten nicht lesen. Bitte versuchen Sie es später erneut."
+msgstr "Der Server konnte die übermittelten Daten nicht lesen. Bitte versuche es später erneut."
 
 #. i18n: keyword: E_AUTH_FAILURE
 msgid "The authentication information provided did not match an existing account."
-msgstr "Die gegebenen Authentifizierungsdaten stimmen nicht mit einem bestehenden Account überein."
+msgstr "Die eingegebenen Authentifizierungsdaten stimmen mit keinem bestehenden Account überein."
 
 #. i18n: keyword: E_EMAIL_IN_USE
 msgid "The e-mail address is already being used."
@@ -1219,11 +1219,11 @@ msgstr "Die E-Mail-Adresse wird bereits verwendet."
 
 #. i18n: keyword: E_FAILED_SENDING_EMAIL
 msgid "There was a problem on the mail server. Please try again later."
-msgstr "Es gab ein Problem mit dem Mail-Server. Bitte versuchen Sie es später erneut."
+msgstr "Es gab ein Problem mit dem Mail-Server. Bitte versuche es später erneut."
 
 #. i18n: keyword: E_FIELD_IN_USE
 msgid "That value is already in use by another account. Please use another value."
-msgstr "Dieser Wert wird bereits von einem anderen Account verwendet. Bitte benutzen Sie einen anderen Wert."
+msgstr "Dieser Wert wird bereits von einem anderen Account verwendet. Bitte benutze einen anderen Wert."
 
 #. i18n: keyword: E_GAME_NOT_FOUND
 msgid "The game does not exists."
@@ -1235,7 +1235,7 @@ msgstr "Interner Serverfehler. Bitte nach einigen Augenblicken nochmal versuchen
 
 #. i18n: keyword: E_INVALID_HTTP_REFERER
 msgid "We are unable to verify the origin of the request, please close this page and start again."
-msgstr "Wir konnten den Ursprung der Anfrage nicht verifizieren, bitte schließen Sie diese Seite und versuchen es erneut."
+msgstr "Wir konnten den Ursprung der Anfrage nicht verifizieren, bitte schließe diese Seite und versuche es erneut."
 
 #. i18n: keyword: E_INVALID_DISPLAYNAME
 msgid "The user name chosen contained invalid characters."
@@ -1243,7 +1243,7 @@ msgstr "Der gewählte Benutzername enthält ungültige Zeichen."
 
 #. i18n: keyword: E_INVALID_EMAIL
 msgid "The e-mail address is not valid. Please check that you entered it correctly."
-msgstr "Die E-Mail-Adresse ist ungültig. Bitte überprüfen Sie, dass diese korrekt eingegeben wurde."
+msgstr "Die E-Mail-Adresse ist ungültig. Bitte überprüfe, dass diese korrekt eingegeben wurde."
 
 #. i18n: keyword: E_INVALID_PASSWORD
 msgid "The password provided is invalid."
@@ -1251,23 +1251,23 @@ msgstr "Das eingegebene Passwort ist ungültig."
 
 #. i18n: keyword: E_INVALID_SESSION
 msgid "Session has expired, you have to log in once again."
-msgstr "Die Session ist abgelaufen, Sie müssen sich erneut anmelden."
+msgstr "Die Session ist abgelaufen, du musst dich erneut anmelden."
 
 #. i18n: keyword: E_INVALID_SESSION_SAFARI
 msgid "Session has expired, you have to log in once again. <b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
-msgstr "Die Session ist abgelaufen, Sie müssen sich erneut anmelden. <b>Verwenden Sie Safari?</b> Falls ja, nutzen Sie bitte zeitweise einen alternativen Browser. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit's neuer Tracking-Schutz</a>, welcher in der neusten Version von Safari verwendet wird, hat unbeabsichtigt dazu geführt, dass keine Kommunikation zwischen Webseite und Back-End-Servern möglich ist."
+msgstr "Die Session ist abgelaufen, du musst dich erneut anmelden. <b>Verwendest du Safari?</b> Falls ja, nutze bitte zeitweise einen alternativen Browser. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit's neuer Tracking-Schutz</a>, welcher in der neusten Version von Safari verwendet wird, hat unbeabsichtigt dazu geführt, dass keine Kommunikation zwischen Webseite und Back-End-Servern möglich ist."
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
-msgstr "Ihr Steam-Account kann ohne Internetverbindung nicht authentifiziert werden."
+msgstr "Dein Steam-Account kann ohne Internetverbindung nicht authentifiziert werden."
 
 #. i18n: keyword: E_INVALID_STEAM_TICKET
 msgid "Fail to authenticate your Steam account. Please try again later."
-msgstr "Ihr Steam-Account konnte nicht authentifiziert werden. Bitte versuchen Sie es später erneut."
+msgstr "Ihr Steam-Account konnte nicht authentifiziert werden. Bitte versuche es später erneut."
 
 #. i18n: keyword: E_INVALID_STEAMID
 msgid "The SteamID is not valid."
-msgstr "Die Steam ID ist ungültig."
+msgstr "Die Steam-ID ist ungültig."
 
 #. i18n: keyword: E_INVALID_DATE
 msgid "The date is invalid."
@@ -1287,7 +1287,7 @@ msgstr "Der OAuth Zugangstoken fehlt, bitte erneut versuchen."
 
 #. i18n: keyword: E_KU_NOT_FOUND
 msgid "It was not possible to get a copy of the information associated to your user account."
-msgstr "Es war nicht möglich eine Kopie der Daten bezüglich Ihres Benutzer-Accounts zu erhalten."
+msgstr "Es war nicht möglich eine Kopie der Daten bezüglich deines Benutzer-Accounts zu erhalten."
 
 #. i18n: keyword: E_INVALID_TOKEN
 msgid "The server token is not valid anymore."
@@ -1299,27 +1299,27 @@ msgstr "Der Server-Token ist nicht mehr gültig, denn er ist abgelaufen."
 
 #. i18n: keyword: E_BANNED
 msgid "Your account has been banned."
-msgstr "Ihr Account wurde gesperrt."
+msgstr "Dein Account wurde gesperrt."
 
 #. i18n: keyword: E_LOGIN_ERROR
 msgid "We cannot validate your credentials right now. Try again after a few minutes."
-msgstr "Wir können Ihre Zugangsdaten zur Zeit nicht validieren. Bitte versuchen Sie es nach einigen Minuten erneut."
+msgstr "Wir können deine Zugangsdaten zur Zeit nicht validieren. Bitte versuche es nach einigen Minuten erneut."
 
 #. i18n: keyword: E_LOGIN_ERROR_BANNED
 msgid "You are not allowed to log in with this account because it has been banned."
-msgstr "Ihr Account wurde gesperrt."
+msgstr "Es ist dir nicht erlaubt, dich mit diesem Account einzuloggen, da dieser Account gesperrt wurde."
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
 msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Ihr Account wurde zur Löschung vermerkt und ist innerhalb von 30 Tagen dauerhaft nicht wiederherstellbar. Falls Sie weitere Hilfe benötigen, wenden Sie sich bitte an unseren <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>Support</a>."
+msgstr "Dein Account wurde zur Löschung vermerkt und ist innerhalb von 30 Tagen dauerhaft nicht wiederherstellbar. Falls du weitere Hilfe benötigst, wende dich bitte an unseren <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>Support</a>."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
 msgid "The authentication failed. The details have been sent to the administrators to investigate. Try again after a few minutes."
-msgstr "Die Authentifizierung ist fehlgeschlagen. Fehlerdetails wurden zur Überprüfung an die Administratoren übermittelt. Bitte versuchen Sie es nach einigen Minuten erneut."
+msgstr "Die Authentifizierung ist fehlgeschlagen. Fehlerdetails wurden zur Überprüfung an die Administratoren übermittelt. Bitte versuche es nach einigen Minuten erneut."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_MISSING
 msgid "The platform you are coming from didn’t provide us with the code to validate your account."
-msgstr "Die Plattform von der Sie kommen, hat uns keinen Code zur Validierung Ihres Accounts bereitgestellt."
+msgstr "Die Plattform von der du kommst, hat uns keinen Code zur Validierung deines Accounts bereitgestellt."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUDIENCE
 msgid "The authentication code was generated for a different platform."
@@ -1327,11 +1327,11 @@ msgstr "Der Authentifizierungscode wurde von einer anderen Plattform generiert."
 
 #. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
 msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Live account."
-msgstr "Die Anmeldung ist mit diesem Account zur Zeit nicht möglich. Bitte melden Sie sich bei Xbox.com an, um das Problem mit Ihrem Xbox Live Account zu beheben."
+msgstr "Die Anmeldung ist mit diesem Account zur Zeit nicht möglich. Bitte melde dich bei Xbox.com an, um das Problem mit deinem Xbox Live Account zu beheben."
 
 #. i18n: keyword: E_SESSION_ALREADY_EXISTS
 msgid "It appears you already have a valid session. If you want to login using a different gaming platform, please log out first."
-msgstr "Es scheint als haben Sie bereits eine gültige Session. Wenn Sie sich mit einer anderen Spiele-Plattform anmelden möchten, melden Sie sich bitte zunächst ab."
+msgstr "Es scheint als hast du bereits eine gültige Session. Wenn du dich mit einer anderen Spiele-Plattform anmelden möchtest, melde dich bitte zunächst ab."
 
 #. i18n: keyword: E_MISSING_DATA
 msgid "There’s not enough data to execute this action."
@@ -1339,11 +1339,11 @@ msgstr "Es sind nicht genügend Daten vorhanden, um diese Aktion durchzuführen.
 
 #. i18n: keyword: E_MISSING_FIELD
 msgid "You must provide a Steam ID, user name, or e-mail address."
-msgstr "Sie müssen eine Steam ID, Benutzername, oder E-Mail-Adresse eintragen."
+msgstr "Du musst eine Steam-ID, Benutzername, oder E-Mail-Adresse eintragen."
 
 #. i18n: keyword: E_MUST_VALIDATE_EMAIL
 msgid "The account has already been created, but is awaiting validation.  Check your e-mail."
-msgstr "Der Account wurde bereits erstellt, aber benötigt noch eine Validierung. Bitte überprüfen Sie Ihre E-Mails."
+msgstr "Der Account wurde bereits erstellt, aber benötigt noch eine Validierung. Bitte überprüfe deine E-Mails."
 
 #. i18n: keyword: E_EMAIL_ALREADY_SET
 msgid "The account already has an email set."
@@ -1355,15 +1355,15 @@ msgstr "Keine Authentifizierungsmethode bereitgestellt."
 
 #. i18n: keyword: E_NO_EULA
 msgid "You must agree to the End User License Agreement in order to proceed."
-msgstr "Sie müssen der End User License Agreement (EULA) zustimmen, um fortzufahren."
+msgstr "Du musst der End User License Agreement (EULA) zustimmen, um fortzufahren."
 
 #. i18n: keyword: E_NO_GAME_OWNERSHIP
 msgid "You do not appear to own the game."
-msgstr "Sie scheinen dieses Spiel nicht zu besitzen."
+msgstr "Du scheinst dieses Spiel nicht zu besitzen."
 
 #. i18n: keyword: E_NO_PASSWORD_RESET_CODE
 msgid "No password change request was make for your account."
-msgstr "Es wurde keine Anfrage zur Änderung des Passworts für Ihren Account erstellt."
+msgstr "Es wurde keine Anfrage zur Änderung des Passworts für deinen Account erstellt."
 
 #. i18n: keyword: E_NOT_FOUND
 msgid "DisplayName / Email not found"
@@ -1371,7 +1371,7 @@ msgstr "DisplayName / E-mail nicht vorhanden"
 
 #. i18n: keyword: E_PASSWORD_RESET_CODE_EXPIRED
 msgid "This password change request has expired. Please make a new request if you still require a new password."
-msgstr "Die Anfrage zur Änderung des Passworts ist abgelaufen. Bitte erstellen Sie eine neue Änderungsanfrage, wenn Sie weiterhin ein neues Passwort benötigen."
+msgstr "Die Anfrage zur Änderung des Passworts ist abgelaufen. Bitte erstelle eine neue Änderungsanfrage, wenn du weiterhin ein neues Passwort benötigst."
 
 #. i18n: keyword: E_PASSWORD_RESET_CODE_MISMATCH
 msgid "Password code mismatch."
@@ -1403,7 +1403,7 @@ msgstr "Die Steam ID konnte nicht erkannt werden."
 
 #. i18n: keyword: E_USERNAME_TAKEN
 msgid "That user name is already in use by another account. Please choose another name."
-msgstr "Dieser Benutzername wird bereits von einem anderen Account verwendet. Bitte wählen Sie einen anderen Namen."
+msgstr "Dieser Benutzername wird bereits von einem anderen Account verwendet. Bitte wähle einen anderen Namen."
 
 #. i18n: keyword: E_WHIPPERSNAPPER
 msgid "You must be at least 13 years old to register an account."
@@ -1411,15 +1411,15 @@ msgstr "Du musst mindestens 13 Jahre alt sein, um einen Account zu registrieren.
 
 #. i18n: keyword: E_INVALID_BIRTHDAY
 msgid "Invalid date of birth, date must be in this format: YYYY-MM-DD"
-msgstr "Ungültiges Geburtsdatum, stellen Sie sicher ein Datum ausgewählt zu haben."
+msgstr "Ungültiges Geburtsdatum, das Datum muss in diesem Format vorliegen: JJJJ-MM-TT"
 
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
-msgstr "Twitch hat die Anfrage zum Verknüpfen Ihres Klei-Accounts abgewiesen; dies ist typischerweise ein temporäres Problem der Twitch-Authentifizierungsserver. Bitte in einigen Minuten <a href='/account/twitch/link'>erneut versuchen</a>."
+msgstr "Twitch hat die Anfrage zum Verknüpfen deines Klei-Accounts abgewiesen; dies ist typischerweise ein temporäres Problem der Twitch-Authentifizierungsserver. Bitte in einigen Minuten <a href='/account/twitch/link'>erneut versuchen</a>."
 
 #. i18n: keyword: E_TWITCH_DATA_CONFLICT
 msgid "Apparently you have already connected your game ID with another Twitch account. Open a new session in your web browser (using “Incognito” or “Private” mode, for example) and log in with the secondary Twitch account, visit the “Settings” page, then “Connections”, then disconnect the “Klei Entertainment” application. Finally, return to this page and try to connect your Twitch account again."
-msgstr "Sie haben Ihre Spiel ID anscheinend bereits mit einem anderen Twitch-Account verknüpft. Öffnen Sie eine neue Session in Ihrem Webbrowser (beispielsweise im “Incognito”- oder  “Privat”-Modus) und melden sich mit Ihrem zweiten Twitch-Account an, gehen dort auf “Settings”, dann “Connections” und entfernen die Anwendung “Klei Entertainment”. Kehren Sie schließlich zu dieser Seite zurück und versuchen erneut, Ihren Twitch-Account zu verknüpfen."
+msgstr "Du hast deine Spiel-ID anscheinend bereits mit einem anderen Twitch-Account verknüpft. Öffne eine neue Session in deinem Webbrowser (beispielsweise im “Incognito”- oder  “Privat”-Modus) und melde dich mit deinem zweiten Twitch-Account an, gehe dort auf “Einstellungen”, dann “Verbindungen” und entferne die Anwendung “Klei Entertainment”. Kehre anschließend zu dieser Seite zurück und versuche erneut, deinen Twitch-Account zu verknüpfen."
 
 #. i18n: keyword: E_TWITCH_DELETED_SECRET
 msgid "Twitch is having problems verifying the credentials associated to our application. This usually happens when an internal service on Twitch infrastructure is having internal server errors. Please try again in a few minutes."
@@ -1427,11 +1427,11 @@ msgstr "Twitch hat Schwierigkeiten, die Zugangsdaten unserer Anwendung zu verifi
 
 #. i18n: keyword: E_TWITCH_BLACKLISTED
 msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
-msgstr "Die Option einen Twitch-Account mit Ihrem Klei-Account zu verknüpfen wurde entfernt. Wenn Sie denken, dass dies ein Irrtum ist, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>kontaktieren Sie uns</a> bitte."
+msgstr "Die Option, einen Twitch-Account mit deinem Klei-Account zu verknüpfen, wurde entfernt. Wenn du denkst, dass dies ein Irrtum ist, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>kontaktiere uns</a> bitte."
 
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "Ihr Klei-Account wurde bereits von Twitch abgemeldet. Wenn Sie denken, dass die Verknüpfung noch immer besteht, <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>besuchen Sie Ihr Twitch-Profil</a> und entfernen Sie die Anwendung “Klei Entertainment” manuell."
+msgstr "Dein Klei-Account wurde bereits von Twitch abgemeldet. Wenn du denkst, dass die Verknüpfung noch immer besteht, <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>besuche dein Twitch-Profil</a> und entferne die Anwendung “Klei Entertainment” manuell."
 
 #. i18n: keyword: E_TWITCH_INTERNAL_SERVER_ERROR
 msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
@@ -1443,7 +1443,7 @@ msgstr "Dieses Spiel unterstützt noch keine zusätzlichen Server."
 
 #. i18n: keyword: E_ALREADY_JOINED_BETA
 msgid "Your account is already registered for this beta."
-msgstr "Ihr Account wurde bereits für diese Beta registriert."
+msgstr "Dein Account wurde bereits für diese Beta registriert."
 
 #. i18n: keyword: E_NOT_ACTIVE_BETA
 msgid "The beta is not active anymore."
@@ -1451,11 +1451,11 @@ msgstr "Die Beta ist nicht mehr aktiv."
 
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
-msgstr "Ihr Computer hat ungültige Daten zum Server gesendet."
+msgstr "Dein Computer hat ungültige Daten zum Server gesendet."
 
 #. i18n: keyword: E_STEAM_FORBIDDEN
 msgid "Your account has been temporarily blocked by Steam."
-msgstr "Ihr Account wurde vorübergehend von Steam ausgeschlossen."
+msgstr "Dein Account wurde vorübergehend von Steam ausgeschlossen."
 
 #. i18n: keyword: E_STEAM_INTERNAL_SERVER_ERROR
 msgid "Steam servers are currently offline."
@@ -1463,15 +1463,15 @@ msgstr "Die Steam-Server sind zur Zeit offline."
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
 msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Steam hat Sie zu einer falschen URL weitergeleitet, wir können Ihre Zugangsdaten hier nicht überprüfen. Bitte löschen Sie Ihren Browser-Cache und Cookies, und versuchen noch einmal sich anzumelden. Falls Sie weitere Hilfe benötigen, wenden Sie sich bitte an unseren <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>Support</a>."
+msgstr "Steam hat dich zu einer falschen URL weitergeleitet, wir können deine Zugangsdaten hier nicht überprüfen. Bitte lösche deinen Browser-Cache und deine Cookies und versuche noch einmal, dich anzumelden. Falls du weitere Hilfe benötigst, wende dich bitte an unseren <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>Support</a>."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
 msgid "Steam prevented us from showing your profile information."
-msgstr "Steam hat verhindert, dass wir Ihre Profil-Informationen anzeigen."
+msgstr "Steam hat verhindert, dass wir deine Profil-Informationen anzeigen."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_TOO_MANY_REQUESTS
 msgid "We are unable to show your profile information because your computer is sending too many requests to Steam."
-msgstr "Es ist nicht möglich Ihre Profil-Informationen anzuzeigen, denn Ihr Computer sendet zu viele Anfragen an Steam."
+msgstr "Es ist nicht möglich, deine Profil-Informationen anzuzeigen, denn dein Computer sendet zu viele Anfragen an Steam."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR
 msgid "Steam servers is not available at the moment."
@@ -1479,43 +1479,43 @@ msgstr "Die Steam-Server sind zur Zeit nicht verfügbar."
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
 msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
-msgstr "Anscheinend betrachten Sie diese Webseite vom Steam In-Game Browser. Unglücklicherweise funktinieren einige Features dieser Webseite dabei nicht. Wenn Sie Probleme beim Verwenden dieser Seite haben, versuchen Sie es bitte mit einem Webbrowser außerhalb von Steam."
+msgstr "Anscheinend betrachtest du diese Webseite vom Steam In-Game Browser. Unglücklicherweise funktinieren einige Features dieser Webseite dabei nicht. Wenn du Probleme beim Verwenden dieser Seite hast, versuche es bitte mit einem Webbrowser außerhalb von Steam."
 
 #. i18n: keyword: E_OPENID_INVALID_MODE
 msgid "The previous website sent us invalid data. The OpenID “mode” parameter is invalid. Please start the login flow again."
-msgstr "Die vorherige Webseite hat uns ungültige Daten übermittelt. Der OpenID “mode”-Parameter ist ungültig. Bitte wiederholen Sie den Anmeldevorgang."
+msgstr "Die vorherige Webseite hat uns ungültige Daten übermittelt. Der OpenID “mode”-Parameter ist ungültig. Bitte wiederhole den Anmeldevorgang."
 
 #. i18n: keyword: E_OPENID_INVALID_RETURN_TO
 msgid "The previous website sent us invalid data. The OpenID “return_to” parameter is invalid. Please start the login flow again."
-msgstr "Die vorherige Webseite hat uns ungültige Daten übermittelt. Der OpenID “return_to”-Parameter ist ungültig. Bitte wiederholen Sie den Anmeldevorgang."
+msgstr "Die vorherige Webseite hat uns ungültige Daten übermittelt. Der OpenID “return_to”-Parameter ist ungültig. Bitte wiederhole den Anmeldevorgang."
 
 #. i18n: keyword: E_OPENID_INVALID_NAMESPACE
 msgid "The previous website sent us invalid data. The OpenID “namespace” parameter is invalid. Please start the login flow again."
-msgstr "Die vorherige Webseite hat uns ungültige Daten übermittelt. Der OpenID “namespace”-Parameter ist ungültig. Bitte wiederholen Sie den Anmeldevorgang."
+msgstr "Die vorherige Webseite hat uns ungültige Daten übermittelt. Der OpenID “namespace”-Parameter ist ungültig. Bitte wiederhole den Anmeldevorgang."
 
 #. i18n: keyword: E_OPENID_INVALID_SIGNATURE
 msgid "The previous website sent us invalid data. The signature of the verification request is invalid. Please start the login flow again."
-msgstr "Die vorherige Webseite hat uns ungültige Daten übermittelt. Die Signatur der Verifizierungsanfrage ist ungültig. Bitte wiederholen Sie den Anmeldevorgang."
+msgstr "Die vorherige Webseite hat uns ungültige Daten übermittelt. Die Signatur der Verifizierungsanfrage ist ungültig. Bitte wiederhole den Anmeldevorgang."
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "Der Spiele-Client hat nicht alle benötigten Informationen für die Authentifizierung Ihres Accounts übermittelt. Bitte schließen Sie das Spiel und starten es erneut."
+msgstr "Der Spiele-Client hat nicht alle benötigten Informationen für die Authentifizierung deines Accounts übermittelt. Bitte schließe das Spiel und starte es erneut."
 
 #. i18n: keyword: E_STEAM_BROKEN_TICKET
 msgid "Steam ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "Der Spiele-Client hat nicht alle benötigten Informationen für die Authentifizierung Ihres Accounts übermittelt. Bitte schließen Sie das Spiel und starten es erneut."
+msgstr "Der Spiele-Client hat nicht alle benötigten Informationen für die Authentifizierung deines Accounts übermittelt. Bitte schließe das Spiel und starte es erneut."
 
 #. i18n: keyword: E_RAIL_ID_IS_MISSING
 msgid "Tencent Games identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "Der Spiele-Client hat nicht alle benötigten Informationen für die Authentifizierung Ihres Accounts übermittelt. Bitte schließen Sie das Spiel und starten es erneut."
+msgstr "Der Spiele-Client hat nicht alle benötigten Informationen für die Authentifizierung deines Accounts übermittelt. Bitte schließe das Spiel und starte es erneut."
 
 #. i18n: keyword: E_RAIL_BROKEN_TICKET
 msgid "Tencent Games ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "Der Spiele-Client hat nicht alle benötigten Informationen für die Authentifizierung Ihres Accounts übermittelt. Bitte schließen Sie das Spiel und starten es erneut."
+msgstr "Der Spiele-Client hat nicht alle benötigten Informationen für die Authentifizierung deines Accounts übermittelt. Bitte schließe das Spiel und starte es erneut."
 
 #. i18n: keyword: E_RAIL_EXPIRED_TOKEN
 msgid "The access token has expired. Tencent is asking you to start the process again."
-msgstr "Der Zugangstoken ist abgelaufen. Tencent bittet Sie, den Prozess erneut zu starten."
+msgstr "Der Zugangstoken ist abgelaufen. Tencent bittet dich, den Prozess erneut zu starten."
 
 #. i18n: keyword: E_RAIL_GATEWAY_TIMEOUT
 msgid "Tencent’s user authentication service is not available right now. Please <a href='/login'>try again</a> in a few minutes."
@@ -1523,11 +1523,11 @@ msgstr "Die Benutzerauthentifizierung von Tencent ist zur Zeit nicht verfügbar.
 
 #. i18n: keyword: E_DOUYU_ALREADY_BINDED_TO_KU
 msgid "Your Douyu account is already linked with a Klei User ID."
-msgstr "Ihr Douyu-Account ist bereits mit einer Klei Benutzer ID verknüpft."
+msgstr "Dein Douyu-Account ist bereits mit einer Klei Benutzer-ID verknüpft."
 
 #. i18n: keyword: E_DOUYU_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Douyu. If you believe the connection still exists, please <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "Ihr Klei-Account wurde bereits von Douyu abgemeldet. Wenn Sie denken, dass die Verknüpfung noch immer besteht, <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>besuchen Sie Ihr Douyu-Profil</a> und entfernen Sie die Anwendung “Klei Entertainment” manuell."
+msgstr "Dein Klei-Account wurde bereits von Douyu abgemeldet. Wenn du denkst, dass die Verknüpfung noch immer besteht, <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>besuche dein Douyu-Profil</a> und entferne die Anwendung “Klei Entertainment” manuell."
 
 #. i18n: keyword: E_DOUYU_GATEWAY_TIMEOUT
 msgid "Douyu servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
@@ -1535,11 +1535,11 @@ msgstr "Die Douyu Server (von Tengine) sind zur Zeit nicht verfügbar. Bitte in 
 
 #. i18n: keyword: E_BILIBILI_ALREADY_BINDED_TO_KU
 msgid "Your Bilibili account is already linked with a Klei User ID."
-msgstr "Ihr Bilibili-Account ist bereits mit einer Klei Benutzer ID verknüpft."
+msgstr "Dein Bilibili-Account ist bereits mit einer Klei Benutzer-ID verknüpft."
 
 #. i18n: keyword: E_BILIBILI_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Bilibili. If you believe the connection still exists, please <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>visit your Bilibili profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "Ihr Klei-Account wurde bereits von Bilibili abgemeldet. Wenn Sie denken, dass die Verknüpfung noch immer besteht, <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>besuchen Sie Ihr Bilibili-Profil</a> und entfernen Sie die Anwendung “Klei Entertainment” manuell."
+msgstr "Dein Klei-Account wurde bereits von Bilibili abgemeldet. Wenn du denkst, dass die Verknüpfung noch immer besteht, <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>besuche dein Bilibili-Profil</a> und entferne die Anwendung “Klei Entertainment” manuell."
 
 #. i18n: keyword: E_BILIBILI_GATEWAY_TIMEOUT
 msgid "Bilibili servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
@@ -1547,11 +1547,11 @@ msgstr "Die Bilibili Server (von Tengine) sind zur Zeit nicht verfügbar. Bitte 
 
 #. i18n: keyword: E_INVALID_CSRF_TOKEN
 msgid "The form has expired, please go back, reload the page, and try again."
-msgstr "Das Formular ist abgelaufen, bitte gehen Sie zurück, laden die Seite erneut, und versuchen es noch einmal."
+msgstr "Das Formular ist abgelaufen, bitte gehe zurück, lade die Seite erneut und versuche es noch einmal."
 
 #. i18n: keyword: E_INVALID_USER_CONSENT
 msgid "Invalid user consent, you need to read the account deletion instructions very carefully."
-msgstr "Ungültige Benutzer-Zustimmung, Sie müssen die Anleitung zur Account-Löschung sorgfältig durchlesen."
+msgstr "Ungültige Benutzer-Zustimmung, du musst die Anleitung zur Account-Löschung sorgfältig durchlesen."
 
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
@@ -1559,7 +1559,7 @@ msgstr "Ungültiger Verfizierungscode."
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
-msgstr "Der Authentifizierungsanbieter konnte nicht bestimmt werden. Bitte überprüfen Sie, dass Ihr Internetbrowser Cookies von dieser Webseite akzeptiert, gehen dann zur “Login” Seite und versuchen es erneut."
+msgstr "Der Authentifizierungsanbieter konnte nicht bestimmt werden. Bitte überprüfe, dass dein Internetbrowser Cookies von dieser Webseite akzeptiert, gehe dann zur “Login”-Seite und versuche es erneut."
 
 #. i18n: keyword: E_CLIENT_TOKEN_HAS_EXPIRED
 msgid "Client login token has expired."
@@ -1575,19 +1575,19 @@ msgstr "Die Webseite unterstützt nur Client-Login Token. Der übermittelte Toke
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
-msgstr "Klei wurde keine Erlaubnis zur Verknüpfung Ihres Accounts erteilt. Um fortzufahren müssen Sie Klei die Erlaubnis bezüglich Ihres Accounts gewähren, wenn danach gefragt wird."
+msgstr "Klei wurde keine Erlaubnis zur Verknüpfung deines Accounts erteilt. Um fortzufahren, musst du Klei die Erlaubnis bezüglich deines Accounts gewähren, wenn danach gefragt wird."
 
 #. i18n: keyword: E_TWITTER_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitter. If you believe the connection still exists, please <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>visit your Twitter profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "Ihr Klei-Account wurde bereits von Twitter abgemeldet. Wenn Sie denken, dass die Verknüpfung noch immer besteht, <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>besuchen Sie Ihr Twitter-Profil</a> und entfernen Sie die Anwendung “Klei Entertainment” manuell."
+msgstr "Dein Klei-Account wurde bereits von Twitter abgemeldet. Wenn du denkst, dass die Verknüpfung noch immer besteht, <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>besuche dein Twitter-Profil</a> und entferne die Anwendung “Klei Entertainment” manuell."
 
 #. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "Ihr Klei-Account wurde bereits von Google abgemeldet. Wenn Sie denken, dass die Verknüpfung noch immer besteht, <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>besuchen Sie Ihr Google-Profil</a> und entfernen Sie die Anwendung “Klei Entertainment” manuell."
+msgstr "Dein Klei-Account wurde bereits von Google abgemeldet. Wenn du denkst, dass die Verknüpfung noch immer besteht, <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>besuche dein Google-Profil</a> und entferne die Anwendung “Klei Entertainment” manuell."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "Ihr Klei-Account wurde bereits von Facebook abgemeldet. Wenn Sie denken, dass die Verknüpfung noch immer besteht, <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>besuchen Sie Ihr Facebook-Profil</a> und entfernen Sie die Anwendung “Klei Entertainment” manuell."
+msgstr "Dein Klei-Account wurde bereits von Facebook abgemeldet. Wenn du denkst, dass die Verknüpfung noch immer besteht, <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>besuche dein Facebook-Profil</a> und entferne die Anwendung “Klei Entertainment” manuell."
 
 #. i18n: keyword: E_FACEBOOK_IS_UNAVAILABLE
 msgid "Facebook is unavailable right now. To process your request we need to pass some information to Facebook, but it seems their service is offline right now. Please wait a few minutes before trying again."
@@ -1595,7 +1595,7 @@ msgstr "Facebook ist zur Zeit nicht verfügbar. Um fortzufahren, müssen wir ein
 
 #. i18n: keyword: E_FACEBOOK_OAUTH_EXCEPTION
 msgid "An unexpected error has occurred on Facebook. Please retry your request later."
-msgstr "Ein unerwarteter Fehler ist bei Facebook aufgetreten. Bitte versuchen Sie es später erneut."
+msgstr "Ein unerwarteter Fehler ist bei Facebook aufgetreten. Bitte versuche es später erneut."
 
 #. i18n: keyword: E_FACEBOOK_CHECKPOINT_BLOCK
 msgid "Facebook stopped the process because there is an error validating access token: The user is enrolled in a blocking, logged-in checkpoint."
@@ -1603,19 +1603,19 @@ msgstr "Facebook hat den Vorgang abgebrochen, da ein Fehler bei der Validierung 
 
 #. i18n: keyword: E_EPIC_GAMES_EXPIRED_TOKEN
 msgid "Unfortunately, the token we use to communicate with Epic Games has expired. You will need to login again to allow the system to get a new token."
-msgstr "Der Token, den wir für die Kommunikation mit Epic Games verwenden, ist abgelaufen. Sie müssen sich erneut anmelden, damit das System einen neuen Token generieren kann."
+msgstr "Der Token, den wir für die Kommunikation mit Epic Games verwenden, ist abgelaufen. Du musst dich erneut anmelden, damit das System einen neuen Token generieren kann."
 
 #. i18n: keyword: E_NOT_ENOUGH_CURRENCY
 msgid "You do not have enough points to claim this item."
-msgstr "Sie verfügen nicht über genügend Punkte, um diesen Gegenstand einzulösen."
+msgstr "Du verfügst nicht über genügend Punkte, um diesen Gegenstand einzulösen."
 
 #. i18n: keyword: E_ALREADY_CLAIMED
 msgid "You already have claimed this reward."
-msgstr "Sie haben diese Belohnung bereits eingelöst."
+msgstr "Du hast diese Belohnung bereits eingelöst."
 
 #. i18n: keyword: E_UNKNOWN_LINK
 msgid "The link you have used is not valid. Please check the source of this link and try again."
-msgstr "Der verwednete Link ist ungültig. Bitte überprüfen Sie den Link und versuchen es nochmal."
+msgstr "Der verwednete Link ist ungültig. Bitte überprüfe den Link und versuchen es nochmal."
 
 #. i18n: keyword: E_EXPIRED_LINK
 msgid "We're sorry but this reward is no longer active. Please follow us on social media and subscribe to our mailing list to get new rewards as we publish them."
@@ -1627,23 +1627,23 @@ msgstr "Benutzer-Transaktionen"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
-msgstr "Alle (relevanten) Transaktionen Ihres Accounts sind im folgenden in absteigender Reihenfolge aufgeführt (neueste Transaktionen oben, alte Transaktionen unten). Beachten Sie, dass der Zeitpunkt einer Transaktion auf die Zeitzone des Webservers bezogen ist, Sie müssen also ggf. die Zahlen auf die Zeit Ihres eigenen Computers umrechnen."
+msgstr "Alle (relevanten) Transaktionen deines Accounts sind im folgenden in absteigender Reihenfolge aufgeführt (neueste Transaktionen oben, alte Transaktionen unten). Beachte, dass der Zeitpunkt einer Transaktion auf die Zeitzone des Webservers bezogen ist, du musst also ggf. die Zahlen auf die Zeit deines eigenen Computers umrechnen."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
-msgstr "Plattform Name"
+msgstr "Plattform-Name"
 
 #. i18n: keyword: FilterBy
 msgid "Filter by"
-msgstr ""
+msgstr "Filtern nach"
 
 #. i18n: keyword: AllTransactions
 msgid "All Transactions"
-msgstr ""
+msgstr "Alle Transaktionen"
 
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
-msgstr ""
+msgstr "Es gibt keine Transaktionen"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -1703,15 +1703,15 @@ msgstr "Kauf rückerstatten"
 
 #. i18n: keyword: TXN_MARKET_LIST_ITEM
 msgid "Market List Item"
-msgstr ""
+msgstr "Markt-Listengegenstand"
 
 #. i18n: keyword: TXN_MARKET_PURCHASE
 msgid "Market Purchase"
-msgstr ""
+msgstr "Markt-Erwerb"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
-msgstr ""
+msgstr "Markt-Rollback"
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
@@ -1719,7 +1719,7 @@ msgstr "Gegenstandshandel Abgabe"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
-msgstr ""
+msgstr "Gegenstandshandel Erwerb"
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
@@ -1767,36 +1767,36 @@ msgstr "Handelbar"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr ""
+msgstr "Unzureichendes Schraubenguthaben. Besuche bitte die <a href='/account/transactions'>Transaktionsseite</a>, um sicherzugehen, dass du genug Schrauben hast, um mit diesem Vorgang fortzufahren."
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
-msgstr ""
+msgstr "Unzureichendes Spulenguthaben. Besuche bitte die <a href='/account/transactions'>Transaktionsseite</a>, um sicherzugehen, dass du genug Spulen hast, um mit diesem Vorgang fortzufahren."
 
 #. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
 msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
-msgstr ""
+msgstr "Unzureichendes Punkteguthaben. Besuche bitte die <a href='/account/transactions'>Transaktionsseite</a> um sicherzugehen, dass du genug Punkte hast, um mit diesem Vorgang fortzufahren."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_TYPE
 msgid "The file you selected is not allowed. Please select either a JPEG, GIF or PNG file."
-msgstr ""
+msgstr "Die ausgewählte Datei ist ungültig. Bitte wähle eine Datei im JPEG-, GIF- oder PNG-Format aus."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_SIZE
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
-msgstr ""
+msgstr "Die ausgewählte Datei ist zu groß. Verkleinere sie bitte, um mit dem Upload fortzufahren."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
-msgstr ""
+msgstr "Leider kannst du nicht am Halloween-Event teilnehmen, wenn du den Event-Regeln nicht zugestimmt hast."
 
 #. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
-msgstr ""
+msgstr "Ein Administrator hat deine Einsendung bereits angenommen. Die Belohnung wirst du sehr bald erhalten. Falls du nach einigen Stunden immernoch nichts erhalten hast, besuche bitte die <a href='/account/transactions'>Transaktionsseite</a> und kontaktiere, wenn nötig, den Support."
 
 #. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
 msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
-msgstr ""
+msgstr "Danke für die Einsendung. Leider hast du das Limit für dieses Event erreicht. Warte bitte, bis die anderen Einsendungen angenommen oder abgelehnt wurden, bevor du versuchst, eine Weitere zu senden."
 
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
-msgstr ""
+msgstr "Danke für die Einsendung und Nachricht. Leider müssen wir die Nachricht auf achtzig (80) Zeichen begrenzen. Versuche es bitte noch mal mit einer kürzeren Nachricht."
