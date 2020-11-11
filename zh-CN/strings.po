@@ -27,7 +27,7 @@ msgstr "正在加载…"
 
 #. i18n: keyword: Search
 msgid "Search"
-msgstr ""
+msgstr "查找"
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -411,7 +411,7 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountConfirm
 msgid "Confirm"
-msgstr ""
+msgstr "确认"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
@@ -523,7 +523,7 @@ msgstr ""
 
 #. i18n: keyword: OWNERSHIP_STATUS_OWNED_BOUGHT
 msgid "Purchased"
-msgstr ""
+msgstr "已购买"
 
 #. i18n: keyword: OWNERSHIP_STATUS_OWNED_GRANTED
 msgid "Granted by Klei"
@@ -543,15 +543,15 @@ msgstr ""
 
 #. i18n: keyword: OWNERSHIP_STATUS_UNOWNED
 msgid "Not owned"
-msgstr ""
+msgstr "尚未拥有"
 
 #. i18n: keyword: OWNERSHIP_STATUS_UNKNOWN_TEMPORARY
 msgid "Temporary error, please retry later"
-msgstr ""
+msgstr "暂时性错误，请稍后再试"
 
 #. i18n: keyword: OWNERSHIP_STATUS_UNKNOWN_PERMANENT
 msgid "Unknown Status"
-msgstr ""
+msgstr "未知的状态"
 
 #. i18n: keyword: DeleteAccount
 msgid "Delete Account"
@@ -591,7 +591,7 @@ msgstr "从我的Steam库存中删除商品，包括购买的商品"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayDST
 msgid "I do not want to play Don’t Starve Together anymore"
-msgstr "我不想再玩“不要饿死”了"
+msgstr "我不想再玩“饥荒联机”了"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayHL
 msgid "I do not want to play Hot Lava anymore"
@@ -731,11 +731,11 @@ msgstr "成功创建服务器。"
 
 #. i18n: keyword: DeleteGameServer
 msgid "Delete Game Server"
-msgstr ""
+msgstr "删除游戏服务器"
 
 #. i18n: keyword: DeleteGameServerConfirmation
 msgid "Are you sure you want to delete this server:"
-msgstr ""
+msgstr "你确定要删除这个服务器吗"
 
 #. i18n: keyword: RemoveServer
 msgid "Delete"
@@ -819,7 +819,7 @@ msgstr ""
 
 #. i18n: keyword: ItemsFilterRarity
 msgid "Rarity"
-msgstr ""
+msgstr "稀有度"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -999,7 +999,7 @@ msgstr ""
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
-msgstr ""
+msgstr "哇！看上去你已经点击过这个链接了。你只能领取这个奖励一次"
 
 #. i18n: keyword: GiftRedemptionTitle
 msgid "Gift Redemption"
@@ -1011,7 +1011,7 @@ msgstr ""
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
-msgstr ""
+msgstr "输入你的礼品码"
 
 #. i18n: keyword: GiftRedemptionSubmitButton
 msgid "Redeem Code"
@@ -1603,7 +1603,7 @@ msgstr ""
 
 #. i18n: keyword: E_EPIC_GAMES_EXPIRED_TOKEN
 msgid "Unfortunately, the token we use to communicate with Epic Games has expired. You will need to login again to allow the system to get a new token."
-msgstr ""
+msgstr "非常不幸，Epic Games的授权码已经过期，您需要重新登陆授权"
 
 #. i18n: keyword: E_NOT_ENOUGH_CURRENCY
 msgid "You do not have enough points to claim this item."
@@ -1611,7 +1611,7 @@ msgstr "您的积分不足，无法领取该物品。"
 
 #. i18n: keyword: E_ALREADY_CLAIMED
 msgid "You already have claimed this reward."
-msgstr ""
+msgstr "您已经领取过这个奖励"
 
 #. i18n: keyword: E_UNKNOWN_LINK
 msgid "The link you have used is not valid. Please check the source of this link and try again."
@@ -1623,7 +1623,7 @@ msgstr ""
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
-msgstr ""
+msgstr "用户的交易"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
@@ -1631,19 +1631,19 @@ msgstr ""
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
-msgstr ""
+msgstr "平台名称"
 
 #. i18n: keyword: FilterBy
 msgid "Filter by"
-msgstr ""
+msgstr "过滤"
 
 #. i18n: keyword: AllTransactions
 msgid "All Transactions"
-msgstr ""
+msgstr "所有交易"
 
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
-msgstr ""
+msgstr "没有交易"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -1651,19 +1651,19 @@ msgstr ""
 
 #. i18n: keyword: CurrentBalanceForPoints
 msgid "Current Points Balance"
-msgstr ""
+msgstr "当前点数余额"
 
 #. i18n: keyword: NewBalance
 msgid "New Balance:"
-msgstr ""
+msgstr "新的点数余额"
 
 #. i18n: keyword: TXN_NOT_SUPPORTED
 msgid "Transaction Not Supported"
-msgstr ""
+msgstr "不支持的交易"
 
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
-msgstr ""
+msgstr "创建一个物品"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
@@ -1731,23 +1731,23 @@ msgstr ""
 
 #. i18n: keyword: TXN_TWITCH_ITEM_DROP
 msgid "Twitch Item Drop"
-msgstr ""
+msgstr "Twitch物品掉落"
 
 #. i18n: keyword: TXN_DAILY_GIFT_ITEM
 msgid "Daily Gift Item"
-msgstr ""
+msgstr "每日礼物"
 
 #. i18n: keyword: TXN_WEEKLY_GIFT_ITEM
 msgid "Weekly Gift Item"
-msgstr ""
+msgstr "每周礼物"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
-msgstr ""
+msgstr "Steam盒子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
 msgid "Tencent Games Box"
-msgstr ""
+msgstr "腾讯游戏盒子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
 msgid "Currency Box"
@@ -1755,7 +1755,7 @@ msgstr ""
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
-msgstr ""
+msgstr "Steam游戏盒子DLC包"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
@@ -1763,7 +1763,7 @@ msgstr ""
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr ""
+msgstr "可交易的"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
