@@ -71,7 +71,7 @@ msgstr "游戏"
 
 #. i18n: keyword: Betas
 msgid "Betas"
-msgstr "Betas测试"
+msgstr "Beta测试"
 
 #. i18n: keyword: Language
 msgid "Language"
