@@ -71,7 +71,7 @@ msgstr "游戏"
 
 #. i18n: keyword: Betas
 msgid "Betas"
-msgstr "Betas测试"
+msgstr "Beta测试"
 
 #. i18n: keyword: Language
 msgid "Language"
@@ -147,7 +147,7 @@ msgstr "账户注册"
 
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
-msgstr "您的Klei帐户已成功创建！请填写表格以激活它从而可以使用其他功能。您还可以订阅我们的新闻以接收有关您喜欢的游戏的信息。"
+msgstr "您的Klei账户已成功创建！请填写此表格以激活账户从而可以使用其他功能。您还可以订阅我们的新闻以接收有关您喜欢的游戏的信息。"
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -199,11 +199,11 @@ msgstr "哎呀，您的链接好像是无效的。"
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "We cannot execute this operation because your e-mail address is not verified yet."
-msgstr "我们无法执行此操作，因为您的邮箱地址尚未验证。"
+msgstr "由于您的邮箱地址尚未验证，我们无法执行此操作。"
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
-msgstr "你的邮箱地址已被验证。"
+msgstr "您的邮箱地址已被验证。"
 
 #. i18n: keyword: EmailStatusNotVerified
 msgid "Not Verified"
@@ -251,11 +251,11 @@ msgstr "正在订阅..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr ""
+msgstr "获取 {{.GameName}} 的最新重要新闻和更新情报。我们不会发送很多邮件，并且会努力保证这些邮件的重要性。您可以随时从我们发送的任何邮件底部轻松取消订阅。同时您也可以关注我们的Twitter账号 <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a> 以获取最新情报！"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
-msgstr "订阅已完成"
+msgstr "订阅完成"
 
 #. i18n: keyword: SubscribeCompleteDescription
 msgid "Your email subscription has been processed. If this is the first time you subscribe to one of our newsletters, you will receive a confirmation email."
@@ -323,7 +323,7 @@ msgstr "已连接账户"
 
 #. i18n: keyword: LinkAccountButton
 msgid "Link Account"
-msgstr "绑定帐户"
+msgstr "绑定账户"
 
 #. i18n: keyword: AddedOn
 msgid "Added On"
@@ -399,11 +399,11 @@ msgstr "合并账户"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
-msgstr "此操作将允许一个Klei帐户与多个平台相关联。适用于当您在多个平台上拥有帐户并希望将所有帐户都关联到一个Klei帐户时。"
+msgstr "此操作将允许一个Klei账户与多个平台相关联。这适用于您在多个平台拥有账户并希望将它们都关联至一个Klei账户的情况。"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
-msgstr "请单击对勾以确认您已阅读并理解以下内容。"
+msgstr "请勾选以确认您已阅读并理解以下内容。"
 
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
@@ -419,19 +419,19 @@ msgstr "请输入 大写的“merge accounts” 以确认："
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"
-msgstr "我了解后果，请合并这些帐户"
+msgstr "我已了解后果，请合并这些账户"
 
 #. i18n: keyword: MergeAccountDoButton
 msgid "I understand, merge these accounts"
-msgstr "我了解，请合并这些帐户"
+msgstr "我已了解，请合并这些账户"
 
 #. i18n: keyword: MergeAccountSuccessTitle
 msgid "Successful Account Merge"
-msgstr "成功合并账户"
+msgstr "合并账户成功"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr ""
+msgstr "账户合并操作已成功完成</p><p>我们已经清空了您的会话以便于您使用新账户登录。</p><p>在其他游戏平台上，游戏将会被按需授予。</p><p>记得你需要<strong>至少启动这个游戏一次</strong>以使我们能检测到它。"
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -439,27 +439,27 @@ msgstr "修复警告"
 
 #. i18n: keyword: MergeAccountReviewEmail
 msgid "Below is your Klei account e-mail:"
-msgstr "以下是您的Klei帐户邮箱："
+msgstr "以下是您Klei账户的邮箱地址："
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
-msgstr "请仔细检查这是正确的要合并的游戏帐户。"
+msgstr "请仔细检查这是正确的要合并的游戏账户。"
 
 #. i18n: keyword: MergeAccountReadyToExecute
 msgid "We have checked all the information we could find about the two accounts you are about to merge and did not find any warnings. You will be able to log in with the new account after submitting this form."
-msgstr "我们已检查了所有有关您将要合并的两个帐户的信息，但未发现任何警告。提交此表格后，您将可以使用新帐户登录。"
+msgstr "我们已经检查了所有有关您将要合并的两个账户的信息，并且未发现任何警告。提交此表格后，您将可以使用新账户登录。"
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
-msgstr "如果您不同时拥有两个帐户，请不要使用此功能。这两个帐户将被视为单个人而无法同时玩多人游戏。"
+msgstr "如果您不同时拥有两个账户，请*不要*使用此功能。这两个账户将被视为一个人，并将无法同时玩多人游戏。"
 
 #. i18n: keyword: MergeAccountConsentQuestion2
 msgid "This process is permanent and cannot be reverted or changed."
-msgstr "此操作是永久性的，无法还原或更改。"
+msgstr "此操作是永久性的，无法撤销或更改。"
 
 #. i18n: keyword: MergeAccountConsentQuestion3
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
-msgstr "平台一旦关联到Klei帐户就无法取消。"
+msgstr "一个平台一旦被关联到Klei账户就无法取消。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
@@ -467,23 +467,23 @@ msgstr "抱歉，您尝试合并的游戏平台尚不能支持此操作。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_INVALID_CONSENT
 msgid "Invalid user consent, you need to read the account merge instructions very carefully."
-msgstr "“用户同意”无效，您需要非常仔细地阅读帐户合并说明。"
+msgstr "“用户同意”无效，您需要非常仔细地阅读账户合并说明。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_MISSING_DATA
 msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
-msgstr "由于某些数据丢失，现在无法合并您的帐户。请注销并重新开始该操作。确保您的浏览器接受cookie，并且您要合并的两个帐户是正确的。"
+msgstr "由于某些数据丢失，现在无法合并您的账户。请登出并重新开始该操作。确保您的浏览器接受cookie，并且您要合并的两个账户是正确的。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
-msgstr "请更新您的*Klei*帐户以使用相同的邮箱地址，然后重新开始该操作。"
+msgstr "请更新您的*Klei*账户以使用相同的邮箱地址，然后重新开始该操作。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the e-mail address in both accounts and start the process again."
-msgstr "请验证/确认两个帐户中的邮箱地址，然后重新开始该操作。"
+msgstr "请确认两个账户中的邮箱地址，然后重新开始该操作。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
-msgstr "我们无法合并您的帐户，因为其中之一被禁用。"
+msgstr "我们无法合并您的账户，因为其中之一被禁用。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PASSWORD_RESET
 msgid "It appears your password was reset some time ago but you never finished the verification process."
@@ -491,19 +491,19 @@ msgstr "看起来您的密码在不久前重设过，但您尚未完成验证过
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_MARKED_FOR_DELETION
 msgid "We cannot merge your accounts because one of them is marked for deletion."
-msgstr "我们无法合并您的帐户，因为其中一个已被标记为删除。"
+msgstr "我们无法合并您的账户，因为其中一个已被标记为删除。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_NOTHING_TO_MERGE
 msgid "There is nothing to merge for this account."
-msgstr "此帐户没有可合并的内容。"
+msgstr "此账户没有可合并的内容。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
-msgstr "您已经合并了Epic Games帐户。"
+msgstr "您已经合并过了Epic Games账户。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
-msgstr "您已经合并了Steam帐户。"
+msgstr "您已经合并过了Steam账户。"
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -515,7 +515,7 @@ msgstr "下表显示了您在不同游戏平台上的游戏的拥有状态。"
 
 #. i18n: keyword: OwnershipGrantingText
 msgid "Game granting is in progress. This operation may take several minutes, in the meantime you can visit the game ownership page for updates. We appreciate your patience and hope you enjoy playing the game with your friends."
-msgstr "游戏授权正在进行中。此操作可能需要几分钟，与此同时，您可以访问游戏拥有页面以查看更新。感谢您的耐心配合，并希望您与朋友享受游戏。"
+msgstr "游戏授权正在进行中。此操作可能需要几分钟，在这期间您可以访问游戏拥有页面以查看更新。感谢您的耐心配合，并希望您与朋友享受游戏。"
 
 #. i18n: keyword: OwnershipPageButton
 msgid "Visit Game Ownership Page"
@@ -555,11 +555,11 @@ msgstr "未知的状态"
 
 #. i18n: keyword: DeleteAccount
 msgid "Delete Account"
-msgstr "删除帐户"
+msgstr "删除账户"
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
-msgstr "删除帐户后，无法还原此操作。 请确认您了解后果。"
+msgstr "删除账户后，无法还原此操作。请确认您了解后果。"
 
 #. i18n: keyword: DeleteAccountAreYouSure
 msgid "Are you absolutely sure?"
@@ -571,7 +571,7 @@ msgstr "如果你不读这个就会发生意想不到的坏事！"
 
 #. i18n: keyword: DeleteAccountExplanation
 msgid "At your request, your <b>Klei account</b> and all personally identifiable information related to your account (excluding financial transactions and information related to abuse) will be submitted to be permanently removed from our system.</p><p><b>Please note: You will not be able to reverse this action, and all data will be completely and irrecoverably removed.</b></p><p><strong>This means you will no longer be able to play any game that requires a Klei Account (Don’t Starve Together and Hot Lava) the {{.PlatformName}} account will be banned permanently, and all records will be destroyed forever including progress, items and entitlements.</strong>"
-msgstr "根据您的请求，您的Klei帐户和所有与您的帐户相关的个人身份信息(不包括交易以及与您负面行为有关的信息)将被永久从我们的系统中删除。</p><p><b>请注意：您将无法逆转此操作，所有的数据将被彻底和不可逆转地删除。</b></p><p><strong>这意味着您将无法继续游玩任何需要使用Klei账户的游戏（饥荒 和 Hot Lava），您的{{.PlatformName}}账户将被永久禁止，包括进程、物品和权限在内的所有记录信息都会被彻底永久的删除。</strong>"
+msgstr "根据您的请求，您的Klei账户和所有与您的账户相关的个人身份信息(不包括交易以及与您负面行为有关的信息)将被永久从我们的系统中删除。</p><p><b>请注意：您将无法逆转此操作，所有的数据将被彻底和不可逆转地删除。</b></p><p><strong>这意味着您将无法继续游玩任何需要使用Klei账户的游戏（饥荒 和 Hot Lava），您的{{.PlatformName}}账户将被永久禁止，包括进程、物品和权限在内的所有记录信息都会被彻底永久的删除。</strong>"
 
 #. i18n: keyword: DeleteAccountOptions
 msgid "Check the boxes to confirm you understand what is going to happen:"
@@ -591,15 +591,15 @@ msgstr "从我的Steam库存中删除商品，包括购买的商品"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayDST
 msgid "I do not want to play Don’t Starve Together anymore"
-msgstr "我不想再玩“饥荒联机”了"
+msgstr "我不想再玩《饥荒：联机版》了"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayHL
 msgid "I do not want to play Hot Lava anymore"
-msgstr "我不想再玩热熔岩了"
+msgstr "我不想再玩《热熔岩》了"
 
 #. i18n: keyword: DeleteAccountOptionsBanAccount
 msgid "Ban my {{.PlatformName}} account from playing Klei games for a MINIMUM of 30 days"
-msgstr "禁止我的{{.PlatformName}}帐户玩Klei游戏最少30天"
+msgstr "禁止我的{{.PlatformName}}账户玩Klei游戏最少30天"
 
 #. i18n: keyword: DeleteAccountConfirm
 msgid "Confirm Deletion"
@@ -615,11 +615,11 @@ msgstr "我理解后果，继续"
 
 #. i18n: keyword: VerifyAccountDeletionTitle
 msgid "Verify Account Deletion"
-msgstr "帐户注销验证"
+msgstr "账户注销验证"
 
 #. i18n: keyword: VerifyAccountDeletionDescription
 msgid "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.PlatformName}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.PlatformName}} account to prevent this from happening again."
-msgstr "我们通过邮件向您发送了验证码以确认您的帐户会被注销，请复制验证码并将其粘贴到以下方框。</p><p>如果您没有收到验证码，请单击“取消”，并确认您的邮箱填写正确无误，然后重新操作。</p><p>如果您并未请求删除您的帐户，则有可能是其他拥有您{{.PlatformName}}账户访问权限的人在进行操作。单击“取消”彻底停止删除账号过程，并请更改您的{{.PlatformName}}帐户密码以防止这种情况再次发生。"
+msgstr "我们通过邮件向您发送了验证码以确认您的账户会被注销，请复制验证码并将其粘贴到以下方框。</p><p>如果您没有收到验证码，请单击“取消”，并确认您的邮箱填写正确无误，然后重新操作。</p><p>如果您并未请求删除您的账户，则有可能是其他拥有您{{.PlatformName}}账户访问权限的人在进行操作。单击“取消”彻底停止删除账号过程，并请更改您的{{.PlatformName}}账户密码以防止这种情况再次发生。"
 
 #. i18n: keyword: VerifyAccountDeletionCode
 msgid "Verification Code"
@@ -651,27 +651,27 @@ msgstr "前往网页"
 
 #. i18n: keyword: GetDRMFreeGames
 msgid "Get DRM-free Games"
-msgstr "获取DRM-free游戏"
+msgstr "获取无DRM版游戏"
 
 #. i18n: keyword: DRMFreeGameKey
 msgid "DRM Game Key"
-msgstr ""
+msgstr "DRM游戏密钥"
 
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
-msgstr "DRM-Free下载"
+msgstr "无DRM版下载"
 
 #. i18n: keyword: DRMFreeDownloadDescription
 msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
-msgstr "您可以在 DRM-free下载这个游戏。更多信息详见 <a href=\"/\">这里</a>."
+msgstr "您可以下载这个游戏的无DRM版。更多信息详见 <a href=\"/\">这里</a>。"
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
-msgstr "错误：您似乎没有任何合格的游戏。"
+msgstr "错误：您似乎并未拥有任何适用的游戏。"
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
-msgstr "饥荒联机版的游戏服务器"
+msgstr "《饥荒：联机版》的游戏服务器"
 
 #. i18n: keyword: DontStarveTogetherInventory
 msgid "Items Inventory"
@@ -679,11 +679,11 @@ msgstr "物品库存"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr ""
+msgstr "<b>搜索提示：</b> 输入一到两个词来在您的游戏库存中查找物品。例如找一个叫做<b>Wilson Red Hat</b>的物品，您可以输入<b>Wilson</b>或<b>Hat</b>或<b>Wilson Hat</b>。搜索词的顺序会对结果产生影响，这意味着您使用\"Hat Wilson\"是无法找到任何结果的，因为它和物品名中单词的顺序是不同的。<b>按下回车</b>来提交搜索请求。删除搜索内容并再次按下回车以重置筛选器。"
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr "您选择的游戏没有物品。请确保您已选择“饥荒”。"
+msgstr "您选择的游戏没有物品。请确保您已选择《饥荒：联机版》。"
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
@@ -703,7 +703,7 @@ msgstr "下载"
 
 #. i18n: keyword: GetKey
 msgid "Get Key"
-msgstr "获取密匙"
+msgstr "获取密钥"
 
 #. i18n: keyword: Servers
 msgid "Servers"
@@ -715,7 +715,7 @@ msgstr "在这里添加服务器可以提供一个访问令牌，允许您运行
 
 #. i18n: keyword: NoServersDescription
 msgid "There are no servers associated to this game for your account."
-msgstr "您的帐户中没有与此游戏相关的服务器。"
+msgstr "您的账户中没有与此游戏相关的服务器。"
 
 #. i18n: keyword: AddNewServer
 msgid "Add New Server"
@@ -747,7 +747,7 @@ msgstr "配置服务器"
 
 #. i18n: keyword: ConfigureServerDescription
 msgid "The following form allows you to configure the settings for the game server. Depending on which operating system you have you also need to execute a few scripts. Please follow the instructions that correspond to your system: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
-msgstr "以下表单允许您配置游戏服务器的设置。 根据您拥有的操作系统，您还需要执行一些脚本。 请按照与您的系统对应的说明进行操作：<a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>。"
+msgstr "以下表单允许您配置游戏服务器的设置。根据您拥有的操作系统，您还需要执行一些脚本。请按照与您的系统对应的说明进行操作：<a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>。"
 
 #. i18n: keyword: ConfigureServerToken
 msgid "Server Token"
@@ -811,11 +811,11 @@ msgstr "您的物品库存"
 
 #. i18n: keyword: ItemsDialogRarity
 msgid "Rarity:"
-msgstr "稀有度"
+msgstr "稀有度："
 
 #. i18n: keyword: ItemsDialogRedeemed
 msgid "Redeemed:"
-msgstr ""
+msgstr "已兑换："
 
 #. i18n: keyword: ItemsFilterRarity
 msgid "Rarity"
@@ -871,7 +871,7 @@ msgstr "<a href='/community-translations'>这是一个非官方的翻译。</a>"
 
 #. i18n: keyword: CommunityTranslationsDescription
 msgid "If you would like to add a new language or make corrections to the existing text <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>please visit the following link</a> and read the instructions of how to contribute to the translations of the website."
-msgstr ""
+msgstr "如果您想要添加一个新的语言，或者校正现存的翻译 <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>请访问以下链接</a> 并阅读关于如何为网站的翻译作出贡献的指引。"
 
 #. i18n: keyword: RewardTitle
 msgid "Drops & Rewards (Beta)"
@@ -879,7 +879,7 @@ msgstr "掉落以及奖励（Beta测试）"
 
 #. i18n: keyword: RewardDescription
 msgid "Keep up to date and earn in-game rewards. We'll be adding new rewards from time to time, so check back often to see what's new! Use points to redeem items listed in the page below. Spools are useful inside the games."
-msgstr ""
+msgstr "获取最新情报以及游戏内奖励。我们将会不时添加新的奖励，您可以常回来看看有什么新玩意！使用点数来兑换页面下方列出的物品。线轴在游戏内很有用。"
 
 #. i18n: keyword: RewardLabel
 msgid "Reward"
@@ -911,11 +911,11 @@ msgstr "点"
 
 #. i18n: keyword: RewardBoltsAbbreviation
 msgid "bolts"
-msgstr ""
+msgstr "螺栓"
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
-msgstr ""
+msgstr "线轴"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
@@ -927,15 +927,15 @@ msgstr "剩余点数"
 
 #. i18n: keyword: RewardNameTwitch
 msgid "Watch “Don’t Starve Together” on Twitch"
-msgstr "在Twitch上观看“饥荒联机版”"
+msgstr "在Twitch上观看《饥荒：联机版》"
 
 #. i18n: keyword: RewardNameDouyu
 msgid "Watch “Don’t Starve Together” on DouYu"
-msgstr "在斗鱼上观看“饥荒联机版”"
+msgstr "在斗鱼上观看《饥荒：联机版》"
 
 #. i18n: keyword: RewardNameBilibili
 msgid "Watch “Don’t Starve Together” on Bilibili"
-msgstr "在哔哩哔哩上观看“饥荒联机版”"
+msgstr "在哔哩哔哩上观看《饥荒：联机版》"
 
 #. i18n: keyword: RewardNameYoutube
 msgid "Follow us on YouTube"
@@ -983,7 +983,7 @@ msgstr "兑换"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
-msgstr ""
+msgstr "奖励名称："
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
@@ -991,11 +991,11 @@ msgstr "奖励链接"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr ""
+msgstr "<p>恭喜！</p><p>您在野外找到一个有效的奖励链接，包含{{.Amount}} {{.Name}}.</p><p>您的余额将会立即更新。请参照 \"User Transactions\" 页面来了解这项操作对你账户余额的影响。</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr ""
+msgstr "<p>恭喜！</p><p>您在野外找到一个有效的奖励链接，包含{{.Amount}} {{.Name}}.</p><p>您将会在下次游玩时在游戏中找到它。请参照 \"User Transactions\" 页面来了解这项操作对你账户余额的影响。</p>"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1007,7 +1007,7 @@ msgstr "礼品兑换"
 
 #. i18n: keyword: GiftRedemptionDescription
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
-msgstr ""
+msgstr "您好！看上去您有一个物品码或礼品码，您想要现在兑换它吗？在下方填入您的兑换码，然后我们就会将此物品以比你眨眼还快的速度发给你<em>&mdash;除非您眨眼可以真的眨得很快，在这种情况下您应该闭上您的眼睛几毫秒;</em>"
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
@@ -1015,23 +1015,23 @@ msgstr "输入你的礼品码"
 
 #. i18n: keyword: GiftRedemptionSubmitButton
 msgid "Redeem Code"
-msgstr "礼品码"
+msgstr "兑换码"
 
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Gift code redemption was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr ""
+msgstr "恭喜！礼品码已成功兑换。</p><p>送达时间会因为临时的传送门异常而不同。Klei不对因等待造成的情绪受伤负责。礼品可能会导致吹牛皮，惊喜，以及/或者增强的游戏体验。"
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
-msgstr ""
+msgstr "点击此处以兑换另一个礼品"
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
-msgstr "物品或礼品码无效。"
+msgstr "物品码或礼品码无效"
 
 #. i18n: keyword: E_ALREADY_USED
 msgid "Item key or gift code has already been used."
-msgstr "物品或礼品码已被使用。"
+msgstr "物品码或礼品码已经被使用了"
 
 #. i18n: keyword: E_INVALID_PLATFORM
 msgid "The token used to redeem the gift code does not support the gaming platform you selected."
@@ -1039,19 +1039,19 @@ msgstr "您使用的礼品码不支持您选择的游戏平台。"
 
 #. i18n: keyword: E_INVALID_TOKENTYPE
 msgid "The token used to redeem the gift code has a different purpose."
-msgstr ""
+msgstr "用于兑换礼品代码的令牌是用作其他目的的。"
 
 #. i18n: keyword: Facebook
 msgid "Facebook"
-msgstr "脸书"
+msgstr "Facebook"
 
 #. i18n: keyword: Instagram
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #. i18n: keyword: Twitch
 msgid "Twitch"
-msgstr ""
+msgstr "Twitch"
 
 #. i18n: keyword: Douyu
 msgid "Douyu"
@@ -1099,19 +1099,19 @@ msgstr "提交"
 
 #. i18n: keyword: E_ZENDESK_AUTH_PROBLEMS
 msgid "Could not authenticate you. Check your email address or register."
-msgstr "无法验证您的身份。检查您的邮箱地址或注册。"
+msgstr "无法验证您的身份。检查您的邮箱地址或进行注册。"
 
 #. i18n: keyword: E_ZENDESK_EMAIL_IS_MISSING
 msgid "Please <a href='/account/settings'>associate a valid email address to your account</a>. Otherwise, we will not be able to reply to your support request."
-msgstr ""
+msgstr "请<a href='/account/settings'>关联一个有效的电子邮箱到您的账户</a>。否则我们将无法回复您的支持请求。"
 
 #. i18n: keyword: E_ZENDESK_EMAIL_NOT_VERIFIED
 msgid "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
-msgstr "支持系统仅对具有经过验证的邮箱地址的用户开放。请转到“用户信息”，然后在“首选项”面板下找到“验证”按钮。"
+msgstr "支持系统仅对具有经过验证的邮箱地址的用户开放。请转到“用户信息”，然后在“偏好”面板下找到“验证”按钮。"
 
 #. i18n: keyword: E_ZENDESK_COOLDOWN_TIME
 msgid "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
-msgstr "您已经在几分钟前提交了支持请求。请稍等几分钟，让我们有时间回复您和其他用户。"
+msgstr "您在几分钟前已经提交了一个支持请求。请稍等一会儿，让我们有时间回复您和其他用户。"
 
 #. i18n: keyword: EmailAuthRequired
 msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
@@ -1147,11 +1147,11 @@ msgstr "创建新账户"
 
 #. i18n: keyword: EmailInfoText
 msgid "Your e-mail address will be used to manage your account. We will send a confirmation e-mail here as well."
-msgstr "您的邮箱地址将用于管理您的帐户.我们也会在这里发送确认邮件."
+msgstr "您的邮箱地址将用于管理您的账户.我们也会在这里发送确认邮件."
 
 #. i18n: keyword: DOBInfoText
 msgid "Date of birth is required for age verification, security, and account recovery support."
-msgstr "我们需要您提供出生日期以支持年龄核实、安全和帐户恢复。"
+msgstr "我们需要您提供出生日期以支持年龄核实、安全和账户恢复。"
 
 #. i18n: keyword: EmailNewsletterText
 msgid "Get emails for major announcements, events and promotions. You may change this setting later."
@@ -1163,11 +1163,11 @@ msgstr "请检查最终用户许可协议的条款，并勾选同意选项复选
 
 #. i18n: keyword: ResendAccountInfo
 msgid "Re-send Account Activation E-mail"
-msgstr "重新发送帐户激活邮件"
+msgstr "重新发送账户激活邮件"
 
 #. i18n: keyword: AwaitingVerification
 msgid "Your account has been created previously, but is still awaiting e-mail verification.  Check your e-mail account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the e-mail."
-msgstr "您曾经创建过此账户，但仍在等待邮件验证。请查看您邮箱，以获得norespon@kolyentertainment.com发送的消息，单击其中包含的验证链接以完成您的帐户注册。如果找不到邮件，请务必检查您的垃圾邮件或垃圾文件夹。"
+msgstr "您曾经创建过此账户，但仍在等待邮件验证。请查看您邮箱，以获得norespon@kolyentertainment.com发送的消息，单击其中包含的验证链接以完成您的账户注册。如果找不到邮件，请务必检查您的垃圾邮件或垃圾文件夹。"
 
 #. i18n: keyword: ResendVerification
 msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address.  Please double-check it for accuracy!"
@@ -1211,7 +1211,7 @@ msgstr "服务器无法读取您提交的数据，请稍后再试。"
 
 #. i18n: keyword: E_AUTH_FAILURE
 msgid "The authentication information provided did not match an existing account."
-msgstr "所提供的身份验证信息与现有帐户不匹配。"
+msgstr "所提供的身份验证信息与现有账户不匹配。"
 
 #. i18n: keyword: E_EMAIL_IN_USE
 msgid "The e-mail address is already being used."
@@ -1223,7 +1223,7 @@ msgstr "邮件服务器错误，请稍后再试。"
 
 #. i18n: keyword: E_FIELD_IN_USE
 msgid "That value is already in use by another account. Please use another value."
-msgstr "该值已被另一个帐户使用，请用另一个值。"
+msgstr "该值已被另一个账户使用，请用另一个值。"
 
 #. i18n: keyword: E_GAME_NOT_FOUND
 msgid "The game does not exists."
@@ -1259,11 +1259,11 @@ msgstr "操作已过期，您必须再次登录。<b>Are you using Safari?</b> I
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
-msgstr "在没有联网的情况下无法验证您的Steam帐户。"
+msgstr "在没有联网的情况下无法验证您的Steam账户。"
 
 #. i18n: keyword: E_INVALID_STEAM_TICKET
 msgid "Fail to authenticate your Steam account. Please try again later."
-msgstr "无法验证您的Steam帐户。请稍后再试。"
+msgstr "无法验证您的Steam账户。请稍后再试。"
 
 #. i18n: keyword: E_INVALID_STEAMID
 msgid "The SteamID is not valid."
@@ -1287,7 +1287,7 @@ msgstr "缺少OAuth访问令牌，请重试。"
 
 #. i18n: keyword: E_KU_NOT_FOUND
 msgid "It was not possible to get a copy of the information associated to your user account."
-msgstr "无法获得与用户帐户信息相关的游戏。"
+msgstr "无法获得与用户账户信息相关的游戏。"
 
 #. i18n: keyword: E_INVALID_TOKEN
 msgid "The server token is not valid anymore."
@@ -1299,7 +1299,7 @@ msgstr "服务器令牌不再有效，因为它已过期。"
 
 #. i18n: keyword: E_BANNED
 msgid "Your account has been banned."
-msgstr "您的帐户已被禁止。"
+msgstr "您的账户已被停用。"
 
 #. i18n: keyword: E_LOGIN_ERROR
 msgid "We cannot validate your credentials right now. Try again after a few minutes."
@@ -1307,19 +1307,19 @@ msgstr "我们现在无法验证您的证书。请过稍后再试。"
 
 #. i18n: keyword: E_LOGIN_ERROR_BANNED
 msgid "You are not allowed to log in with this account because it has been banned."
-msgstr "由于该帐户已被停用，因此您无法使用该帐户登录。"
+msgstr "由于该账户已被停用，因此您无法使用该账户登录。"
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
 msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "您的帐户已被标记为删除，并将在30天内永久无法恢复。 如果您需要进一步的帮助，<a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>请联系支持</a>。"
+msgstr "您的账户已被标记为删除，并将在30天内永久无法恢复。如果您需要进一步的帮助，<a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>请联系支持</a>。"
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
 msgid "The authentication failed. The details have been sent to the administrators to investigate. Try again after a few minutes."
-msgstr "身份验证失败。 详细信息已发送给管理员进行调查。 几分钟后再试一次。"
+msgstr "身份验证失败。详细信息已发送给管理员进行调查。几分钟后再试一次。"
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_MISSING
 msgid "The platform you are coming from didn’t provide us with the code to validate your account."
-msgstr "您所在的平台没有为我们提供验证您帐户的代码。"
+msgstr "您所在的平台没有为我们提供验证您账户的代码。"
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUDIENCE
 msgid "The authentication code was generated for a different platform."
@@ -1327,11 +1327,11 @@ msgstr "身份验证代码是为不同的平台生成的。"
 
 #. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
 msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Live account."
-msgstr "此时无法登录该帐户。请登录Xbox.com以解决XboxLive帐户的问题。"
+msgstr "此时无法登录该账户。请登录Xbox.com以解决XboxLive账户的问题。"
 
 #. i18n: keyword: E_SESSION_ALREADY_EXISTS
 msgid "It appears you already have a valid session. If you want to login using a different gaming platform, please log out first."
-msgstr "看来你已经有了一个有效的会话。 如果您想使用其他游戏平台登录，请先退出。"
+msgstr "看来你已经有了一个有效的会话。如果您想使用其他游戏平台登录，请先退出。"
 
 #. i18n: keyword: E_MISSING_DATA
 msgid "There’s not enough data to execute this action."
@@ -1343,11 +1343,11 @@ msgstr "您必须提供Steam ID、用户名或邮箱地址."
 
 #. i18n: keyword: E_MUST_VALIDATE_EMAIL
 msgid "The account has already been created, but is awaiting validation.  Check your e-mail."
-msgstr "帐户已经创建，但正在等待验证。请查看您的邮件。"
+msgstr "账户已经创建，但正在等待验证。请查看您的邮件。"
 
 #. i18n: keyword: E_EMAIL_ALREADY_SET
 msgid "The account already has an email set."
-msgstr "该帐户已有一个邮箱集。"
+msgstr "该账户已有一个邮箱集。"
 
 #. i18n: keyword: E_NO_AUTH
 msgid "No authentication mechanism provided"
@@ -1363,7 +1363,7 @@ msgstr "您似乎还没有这款游戏。"
 
 #. i18n: keyword: E_NO_PASSWORD_RESET_CODE
 msgid "No password change request was make for your account."
-msgstr "您的帐户没有密码更改请求。"
+msgstr "您的账户没有密码更改请求。"
 
 #. i18n: keyword: E_NOT_FOUND
 msgid "DisplayName / Email not found"
@@ -1415,7 +1415,7 @@ msgstr "无效的出生日期，日期必须采用以下格式：YYYY-MM-DD"
 
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
-msgstr ""
+msgstr "Twitch拒绝了连接到您Klei账户的请求；这通常是Twitch授权服务器的暂时性问题。请在几分钟后<a href='/account/twitch/link'>重试/a>。"
 
 #. i18n: keyword: E_TWITCH_DATA_CONFLICT
 msgid "Apparently you have already connected your game ID with another Twitch account. Open a new session in your web browser (using “Incognito” or “Private” mode, for example) and log in with the secondary Twitch account, visit the “Settings” page, then “Connections”, then disconnect the “Klei Entertainment” application. Finally, return to this page and try to connect your Twitch account again."
@@ -1423,19 +1423,19 @@ msgstr "你的“游戏用户ID”似乎已经连接到了另一个账户。请�
 
 #. i18n: keyword: E_TWITCH_DELETED_SECRET
 msgid "Twitch is having problems verifying the credentials associated to our application. This usually happens when an internal service on Twitch infrastructure is having internal server errors. Please try again in a few minutes."
-msgstr ""
+msgstr "Twitch在验证与我们的应用程序关联的凭据时遇到问题。这通常发生在Twitch基础架构中的内部服务出现内部服务器错误的时候。请在几分钟后重试。"
 
 #. i18n: keyword: E_TWITCH_BLACKLISTED
 msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
-msgstr "已删除将Twitch帐户与您的Klei帐户相关联的选项。 如果您认为这是一个错误，<a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>请与我们联系</a>。"
+msgstr "已删除将Twitch账户与您的Klei账户相关联的选项。如果您认为这是一个错误，<a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>请与我们联系</a>。"
 
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "您的Klei帐户已与Twitch断开连接。 如果您认为该连接仍然存在，请 <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>访问您的Twitch个人资料</a> 并手动断开“Klei Entertainment”应用程序。"
+msgstr "您的Klei账户已与Twitch断开连接。如果您认为该连接仍然存在，请 <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>访问您的Twitch个人资料</a> 并手动断开“Klei Entertainment”应用程序。"
 
 #. i18n: keyword: E_TWITCH_INTERNAL_SERVER_ERROR
 msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
-msgstr ""
+msgstr "Twitch服务器在处理此操作时遇到问题。请在几分钟后重试。"
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_SERVERS
 msgid "This game doesn’t support additional servers yet."
@@ -1455,7 +1455,7 @@ msgstr "您的计算机向服务器发送了错误的数据。"
 
 #. i18n: keyword: E_STEAM_FORBIDDEN
 msgid "Your account has been temporarily blocked by Steam."
-msgstr "您的帐户已暂时被Steam禁止。"
+msgstr "您的账户已暂时被Steam禁止。"
 
 #. i18n: keyword: E_STEAM_INTERNAL_SERVER_ERROR
 msgid "Steam servers are currently offline."
@@ -1463,63 +1463,63 @@ msgstr "Steam服务器当前处于脱机状态。"
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
 msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr ""
+msgstr "Steam将您重定向至一个错误的URL，我们无法在此验证您的凭据。请清空您的浏览器缓存与Cookie，并再次尝试登录。如果您需要进一步的帮助，请<a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>联系客户支持</a>。"
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
 msgid "Steam prevented us from showing your profile information."
-msgstr ""
+msgstr "Steam阻止了我们显示您的个人资料信息。"
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_TOO_MANY_REQUESTS
 msgid "We are unable to show your profile information because your computer is sending too many requests to Steam."
-msgstr ""
+msgstr "我们无法显示您的个人资料信息，因为您的计算机向Steam发送了过多请求。"
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR
 msgid "Steam servers is not available at the moment."
-msgstr ""
+msgstr "Steam服务器目前无法连接。"
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
 msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
-msgstr "看来您正在使用Steam游戏内浏览器查看此网页。 不幸的是，此网站上的某些功能在这种环境下无法很好地工作。 如果您在使用此功能时遇到问题，请考虑使用Steam之外的常规Web浏览器。"
+msgstr "看来您正在使用Steam游戏内浏览器查看此网页。不幸的是，此网站上的某些功能在这种环境下无法很好地工作。如果您在使用此功能时遇到问题，请考虑使用Steam之外的常规Web浏览器。"
 
 #. i18n: keyword: E_OPENID_INVALID_MODE
 msgid "The previous website sent us invalid data. The OpenID “mode” parameter is invalid. Please start the login flow again."
-msgstr ""
+msgstr "先前的网站向我们发送了无效数据。OpenID的“mode”参数无效。请重新开始登录流程。"
 
 #. i18n: keyword: E_OPENID_INVALID_RETURN_TO
 msgid "The previous website sent us invalid data. The OpenID “return_to” parameter is invalid. Please start the login flow again."
-msgstr ""
+msgstr "先前的网站向我们发送了无效数据。OpenID的“return_to”参数无效。请重新开始登录流程。"
 
 #. i18n: keyword: E_OPENID_INVALID_NAMESPACE
 msgid "The previous website sent us invalid data. The OpenID “namespace” parameter is invalid. Please start the login flow again."
-msgstr ""
+msgstr "先前的网站向我们发送了无效数据。OpenID的“namespace”参数无效。请重新开始登录流程。"
 
 #. i18n: keyword: E_OPENID_INVALID_SIGNATURE
 msgid "The previous website sent us invalid data. The signature of the verification request is invalid. Please start the login flow again."
-msgstr ""
+msgstr "先前的网站向我们发送了无效数据。认证请求的签名无效。请重新开始登录流程。"
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr ""
+msgstr "Steam identifier遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新开始。"
 
 #. i18n: keyword: E_STEAM_BROKEN_TICKET
 msgid "Steam ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr ""
+msgstr "Steam ticket遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新开始。"
 
 #. i18n: keyword: E_RAIL_ID_IS_MISSING
 msgid "Tencent Games identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr ""
+msgstr "腾讯游戏identifier遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新开始。"
 
 #. i18n: keyword: E_RAIL_BROKEN_TICKET
 msgid "Tencent Games ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr ""
+msgstr "腾讯游戏ticket遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新开始。"
 
 #. i18n: keyword: E_RAIL_EXPIRED_TOKEN
 msgid "The access token has expired. Tencent is asking you to start the process again."
-msgstr "访问令牌已过期。 腾讯要求您重新开始该过程。"
+msgstr "访问令牌已过期。腾讯要求您重新开始该过程。"
 
 #. i18n: keyword: E_RAIL_GATEWAY_TIMEOUT
 msgid "Tencent’s user authentication service is not available right now. Please <a href='/login'>try again</a> in a few minutes."
-msgstr "腾讯的用户身份验证服务目前不可用. 请在几分钟后<a href='/login'>重试</a>。"
+msgstr "腾讯的用户身份验证服务目前不可用。请在几分钟后<a href='/login'>重试</a>。"
 
 #. i18n: keyword: E_DOUYU_ALREADY_BINDED_TO_KU
 msgid "Your Douyu account is already linked with a Klei User ID."
@@ -1527,11 +1527,11 @@ msgstr "您的斗鱼账户已与Klei用户ID相关联。"
 
 #. i18n: keyword: E_DOUYU_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Douyu. If you believe the connection still exists, please <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "您的Klei帐户已与斗鱼断开连接。 如果您认为该连接仍然存在，请 <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>访问您的斗鱼个人资料</a> 并手动断开“Klei Entertainment”应用程序。"
+msgstr "您的Klei账户已与斗鱼断开连接。如果您认为该连接仍然存在，请 <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>访问您的斗鱼个人资料</a> 并手动断开“Klei Entertainment”应用程序。"
 
 #. i18n: keyword: E_DOUYU_GATEWAY_TIMEOUT
 msgid "Douyu servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
-msgstr "斗鱼服务器（由Tengine提供支持）目前不可用。请几分钟后再试一次。"
+msgstr "斗鱼服务器（由Tengine提供支持）目前不可用。请在几分钟后再试一次。"
 
 #. i18n: keyword: E_BILIBILI_ALREADY_BINDED_TO_KU
 msgid "Your Bilibili account is already linked with a Klei User ID."
@@ -1539,11 +1539,11 @@ msgstr "您的哔哩哔哩账户已与Klei用户ID相关联。"
 
 #. i18n: keyword: E_BILIBILI_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Bilibili. If you believe the connection still exists, please <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>visit your Bilibili profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "您的Klei帐户已与哔哩哔哩断开连接。 如果您认为该连接仍然存在，请 <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>访问您的哔哩哔哩个人资料</a> 并手动断开“Klei Entertainment”应用程序。"
+msgstr "您的Klei账户已与哔哩哔哩断开连接。如果您认为该连接仍然存在，请 <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>访问您的哔哩哔哩个人资料</a> 并手动断开“Klei Entertainment”应用程序。"
 
 #. i18n: keyword: E_BILIBILI_GATEWAY_TIMEOUT
 msgid "Bilibili servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
-msgstr "哔哩哔哩服务器（由Tengine提供支持）目前不可用。请几分钟后再试一次。"
+msgstr "哔哩哔哩服务器（由Tengine提供支持）目前不可用。请在几分钟后再试一次。"
 
 #. i18n: keyword: E_INVALID_CSRF_TOKEN
 msgid "The form has expired, please go back, reload the page, and try again."
@@ -1551,7 +1551,7 @@ msgstr "表单已过期，请返回，重新加载页面，然后重试。"
 
 #. i18n: keyword: E_INVALID_USER_CONSENT
 msgid "Invalid user consent, you need to read the account deletion instructions very carefully."
-msgstr "用户销毁许可，您需要非常仔细地阅读帐户删除说明。"
+msgstr "用户销毁许可，您需要非常仔细地阅读账户删除说明。"
 
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
@@ -1563,35 +1563,35 @@ msgstr "未检测到授权提供者。请检查您的网络浏览器是否接受
 
 #. i18n: keyword: E_CLIENT_TOKEN_HAS_EXPIRED
 msgid "Client login token has expired."
-msgstr ""
+msgstr "客户端登录令牌已过期。"
 
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_GAME
 msgid "Client login token was generated for a different game."
-msgstr ""
+msgstr "客户端登录令牌由一个另外的游戏生成。"
 
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_PURPOSE
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
-msgstr ""
+msgstr "网页只支持客户端登录令牌。您提供的令牌似乎有效，但是它是为完全不同的目的生成的。"
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
-msgstr "Klei尚未获得关联您帐户的权限。要继续此操作，您需要在提示出现时允许Klei访问您的帐户。"
+msgstr "Klei尚未获得关联您账户的权限。要继续此操作，您需要在提示出现时允许Klei访问您的账户。"
 
 #. i18n: keyword: E_TWITTER_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitter. If you believe the connection still exists, please <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>visit your Twitter profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "您的Klei帐户已与Twitter断开连接。 如果您认为该连接仍然存在，请 <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>访问您的Twitter个人资料</a> 并手动断开“Klei Accounts”应用程序。"
+msgstr "您的Klei账户已与Twitter断开连接。如果您认为该连接仍然存在，请 <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>访问您的Twitter个人资料</a> 并手动断开“Klei Accounts”应用程序。"
 
 #. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "您的Klei帐户已与Google断开连接。 如果您认为该连接仍然存在，请 <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>访问您的Google个人资料</a> 并手动断开“Klei Accounts”应用程序。"
+msgstr "您的Klei账户已与Google断开连接。如果您认为该连接仍然存在，请 <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>访问您的Google个人资料</a> 并手动断开“Klei Accounts”应用程序。"
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "您的Klei帐户已与Facebook断开连接。 如果您认为该连接仍然存在，请 <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>访问您的Facebook个人资料</a> 并手动断开“Klei Accounts”应用程序。"
+msgstr "您的Klei账户已与Facebook断开连接。如果您认为该连接仍然存在，请 <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>访问您的Facebook个人资料</a> 并手动断开“Klei Accounts”应用程序。"
 
 #. i18n: keyword: E_FACEBOOK_IS_UNAVAILABLE
 msgid "Facebook is unavailable right now. To process your request we need to pass some information to Facebook, but it seems their service is offline right now. Please wait a few minutes before trying again."
-msgstr "Facebook目前无法使用。 要处理您的请求，我们需要将一些信息传递给Facebook，但似乎他们的服务目前离线。 请等待几分钟，然后重试。"
+msgstr "Facebook目前无法使用。要处理您的请求，我们需要将一些信息传递给Facebook，但似乎他们的服务目前离线。请等待几分钟，然后重试。"
 
 #. i18n: keyword: E_FACEBOOK_OAUTH_EXCEPTION
 msgid "An unexpected error has occurred on Facebook. Please retry your request later."
@@ -1599,7 +1599,7 @@ msgstr "Facebook发生了意外错误。请稍后重试您的请求。"
 
 #. i18n: keyword: E_FACEBOOK_CHECKPOINT_BLOCK
 msgid "Facebook stopped the process because there is an error validating access token: The user is enrolled in a blocking, logged-in checkpoint."
-msgstr ""
+msgstr "Facebook停止了此操作，因为验证访问令牌时出错：用户被分配到一个被阻塞的登录检查点。"
 
 #. i18n: keyword: E_EPIC_GAMES_EXPIRED_TOKEN
 msgid "Unfortunately, the token we use to communicate with Epic Games has expired. You will need to login again to allow the system to get a new token."
@@ -1619,15 +1619,15 @@ msgstr "您使用的链接无效。请检查此链接的来源，然后重试。
 
 #. i18n: keyword: E_EXPIRED_LINK
 msgid "We're sorry but this reward is no longer active. Please follow us on social media and subscribe to our mailing list to get new rewards as we publish them."
-msgstr ""
+msgstr "我们很抱歉，但此奖励已经不再有效。请在社交媒体上关注我们并订阅我们的邮件，以在我们发布最新奖励时获取它们。。"
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
-msgstr "用户的交易"
+msgstr "用户交易"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
-msgstr ""
+msgstr "与您的账户关联的所有（相关）交易皆按降序排列（最新的交易在顶部，最旧的交易在底部）在下方列出。请注意，交易的时间基于Web服务器的时区，您可能需要将它们换算到您的时区。"
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
@@ -1647,7 +1647,7 @@ msgstr "没有交易"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
-msgstr ""
+msgstr "当前线轴余量"
 
 #. i18n: keyword: CurrentBalanceForPoints
 msgid "Current Points Balance"
@@ -1667,67 +1667,67 @@ msgstr "创建一个物品"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
-msgstr ""
+msgstr "通过链接获取线轴"
 
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
-msgstr ""
+msgstr "通过链接获取点数"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
-msgstr ""
+msgstr "通过探索获取线轴"
 
 #. i18n: keyword: TXN_QUEST_FOR_POINTS
 msgid "Quest For Points"
-msgstr ""
+msgstr "通过探索获取点数"
 
 #. i18n: keyword: TXN_QUEST_FOR_BOLTS
 msgid "Quest For Bolts"
-msgstr ""
+msgstr "通过探索获取螺栓"
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
-msgstr ""
+msgstr "通过编织获取物品"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
-msgstr ""
+msgstr "通过点数获取物品"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr ""
+msgstr "通过螺栓获取物品"
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
-msgstr ""
+msgstr "购买退款"
 
 #. i18n: keyword: TXN_MARKET_LIST_ITEM
 msgid "Market List Item"
-msgstr ""
+msgstr "市场出售物品"
 
 #. i18n: keyword: TXN_MARKET_PURCHASE
 msgid "Market Purchase"
-msgstr ""
+msgstr "市场购买物品"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
-msgstr ""
+msgstr "市场退回物品"
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
-msgstr ""
+msgstr "在交易中失去物品"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
-msgstr ""
+msgstr "在交易中获得物品"
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
-msgstr ""
+msgstr "通过分解获取线轴"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
-msgstr ""
+msgstr "通过分解获取点数"
 
 #. i18n: keyword: TXN_TWITCH_ITEM_DROP
 msgid "Twitch Item Drop"
@@ -1751,7 +1751,7 @@ msgstr "腾讯游戏盒子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
 msgid "Currency Box"
-msgstr "当前盒子"
+msgstr "Currency盒子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
@@ -1759,7 +1759,7 @@ msgstr "Steam游戏盒子DLC包"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr ""
+msgstr "可出售的"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
@@ -1767,36 +1767,36 @@ msgstr "可交易的"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr ""
+msgstr "螺栓余量不足。请访问<a href='/account/transactions'>交易页面</a>以确认您持有足够的螺栓来进行操作。"
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
-msgstr ""
+msgstr "线轴余量不足。请访问<a href='/account/transactions'>交易页面</a>以确认您持有足够的线轴来进行操作。"
 
 #. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
 msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
-msgstr ""
+msgstr "点数余额不足。请访问<a href='/account/transactions'>交易页面</a>以确认您持有足够的点数来进行操作。"
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_TYPE
 msgid "The file you selected is not allowed. Please select either a JPEG, GIF or PNG file."
-msgstr ""
+msgstr "您选择的文件格式不受支持。请选择一个JPEG、GIF或者PNG格式的文件。"
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_SIZE
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
-msgstr ""
+msgstr "您选择的文件过大。请减少文件的大小再上传。"
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
-msgstr ""
+msgstr "很遗憾，如果您不同意活动规则，您将无法参加万圣节活动。"
 
 #. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
-msgstr ""
+msgstr "管理员已通过了您的一份提交。您将会很快收到一份奖励。如果您在数小时后仍未收到任何物品，请访问<a href='/account/transactions'>交易页面</a>并在必要时联系支持。"
 
 #. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
 msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
-msgstr ""
+msgstr "感谢您的提交。遗憾的是，您似乎已经达到了这次活动的限制。请在尝试再次送出请求前等待其他的请求被通过或拒绝。"
 
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
-msgstr ""
+msgstr "谢您的提交。遗憾的是，我们将内容限制在了80个字符以内。请使用更短的消息再试一次。"
