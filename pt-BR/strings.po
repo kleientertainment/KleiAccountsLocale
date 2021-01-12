@@ -61,6 +61,10 @@ msgstr "&copy; Todos os direitos reservados Klei Entertainment"
 msgid "Rewards"
 msgstr "Recompensas"
 
+#. i18n: keyword: Transactions
+msgid "Transactions"
+msgstr "Transações"
+
 #. i18n: keyword: Settings
 msgid "Settings"
 msgstr "Configurações"
