@@ -61,6 +61,10 @@ msgstr ""
 msgid "Rewards"
 msgstr ""
 
+#. i18n: keyword: Transactions
+msgid "Transactions"
+msgstr ""
+
 #. i18n: keyword: Settings
 msgid "Settings"
 msgstr ""
