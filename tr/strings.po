@@ -61,6 +61,10 @@ msgstr "&copy; Tüm Hakları Klei Entertainment'da saklıdır"
 msgid "Rewards"
 msgstr "Ödüller"
 
+#. i18n: keyword: Transactions
+msgid "Transactions"
+msgstr ""
+
 #. i18n: keyword: Settings
 msgid "Settings"
 msgstr "Ayarlar"
@@ -198,8 +202,8 @@ msgid "Oops, it looks like the link you used to get here was invalid."
 msgstr "Oops, Buraya ulaşmak için kullandığınız bağlantının geçersiz."
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
-msgid "We cannot execute this operation because your e-mail address is not verified yet."
-msgstr "E-posta adresiniz henüz doğrulanmadığından bu işlemi gerçekleştiremiyoruz."
+msgid "Please verify your email address to continue."
+msgstr ""
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -350,8 +354,8 @@ msgid "This is the email address we will use to send you updates & news regardin
 msgstr "Bu, hesabınız veya oyunlarınızla ilgili güncellemeler ve haberler göndermek için kullanacağımız e-posta adresidir."
 
 #. i18n: keyword: ChangeEmailInProgress
-msgid "Your new e-mail is being changed. We have sent you a mail with a verification link to authorize the change."
-msgstr "E-postanız değiştiriliyor. Değişikliği onaylamak için size doğrulama bağlantısı içeren bir posta gönderdik."
+msgid "We have sent a verification code to your new email address to authorize the change."
+msgstr ""
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -662,7 +666,7 @@ msgid "DRM-Free Download"
 msgstr "DRM-Free İndirme"
 
 #. i18n: keyword: DRMFreeDownloadDescription
-msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
+msgid "You can get a DRM-free download of this game. More information <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>here</a>."
 msgstr "Bu oyunu DRM-free olarak indirebilirsiniz. Daha fazla bilgi için <a href=\"/\">buraya</a>."
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
@@ -826,12 +830,12 @@ msgid "Download Settings"
 msgstr "Ayarları İndir"
 
 #. i18n: keyword: UpcomingBetasTitle
-msgid "Active and Upcoming Betas"
-msgstr "Aktif ve Yaklaşan Betalar"
+msgid "Testing of Upcoming Projects"
+msgstr ""
 
 #. i18n: keyword: UpcomingBetasDescription
-msgid "You can register for betas you’re interested in. You’ll receive an email if you are accepted into one."
-msgstr "İlgilendiğiniz betalar için kayıt olabilirsiniz. Kabul edildiyseniz bir e-posta alırsınız."
+msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
+msgstr ""
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -842,16 +846,12 @@ msgid "Start:"
 msgstr "Başlat:"
 
 #. i18n: keyword: BetaRegister
-msgid "Join Beta"
+msgid "Register"
 msgstr "Kayıt"
 
 #. i18n: keyword: BetaRegistered
-msgid "Registered"
-msgstr "Kayıtlı"
-
-#. i18n: keyword: BetaNotAccepted
-msgid "Registered - Not Accepted"
-msgstr "Kayıtlı - Kabul edilmedi"
+msgid "Registered. We will notify you if you have been selected to participate in this test."
+msgstr ""
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -991,11 +991,11 @@ msgstr "Ödül Bağlantısı"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p> Tebrikler !</p> <p> {{.Amount}} {{.Name}} ile vahşi doğada geçerli bir ödül bağlantısı buldunuz. </p> <p> Bakiyeniz hemen güncellenecektir. Bu işlemin hesap bakiyenizi nasıl etkilediğini anlamak için lütfen \ "Kullanıcı İşlemleri \" sayfasına bakın. </p>"
+msgstr "<p>Tebrikler!</p><p>{{.Amount}} {{.Name}} ile vahşi doğada geçerli bir ödül bağlantısı buldunuz.</p><p>Bakiyeniz hemen güncellenecektir. Bu işlemin hesap bakiyenizi nasıl etkilediğini anlamak için lütfen \"Kullanıcı İşlemleri\" sayfasına bakın.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p> Tebrikler !</p> <p> {{.Amount}} {{.Name}} ile vahşi doğada geçerli bir ödül bağlantısı buldunuz. </p> <p> Bakiyeniz hemen güncellenecektir. Bu işlemin hesap bakiyenizi nasıl etkilediğini anlamak için lütfen \ "Kullanıcı İşlemleri \" sayfasına bakın. </p>"
+msgstr "<p> Tebrikler !</p> <p> {{.Amount}} {{.Name}} ile vahşi doğada geçerli bir ödül bağlantısı buldunuz. </p> <p> Bakiyeniz hemen güncellenecektir. Bu işlemin hesap bakiyenizi nasıl etkilediğini anlamak için lütfen \"Kullanıcı İşlemleri\" sayfasına bakın. </p>"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1170,7 +1170,7 @@ msgid "Your account has been created previously, but is still awaiting e-mail ve
 msgstr "Hesabınız daha önce oluşturulmuş, ancak yine de e-posta doğrulaması bekleniyor. Noreply@kleientertainment.com adresinden gönderilen bir mesaj için e-posta hesabınızı kontrol edin ve hesap kaydınızı tamamlamak için içerdiği doğrulama bağlantısını tıklayın. E-postayı bulamıyorsanız Spam veya Önemsiz klasörlerinizi kontrol ettiğinizden emin olun."
 
 #. i18n: keyword: ResendVerification
-msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address.  Please double-check it for accuracy!"
+msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address. Please double-check it for accuracy!"
 msgstr "E-postayı hala bulamıyorsanız, doğrulama e-postasının yeniden gönderilmesi için aşağıdaki formu doldurabilirsiniz. Farklı bir e-posta adresi kullanabilirsiniz. Lütfen doğruluğunu iki kez kontrol edin!"
 
 #. i18n: keyword: LoadingSteamProfile
@@ -1449,6 +1449,10 @@ msgstr "Hesabınız bu beta için zaten kayıtlı."
 msgid "The beta is not active anymore."
 msgstr "Beta artık aktif değil."
 
+#. i18n: keyword: E_MISSING_BASE_GAME_FOR_BETA
+msgid "You must own the base game to participate in this test."
+msgstr ""
+
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
 msgstr "Bilgisayarınız sunucuya yanlış veri gönderdi."
@@ -1556,6 +1560,10 @@ msgstr "Geçersiz kullanıcı izni, hesap silme talimatlarını çok dikkatli bi
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
 msgstr "Geçersiz doğrulama kodu."
+
+#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
+msgid "Invalid email verification code."
+msgstr ""
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
@@ -1800,3 +1808,35 @@ msgstr "Gönderim için teşekkürler. Maalesef, bu etkinlik için sınıra ula�
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
 msgstr "Gönderim ve mesaj için teşekkürler. Maalesef seksen (80) karakterlik bir sınır uygulamamız gerekiyor. Lütfen daha kısa bir mesajla bir kez daha deneyin."
+
+#. i18n: keyword: ReviewEULATitle
+msgid "Review End-User License Agreement and Terms of Service"
+msgstr ""
+
+#. i18n: keyword: ReviewEULADescription
+msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
+msgstr ""
+
+#. i18n: keyword: ReviewEULAWarning
+msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
+msgstr ""
+
+#. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
+msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
+msgstr ""
+
+#. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
+msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
+msgstr ""
+
+#. i18n: keyword: E_USER_IS_NOT_BANNED
+msgid "Your account is not banned."
+msgstr ""
+
+#. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
+msgid "The ban in your account is not reversible."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_GOTO_URL
+msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
+msgstr ""

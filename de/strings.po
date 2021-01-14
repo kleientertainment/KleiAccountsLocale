@@ -61,6 +61,10 @@ msgstr "&copy; Alle Rechte vorbehalten. Klei Entertainment"
 msgid "Rewards"
 msgstr "Belohnungen"
 
+#. i18n: keyword: Transactions
+msgid "Transactions"
+msgstr ""
+
 #. i18n: keyword: Settings
 msgid "Settings"
 msgstr "Einstellungen"
@@ -198,8 +202,8 @@ msgid "Oops, it looks like the link you used to get here was invalid."
 msgstr "Ups, es scheint als wäre der Link ungültig, der verwendet wurde um hier hinzukommen."
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
-msgid "We cannot execute this operation because your e-mail address is not verified yet."
-msgstr "Wir können diese Aktion nicht ausführen, da deine E-Mail-Adresse noch nicht verifiziert ist."
+msgid "Please verify your email address to continue."
+msgstr ""
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -350,8 +354,8 @@ msgid "This is the email address we will use to send you updates & news regardin
 msgstr "Dies ist die E-Mail-Adresse, an die wir Updates & Neuigkeiten bezüglich deines Accounts oder deinen Spielen versenden."
 
 #. i18n: keyword: ChangeEmailInProgress
-msgid "Your new e-mail is being changed. We have sent you a mail with a verification link to authorize the change."
-msgstr "Deine E-Mail-Adresse wird geändert. Wir haben dir eine Mail mit einem Bestätigungslink gesendet, mit der du die Änderung abschließen kannst."
+msgid "We have sent a verification code to your new email address to authorize the change."
+msgstr ""
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -662,7 +666,7 @@ msgid "DRM-Free Download"
 msgstr "DRM-freier Download"
 
 #. i18n: keyword: DRMFreeDownloadDescription
-msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
+msgid "You can get a DRM-free download of this game. More information <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>here</a>."
 msgstr "Du kannst einen DRM-freien Download für dieses Spiel erhalten. Weitere Informationen <a href=\"/\">hier</a>."
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
@@ -826,12 +830,12 @@ msgid "Download Settings"
 msgstr "Download-Einstellungen"
 
 #. i18n: keyword: UpcomingBetasTitle
-msgid "Active and Upcoming Betas"
-msgstr "Aktive und bevorstehende Betas"
+msgid "Testing of Upcoming Projects"
+msgstr ""
 
 #. i18n: keyword: UpcomingBetasDescription
-msgid "You can register for betas you’re interested in. You’ll receive an email if you are accepted into one."
-msgstr "Du kannst dich für Betas registrieren, für die du dich interessierst. Du wirst eine E-Mail bekommen, falls du eine Zusage zu einer Beta erhälst."
+msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
+msgstr ""
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -842,16 +846,12 @@ msgid "Start:"
 msgstr ""
 
 #. i18n: keyword: BetaRegister
-msgid "Join Beta"
+msgid "Register"
 msgstr "Registrieren"
 
 #. i18n: keyword: BetaRegistered
-msgid "Registered"
-msgstr "Registriert"
-
-#. i18n: keyword: BetaNotAccepted
-msgid "Registered - Not Accepted"
-msgstr "Registriert - Keine Zusage"
+msgid "Registered. We will notify you if you have been selected to participate in this test."
+msgstr ""
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -1170,7 +1170,7 @@ msgid "Your account has been created previously, but is still awaiting e-mail ve
 msgstr "Dein Account wurde bereits erstellt, benötigt jedoch noch eine E-Mail-Verifizierung. Überprüfe deinen E-Mail-Account bzgl. Nachrichten von noreply@kleientertainment.com und klicke auf den darin enthaltenen Bestätigungslink, um deine Account-Registrierung abzuschließen. Überprüfe bitte auch den Spam-Ordner, falls du die E-Mail nicht finden kannst."
 
 #. i18n: keyword: ResendVerification
-msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address.  Please double-check it for accuracy!"
+msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address. Please double-check it for accuracy!"
 msgstr "Falls du die E-Mail noch immer nicht finden kannst, nutze das untenstehende Formular, um die Verifizierungs-Mail erneut zu senden. Du kannst dabei eine andere E-Mail-Adresse verwenden. Bitte überprüfe die Korrektheit der Eingabe!"
 
 #. i18n: keyword: LoadingSteamProfile
@@ -1449,6 +1449,10 @@ msgstr "Dein Account wurde bereits für diese Beta registriert."
 msgid "The beta is not active anymore."
 msgstr "Die Beta ist nicht mehr aktiv."
 
+#. i18n: keyword: E_MISSING_BASE_GAME_FOR_BETA
+msgid "You must own the base game to participate in this test."
+msgstr ""
+
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
 msgstr "Dein Computer hat ungültige Daten zum Server gesendet."
@@ -1556,6 +1560,10 @@ msgstr "Ungültige Benutzer-Zustimmung, du musst die Anleitung zur Account-Lösc
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
 msgstr "Ungültiger Verfizierungscode."
+
+#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
+msgid "Invalid email verification code."
+msgstr ""
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
@@ -1800,3 +1808,35 @@ msgstr "Danke für die Einsendung. Leider hast du das Limit für dieses Event er
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
 msgstr "Danke für die Einsendung und Nachricht. Leider müssen wir die Nachricht auf achtzig (80) Zeichen begrenzen. Versuche es bitte noch mal mit einer kürzeren Nachricht."
+
+#. i18n: keyword: ReviewEULATitle
+msgid "Review End-User License Agreement and Terms of Service"
+msgstr ""
+
+#. i18n: keyword: ReviewEULADescription
+msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
+msgstr ""
+
+#. i18n: keyword: ReviewEULAWarning
+msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
+msgstr ""
+
+#. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
+msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
+msgstr ""
+
+#. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
+msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
+msgstr ""
+
+#. i18n: keyword: E_USER_IS_NOT_BANNED
+msgid "Your account is not banned."
+msgstr ""
+
+#. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
+msgid "The ban in your account is not reversible."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_GOTO_URL
+msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
+msgstr ""

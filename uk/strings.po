@@ -61,6 +61,10 @@ msgstr "&copy; Всі права захищені. Klei Entertainment"
 msgid "Rewards"
 msgstr "Нагороди"
 
+#. i18n: keyword: Transactions
+msgid "Transactions"
+msgstr ""
+
 #. i18n: keyword: Settings
 msgid "Settings"
 msgstr "Налаштування"
@@ -198,8 +202,8 @@ msgid "Oops, it looks like the link you used to get here was invalid."
 msgstr "Упс, здається, данне посилання недійсне."
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
-msgid "We cannot execute this operation because your e-mail address is not verified yet."
-msgstr "Ми не можемо виконати цю операцію, оскільки ваша електронна адреса ще не підтверджена."
+msgid "Please verify your email address to continue."
+msgstr ""
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -350,8 +354,8 @@ msgid "This is the email address we will use to send you updates & news regardin
 msgstr "Це адреса електронної пошти, яку ми будемо використовувати для відправки вам оновлень і новин, що стосуються вашого профілю або ігор."
 
 #. i18n: keyword: ChangeEmailInProgress
-msgid "Your new e-mail is being changed. We have sent you a mail with a verification link to authorize the change."
-msgstr "Ваша нова адреса електронної пошти змінюється. Ми відправили вам лист з посиланням для підтвердження змін."
+msgid "We have sent a verification code to your new email address to authorize the change."
+msgstr ""
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -662,7 +666,7 @@ msgid "DRM-Free Download"
 msgstr "Завантажити гру без DRM захисту"
 
 #. i18n: keyword: DRMFreeDownloadDescription
-msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
+msgid "You can get a DRM-free download of this game. More information <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>here</a>."
 msgstr "Ви можете отримати цю гру без DRM захисту. Більше інформації <a href=\"/\">тут</a>."
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
@@ -826,12 +830,12 @@ msgid "Download Settings"
 msgstr "Параметри завантаження"
 
 #. i18n: keyword: UpcomingBetasTitle
-msgid "Active and Upcoming Betas"
-msgstr "Активні та майбутні бета-тестування"
+msgid "Testing of Upcoming Projects"
+msgstr ""
 
 #. i18n: keyword: UpcomingBetasDescription
-msgid "You can register for betas you’re interested in. You’ll receive an email if you are accepted into one."
-msgstr "Ви можете відправити заявку на зацікавивший вас бета-тест. Ви отримаєте лист з повідомленням, якщо вас буде прийнято в один з них."
+msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
+msgstr ""
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -842,16 +846,12 @@ msgid "Start:"
 msgstr "Початок:"
 
 #. i18n: keyword: BetaRegister
-msgid "Join Beta"
+msgid "Register"
 msgstr "Приєднуйтесь до бета-версії"
 
 #. i18n: keyword: BetaRegistered
-msgid "Registered"
-msgstr "Заявку відправлено"
-
-#. i18n: keyword: BetaNotAccepted
-msgid "Registered - Not Accepted"
-msgstr "Заявку відправлено - Не прийнято"
+msgid "Registered. We will notify you if you have been selected to participate in this test."
+msgstr ""
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -1449,6 +1449,10 @@ msgstr "Ваш акаунт вже зареєстрований на цей бе
 msgid "The beta is not active anymore."
 msgstr "Бета-тест більше не активний."
 
+#. i18n: keyword: E_MISSING_BASE_GAME_FOR_BETA
+msgid "You must own the base game to participate in this test."
+msgstr ""
+
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
 msgstr "Ваш комп'ютер відправив невірні дані на сервер."
@@ -1556,6 +1560,10 @@ msgstr "Неправильна згода користувача, вам нео�
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
 msgstr "Невірний код підтвердження."
+
+#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
+msgid "Invalid email verification code."
+msgstr ""
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
@@ -1800,3 +1808,35 @@ msgstr "Дякуємо за заявку. На жаль, здається, до�
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
 msgstr "Дякуємо за подання заявки та повідомлення. На жаль, нам потрібно застосувати обмеження у вісімдесят (80) символів. Будь ласка, зробіть повідомлення коротшим та повторіть спробу."
+
+#. i18n: keyword: ReviewEULATitle
+msgid "Review End-User License Agreement and Terms of Service"
+msgstr ""
+
+#. i18n: keyword: ReviewEULADescription
+msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
+msgstr ""
+
+#. i18n: keyword: ReviewEULAWarning
+msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
+msgstr ""
+
+#. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
+msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
+msgstr ""
+
+#. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
+msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
+msgstr ""
+
+#. i18n: keyword: E_USER_IS_NOT_BANNED
+msgid "Your account is not banned."
+msgstr ""
+
+#. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
+msgid "The ban in your account is not reversible."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_GOTO_URL
+msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
+msgstr ""

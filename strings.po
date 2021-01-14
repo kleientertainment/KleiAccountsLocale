@@ -202,7 +202,7 @@ msgid "Oops, it looks like the link you used to get here was invalid."
 msgstr ""
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
-msgid "We cannot execute this operation because your e-mail address is not verified yet."
+msgid "Please verify your email address to continue."
 msgstr ""
 
 #. i18n: keyword: E_EMAIL_VERIFIED
@@ -354,7 +354,7 @@ msgid "This is the email address we will use to send you updates & news regardin
 msgstr ""
 
 #. i18n: keyword: ChangeEmailInProgress
-msgid "Your new e-mail is being changed. We have sent you a mail with a verification link to authorize the change."
+msgid "We have sent a verification code to your new email address to authorize the change."
 msgstr ""
 
 #. i18n: keyword: Inventory
@@ -830,11 +830,11 @@ msgid "Download Settings"
 msgstr ""
 
 #. i18n: keyword: UpcomingBetasTitle
-msgid "Active and Upcoming Betas"
+msgid "Testing of Upcoming Projects"
 msgstr ""
 
 #. i18n: keyword: UpcomingBetasDescription
-msgid "You can register for betas you’re interested in. You’ll receive an email if you are accepted into one."
+msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
 msgstr ""
 
 #. i18n: keyword: BetaStatus
@@ -846,15 +846,11 @@ msgid "Start:"
 msgstr ""
 
 #. i18n: keyword: BetaRegister
-msgid "Join Beta"
+msgid "Register"
 msgstr ""
 
 #. i18n: keyword: BetaRegistered
-msgid "Registered"
-msgstr ""
-
-#. i18n: keyword: BetaNotAccepted
-msgid "Registered - Not Accepted"
+msgid "Registered. We will notify you if you have been selected to participate in this test."
 msgstr ""
 
 #. i18n: keyword: BetaAccepted
@@ -1174,7 +1170,7 @@ msgid "Your account has been created previously, but is still awaiting e-mail ve
 msgstr ""
 
 #. i18n: keyword: ResendVerification
-msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address.  Please double-check it for accuracy!"
+msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address. Please double-check it for accuracy!"
 msgstr ""
 
 #. i18n: keyword: LoadingSteamProfile
@@ -1453,6 +1449,10 @@ msgstr ""
 msgid "The beta is not active anymore."
 msgstr ""
 
+#. i18n: keyword: E_MISSING_BASE_GAME_FOR_BETA
+msgid "You must own the base game to participate in this test."
+msgstr ""
+
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
 msgstr ""
@@ -1559,6 +1559,10 @@ msgstr ""
 
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
+msgid "Invalid email verification code."
 msgstr ""
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
@@ -1803,4 +1807,36 @@ msgstr ""
 
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
+msgstr ""
+
+#. i18n: keyword: ReviewEULATitle
+msgid "Review End-User License Agreement and Terms of Service"
+msgstr ""
+
+#. i18n: keyword: ReviewEULADescription
+msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
+msgstr ""
+
+#. i18n: keyword: ReviewEULAWarning
+msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
+msgstr ""
+
+#. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
+msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
+msgstr ""
+
+#. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
+msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
+msgstr ""
+
+#. i18n: keyword: E_USER_IS_NOT_BANNED
+msgid "Your account is not banned."
+msgstr ""
+
+#. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
+msgid "The ban in your account is not reversible."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_GOTO_URL
+msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
 msgstr ""
