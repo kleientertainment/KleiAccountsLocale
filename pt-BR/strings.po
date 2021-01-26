@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-01-12 15:10-0000\n"
-"Last-Translator: paulo0899\n"
+"PO-Revision-Date: 2021-01-26 11:45-0300\n"
+"Last-Translator: Geeris\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -203,7 +204,7 @@ msgstr "Oops, parece que o link que você usou para chegar até aqui é inválid
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "Please verify your email address to continue."
-msgstr ""
+msgstr "Por favor, verifique seu endereço de e-mail para continuar."
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -355,7 +356,7 @@ msgstr "Este é o endereço de e-mail que usaremos para enviar atualizações e 
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "We have sent a verification code to your new email address to authorize the change."
-msgstr ""
+msgstr "Enviamos um código de verificação para seu novo endereço de e-mail para autorizar a alteração."
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -831,11 +832,11 @@ msgstr "Configurações de Download"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
-msgstr ""
+msgstr "Teste de Próximos Projetos"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr ""
+msgstr "Você pode se registrar para testar projetos alpha e beta nos quais está interessado. Você receberá um e-mail se for aceito em algum."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -847,11 +848,11 @@ msgstr "Início:"
 
 #. i18n: keyword: BetaRegister
 msgid "Register"
-msgstr "Entrar no Beta"
+msgstr "Registrar"
 
 #. i18n: keyword: BetaRegistered
 msgid "Registered. We will notify you if you have been selected to participate in this test."
-msgstr ""
+msgstr "Registrado. Iremos notificá-lo se você for selecionado para participar deste teste."
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -919,7 +920,7 @@ msgstr "carretéis"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
-msgstr "minutos"
+msgstr "min"
 
 #. i18n: keyword: RewardBalance
 msgid "Current Balance"
@@ -1451,7 +1452,7 @@ msgstr "A versão beta não está mais ativa."
 
 #. i18n: keyword: E_MISSING_BASE_GAME_FOR_BETA
 msgid "You must own the base game to participate in this test."
-msgstr ""
+msgstr "Você deve possuir o jogo base para participar deste teste."
 
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
@@ -1563,7 +1564,7 @@ msgstr "Código de verificação inválido."
 
 #. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
 msgid "Invalid email verification code."
-msgstr ""
+msgstr "Código de verificação de e-mail inválido."
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
@@ -1723,7 +1724,7 @@ msgstr "Reversão (Rollback) do Mercado"
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
-msgstr "Perda de Troca de Item"
+msgstr "Perda na Troca de Item"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
@@ -1811,32 +1812,32 @@ msgstr "Obrigado pelo envio e pela mensagem. Infelizmente, precisamos impor um l
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
-msgstr ""
+msgstr "Veja o Contrato de Licença do Usuário Final e os Termos de Serviço"
 
 #. i18n: keyword: ReviewEULADescription
 msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
-msgstr ""
+msgstr "Olá <code>{{.Data.KU}}</code>,<br><br>Sua conta foi banida por violação do Contrato de Licença do Usuário Final ou Termos de Serviço.<br><br>Por favor, leia atentamente e tome uma decisão consciente se deseja continuar participando de nossa comunidade e jogando nossos jogos ou não."
 
 #. i18n: keyword: ReviewEULAWarning
 msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
-msgstr ""
+msgstr "Outras violações dos termos de serviço podem resultar em restrições adicionais em sua conta, como restrição temporária ou permanente de acesso a serviços online."
 
 #. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
 msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "Parece que você não leu nenhum dos Termos de Serviço e Contrato de Licença do Usuário Final. Clique em cada link, leia as informações e marque as caixas de seleção se concordar conscientemente com os termos de serviço."
 
 #. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
 msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "Parece que você não leu todo o Contrato de Licença do Usuário Final e os Termos de Serviço. Visite a página anterior, leia as informações e marque as caixas de seleção se concordar conscientemente com os termos de serviço."
 
 #. i18n: keyword: E_USER_IS_NOT_BANNED
 msgid "Your account is not banned."
-msgstr ""
+msgstr "Sua conta não foi banida."
 
 #. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
 msgid "The ban in your account is not reversible."
-msgstr ""
+msgstr "O banimento em sua conta não é reversível."
 
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
-msgstr ""
+msgstr "Ah não! Parece que você clicou em um link quebrado. Pode ser necessário autenticar-se novamente."
