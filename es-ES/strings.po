@@ -27,7 +27,7 @@ msgstr "Cargando…"
 
 #. i18n: keyword: Search
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -60,6 +60,10 @@ msgstr "&copy; Todos los Derechos Reservados Klei Entertainment"
 #. i18n: keyword: Rewards
 msgid "Rewards"
 msgstr "Recompensas"
+
+#. i18n: keyword: Transactions
+msgid "Transactions"
+msgstr ""
 
 #. i18n: keyword: Settings
 msgid "Settings"
@@ -198,7 +202,7 @@ msgid "Oops, it looks like the link you used to get here was invalid."
 msgstr "Oh! Parece que el vínculo que usted usó para llegar aquí es inválido."
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
-msgid "We cannot execute this operation because your e-mail address is not verified yet."
+msgid "Please verify your email address to continue."
 msgstr ""
 
 #. i18n: keyword: E_EMAIL_VERIFIED
@@ -207,11 +211,11 @@ msgstr "Su correo electrónico ya ha sido verificado."
 
 #. i18n: keyword: EmailStatusNotVerified
 msgid "Not Verified"
-msgstr ""
+msgstr "No verificado"
 
 #. i18n: keyword: EmailStatusVerified
 msgid "Verified"
-msgstr ""
+msgstr "Verificado"
 
 #. i18n: keyword: RegistrationComplete
 msgid "Successful Verification"
@@ -243,19 +247,19 @@ msgstr "Inicie sesión con su cuenta de Klei para ver todos los juegos, intercam
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
-msgstr ""
+msgstr "Suscribir"
 
 #. i18n: keyword: Subscribing
 msgid "Subscribing..."
-msgstr ""
+msgstr "Suscribiendo..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr ""
+msgstr "Obten las ultimas noticias y actualizaciones de {{.GameName}}. No enviamos muchos correos, pero cuando lo hacemos ¡intentamos hacer que valga la pena! Puedes desuscribete facilmente en cualquier momento desde el final del correo que enviamos. Para las ultimas noticias también puedes seguirnos en twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> y visitar nuestro foro oficial <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
-msgstr ""
+msgstr "La suscripción se ha completado"
 
 #. i18n: keyword: SubscribeCompleteDescription
 msgid "Your email subscription has been processed. If this is the first time you subscribe to one of our newsletters, you will receive a confirmation email."
@@ -350,8 +354,8 @@ msgid "This is the email address we will use to send you updates & news regardin
 msgstr "Este es el correo electrónico que usaremos para enviarle actualizaciones y noticias acerca de su cuenta y juegos."
 
 #. i18n: keyword: ChangeEmailInProgress
-msgid "Your new e-mail is being changed. We have sent you a mail with a verification link to authorize the change."
-msgstr "Su correo electrónico está siendo cambiado. Le hemos enviado un correo con un vínculo de verificación para autorizar el cambio."
+msgid "We have sent a verification code to your new email address to authorize the change."
+msgstr ""
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -375,7 +379,7 @@ msgstr "Opciones de Mercadeo"
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
-msgstr ""
+msgstr "Usa estas opciones para configurar tu suscripción al boletín informativo. Recuerda, puedes de-suscribirte en cualquier momento."
 
 #. i18n: keyword: MarketingOptionsUnsubscribe
 msgid "I do not want to receive marketing emails"
@@ -395,123 +399,123 @@ msgstr "Hemos enviado un mensaje a su correo electrónico para confirma su subsc
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
-msgstr ""
+msgstr "Fusionar una cuenta"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
-msgstr ""
+msgstr "Este proceso permitirá que una cuenta de Klei sea asociada a multiples plataformas. Esto está destinado para cuando tienes cuentas en distintas plataformas y quieres que todas ellas esten vinculadas a la misma cuenta de Klei."
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
-msgstr ""
+msgstr "Por favor, haz clic en la casilla para confirmar que haz leido y entendido lo siguiente"
 
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
-msgstr ""
+msgstr "Preguntas de consentimiento"
 
 #. i18n: keyword: MergeAccountConfirm
 msgid "Confirm"
-msgstr ""
+msgstr "Confirmar"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr ""
+msgstr "Por favor escribe en “Fusionar cuentas” pero en mayusculas, para confirmar:"
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"
-msgstr ""
+msgstr "Entiendo las consecuencias, fusiona estas cuentas"
 
 #. i18n: keyword: MergeAccountDoButton
 msgid "I understand, merge these accounts"
-msgstr ""
+msgstr "Entiendo, fusiona estas cuentas"
 
 #. i18n: keyword: MergeAccountSuccessTitle
 msgid "Successful Account Merge"
-msgstr ""
+msgstr "Fusion de cuentas exitoso"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr ""
+msgstr "La operación de fusionar cuentas fue exitosa.</p><p>Hemos cerrado tu sesión para permitirte ingresar con la nueva cuenta.</p><p>Los juegos serán concedidos a pedido de la otra plataforma de videojuegos.</p><p>Recuerda que necesitas <strong>iniciar el juego al menos una vez </strong> para que nosotros podamos detectarlo."
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
-msgstr ""
+msgstr "Reparar alertas"
 
 #. i18n: keyword: MergeAccountReviewEmail
 msgid "Below is your Klei account e-mail:"
-msgstr ""
+msgstr "A continuación se encuentra el correo de tu cuenta de klei:"
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
-msgstr ""
+msgstr "Por favor verifica por segunda vez si esta es la cuenta correcta de videojuegos para fusionar."
 
 #. i18n: keyword: MergeAccountReadyToExecute
 msgid "We have checked all the information we could find about the two accounts you are about to merge and did not find any warnings. You will be able to log in with the new account after submitting this form."
-msgstr ""
+msgstr "Hemos revisado toda la información que pudimos encontrar acerca de las 2 cuentas que estás a punto de fusionar, y no encontramos ninguna alarma. Podrás iniciar sesión con la nueva cuenta después de rellenar este formulario."
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
-msgstr "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time. "
+msgstr "NO USES esto si no eres dueño de ambas cuentas. Ambas cuentas serán consideradas una sola persona y no será posible jugar al mismo tiempo juegos multijugador."
 
 #. i18n: keyword: MergeAccountConsentQuestion2
 msgid "This process is permanent and cannot be reverted or changed."
-msgstr ""
+msgstr "Este proceso es permanente y no puede ser revertido o cambiado."
 
 #. i18n: keyword: MergeAccountConsentQuestion3
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
-msgstr ""
+msgstr "Una vez la plataforma sea vinculada a una cuenta de klei, no puede ser desvinculada."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
-msgstr ""
+msgstr "Desafortunadamente, la plataforma que intentas fusionar no tiene la capacidad de ejecutar esta operación aún."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_INVALID_CONSENT
 msgid "Invalid user consent, you need to read the account merge instructions very carefully."
-msgstr ""
+msgstr "Consentimiento de usuario invalido, necesitas leer las instrucciones para fusionar cuentas con mucho cuidado."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_MISSING_DATA
 msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
-msgstr ""
+msgstr "Es imposible fusionar tus cuentas ahora porque faltan algunos datos. Por favor cierra sesión y comienza el proceso de nuevo. Asegurate de que tu navegador acepta cookies y de que las dos cuentas que vas a fusionar sean correctas. "
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
-msgstr ""
+msgstr "Por favor actualiza tus cuentas de *Klei* para usar el mismo correo y comenzar el proceso de nuevo."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the e-mail address in both accounts and start the process again."
-msgstr ""
+msgstr "Por favor verifica/valida que la dirección de correo electronico en ambas cuentas y comienza el proceso de nuevo"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
-msgstr ""
+msgstr "No podemos fusionar tus cuentas porque una de ellas está suspendida"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PASSWORD_RESET
 msgid "It appears your password was reset some time ago but you never finished the verification process."
-msgstr ""
+msgstr "Parece que tu contraseña fue restableecida hace un tiempo pero tu nunca finalizaste el proceso de verificación."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_MARKED_FOR_DELETION
 msgid "We cannot merge your accounts because one of them is marked for deletion."
-msgstr ""
+msgstr "No podemos fusionar tus cuentas porque una de ellas está marcada para eliminarse"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_NOTHING_TO_MERGE
 msgid "There is nothing to merge for this account."
-msgstr ""
+msgstr "No hay nada que unir en esta cuenta"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
-msgstr ""
+msgstr "Ya fusionaste tu cuenta de Epic Games."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
-msgstr ""
+msgstr "Ya fusionaste tu cuenta de Steam."
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
-msgstr ""
+msgstr "Usa esta pagina para obtener acceso a los juegos que ya tienes en diferentes plataformas."
 
 #. i18n: keyword: OwnershipTableDescription
 msgid "The table below shows you the ownership status of your games in different gaming platforms."
-msgstr ""
+msgstr "La tabla a continuación muestra el estado de propiedad de tus juegos en diferentes plataformas."
 
 #. i18n: keyword: OwnershipGrantingText
 msgid "Game granting is in progress. This operation may take several minutes, in the meantime you can visit the game ownership page for updates. We appreciate your patience and hope you enjoy playing the game with your friends."
@@ -523,7 +527,7 @@ msgstr ""
 
 #. i18n: keyword: OWNERSHIP_STATUS_OWNED_BOUGHT
 msgid "Purchased"
-msgstr ""
+msgstr "Comprado"
 
 #. i18n: keyword: OWNERSHIP_STATUS_OWNED_GRANTED
 msgid "Granted by Klei"
@@ -535,7 +539,7 @@ msgstr ""
 
 #. i18n: keyword: OWNERSHIP_STATUS_GRANT_AVAILABLE
 msgid "Available for free"
-msgstr ""
+msgstr "Disponible de forma gratuita"
 
 #. i18n: keyword: OWNERSHIP_STATUS_TEMPORARY
 msgid "Temporarily allowed"
@@ -547,7 +551,7 @@ msgstr ""
 
 #. i18n: keyword: OWNERSHIP_STATUS_UNKNOWN_TEMPORARY
 msgid "Temporary error, please retry later"
-msgstr ""
+msgstr "Error temporal, por favor intente mas tarde"
 
 #. i18n: keyword: OWNERSHIP_STATUS_UNKNOWN_PERMANENT
 msgid "Unknown Status"
@@ -662,7 +666,7 @@ msgid "DRM-Free Download"
 msgstr "Descargar Juego Libre de DRM"
 
 #. i18n: keyword: DRMFreeDownloadDescription
-msgid "You can get a DRM-free download of this game. More information <a href=\"/\">here</a>."
+msgid "You can get a DRM-free download of this game. More information <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>here</a>."
 msgstr "Usted puede obtener una copy de este juego libre de DRM (Gestión de Derechos Digitales, por sus siglas en Inglés). Más información <a href=\"/\">aquí</a>."
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
@@ -826,12 +830,12 @@ msgid "Download Settings"
 msgstr "Descargar Configuración"
 
 #. i18n: keyword: UpcomingBetasTitle
-msgid "Active and Upcoming Betas"
-msgstr "Betas Activas y Futuras"
+msgid "Testing of Upcoming Projects"
+msgstr ""
 
 #. i18n: keyword: UpcomingBetasDescription
-msgid "You can register for betas you’re interested in. You’ll receive an email if you are accepted into one."
-msgstr "Usted puede registrarse para usar proyectos betas a los que esté interesado. Recibirá un correo si es acceptado en una."
+msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
+msgstr ""
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -842,16 +846,12 @@ msgid "Start:"
 msgstr "Inicio:"
 
 #. i18n: keyword: BetaRegister
-msgid "Join Beta"
+msgid "Register"
 msgstr "Registrarse a la Beta"
 
 #. i18n: keyword: BetaRegistered
-msgid "Registered"
-msgstr "Registrado"
-
-#. i18n: keyword: BetaNotAccepted
-msgid "Registered - Not Accepted"
-msgstr "Registrado - No Aceptado"
+msgid "Registered. We will notify you if you have been selected to participate in this test."
+msgstr ""
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -1170,7 +1170,7 @@ msgid "Your account has been created previously, but is still awaiting e-mail ve
 msgstr "Ya has creado la cuenta, pero aún no la has verificado mediante el correo electrónico. Comprueba tu correo electrónico y busca un mensaje de noreply@kleientertainment.com; deberás hacer clic en el enlace de verificación incluido en el mensaje para completar el registro de tu cuenta. Asegúrate de comprobar las carpetas de correo no deseado o correo basura si no encuentras el mensaje."
 
 #. i18n: keyword: ResendVerification
-msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address.  Please double-check it for accuracy!"
+msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address. Please double-check it for accuracy!"
 msgstr "Si todavía no encuentras el mensaje de correo, puedes completar el formulario de abajo para que te reenviemos el mensaje de verificación. Puedes usar una dirección de correo diferente. ¡Comprueba bien que la has escrito correctamente!"
 
 #. i18n: keyword: LoadingSteamProfile
@@ -1449,6 +1449,10 @@ msgstr "Su cuenta ya se encuentra registrada para probar esta versión beta."
 msgid "The beta is not active anymore."
 msgstr "El proyecto en beta ya no se encuentra activo."
 
+#. i18n: keyword: E_MISSING_BASE_GAME_FOR_BETA
+msgid "You must own the base game to participate in this test."
+msgstr ""
+
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
 msgstr "Su computadora envió información errada al servidor."
@@ -1556,6 +1560,10 @@ msgstr "Consentimiento de usuario no válido, debe leer las instrucciones de eli
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
 msgstr "El código de verificación is inválido."
+
+#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
+msgid "Invalid email verification code."
+msgstr ""
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
@@ -1799,4 +1807,36 @@ msgstr ""
 
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
+msgstr ""
+
+#. i18n: keyword: ReviewEULATitle
+msgid "Review End-User License Agreement and Terms of Service"
+msgstr ""
+
+#. i18n: keyword: ReviewEULADescription
+msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
+msgstr ""
+
+#. i18n: keyword: ReviewEULAWarning
+msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
+msgstr ""
+
+#. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
+msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
+msgstr ""
+
+#. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
+msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
+msgstr ""
+
+#. i18n: keyword: E_USER_IS_NOT_BANNED
+msgid "Your account is not banned."
+msgstr ""
+
+#. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
+msgid "The ban in your account is not reversible."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_GOTO_URL
+msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
 msgstr ""
