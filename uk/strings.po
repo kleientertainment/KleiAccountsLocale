@@ -63,7 +63,7 @@ msgstr "Нагороди"
 
 #. i18n: keyword: Transactions
 msgid "Transactions"
-msgstr ""
+msgstr "Транзакції"
 
 #. i18n: keyword: Settings
 msgid "Settings"
@@ -203,7 +203,7 @@ msgstr "Упс, здається, данне посилання недійсне
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "Please verify your email address to continue."
-msgstr ""
+msgstr "Будь ласка, підтвердіть свою електронну адресу для продовження."
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -355,7 +355,7 @@ msgstr "Це адреса електронної пошти, яку ми буд�
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "We have sent a verification code to your new email address to authorize the change."
-msgstr ""
+msgstr "Ми надіслали код підтвердження на вашу електронну адресу для підтвердження змін."
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -667,7 +667,7 @@ msgstr "Завантажити гру без DRM захисту"
 
 #. i18n: keyword: DRMFreeDownloadDescription
 msgid "You can get a DRM-free download of this game. More information <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>here</a>."
-msgstr "Ви можете отримати цю гру без DRM захисту. Більше інформації <a href=\"/\">тут</a>."
+msgstr "Ви можете отримати цю гру без DRM захисту. Більше інформації <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>тут</a>."
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
@@ -831,11 +831,11 @@ msgstr "Параметри завантаження"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
-msgstr ""
+msgstr "Тестування майбутніх проектів"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr ""
+msgstr "Ви можете зареєструватися на тестування альфа- та бета-версій проектів, в яких зацікавлені. Якщо вас приймуть, ви отримаєте електронне повідомлення."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -847,11 +847,11 @@ msgstr "Початок:"
 
 #. i18n: keyword: BetaRegister
 msgid "Register"
-msgstr "Приєднуйтесь до бета-версії"
+msgstr "Зареєструватися"
 
 #. i18n: keyword: BetaRegistered
 msgid "Registered. We will notify you if you have been selected to participate in this test."
-msgstr ""
+msgstr "Заявка прийнята. Ми повідомимо вас, якщо ви були обрані для участі в цьому тестуванні."
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -1451,7 +1451,7 @@ msgstr "Бета-тест більше не активний."
 
 #. i18n: keyword: E_MISSING_BASE_GAME_FOR_BETA
 msgid "You must own the base game to participate in this test."
-msgstr ""
+msgstr "Ви мусите мати базову версію гри для участі в цьому тестуванні."
 
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
@@ -1563,7 +1563,7 @@ msgstr "Невірний код підтвердження."
 
 #. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
 msgid "Invalid email verification code."
-msgstr ""
+msgstr "Недійсний код підтвердження."
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
@@ -1811,32 +1811,32 @@ msgstr "Дякуємо за подання заявки та повідомле�
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
-msgstr ""
+msgstr "Ознайомтесь з ліцензійною угодою та умовами обслуговування"
 
 #. i18n: keyword: ReviewEULADescription
 msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
-msgstr ""
+msgstr "Привіт, <code>{{.Data.KU}}</code>,<br><br>Ваш обліковий запис заблоковано через порушення ліцензійної угоди або умов обслуговування. <br><br> Будь ласка, уважно прочитайте умови та прийміть свідоме рішення, чи хочете ви продовжити брати участь у нашій спільноті та грати в наші ігри."
 
 #. i18n: keyword: ReviewEULAWarning
 msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
-msgstr ""
+msgstr "Подальше порушення умов обслуговування може призвести до додаткових обмежень вашого облікового запису, таких як тимчасове або перманентне обмеження доступу до нашого сервісу."
 
 #. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
 msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "Схоже, ви не переглянули ліцензійну угоду та умови обслуговування. Будь ласка, натисніть на кожне посилання, прочитайте інформацію та встановіть прапорці, якщо ви погоджуєтесь з умовами обслуговування."
 
 #. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
 msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "Схоже, ви не ознайомились з ліцензійною угодою та умовами обслуговування повністю. Будь ласка, відвідайте попередню сторінку, прочитайте інформацію та встановіть прапорці, якщо ви погоджуєтесь з Умовами обслуговування."
 
 #. i18n: keyword: E_USER_IS_NOT_BANNED
 msgid "Your account is not banned."
-msgstr ""
+msgstr "Ваш обліковий запис не заблоковано."
 
 #. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
 msgid "The ban in your account is not reversible."
-msgstr ""
+msgstr "Зняти блокування неможливо."
 
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
-msgstr ""
+msgstr "О ні! Схоже, ви перейшли по недіючому посиланні. Можливо, вам доведеться повторно пройти аутентифікацію."
