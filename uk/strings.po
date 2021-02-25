@@ -199,7 +199,7 @@ msgstr "Помилка підтвердження"
 
 #. i18n: keyword: VerificationEmailFailureDescription
 msgid "Oops, it looks like the link you used to get here was invalid."
-msgstr "Упс, здається, данне посилання недійсне."
+msgstr "Упс, здається, дане посилання недійсне."
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "Please verify your email address to continue."
@@ -223,7 +223,7 @@ msgstr "Підтвердження пройшло успішно"
 
 #. i18n: keyword: RegistrationCompleteDescription
 msgid "Thanks for verifying your email.</p><p>You’re good to go! You can now return to your game and play online. If you have suggestions, feedback or need support during the beta, head over to the Klei community forum."
-msgstr "Дякуємо, що підтвердили електронну пошту.</p><p>Все супер! Тепер ви можете повернутися до своєї гри і насолоджуватися нею разом з іншими в онлайн режимі. Якщо у вас є пропозиції, відгуки або вам потрібна підтримка під час бета-тестування, завітайте на форум спільноти Klei."
+msgstr "Дякуємо, що підтвердили електронну пошту.</p><p>Все супер! Тепер ви можете повернутися до своєї гри та насолоджуватися нею разом з іншими в онлайн режимі. Якщо у вас є пропозиції, відгуки або вам потрібна підтримка під час бета-тестування, завітайте на форум спільноти Klei."
 
 #. i18n: keyword: VisitCommunityForum
 msgid "Visit Klei Community Forum"
@@ -459,11 +459,11 @@ msgstr "НЕ ВИКОРИСТОВУВАТИМУ це, якщо не буду м�
 
 #. i18n: keyword: MergeAccountConsentQuestion2
 msgid "This process is permanent and cannot be reverted or changed."
-msgstr "Цей процес безповоротний і його неможливо відмінити чи змінити."
+msgstr "Цей процес безповоротний і його неможливо скасувати чи змінити."
 
 #. i18n: keyword: MergeAccountConsentQuestion3
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
-msgstr "Після того, як платформа буде пов'зана з обліковим записом Klei, її не можна буде від'єднати."
+msgstr "Після того, як платформа буде пов'язана з обліковим записом Klei, її не можна буде від'єднати."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
@@ -475,7 +475,7 @@ msgstr "Невірна згода користувача, вам потрібн�
 
 #. i18n: keyword: E_ACCOUNT_MERGE_MISSING_DATA
 msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
-msgstr "Наразі неможливо об'єднати ваші акаунти, оскільки відсутні деякі дані. Вийдіть із системи та запустіть процес заново. Переконайтеся, що ваш веб-браузер приймає файли cookie та два акаунти, які ви збираєтеся об'єднати, є правильними."
+msgstr "Наразі неможливо об'єднати ваші акаунти, оскільки відсутні деякі дані. Вийдіть із системи та запустіть процес заново. Переконайтеся, що ваш браузер приймає файли cookie та два акаунти, які ви збираєтеся об'єднати, є правильними."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
@@ -483,7 +483,7 @@ msgstr "Будь ласка, оновіть свої *Klei* акаунти, що
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the e-mail address in both accounts and start the process again."
-msgstr "Будь ласка перевірте/підтвердіть адресу електронної пошти в обох акаунтах та запустіть процес заново."
+msgstr "Будь ласка, перевірте/підтвердіть адресу електронної пошти в обох акаунтах та запустіть процес заново."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
@@ -575,7 +575,7 @@ msgstr "Якщо ви це не прочитаєте - відбудуться н
 
 #. i18n: keyword: DeleteAccountExplanation
 msgid "At your request, your <b>Klei account</b> and all personally identifiable information related to your account (excluding financial transactions and information related to abuse) will be submitted to be permanently removed from our system.</p><p><b>Please note: You will not be able to reverse this action, and all data will be completely and irrecoverably removed.</b></p><p><strong>This means you will no longer be able to play any game that requires a Klei Account (Don’t Starve Together and Hot Lava) the {{.PlatformName}} account will be banned permanently, and all records will be destroyed forever including progress, items and entitlements.</strong>"
-msgstr "За вашим запитом, ваш <b>акаунт Klei</b> і вся особиста інформація, пов'язана з вашим акаунтом (за винятком фінансових операцій та інформації, пов'язаної зі зловживаннями) буде назавжди видалена з нашої системи.</p><p><b>Зверніть увагу: ви не зможете скасувати цю дію, і всі дані будуть повністю та безповоротно видалені.</b></p><p><strong>Це означає, що ви більше не зможете грати в будь-яку гру, для якої потрібно аккаунт Klei (Don’t Starve Together та Hot Lava) {{.PlatformName}} акаунт буде заблоковано назавжди, всі записи будуть знищені назавжди, включаючи прогрес, предмети і права.</strong>"
+msgstr "За вашим запитом, ваш <b>акаунт Klei</b> та вся особиста інформація, пов'язана з вашим акаунтом (за винятком фінансових операцій та інформації, пов'язаної зі зловживаннями) буде назавжди видалена з нашої системи.</p><p><b>Зверніть увагу: ви не зможете скасувати цю дію, і всі дані будуть повністю та безповоротно видалені.</b></p><p><strong>Це означає, що ви більше не зможете грати в будь-яку гру, для якої потрібно акаунт Klei (Don’t Starve Together та Hot Lava) {{.PlatformName}} акаунт буде заблоковано назавжди, всі записи будуть знищені назавжди, включаючи прогрес, предмети та права.</strong>"
 
 #. i18n: keyword: DeleteAccountOptions
 msgid "Check the boxes to confirm you understand what is going to happen:"
@@ -587,11 +587,11 @@ msgstr "Очистити мій прогрес в іграх Klei"
 
 #. i18n: keyword: DeleteAccountOptionsInventory
 msgid "Delete all the items in my game inventory"
-msgstr "Видалити всі предмети з ігрового інвентаря"
+msgstr "Видалити всі предмети з ігрового інвентарю"
 
 #. i18n: keyword: DeleteAccountOptionsPurchases
 msgid "Delete items from my Steam inventory, including purchased items"
-msgstr "Видалити предмети з мого Steam інвентаря, включаючи придбані"
+msgstr "Видалити предмети з мого Steam інвентарю, включаючи придбані"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayDST
 msgid "I do not want to play Don’t Starve Together anymore"
@@ -651,7 +651,7 @@ msgstr "Доступно на наступних платформах:"
 
 #. i18n: keyword: GoToWebsite
 msgid "Go to Website"
-msgstr "Перейти на веб-сайт"
+msgstr "Перейти на вебсайт"
 
 #. i18n: keyword: GetDRMFreeGames
 msgid "Get DRM-free Games"
@@ -683,7 +683,7 @@ msgstr "Інвентар"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr "<b>Пошукові поради:</b> Введіть одне або декілька слів для пошуку предметів у вашому інвентарі. Якщо ви хочете знайти предмет під назвою <b>Wilson Red Hat</b>, ви можете ввести <b>Wilson</b>, або <b>Hat</b>, та також <b>Wilson Hat</b>. Порядок написання слів має значення, це означає, що ви не знайдете результатів для запиту \"Hat Wilson\", оскільки слова розміщені в іншому порядку. <b>Натисніть Enter</b> щоб надіслати пошуковий запит. Видаліть пошуковий запит та натисніть Enter знову для скидання фільтрів."
+msgstr "<b>Пошукові поради:</b> Введіть одне або декілька слів для пошуку предметів у вашому інвентарі. Якщо ви хочете знайти предмет під назвою <b>Wilson Red Hat</b>, ви можете ввести <b>Wilson</b>, або <b>Hat</b>, та також <b>Wilson Hat</b>. Порядок написання слів має значення, це означає, що ви не знайдете результатів для запиту \"Hat Wilson\", оскільки слова розміщені в іншому порядку. <b>Натисніть Enter</b>, щоб надіслати пошуковий запит. Видаліть пошуковий запит та натисніть Enter знову для скидання фільтрів."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
@@ -695,7 +695,7 @@ msgstr "Інформація про гравця"
 
 #. i18n: keyword: EnteredARGs
 msgid "Entered ARGs"
-msgstr "Участь у ARG"
+msgstr "Участь в ARG"
 
 #. i18n: keyword: ParticipatedEvents
 msgid "Participated Events"
@@ -831,11 +831,11 @@ msgstr "Параметри завантаження"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
-msgstr "Тестування майбутніх проектів"
+msgstr "Тестування майбутніх проєктів"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr "Ви можете зареєструватися на тестування альфа- та бета-версій проектів, в яких зацікавлені. Якщо вас приймуть, ви отримаєте електронне повідомлення."
+msgstr "Ви можете зареєструватися на тестування альфа- та бета-версій проэктів, в яких зацікавлені. Якщо вас приймуть, ви отримаєте електронне повідомлення."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -871,7 +871,7 @@ msgstr "<a href='/community-translations'>Це неофіційний перек
 
 #. i18n: keyword: CommunityTranslationsDescription
 msgid "If you would like to add a new language or make corrections to the existing text <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>please visit the following link</a> and read the instructions of how to contribute to the translations of the website."
-msgstr "Якщо ви хочете додати нову мову або внести виправлення в існуючий текст <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>будь ласка, відвідайте наступне посилання</a> і прочитайте інструкції про те, як зробити свій внесок у переклад сайту."
+msgstr "Якщо ви хочете додати нову мову або внести виправлення в наявний текст, <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>будь ласка, відвідайте наступне посилання</a> і прочитайте інструкції про те, як зробити свій внесок у переклад сайту."
 
 #. i18n: keyword: RewardTitle
 msgid "Drops & Rewards (Beta)"
@@ -979,7 +979,7 @@ msgstr "Вартість предмета"
 
 #. i18n: keyword: RewardItemReedem
 msgid "Redeem"
-msgstr "Погасити"
+msgstr "Отримати"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
@@ -991,11 +991,11 @@ msgstr "Посилання на винагороду"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Вітаємо!</p><p>Ви знайшли дійсне посилання на винагороду в дикий природі з {{.Amount}} {{.Name}}.</p><p>Ваш баланс буде негайно оновленний. Будь ласка, перейдіть на сторінку \"Транзакції користувача\" щоб побачити зміни в балансі акаунта.</p>"
+msgstr "<p>Вітаємо!</p><p>Ви знайшли дійсне посилання на винагороду в дикій природі з {{.Amount}} {{.Name}}.</p><p>Ваш баланс буде негайно оновлено. Будь ласка, перейдіть на сторінку \"Транзакції користувача\" щоб побачити зміни в балансі акаунта.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Вітаємо!</p><p>Ви знайшли дійсне посилання на винагороду в дикий природі з {{.Amount}} {{.Name}}.</p><p>Ви знайдете її в грі наступного разу. Будь ласка, перейдіть на сторінку \"Транзакції користувача\" щоб побачити зміни в балансі акаунта.</p>"
+msgstr "<p>Вітаємо!</p><p>Ви знайшли дійсне посилання на винагороду в дикій природі з {{.Amount}} {{.Name}}.</p><p>Ви знайдете її в грі наступного разу. Будь ласка, перейдіть на сторінку \"Транзакції користувача\" щоб побачити зміни в балансі акаунта.</p>"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1019,7 +1019,7 @@ msgstr "Активувати код"
 
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Gift code redemption was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr "Вітаємо! Активація подарункового коду пройшла успішно.</p><p>Тривалість доставки коливається із-за тимчасових портальних аномалій. Klei не відповідає за емоційні травми, викликані очікуванням. Подарунки можуть спричинити хвастощі, несподіване задоволення та/або поліпшення ігрового процесу."
+msgstr "Вітаємо! Активація подарункового коду пройшла успішно.</p><p>Тривалість надходження може коливатись через тимчасові портальні аномалії. Klei не несе відповідальність за емоційні травми, викликані очікуванням. Подарунки можуть спричинити хвастощі, несподіване задоволення та/або поліпшення ігрового процесу."
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
@@ -1103,7 +1103,7 @@ msgstr "Не вдалося пройти автентифікацію. Пере�
 
 #. i18n: keyword: E_ZENDESK_EMAIL_IS_MISSING
 msgid "Please <a href='/account/settings'>associate a valid email address to your account</a>. Otherwise, we will not be able to reply to your support request."
-msgstr "Будь ласка <a href='/account/settings'>пов'яжіть дійсну електронну адресу зі своїм акаунтом</a>. В іншому випадку ми не зможемо відповісти на ваш запит до служби підтримки."
+msgstr "Будь ласка, <a href='/account/settings'>пов'яжіть дійсну електронну адресу зі своїм акаунтом</a>. В іншому випадку ми не зможемо відповісти на ваш запит до служби підтримки."
 
 #. i18n: keyword: E_ZENDESK_EMAIL_NOT_VERIFIED
 msgid "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
@@ -1151,15 +1151,15 @@ msgstr "Вашу адресу електронної пошти буде вик�
 
 #. i18n: keyword: DOBInfoText
 msgid "Date of birth is required for age verification, security, and account recovery support."
-msgstr "Дата народження потрібно для підтвердження віку, безпеки і підтримки у відновлення аккаунта."
+msgstr "Дата народження потрібна для підтвердження віку, безпеки та підтримки для відновлення акаунту."
 
 #. i18n: keyword: EmailNewsletterText
 msgid "Get emails for major announcements, events and promotions. You may change this setting later."
-msgstr "Отримуйте електронні листи про важливі анонси, події і рекламні акції. Ви можете змінити цей параметр пізніше."
+msgstr "Отримуйте електронні листи про важливі анонси, події та рекламні акції. Ви можете змінити цей параметр пізніше."
 
 #. i18n: keyword: EULACheck
 msgid "Please review the EULA terms and agree by selecting the checkbox. You must agree with the EULA to continue."
-msgstr "Будь ласка, ознайомтесь з умовами ліцензійної угоди і погодьтеся, встановивши прапорець. Ви повинні погодитися з EULA для продовження."
+msgstr "Будь ласка, ознайомтесь з умовами ліцензійної угоди та погодьтеся, встановивши прапорець. Ви повинні погодитися з EULA для продовження."
 
 #. i18n: keyword: ResendAccountInfo
 msgid "Re-send Account Activation E-mail"
@@ -1167,7 +1167,7 @@ msgstr "Надіслати лист активації облікового за
 
 #. i18n: keyword: AwaitingVerification
 msgid "Your account has been created previously, but is still awaiting e-mail verification.  Check your e-mail account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the e-mail."
-msgstr "Ваш акаунт було створено раніше, але все ще очікує підтвердження по електронній пошті. Перевірте свою електронну пошту на наявність повідомлень, відправлених з noreply@kleientertainment.com, і натисніть на посилання, щоб завершити реєстрацію свого облікового запису. Обов'язково перевірте папки «Спам» або «Небажана пошта», якщо не можете знайти лист."
+msgstr "Ваш акаунт було створено раніше, але все ще очікує підтвердження через електронну пошту. Перевірте свою електронну пошту на наявність повідомлень, відправлених з noreply@kleientertainment.com, і натисніть на посилання, щоб завершити реєстрацію свого облікового запису. Обов'язково перевірте папки «Спам» або «Небажана пошта», якщо не можете знайти лист."
 
 #. i18n: keyword: ResendVerification
 msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address. Please double-check it for accuracy!"
@@ -1179,7 +1179,7 @@ msgstr "Завантаження профілю Steam…"
 
 #. i18n: keyword: AOLNote
 msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
-msgstr "ПРИМІТКА: Нині з адресами електронної пошти AOL виникають проблеми щодо отриманням перевірочних листів. Якщо ви використовуєте адресу електронної пошти @aol, ви можете не отримати листа з підтвердженням, поки цю проблему не буде вирішено. Ми рекомендуємо використовувати іншу адресу електронної пошти."
+msgstr "ПРИМІТКА: Нині з адресами електронної пошти AOL виникають проблеми щодо отримання перевірочних листів. Якщо ви використовуєте адресу електронної пошти @aol, ви можете не отримати листа з підтвердженням, поки цю проблему не буде вирішено. Ми рекомендуємо використовувати іншу адресу електронної пошти."
 
 #. i18n: keyword: DOBUsage
 msgid "Date of birth (to verify your age)"
@@ -1211,7 +1211,7 @@ msgstr "Сервер не зміг прочитати надані вами да
 
 #. i18n: keyword: E_AUTH_FAILURE
 msgid "The authentication information provided did not match an existing account."
-msgstr "Надана інформація для аутентифікації не відповідає існуючому обліковому запису."
+msgstr "Надана інформація для аутентифікації не відповідає наявному обліковому запису."
 
 #. i18n: keyword: E_EMAIL_IN_USE
 msgid "The e-mail address is already being used."
@@ -1255,7 +1255,7 @@ msgstr "Сесія закінчилася, ви повинні увійти в �
 
 #. i18n: keyword: E_INVALID_SESSION_SAFARI
 msgid "Session has expired, you have to log in once again. <b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
-msgstr "Сесія закінчилася, ви повинні увійти в систему ще раз. <b>Ви використовуєте Safari?</b> Якщо так, будь ласка, використовуйте альтернативний веб-браузер. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>Нова політика запобігання відстеження WebKit</a>, яка вбудована в новітній версії Safari, випадково відключила зв'язок між веб-сайтом і внутрішніми серверами."
+msgstr "Сесія закінчилася, ви повинні увійти в систему ще раз. <b>Ви використовуєте Safari?</b> Якщо так, будь ласка, використайте альтернативний браузер. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>Нова політика запобігання відстеження WebKit</a>, яка вбудована в новітній версії Safari, випадково відключила зв'язок між вебсайтом і внутрішніми серверами."
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
@@ -1327,7 +1327,7 @@ msgstr "Код аутентифікації був створений для і�
 
 #. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
 msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Live account."
-msgstr "Неможливо увійти до системи з цим акаунтом на даний момент. Увійдіть на Xbox.com, щоб вирішити проблему з вашим обліковим записом Xbox Live."
+msgstr "Наразі неможливо увійти до системи з цим акаунтом. Для вирішення проблеми, увійдіть з цим обліковим записом Xbox Live на вебсайті Xbox.com."
 
 #. i18n: keyword: E_SESSION_ALREADY_EXISTS
 msgid "It appears you already have a valid session. If you want to login using a different gaming platform, please log out first."
@@ -1367,7 +1367,7 @@ msgstr "Для вашого акаунту не надходило запиті�
 
 #. i18n: keyword: E_NOT_FOUND
 msgid "DisplayName / Email not found"
-msgstr "Відображуване ім'я/адреса електронної пошти не знайдено"
+msgstr "Відображуване ім'я/адресу електронної пошти не знайдено"
 
 #. i18n: keyword: E_PASSWORD_RESET_CODE_EXPIRED
 msgid "This password change request has expired. Please make a new request if you still require a new password."
@@ -1407,7 +1407,7 @@ msgstr "Це ім'я вже використовується іншим кори
 
 #. i18n: keyword: E_WHIPPERSNAPPER
 msgid "You must be at least 13 years old to register an account."
-msgstr "Вам повинно бути не менше 13 років, щоб зареєструвати аккаунт."
+msgstr "Вам повинно бути не менше 13 років, щоб зареєструвати акаунт."
 
 #. i18n: keyword: E_INVALID_BIRTHDAY
 msgid "Invalid date of birth, date must be in this format: YYYY-MM-DD"
@@ -1415,15 +1415,15 @@ msgstr "Невірна дата народження, дата має бути �
 
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
-msgstr "Twitch відхилив запит на підключення вашого акаунту Klei; зазвичай це тимчасова проблема на серверах аутентифікації Twitch. Будь ласка <a href='/account/twitch/link'>спробуйте знову</a> через кілька хвилин."
+msgstr "Twitch відхилив запит на підключення вашого акаунту Klei; зазвичай це тимчасова проблема на серверах аутентифікації Twitch. Будь ласка, <a href='/account/twitch/link'>спробуйте знову</a> через кілька хвилин."
 
 #. i18n: keyword: E_TWITCH_DATA_CONFLICT
 msgid "Apparently you have already connected your game ID with another Twitch account. Open a new session in your web browser (using “Incognito” or “Private” mode, for example) and log in with the secondary Twitch account, visit the “Settings” page, then “Connections”, then disconnect the “Klei Entertainment” application. Finally, return to this page and try to connect your Twitch account again."
-msgstr "Ймовірно, ви вже пов'язали свій ігровий ідентифікатор з іншим обліковим записом Twitch. Відкрийте новий сеанс в своєму веб-браузері (наприклад, в режимі «Інкогніто» або «Приватний») і увійдіть в систему за допомогою вторинного облікового запису Twitch, перейдіть на сторінку «Налаштування», потім «Підключення», потім вимкніть додаток «Klei Entertainment». Нарешті, поверніться на цю сторінку та спробуйте знову підключити свій обліковий запис Twitch."
+msgstr "Ймовірно, ви вже пов'язали свій ігровий ідентифікатор з іншим обліковим записом Twitch. Відкрийте новий сеанс у своєму браузері (наприклад, в режимі «Інкогніто» або «Приватний») і увійдіть в систему за допомогою вторинного облікового запису Twitch, перейдіть на сторінку «Налаштування», потім «Підключення», потім вимкніть додаток «Klei Entertainment». Нарешті, поверніться на цю сторінку та спробуйте знову приєднати свій обліковий запис Twitch."
 
 #. i18n: keyword: E_TWITCH_DELETED_SECRET
 msgid "Twitch is having problems verifying the credentials associated to our application. This usually happens when an internal service on Twitch infrastructure is having internal server errors. Please try again in a few minutes."
-msgstr "У Twitch виникають проблеми з підтвердженням облікових даних, пов'язаних із нашою програмою. Зазвичай це відбувається, коли внутрішня служба інфраструктури Twitch має внутрішні помилки сервера. Будь ласка повторіть спробу через кілька хвилин."
+msgstr "У Twitch виникають проблеми з підтвердженням облікових даних, пов'язаних із нашою програмою. Зазвичай це відбувається, коли внутрішня служба інфраструктури Twitch має внутрішні помилки сервера. Будь ласка, повторіть спробу через кілька хвилин."
 
 #. i18n: keyword: E_TWITCH_BLACKLISTED
 msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
@@ -1431,11 +1431,11 @@ msgstr "Можливість зв'язати акаунт Twitch з вашим �
 
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "Ваш акаунт Klei вже відключений від Twitch. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>зайдіть в свій профіль Twitch</a> і відключіть додаток «Klei Entertainment» вручну."
+msgstr "Ваш акаунт Klei вже відключений від Twitch. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>зайдіть у свій профіль Twitch</a> і відключіть додаток «Klei Entertainment» вручну."
 
 #. i18n: keyword: E_TWITCH_INTERNAL_SERVER_ERROR
 msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
-msgstr "Сервери Twitch мають проблеми з обробкою цієї операції. Будь ласка зачекайте кілька хвилин і повторіть спробу."
+msgstr "Сервери Twitch мають проблеми з обробкою цієї операції. Будь ласка, зачекайте кілька хвилин і повторіть спробу."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_SERVERS
 msgid "This game doesn’t support additional servers yet."
@@ -1463,7 +1463,7 @@ msgstr "Steam тимчасово заблокував ваш акаунт."
 
 #. i18n: keyword: E_STEAM_INTERNAL_SERVER_ERROR
 msgid "Steam servers are currently offline."
-msgstr "Сервери Steam в даний момент відключені."
+msgstr "Сервери Steam наразі відключені."
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
 msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
@@ -1479,11 +1479,11 @@ msgstr "Ми не можемо показати інформацію вашог�
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR
 msgid "Steam servers is not available at the moment."
-msgstr "Сервери Steam в даний момент недоступні."
+msgstr "Сервери Steam наразі недоступні."
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
 msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
-msgstr "Схоже, ви переглядаєте цю веб-сторінку за допомогою браузера Steam In-Game. На жаль, деякі функції цього веб-сайту не дуже добре працюють у цьому середовищі. Якщо у вас є проблеми з використанням цієї функції, будь ласка, подумайте про використання звичайного веб-браузера поза Steam."
+msgstr "Схоже, ви переглядаєте цю вебсторінку за допомогою браузера Steam In-Game. На жаль, деякі функції цього вебсайту не дуже добре працюють у цьому середовищі. Якщо у вас є проблеми з використанням цієї функції, будь ласка, подумайте про використання звичайного браузера поза Steam."
 
 #. i18n: keyword: E_OPENID_INVALID_MODE
 msgid "The previous website sent us invalid data. The OpenID “mode” parameter is invalid. Please start the login flow again."
@@ -1531,7 +1531,7 @@ msgstr "Ваш акаунт Douyu вже пов'язаний з ідентифі
 
 #. i18n: keyword: E_DOUYU_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Douyu. If you believe the connection still exists, please <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "Ваш акаунт Klei вже був відключений від Douyu. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>зайдіть в свій профіль Douyu</a> і відключіть додаток «Klei Entertainment» вручну."
+msgstr "Ваш акаунт Klei вже був відключений від Douyu. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>зайдіть у свій профіль Douyu</a> і відключіть додаток «Klei Entertainment» вручну."
 
 #. i18n: keyword: E_DOUYU_GATEWAY_TIMEOUT
 msgid "Douyu servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
@@ -1543,7 +1543,7 @@ msgstr "Ваш акаунт Bilibili вже пов'язаний з іденти�
 
 #. i18n: keyword: E_BILIBILI_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Bilibili. If you believe the connection still exists, please <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>visit your Bilibili profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "Ваш акаунт Klei вже був відключений від Bilibili. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>зайдіть в свій профіль Bilibili</a> і відключіть додаток «Klei Entertainment» вручну."
+msgstr "Ваш акаунт Klei вже був відключений від Bilibili. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>зайдіть у свій профіль Bilibili</a> та відключіть додаток «Klei Entertainment» вручну."
 
 #. i18n: keyword: E_BILIBILI_GATEWAY_TIMEOUT
 msgid "Bilibili servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
@@ -1567,7 +1567,7 @@ msgstr "Недійсний код підтвердження."
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
-msgstr "Постачальник авторизації не розпізнаний. Будь ласка, перевірте, чи приймає ваш веб-браузер файли cookie з цього сайту, потім перейдіть на сторінку «Увійти» і спробуйте ще раз."
+msgstr "Постачальник авторизації не розпізнано. Будь ласка, перевірте, чи приймає ваш браузер файли cookie з цього сайту, потім перейдіть на сторінку «Увійти» і спробуйте ще раз."
 
 #. i18n: keyword: E_CLIENT_TOKEN_HAS_EXPIRED
 msgid "Client login token has expired."
@@ -1579,7 +1579,7 @@ msgstr "Токен для входу клієнта був створений д
 
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_PURPOSE
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
-msgstr "Веб-сторінка підтримує лише токени входу клієнта. Токен, який ви надали, схоже, дійсний, але він був створений для зовсім іншого."
+msgstr "Вебсторінка підтримує лише токени входу клієнта. Токен, який ви надали, схоже, дійсний, але він був створений для зовсім іншого."
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
@@ -1587,19 +1587,19 @@ msgstr "Klei не було надано дозвіл на прив'язку ва
 
 #. i18n: keyword: E_TWITTER_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitter. If you believe the connection still exists, please <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>visit your Twitter profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "Ваш акаунт Klei вже відключений від Twitter. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>зайдіть в свій профіль Twitter</a> і відключіть додаток «Klei Accounts» вручну."
+msgstr "Ваш акаунт Klei вже відключений від Twitter. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://twitter.com/settings/applications' target='_blank' rel='noopener noreferrer'>зайдіть у свій профіль Twitter</a> і відключіть додаток «Klei Accounts» вручну."
 
 #. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "Ваш акаунт Klei вже був відключений від Google. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>зайдіть в свій профіль Google</a> і відключіть додаток «Klei Accounts» вручну."
+msgstr "Ваш акаунт Klei вже був відключений від Google. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>зайдіть у свій профіль Google</a> і відключіть додаток «Klei Accounts» вручну."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
-msgstr "Ваш акаунт Klei вже був відключений від Facebook. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>зайдіть в свій профіль Facebook</a> і відключіть додаток «Klei Accounts» вручну."
+msgstr "Ваш акаунт Klei вже був відключений від Facebook. Якщо ви вважаєте, що з'єднання все ще існує, будь ласка, <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>зайдіть у свій профіль Facebook</a> і відключіть додаток «Klei Accounts» вручну."
 
 #. i18n: keyword: E_FACEBOOK_IS_UNAVAILABLE
 msgid "Facebook is unavailable right now. To process your request we need to pass some information to Facebook, but it seems their service is offline right now. Please wait a few minutes before trying again."
-msgstr "На даний момент Facebook недоступний. Щоб обробити ваш запит, нам потрібно передати певну інформацію у Facebook, але, схоже, зараз їх сервіс недоступний. Зачекайте кілька хвилин, перш ніж спробувати."
+msgstr "На цю мить Facebook недоступний. Щоб обробити ваш запит, нам потрібно передати певну інформацію у Facebook, але, схоже, зараз їх сервіс недоступний. Зачекайте кілька хвилин, перш ніж спробувати."
 
 #. i18n: keyword: E_FACEBOOK_OAUTH_EXCEPTION
 msgid "An unexpected error has occurred on Facebook. Please retry your request later."
@@ -1635,7 +1635,7 @@ msgstr "Транзакції користувача"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
-msgstr "Усі (відповідні) транзакції, пов'язані з вашим обліковим записом, перелічені у порядку спадання (новіші транзакції вгорі, старіші внизу). Зауважте, що час транзакції залежить від часового поясу веб-сервера, можливо, вам доведеться відрегулювати цифри відповідно до часу на вашому комп'ютері."
+msgstr "Усі (відповідні) транзакції, пов'язані з вашим обліковим записом, перелічені у порядку спадання (новіші транзакції вгорі, старіші внизу). Зауважте, що час транзакції залежить від часового поясу вебсервера, можливо, вам доведеться відрегулювати цифри відповідно до часу на вашому комп'ютері."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
@@ -1839,4 +1839,4 @@ msgstr "Зняти блокування неможливо."
 
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
-msgstr "О ні! Схоже, ви перейшли по недіючому посиланні. Можливо, вам доведеться повторно пройти аутентифікацію."
+msgstr "О ні! Схоже, ви перейшли по нечинному посиланні. Можливо, вам доведеться повторно пройти аутентифікацію."
