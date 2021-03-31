@@ -203,7 +203,7 @@ msgstr "Упс, кажется, использованная вами ссылк
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "Please verify your email address to continue."
-msgstr ""
+msgstr "Пожалуйста, подтвердите адрес своей электронной почты, чтобы продолжить."
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -355,7 +355,7 @@ msgstr "Это адрес электронной почты, который мы
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "We have sent a verification code to your new email address to authorize the change."
-msgstr ""
+msgstr "Мы отправили код проверки на новый адрес вашей электронной почты, чтобы подтвердить изменения."
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -831,11 +831,11 @@ msgstr "Параметры загрузки"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
-msgstr ""
+msgstr "Тестирование предстоящих проектов"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr ""
+msgstr "Вы можете зарегистрироваться для тестирования альфа- и бета-версий интересующих вас проектов. Если вас примут, вы получите электронное письмо."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -851,7 +851,7 @@ msgstr "Присоединиться к бете"
 
 #. i18n: keyword: BetaRegistered
 msgid "Registered. We will notify you if you have been selected to participate in this test."
-msgstr ""
+msgstr "Заявка принята. Мы сообщим вам, если вы были выбраны для участия в этом тестировании."
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -1451,7 +1451,7 @@ msgstr "Бета больше не активна."
 
 #. i18n: keyword: E_MISSING_BASE_GAME_FOR_BETA
 msgid "You must own the base game to participate in this test."
-msgstr ""
+msgstr "Для участия в данном тестировании вы должны быть обладателем базовой версией игры."
 
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
@@ -1563,7 +1563,7 @@ msgstr "Неверный код подтверждения."
 
 #. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
 msgid "Invalid email verification code."
-msgstr ""
+msgstr "Неверный код подтверждения электронной почты."
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
@@ -1811,32 +1811,32 @@ msgstr "Спасибо за участие и сообщение. К сожал�
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
-msgstr ""
+msgstr "Ознакомьтесь с пользовательским соглашением и условиями использования."
 
 #. i18n: keyword: ReviewEULADescription
 msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
-msgstr ""
+msgstr "Здравствуйте, <code>{{.Data.KU}}</code>,<br><br>Ваша учётная запись была заблокирована за нарушение пользовательского соглашения или условий использования.<br><br>Пожалуйста, прочтите внимательно и примите осознанное решение, хотите ли вы продолжить быть участником нашего сообщества и играть в наши игры."
 
 #. i18n: keyword: ReviewEULAWarning
 msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
-msgstr ""
+msgstr "Дальнейшее нарушение условий использования может привести к дополнительным ограничениям вашей учётной записи, таким как временное или перманентное ограничение доступа к онлайн-службам."
 
 #. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
 msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "Похоже, вы не ознакомились с пользовательским соглашением и условиями использования. Пожалуйста, перейдите по каждой ссылке, прочтите информацию и установите флажки, если вы согласны с условиями использования."
 
 #. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
 msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "Похоже, вы не ознакомились со всем пользовательским соглашением и условиями использования. Пожалуйста, посетите предыдущую страницу, прочтите информацию и установите флажки, если вы согласны с условиями использования."
 
 #. i18n: keyword: E_USER_IS_NOT_BANNED
 msgid "Your account is not banned."
-msgstr ""
+msgstr "Ваш учётная запись не заблокирована."
 
 #. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
 msgid "The ban in your account is not reversible."
-msgstr ""
+msgstr "Блокировка вашего аккаунта необратима."
 
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
-msgstr ""
+msgstr "О, нет! Похоже, вы перешли по неработающий ссылке. Возможно, вам снова придется пройти аутентификацию."
