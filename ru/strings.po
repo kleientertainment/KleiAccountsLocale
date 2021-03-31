@@ -63,7 +63,7 @@ msgstr "Награды"
 
 #. i18n: keyword: Transactions
 msgid "Transactions"
-msgstr ""
+msgstr "Транзакции"
 
 #. i18n: keyword: Settings
 msgid "Settings"
