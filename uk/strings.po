@@ -451,7 +451,7 @@ msgstr "Переконайтесь у правильності ігрового 
 
 #. i18n: keyword: MergeAccountReadyToExecute
 msgid "We have checked all the information we could find about the two accounts you are about to merge and did not find any warnings. You will be able to log in with the new account after submitting this form."
-msgstr "Ми перевірили всю інформацію, яку могли знайти про два акаунти, які ви збираєтеся об'єднати, і не знайшли жодних попереджень. Ви зможете увійти з нового акаунту після відправки цієї форми."
+msgstr "Ми перевірили всю інформацію, яку могли знайти про два акаунти, які ви збираєтеся об'єднати, і не знайшли жодних попереджень. Ви зможете увійти з нового акаунту після надсилання цієї форми."
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
@@ -483,7 +483,7 @@ msgstr "Будь ласка, оновіть свої *Klei* акаунти, що
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the e-mail address in both accounts and start the process again."
-msgstr "Будь ласка, перевірте/підтвердіть адресу електронної пошти в обох акаунтах та запустіть процес заново."
+msgstr "Будь ласка, перевірте/підтвердьте адресу електронної пошти в обох акаунтах та запустіть процес заново."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
@@ -539,7 +539,7 @@ msgstr "Надання..."
 
 #. i18n: keyword: OWNERSHIP_STATUS_GRANT_AVAILABLE
 msgid "Available for free"
-msgstr "Доступно безкоштовно"
+msgstr "Доступно безплатно"
 
 #. i18n: keyword: OWNERSHIP_STATUS_TEMPORARY
 msgid "Temporarily allowed"
@@ -835,7 +835,7 @@ msgstr "Тестування майбутніх проєктів"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr "Ви можете зареєструватися на тестування альфа- та бета-версій проэктів, в яких зацікавлені. Якщо вас приймуть, ви отримаєте електронне повідомлення."
+msgstr "Ви можете зареєструватися на тестування альфа та бета-версій проєктів, в яких зацікавлені. Якщо вас приймуть, ви отримаєте електронне повідомлення."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -995,7 +995,7 @@ msgstr "<p>Вітаємо!</p><p>Ви знайшли дійсне посилан
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Вітаємо!</p><p>Ви знайшли дійсне посилання на винагороду в дикій природі з {{.Amount}} {{.Name}}.</p><p>Ви знайдете її в грі наступного разу. Будь ласка, перейдіть на сторінку \"Транзакції користувача\" щоб побачити зміни в балансі акаунта.</p>"
+msgstr "<p>Вітаємо!</p><p>Ви знайшли дійсне посилання на винагороду в дикій природі з {{.Amount}} {{.Name}}.</p><p>Ви знайдете її в грі наступного разу. Будь ласка, перейдіть на сторінку \"Транзакції користувача\" щоб побачити зміни в балансі акаунту.</p>"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1179,7 +1179,7 @@ msgstr "Завантаження профілю Steam…"
 
 #. i18n: keyword: AOLNote
 msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
-msgstr "ПРИМІТКА: Нині з адресами електронної пошти AOL виникають проблеми щодо отримання перевірочних листів. Якщо ви використовуєте адресу електронної пошти @aol, ви можете не отримати листа з підтвердженням, поки цю проблему не буде вирішено. Ми рекомендуємо використовувати іншу адресу електронної пошти."
+msgstr "ПРИМІТКА: Нині з адресами електронної пошти AOL виникають проблеми щодо отримання перевіркових листів. Якщо ви використовуєте адресу електронної пошти @aol, ви можете не отримати листа з підтвердженням, поки цю проблему не буде вирішено. Ми рекомендуємо використовувати іншу адресу електронної пошти."
 
 #. i18n: keyword: DOBUsage
 msgid "Date of birth (to verify your age)"
@@ -1327,11 +1327,11 @@ msgstr "Код аутентифікації був створений для і�
 
 #. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
 msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Live account."
-msgstr "Наразі неможливо увійти до системи з цим акаунтом. Для вирішення проблеми, увійдіть з цим обліковим записом Xbox Live на вебсайті Xbox.com."
+msgstr "Наразі неможливо увійти до системи з цим акаунтом. Для розв'язання проблеми, увійдіть з цим обліковим записом Xbox Live на вебсайті Xbox.com."
 
 #. i18n: keyword: E_SESSION_ALREADY_EXISTS
 msgid "It appears you already have a valid session. If you want to login using a different gaming platform, please log out first."
-msgstr "Схоже, у вас вже є діючий сеанс. Якщо ви хочете увійти в систему, використовуючи іншу ігрову платформу, спочатку вийдіть з облікового запису."
+msgstr "Схоже, у вас вже є наявний сеанс. Якщо ви хочете увійти в систему, використовуючи іншу ігрову платформу, спочатку вийдіть з облікового запису."
 
 #. i18n: keyword: E_MISSING_DATA
 msgid "There’s not enough data to execute this action."
@@ -1599,7 +1599,7 @@ msgstr "Ваш акаунт Klei вже був відключений від Fac
 
 #. i18n: keyword: E_FACEBOOK_IS_UNAVAILABLE
 msgid "Facebook is unavailable right now. To process your request we need to pass some information to Facebook, but it seems their service is offline right now. Please wait a few minutes before trying again."
-msgstr "На цю мить Facebook недоступний. Щоб обробити ваш запит, нам потрібно передати певну інформацію у Facebook, але, схоже, зараз їх сервіс недоступний. Зачекайте кілька хвилин, перш ніж спробувати."
+msgstr "Наразі Facebook недоступний. Щоб обробити ваш запит, нам потрібно передати певну інформацію у Facebook, але, схоже, зараз їх сервіс недоступний. Зачекайте кілька хвилин, перш ніж спробувати."
 
 #. i18n: keyword: E_FACEBOOK_OAUTH_EXCEPTION
 msgid "An unexpected error has occurred on Facebook. Please retry your request later."
