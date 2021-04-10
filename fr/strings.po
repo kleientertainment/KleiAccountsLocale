@@ -1561,10 +1561,6 @@ msgstr "Confirmation invalide. Vous devez lire les instructions de suppression a
 msgid "Invalid verification code."
 msgstr "Code de vérification non valide."
 
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr ""
-
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 msgstr "La plateforme d'autorisation est manquante. Merci de vérifier que votre navigateur accepte les cookies pour ce site, puis rendez-vous sur la page de “connexion” et réessayer."

@@ -1561,10 +1561,6 @@ msgstr "Sự đồng ý của người dùng không hợp lệ, bạn cần đ�
 msgid "Invalid verification code."
 msgstr "Mã xác thực không hợp lệ."
 
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr ""
-
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 msgstr "Không tìm thấy các giấy phép ủy quyền. Vui lòng kiểm tra xem trình duyệt web của bạn có chấp nhận cookie từ trang web này không, sau đó truy cập trang Đăng nhập và thử thêm một lần nữa."

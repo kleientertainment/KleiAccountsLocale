@@ -1561,10 +1561,6 @@ msgstr "Geçersiz kullanıcı izni, hesap silme talimatlarını çok dikkatli bi
 msgid "Invalid verification code."
 msgstr "Geçersiz doğrulama kodu."
 
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr ""
-
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 msgstr "Yetkilendirme sağlayıcısı tespit edilmedi. Lütfen web tarayıcınızın bu web sitesinden çerezleri kabul edip etmediğini kontrol edin, ardından \"Giriş\" sayfasına gidin ve bir kez daha deneyin."

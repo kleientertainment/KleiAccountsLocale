@@ -1561,10 +1561,6 @@ msgstr "非法的用戶許可，您需要非常仔細地閱讀帳號刪除說明
 msgid "Invalid verification code."
 msgstr "無效的驗證碼。"
 
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr ""
-
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 msgstr "授權提供者未被偵測到，請確認您的網頁瀏覽器允許此網站使用 Cookie，然後前往「登入」頁面，然後再次嘗試。"

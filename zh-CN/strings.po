@@ -1561,10 +1561,6 @@ msgstr "用户销毁许可，您需要非常仔细地阅读账户删除说明。
 msgid "Invalid verification code."
 msgstr "无效验证码。"
 
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr ""
-
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 msgstr "未检测到授权提供者。请检查您的网络浏览器是否接受来自该网站的cookie，然后转到“登录”页面并重试。"

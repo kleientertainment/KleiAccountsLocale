@@ -1561,10 +1561,6 @@ msgstr "Няправільнае згоду карыстальніка, вам �
 msgid "Invalid verification code."
 msgstr "Няправільны код пацверджання."
 
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr ""
-
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 msgstr "Пастаўшчык аўтарызацыі не знойдзены. Калі ласка, праверце, ці прымае ваш вэб-браўзэр печыва з гэтага сайта, затым перайдзіце на старонку «Увайсці» і паспрабуйце яшчэ раз."

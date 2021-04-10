@@ -1561,10 +1561,6 @@ msgstr "Неверное согласие пользователя, вам не�
 msgid "Invalid verification code."
 msgstr "Неверный код подтверждения."
 
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr "Неверный код подтверждения электронной почты."
-
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 msgstr "Поставщик авторизации не обнаружен. Пожалуйста, проверьте, принимает ли ваш веб-браузер файлы cookie с этого сайта, затем перейдите на страницу «Войти» и попробуйте еще раз."

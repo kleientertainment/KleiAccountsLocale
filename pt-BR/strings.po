@@ -1562,10 +1562,6 @@ msgstr "Consentimento do usuário inválido, você precisa ler as instruções d
 msgid "Invalid verification code."
 msgstr "Código de verificação inválido."
 
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr "Código de verificação de e-mail inválido."
-
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 msgstr "O provedor de autorização não foi detectado. Por favor, verifique se o seu navegador aceita cookies deste site, vá para a página \"Login\" e tente novamente."

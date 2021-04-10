@@ -1561,10 +1561,6 @@ msgstr "Ungültige Benutzer-Zustimmung, du musst die Anleitung zur Account-Lösc
 msgid "Invalid verification code."
 msgstr "Ungültiger Verfizierungscode."
 
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr ""
-
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 msgstr "Der Authentifizierungsanbieter konnte nicht bestimmt werden. Bitte überprüfe, dass dein Internetbrowser Cookies von dieser Webseite akzeptiert, gehe dann zur “Login”-Seite und versuche es erneut."

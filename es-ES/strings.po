@@ -1561,10 +1561,6 @@ msgstr "Consentimiento de usuario no válido, debe leer las instrucciones de eli
 msgid "Invalid verification code."
 msgstr "El código de verificación is inválido."
 
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr ""
-
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
 msgstr ""
