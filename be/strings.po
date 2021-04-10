@@ -1257,6 +1257,10 @@ msgstr "Сесія мінула, вы павінны ўвайсці ў сіст�
 msgid "Session has expired, you have to log in once again. <b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
 msgstr "Сесія мінула, вы павінны ўвайсці ў сістэму яшчэ раз. вы карыстаецеся Safari?калі так, калі ласка, выкарыстоўвайце альтэрнатыўны вэб-браўзэр. <a href='https://webkit.org/tracking-prevention-policy /' target='_blank' >Новая палітыка прадухілення адсочвання WebKit</a>, які ўбудаваны ў найноўшыя версіі Safari, выпадкова адключыў сувязь паміж вэб-сайтам і ўнутранымі серверамі."
 
+#. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
+msgid "The Steam service is unavailable."
+msgstr ""
+
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
 msgstr "Немагчыма аўтэнтыфікаваць ваш уліковы запіс Steam без падлучэння да Інтэрнэту."
@@ -1478,7 +1482,7 @@ msgid "We are unable to show your profile information because your computer is s
 msgstr "Мы ня можам паказаць інфармацыю вашага профілю, бо ваш кампутар адпраўляе занадта шмат запытаў у Steam."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR
-msgid "Steam servers is not available at the moment."
+msgid "Steam servers are unavailable at the moment."
 msgstr "Серверы Steam ў дадзены момант недаступныя."
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING

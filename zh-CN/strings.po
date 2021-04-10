@@ -1257,6 +1257,10 @@ msgstr "操作已过期，您必须再次登录。"
 msgid "Session has expired, you have to log in once again. <b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
 msgstr "操作已过期，您必须再次登录。<b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
 
+#. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
+msgid "The Steam service is unavailable."
+msgstr ""
+
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
 msgstr "在没有联网的情况下无法验证您的Steam账户。"
@@ -1478,7 +1482,7 @@ msgid "We are unable to show your profile information because your computer is s
 msgstr "我们无法显示您的个人资料信息，因为您的计算机向Steam发送了过多请求。"
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR
-msgid "Steam servers is not available at the moment."
+msgid "Steam servers are unavailable at the moment."
 msgstr "Steam服务器目前无法连接。"
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING

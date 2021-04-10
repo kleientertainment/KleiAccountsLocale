@@ -1257,6 +1257,10 @@ msgstr "Phiên đã hết hạn, bạn sẽ phải đăng nhập lại một l�
 msgid "Session has expired, you have to log in once again. <b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
 msgstr "Phiên đã hết hạn, bạn sẽ phải đăng nhập lại một lần nữa.<b>Bạn có đang dùng trình duyệt Safari?</b> Nếu có, vui lòng sử dụng một trình duyệt khác thay thế. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, được xây dựng trong các phiên bản mới nhất của Safari, đã vô tình vô hiệu hóa giao tiếp giữa trang web và các máy chủ phụ trợ."
 
+#. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
+msgid "The Steam service is unavailable."
+msgstr ""
+
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
 msgstr "Không thể xác thực tài khoản Steam của bạn khi không có kết nối Internet."
@@ -1478,7 +1482,7 @@ msgid "We are unable to show your profile information because your computer is s
 msgstr "Chúng tôi không thể hiển thị thông tin hồ sơ của bạn bởi vì máy tính của bạn đang gửi quá nhiều yêu cầu tới Steam."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR
-msgid "Steam servers is not available at the moment."
+msgid "Steam servers are unavailable at the moment."
 msgstr "Các máy chủ của Steam hiện không sẵn có tại thời điểm này."
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
