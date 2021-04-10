@@ -1310,7 +1310,7 @@ msgid "You are not allowed to log in with this account because it has been banne
 msgstr ""
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
-msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
 msgstr ""
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
@@ -1426,7 +1426,7 @@ msgid "Twitch is having problems verifying the credentials associated to our app
 msgstr ""
 
 #. i18n: keyword: E_TWITCH_BLACKLISTED
-msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
+msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
 msgstr ""
 
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
@@ -1466,7 +1466,7 @@ msgid "Steam servers are currently offline."
 msgstr ""
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
-msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
 msgstr ""
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN

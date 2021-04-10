@@ -1310,8 +1310,8 @@ msgid "You are not allowed to log in with this account because it has been banne
 msgstr "Vous n'êtes pas autorisé à vous connecter avec ce compte car il a été banni."
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
-msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Votre compte est en cours de suppression et sera effacé définitivement sous 30 jours. Si vous avez besoin d'aide, merci de <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contacter le support</a>."
+msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "Votre compte est en cours de suppression et sera effacé définitivement sous 30 jours. Si vous avez besoin d'aide, merci de <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contacter le support</a>."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
 msgid "The authentication failed. The details have been sent to the administrators to investigate. Try again after a few minutes."
@@ -1426,8 +1426,8 @@ msgid "Twitch is having problems verifying the credentials associated to our app
 msgstr "Twitch ne parvient pas à vérifier les codes associés à notre application. Généralement, cela arrive quand les serveurs Twitch ont des erreurs internes. Réessayer dans quelques minutes."
 
 #. i18n: keyword: E_TWITCH_BLACKLISTED
-msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
-msgstr "La possibilité de lier votre compte Twitch avec votre compte Klei a été bloquée. Si vous pensez que c'est une erreur, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>merci de nous contacter</a>."
+msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
+msgstr "La possibilité de lier votre compte Twitch avec votre compte Klei a été bloquée. Si vous pensez que c'est une erreur, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>merci de nous contacter</a>."
 
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
@@ -1466,8 +1466,8 @@ msgid "Steam servers are currently offline."
 msgstr "Les serveurs Steam sont hors-ligne."
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
-msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Steam vous a redirigé vers une URL incorrecte, nous ne pouvons pas valider votre authentification ici. Merci de vider votre cache navigateur et vos cookies; et d'essayer à nouveau. Si vous avez besoin d'aide, merci de <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contacter le support</a>."
+msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "Steam vous a redirigé vers une URL incorrecte, nous ne pouvons pas valider votre authentification ici. Merci de vider votre cache navigateur et vos cookies; et d'essayer à nouveau. Si vous avez besoin d'aide, merci de <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contacter le support</a>."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
 msgid "Steam prevented us from showing your profile information."

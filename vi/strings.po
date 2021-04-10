@@ -1310,8 +1310,8 @@ msgid "You are not allowed to log in with this account because it has been banne
 msgstr "Bạn không được phép đăng nhập bằng tài khoản này vì nó đã bị khóa."
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
-msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Tài khoản của bạn đã được đánh dấu để xóa và sẽ vĩnh viễn không thể khôi phục trong vòng 30 ngày. Nếu bạn cần trợ giúp thêm xin vui lòng <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>liên hệ hỗ trợ</a>."
+msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "Tài khoản của bạn đã được đánh dấu để xóa và sẽ vĩnh viễn không thể khôi phục trong vòng 30 ngày. Nếu bạn cần trợ giúp thêm xin vui lòng <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>liên hệ hỗ trợ</a>."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
 msgid "The authentication failed. The details have been sent to the administrators to investigate. Try again after a few minutes."
@@ -1426,8 +1426,8 @@ msgid "Twitch is having problems verifying the credentials associated to our app
 msgstr "Twitch đang gặp vấn đề khi xác minh thông tin đăng nhập liên quan đến ứng dụng của chúng tôi. Điều này thường xảy ra khi một dịch vụ nội bộ của Twitch có lỗi. Vui lòng thử lại trong vài phút."
 
 #. i18n: keyword: E_TWITCH_BLACKLISTED
-msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
-msgstr "Tùy chọn liên kết tài khoản Twitch với tài khoản Klei của bạn đã bị xóa. Nếu bạn cho rằng đây là một sai lầm, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>xin vui lòng liên hệ với chúng tôi</a>."
+msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
+msgstr "Tùy chọn liên kết tài khoản Twitch với tài khoản Klei của bạn đã bị xóa. Nếu bạn cho rằng đây là một sai lầm, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>xin vui lòng liên hệ với chúng tôi</a>."
 
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
@@ -1466,8 +1466,8 @@ msgid "Steam servers are currently offline."
 msgstr "Các máy chủ Steam hiện tại đang ngoại tuyến."
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
-msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Steam đã chuyển hướng bạn đến đường dẫn không chính xác, chúng tôi không thể xác thực thông tin đăng nhập của bạn tại đây. Vui lòng xóa bộ nhớ cache và cookie trình duyệt web bạn đang dùng và thử đăng nhập thêm một lần nữa. Nếu bạn cần hỗ trợ thêm xin vui lòng <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'> liên hệ hỗ trợ</a>."
+msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "Steam đã chuyển hướng bạn đến đường dẫn không chính xác, chúng tôi không thể xác thực thông tin đăng nhập của bạn tại đây. Vui lòng xóa bộ nhớ cache và cookie trình duyệt web bạn đang dùng và thử đăng nhập thêm một lần nữa. Nếu bạn cần hỗ trợ thêm xin vui lòng <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'> liên hệ hỗ trợ</a>."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
 msgid "Steam prevented us from showing your profile information."

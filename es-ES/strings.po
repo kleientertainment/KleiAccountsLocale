@@ -1310,8 +1310,8 @@ msgid "You are not allowed to log in with this account because it has been banne
 msgstr "No puede iniciar sesión con esta cuenta porque ha sido desactivada."
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
-msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Su cuenta ha sido marcada para su eliminación y no podrá recuperarse permanentemente dentro de los 30 días. Si necesita más ayuda, póngase en contacto con <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>soporte técnico</a>."
+msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "Su cuenta ha sido marcada para su eliminación y no podrá recuperarse permanentemente dentro de los 30 días. Si necesita más ayuda, póngase en contacto con <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>soporte técnico</a>."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
 msgid "The authentication failed. The details have been sent to the administrators to investigate. Try again after a few minutes."
@@ -1426,8 +1426,8 @@ msgid "Twitch is having problems verifying the credentials associated to our app
 msgstr ""
 
 #. i18n: keyword: E_TWITCH_BLACKLISTED
-msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
-msgstr "La opción para vincular un perfil de Twitch con su cuenta de Klei ha sido removida. Si usted considera que esto es un error, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>por favor contáctenos</a>."
+msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
+msgstr "La opción para vincular un perfil de Twitch con su cuenta de Klei ha sido removida. Si usted considera que esto es un error, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>por favor contáctenos</a>."
 
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
@@ -1466,7 +1466,7 @@ msgid "Steam servers are currently offline."
 msgstr "Log servidores de Steam están actualmente desconectados."
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
-msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
 msgstr ""
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
