@@ -565,6 +565,14 @@ msgstr "Bilinmeyen Durum"
 msgid "Delete Account"
 msgstr "Hesabı Sil"
 
+#. i18n: keyword: UnlinkThis
+msgid "Unlink"
+msgstr ""
+
+#. i18n: keyword: UnlinkThisQuestion
+msgid "Are you sure you want to unlink your"
+msgstr ""
+
 #. i18n: keyword: UnlinkAccount
 msgid "Unlink Account"
 msgstr ""

@@ -565,6 +565,14 @@ msgstr "未知的状态"
 msgid "Delete Account"
 msgstr "删除账户"
 
+#. i18n: keyword: UnlinkThis
+msgid "Unlink"
+msgstr ""
+
+#. i18n: keyword: UnlinkThisQuestion
+msgid "Are you sure you want to unlink your"
+msgstr ""
+
 #. i18n: keyword: UnlinkAccount
 msgid "Unlink Account"
 msgstr ""
