@@ -1378,8 +1378,8 @@ msgid "The authentication code was generated for a different platform."
 msgstr "Mã xác thực đã được tạo cho một nền tảng khác."
 
 #. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
-msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Live account."
-msgstr "Không thể đăng nhập bằng tài khoản này tại thời điểm này. Vui lòng đăng nhập tại Xbox.com để giải quyết vấn đề với tài khoản Xbox Live của bạn."
+msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Network account."
+msgstr "Không thể đăng nhập bằng tài khoản này tại thời điểm này. Vui lòng đăng nhập tại Xbox.com để giải quyết vấn đề với tài khoản Xbox Network của bạn."
 
 #. i18n: keyword: E_SESSION_ALREADY_EXISTS
 msgid "It appears you already have a valid session. If you want to login using a different gaming platform, please log out first."

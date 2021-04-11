@@ -1378,8 +1378,8 @@ msgid "The authentication code was generated for a different platform."
 msgstr "Der Authentifizierungscode wurde von einer anderen Plattform generiert."
 
 #. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
-msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Live account."
-msgstr "Die Anmeldung ist mit diesem Account zur Zeit nicht möglich. Bitte melde dich bei Xbox.com an, um das Problem mit deinem Xbox Live Account zu beheben."
+msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Network account."
+msgstr "Die Anmeldung ist mit diesem Account zur Zeit nicht möglich. Bitte melde dich bei Xbox.com an, um das Problem mit deinem Xbox Network Account zu beheben."
 
 #. i18n: keyword: E_SESSION_ALREADY_EXISTS
 msgid "It appears you already have a valid session. If you want to login using a different gaming platform, please log out first."

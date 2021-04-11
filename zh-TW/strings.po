@@ -1378,7 +1378,7 @@ msgid "The authentication code was generated for a different platform."
 msgstr "身份驗證代碼是不同的平台產生的。"
 
 #. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
-msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Live account."
+msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Network account."
 msgstr "此時無法登入該帳號，請登入 Xbox.com 以解決 XboxLive 帳號的問題。"
 
 #. i18n: keyword: E_SESSION_ALREADY_EXISTS
