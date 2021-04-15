@@ -397,6 +397,10 @@ msgstr "關於每個遊戲的更多詳細資料，請勾選以下選項框："
 msgid "We have sent you an email to confirm your subscription to our mailing list."
 msgstr "我們已向您發送電子郵件以確認您訂閱我們的郵件清單。"
 
+#. i18n: keyword: MarketingOptionsArchived
+msgid "Your newsletter subscription has been archived due to recent changes in your account. We archive newsletter subscriptions when you request deletion of your Klei account or when you make repetitive changes in your marketing options. You can try to subscribe one more time. If this does not work, please contact support."
+msgstr ""
+
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
 msgstr "合併帳戶"
@@ -561,6 +565,18 @@ msgstr "未知狀態"
 msgid "Delete Account"
 msgstr "刪除帳號"
 
+#. i18n: keyword: UnlinkThis
+msgid "Unlink"
+msgstr ""
+
+#. i18n: keyword: UnlinkThisQuestion
+msgid "Are you sure you want to unlink your"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccount
+msgid "Unlink Account"
+msgstr ""
+
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
 msgstr "刪除帳號後，無法還原此操作，請確認您了解後果。"
@@ -613,6 +629,10 @@ msgstr "確認"
 msgid "Please type in “delete my account” but in UPPERCASE letters, to confirm:"
 msgstr "請輸入「delete my account」的大寫英文，以確認操作："
 
+#. i18n: keyword: DeleteAccountReason
+msgid "Please explain the reason for the account deletion:"
+msgstr ""
+
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
 msgstr "我理解後果，請刪除我的帳號"
@@ -636,6 +656,26 @@ msgstr "繼續"
 #. i18n: keyword: CancelOperation
 msgid "Cancel"
 msgstr "取消"
+
+#. i18n: keyword: ExportData
+msgid "Export Data"
+msgstr ""
+
+#. i18n: keyword: ExportDataShortDescription
+msgid "We can arrange for a report of your account details as controlled by Klei."
+msgstr ""
+
+#. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
+msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
+msgstr ""
+
+#. i18n: keyword: DownloadData
+msgid "Download Data"
+msgstr ""
+
+#. i18n: keyword: DownloadingData
+msgid "Downloading Data..."
+msgstr ""
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -901,6 +941,10 @@ msgstr "已獲得！"
 msgid "Successfully Redeemed!"
 msgstr "成功兌換！"
 
+#. i18n: keyword: PlayerOwnsAnotherItemRarity
+msgid "You already own a different rarity version of this item, are you sure you would like to redeem points for it? Please, visit the <a href='/account/game/inventory?game=DST'>game inventory</a> page for more information."
+msgstr ""
+
 #. i18n: keyword: RewardAlternative
 msgid "Alternative"
 msgstr "另一個"
@@ -1113,6 +1157,14 @@ msgstr "此支援系統只開放給有驗證過電子郵件的玩家，請至「
 msgid "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
 msgstr "您已經在數分鐘前送出一個支援請求，請稍等個幾分鐘來讓我們回覆您與其他用戶。"
 
+#. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
+msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
+msgstr ""
+
+#. i18n: keyword: E_ZENDESK_INVALID_IAT_PARAMETER
+msgid "There was a problem establish a secure connection between Klei Entertainment and Zendesk. These errors are usually temporary, please wait five minutes and try again. If the issue persists, please send us an email instead."
+msgstr ""
+
 #. i18n: keyword: EmailAuthRequired
 msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
 msgstr "需要電子郵件驗證，請查看您的電子郵件並點擊驗證超連結."
@@ -1245,6 +1297,10 @@ msgstr "選擇的用戶名包含無效字元。"
 msgid "The e-mail address is not valid. Please check that you entered it correctly."
 msgstr "電子郵件地址無效，請檢查您的輸入是否正確。"
 
+#. i18n: keyword: E_INVALID_EMAIL_BY_MAILGUN
+msgid "Your e-mail address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different e-mail address."
+msgstr ""
+
 #. i18n: keyword: E_INVALID_PASSWORD
 msgid "The password provided is invalid."
 msgstr "您提供的密碼無效。"
@@ -1256,6 +1312,10 @@ msgstr "操作已逾時，您必須再次登入。"
 #. i18n: keyword: E_INVALID_SESSION_SAFARI
 msgid "Session has expired, you have to log in once again. <b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
 msgstr "操作已逾時，您必須再次登入。<b>您正在使用 Safari？</b>如果是，請使用其他網頁瀏覽器。<a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit 的新防止追蹤政策</a>，被內建在最新版的 Safari，導致無意間禁止了網站與後端伺服器間的通訊。"
+
+#. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
+msgid "The Steam service is unavailable."
+msgstr ""
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
@@ -1310,8 +1370,8 @@ msgid "You are not allowed to log in with this account because it has been banne
 msgstr "您的帳號已經被 Ban。"
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
-msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "您的帳號已被標記為刪除，並將在30天內變為永久無法恢復的狀態， 如果您需要進一步的協助，<a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>請聯繫支援</a>。"
+msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "您的帳號已被標記為刪除，並將在30天內變為永久無法恢復的狀態， 如果您需要進一步的協助，<a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>請聯繫支援</a>。"
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
 msgid "The authentication failed. The details have been sent to the administrators to investigate. Try again after a few minutes."
@@ -1326,7 +1386,7 @@ msgid "The authentication code was generated for a different platform."
 msgstr "身份驗證代碼是不同的平台產生的。"
 
 #. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
-msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Live account."
+msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Network account."
 msgstr "此時無法登入該帳號，請登入 Xbox.com 以解決 XboxLive 帳號的問題。"
 
 #. i18n: keyword: E_SESSION_ALREADY_EXISTS
@@ -1426,8 +1486,8 @@ msgid "Twitch is having problems verifying the credentials associated to our app
 msgstr "Twitch 正發生驗證您的憑證關聯到我們的應用程式的問題，這通常發生在 Twitch 基礎設施中的一個內部服務出現內部伺服器錯誤，請在數分鐘後重新嘗試。"
 
 #. i18n: keyword: E_TWITCH_BLACKLISTED
-msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
-msgstr "已移除將 Twitch 帳號與您的 Klei 帳號連接的選項，如果您認為這是一個錯誤，<a href='http://support.kleientertainment.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>請與我們聯繫</a>。"
+msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
+msgstr "已移除將 Twitch 帳號與您的 Klei 帳號連接的選項，如果您認為這是一個錯誤，<a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>請與我們聯繫</a>。"
 
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
@@ -1466,8 +1526,8 @@ msgid "Steam servers are currently offline."
 msgstr "Steam 伺服器當前處於無法服務狀態。"
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
-msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Steam 將您導向到錯誤的網址，我們目前無法驗證您的證書，請清空您網頁瀏覽器的快取與 Cookie 後重新登入，如果您要更多的協助，請<a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>聯繫支援</a>。"
+msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "Steam 將您導向到錯誤的網址，我們目前無法驗證您的證書，請清空您網頁瀏覽器的快取與 Cookie 後重新登入，如果您要更多的協助，請<a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>聯繫支援</a>。"
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
 msgid "Steam prevented us from showing your profile information."
@@ -1478,8 +1538,12 @@ msgid "We are unable to show your profile information because your computer is s
 msgstr "我們無法顯示您的個人資訊，因為您的電腦送出太多請求給 Steam。"
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR
-msgid "Steam servers is not available at the moment."
+msgid "Steam servers are unavailable at the moment."
 msgstr "Steam 伺服器當前無法運作。"
+
+#. i18n: keyword: E_STEAM_E502_L3
+msgid "Steam servers are unavailable at the moment. This usually happens during the first and second hours after a big sale. Please, contact the Steam customer support team for further assistance."
+msgstr ""
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
 msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
@@ -1500,6 +1564,10 @@ msgstr "前一個網站送給我們錯誤的資料，OpenID 的「namespace」�
 #. i18n: keyword: E_OPENID_INVALID_SIGNATURE
 msgid "The previous website sent us invalid data. The signature of the verification request is invalid. Please start the login flow again."
 msgstr "前一個網站送給我們錯誤的資料，驗證的簽章請求是非法的，請重新開始登入流程。"
+
+#. i18n: keyword: E_OPENID_ACCESS_DENIED
+msgid "Steam denied your login attempt. Steam servers may be offline, which usually causes problems with Klei Entertainment and Steam's communication bridge. Please, wait a couple of minutes and try again. If the problem persists, feel free to send a message to our <a href='https://support.klei.com/'>support team</a>."
+msgstr ""
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
@@ -1560,10 +1628,6 @@ msgstr "非法的用戶許可，您需要非常仔細地閱讀帳號刪除說明
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
 msgstr "無效的驗證碼。"
-
-#. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
-msgid "Invalid email verification code."
-msgstr ""
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
