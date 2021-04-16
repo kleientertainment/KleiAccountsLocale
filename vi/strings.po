@@ -401,6 +401,10 @@ msgstr "Chúng tôi đã gửi cho bạn một email để xác nhận việc đ
 msgid "Your newsletter subscription has been archived due to recent changes in your account. We archive newsletter subscriptions when you request deletion of your Klei account or when you make repetitive changes in your marketing options. You can try to subscribe one more time. If this does not work, please contact support."
 msgstr ""
 
+#. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
+msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
+msgstr ""
+
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
 msgstr "Hợp nhất tài khoản"
