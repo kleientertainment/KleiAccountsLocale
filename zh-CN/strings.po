@@ -953,6 +953,18 @@ msgstr ""
 msgid "Alternative"
 msgstr "替代"
 
+#. i18n: keyword: RewardPointsMeaning
+msgid "<b>Klei Points</b> - Klei points are used to redeem in-game rewards from the Klei Rewards page."
+msgstr ""
+
+#. i18n: keyword: RewardSpoolsMeaning
+msgid "<b>Spools</b> - Spools are used to weave items in the Curio Cabinet in-game."
+msgstr ""
+
+#. i18n: keyword: RewardBoltsMeaning
+msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
+
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
 msgstr "点"
