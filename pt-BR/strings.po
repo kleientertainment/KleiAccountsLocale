@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-04-15 09:18-0300\n"
+"PO-Revision-Date: 2021-04-22 10:00-0300\n"
 "Last-Translator: Geeris\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -403,7 +403,7 @@ msgstr "Sua assinatura de boletim informativo foi arquivada devido a mudanças r
 
 #. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
-msgstr ""
+msgstr "O serviço de terceiros que usamos para gerenciar sua assinatura de boletim informativo está tendo problemas para processar nossas solicitações. Por favor, tente novamente mais tarde."
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -955,15 +955,15 @@ msgstr "Alternativa"
 
 #. i18n: keyword: RewardPointsMeaning
 msgid "<b>Klei Points</b> - Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr ""
+msgstr "<b>Pontos Klei</b> - Os pontos Klei são usados para resgatar recompensas no jogo na página de recompensas da Klei."
 
 #. i18n: keyword: RewardSpoolsMeaning
 msgid "<b>Spools</b> - Spools are used to weave items in the Curio Cabinet in-game."
-msgstr ""
+msgstr "<b>Carretéis</b> - Os carretéis são usados para tecer itens no Armário Curio (Curio Cabinet) dentro do jogo."
 
 #. i18n: keyword: RewardBoltsMeaning
 msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>Parafusos de Tecido</b> - (Somente no Console) Moeda usada para comprar skins e pacotes na loja do jogo."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1751,7 +1751,7 @@ msgstr "Transação não suportada"
 
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
-msgstr "Gerar um Item"
+msgstr "Criar um Item"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
