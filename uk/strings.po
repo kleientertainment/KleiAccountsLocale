@@ -399,6 +399,10 @@ msgstr "Ми відправили вам електронного листа д�
 
 #. i18n: keyword: MarketingOptionsArchived
 msgid "Your newsletter subscription has been archived due to recent changes in your account. We archive newsletter subscriptions when you request deletion of your Klei account or when you make repetitive changes in your marketing options. You can try to subscribe one more time. If this does not work, please contact support."
+msgstr "Ваша підписка на розсилку заархівована через нещодавні зміни у вашому обліковому записі. Ми архівуємо підписки на розсилки, коли ви робите запит на видалення свого облікового запису Klei або коли ви вносите зміни, що повторюються, у своїх маркетингових опціях. Ви можете спробувати підписатися ще раз. Якщо це не допомогло, зв’яжіться зі службою підтримки."
+
+#. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
+msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
 msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
@@ -567,15 +571,15 @@ msgstr "Видалити акаунт"
 
 #. i18n: keyword: UnlinkThis
 msgid "Unlink"
-msgstr ""
+msgstr "Від'єднати"
 
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
-msgstr ""
+msgstr "Ви впевнені, що хочете від’єднати свій"
 
 #. i18n: keyword: UnlinkAccount
 msgid "Unlink Account"
-msgstr ""
+msgstr "Від’єднати обліковий запис"
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
@@ -631,7 +635,7 @@ msgstr "Будь ласка, введіть «delete my account» повніст
 
 #. i18n: keyword: DeleteAccountReason
 msgid "Please explain the reason for the account deletion:"
-msgstr ""
+msgstr "Поясніть причину видалення облікового запису:"
 
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
@@ -659,23 +663,23 @@ msgstr "Скасувати"
 
 #. i18n: keyword: ExportData
 msgid "Export Data"
-msgstr ""
+msgstr "Експорт даних"
 
 #. i18n: keyword: ExportDataShortDescription
 msgid "We can arrange for a report of your account details as controlled by Klei."
-msgstr ""
+msgstr "Ми можемо створити звіт про дані вашого профілю, контрольованого Klei."
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
-msgstr ""
+msgstr "Схоже, що ви вже завантажили свої дані менше 24 годин тому.<br><br>Зачекайте до завтра, щоб завантажити ще одну копію своїх даних.<br><br>Дякуємо вам за терпіння."
 
 #. i18n: keyword: DownloadData
 msgid "Download Data"
-msgstr ""
+msgstr "Завантажити дані"
 
 #. i18n: keyword: DownloadingData
 msgid "Downloading Data..."
-msgstr ""
+msgstr "Завантаження даних..."
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -943,11 +947,23 @@ msgstr "Успішно викуплено!"
 
 #. i18n: keyword: PlayerOwnsAnotherItemRarity
 msgid "You already own a different rarity version of this item, are you sure you would like to redeem points for it? Please, visit the <a href='/account/game/inventory?game=DST'>game inventory</a> page for more information."
-msgstr ""
+msgstr "Ви вже маєте даний предмет. Ви впевнені, що хочете обміняти на нього бали? Відвідайте сторінку <a href='/account/game/inventory?game=DST'>ігрового інвентарю</a> для отримання додаткової інформації."
 
 #. i18n: keyword: RewardAlternative
 msgid "Alternative"
 msgstr "Альтернатива"
+
+#. i18n: keyword: RewardPointsMeaning
+msgid "<b>Klei Points</b> - Klei points are used to redeem in-game rewards from the Klei Rewards page."
+msgstr ""
+
+#. i18n: keyword: RewardSpoolsMeaning
+msgid "<b>Spools</b> - Spools are used to weave items in the Curio Cabinet in-game."
+msgstr ""
+
+#. i18n: keyword: RewardBoltsMeaning
+msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1023,7 +1039,7 @@ msgstr "Вартість предмета"
 
 #. i18n: keyword: RewardItemReedem
 msgid "Redeem"
-msgstr "Отримати"
+msgstr "Викупити"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
@@ -1159,11 +1175,11 @@ msgstr "Ви вже подали запит на підтримку кілька
 
 #. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
 msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
-msgstr ""
+msgstr "Схоже, ця адреса електронної пошти вже використовувалася для створення ідентифікатора служби підтримки з іншишим обліковим записом Klei. Ми не можемо створювати облікові записи підтримки, що дублюються, тому вам потрібно буде увійти в систему, використовуючи свій додаткий обліковий запис Klei, щоб відправити заявку в службу підтримки."
 
 #. i18n: keyword: E_ZENDESK_INVALID_IAT_PARAMETER
 msgid "There was a problem establish a secure connection between Klei Entertainment and Zendesk. These errors are usually temporary, please wait five minutes and try again. If the issue persists, please send us an email instead."
-msgstr ""
+msgstr "Не вдалося встановити безпечне з'єднання між Klei Entertainment і Zendesk. Ці помилки зазвичай тимчасові. Зачекайте п'ять хвилин і спробуйте ще раз. Якщо проблема не зникає, надішліть нам електронний лист."
 
 #. i18n: keyword: EmailAuthRequired
 msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
@@ -1299,7 +1315,7 @@ msgstr "Адреса електронної пошти недійсна. Буд�
 
 #. i18n: keyword: E_INVALID_EMAIL_BY_MAILGUN
 msgid "Your e-mail address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different e-mail address."
-msgstr ""
+msgstr "Ваша електронна адреса дійсна. Однак стороння служба, яку ми використовуємо для надсилання повідомлень, занесла вас до чорного списку, що означає, що ми не зможемо відправляти коди підтвердження, інформаційні бюлетені, рекламні акції, оголошення і будь-які інші типи електронних повідомлень. Ваш обліковий запис Klei залишиться неперевіреним, і ви втратите доступ до деяких функцій, але ви все ще можете грати в наші ігри. Щоб вирішити цю проблему, потрібно ввести іншу електронну адресу."
 
 #. i18n: keyword: E_INVALID_PASSWORD
 msgid "The password provided is invalid."
@@ -1315,7 +1331,7 @@ msgstr "Сесія закінчилася, ви повинні увійти в �
 
 #. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
 msgid "The Steam service is unavailable."
-msgstr ""
+msgstr "Сервіс Steam недоступний."
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
@@ -1543,7 +1559,7 @@ msgstr "Сервери Steam наразі недоступні."
 
 #. i18n: keyword: E_STEAM_E502_L3
 msgid "Steam servers are unavailable at the moment. This usually happens during the first and second hours after a big sale. Please, contact the Steam customer support team for further assistance."
-msgstr ""
+msgstr "Наразі сервери Steam недоступні. Зазвичай це відбувається протягом першої та другої годин після великого розпродажу. Будь ласка, зверніться до служби підтримки клієнтів Steam для отримання додаткової допомоги."
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
 msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
@@ -1567,7 +1583,7 @@ msgstr "Попередній сайт відправив нам невірні �
 
 #. i18n: keyword: E_OPENID_ACCESS_DENIED
 msgid "Steam denied your login attempt. Steam servers may be offline, which usually causes problems with Klei Entertainment and Steam's communication bridge. Please, wait a couple of minutes and try again. If the problem persists, feel free to send a message to our <a href='https://support.klei.com/'>support team</a>."
-msgstr ""
+msgstr "Steam відхилив вашу спробу входу. Сервери Steam можуть бути в режимі офлайн, що зазвичай викликає проблеми з комунікаційним мостом між Klei Entertainment і Steam.. Зачекайте декілька хвилин і повторіть спробу. Якщо проблема не зникне, надішліть повідомлення нашій <a href='https://support.klei.com/'>службі підтримки</a>."
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."

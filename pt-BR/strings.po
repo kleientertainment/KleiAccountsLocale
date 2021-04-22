@@ -16,7 +16,6 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
-"X-Generator: Poedit 2.4.2\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -401,6 +400,10 @@ msgstr "Enviamos um e-mail para confirmar sua inscrição na nossa lista de e-ma
 #. i18n: keyword: MarketingOptionsArchived
 msgid "Your newsletter subscription has been archived due to recent changes in your account. We archive newsletter subscriptions when you request deletion of your Klei account or when you make repetitive changes in your marketing options. You can try to subscribe one more time. If this does not work, please contact support."
 msgstr "Sua assinatura de boletim informativo foi arquivada devido a mudanças recentes em sua conta. Arquivamos assinaturas de boletins informativos quando você solicita a exclusão de sua conta Klei ou quando faz alterações repetitivas em suas opções de marketing. Você pode tentar se inscrever mais uma vez. Se isso não funcionar, entre em contato com o suporte."
+
+#. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
+msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
+msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -949,6 +952,18 @@ msgstr "Você já possui uma versão de raridade diferente deste item. Tem certe
 #. i18n: keyword: RewardAlternative
 msgid "Alternative"
 msgstr "Alternativa"
+
+#. i18n: keyword: RewardPointsMeaning
+msgid "<b>Klei Points</b> - Klei points are used to redeem in-game rewards from the Klei Rewards page."
+msgstr ""
+
+#. i18n: keyword: RewardSpoolsMeaning
+msgid "<b>Spools</b> - Spools are used to weave items in the Curio Cabinet in-game."
+msgstr ""
+
+#. i18n: keyword: RewardBoltsMeaning
+msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
