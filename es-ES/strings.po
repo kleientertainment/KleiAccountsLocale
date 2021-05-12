@@ -1463,59 +1463,59 @@ msgstr "Los servidores de Steam están actualmente desconectados."
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
 msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr ""
+msgstr "Steam te ha redirigido a un URL incorrecto, no podemos validar tus credenciales aquí. Porf favor borra el cache y cookies de tu navegador, e intenta iniciar sesión una vez mas. Si necesitas asistencia por favor <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contacta a soporte</a>"
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
 msgid "Steam prevented us from showing your profile information."
-msgstr ""
+msgstr "Steam nos impidió mostrar la información de tu perfil."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_TOO_MANY_REQUESTS
 msgid "We are unable to show your profile information because your computer is sending too many requests to Steam."
-msgstr ""
+msgstr "No podemos mostrar la información de tu perfil debido a que tu computadora está enviando muchas solicitudes a Steam."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_INTERNAL_SERVER_ERROR
 msgid "Steam servers is not available at the moment."
-msgstr ""
+msgstr "Los servidores de Steam no están disponibles ahora mismo."
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
 msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
-msgstr "Tal parece que usted está viendo esta página web a través del navegador web de Steam. Desafortunadamente, algunas funciones de esta página no funcionan bien en este ambiente. Si usted experimenta problemas con por favor considere usar un navegador web regular aparte de Steam."
+msgstr "Parese ser que estás viendo esta página web a través del navegador web de Steam. Desafortunadamente, algunas funciones de esta página no funcionan bien acá. Si experimentas problemas con esta función por favor considera usar un navegador web regular aparte de Steam."
 
 #. i18n: keyword: E_OPENID_INVALID_MODE
 msgid "The previous website sent us invalid data. The OpenID “mode” parameter is invalid. Please start the login flow again."
-msgstr ""
+msgstr "El sitio web anterior nos envió datos invalidos. El OpenID “mode” parametro es invalido. Por favor vuelve a iniciar el proceso de inicio de sesión."
 
 #. i18n: keyword: E_OPENID_INVALID_RETURN_TO
 msgid "The previous website sent us invalid data. The OpenID “return_to” parameter is invalid. Please start the login flow again."
-msgstr ""
+msgstr "El sitio web anterior nos envió datos invalidos. El OpenID “return_to” parametro es invalido. Por favor vuelve a iniciar el proceso de inicio de sesión."
 
 #. i18n: keyword: E_OPENID_INVALID_NAMESPACE
 msgid "The previous website sent us invalid data. The OpenID “namespace” parameter is invalid. Please start the login flow again."
-msgstr ""
+msgstr "El sitio web anterior nos envió datos invalidos. El OpenID “namespace” parametro es invalido. Por favor vuelve a iniciar el proceso de inicio de sesión."
 
 #. i18n: keyword: E_OPENID_INVALID_SIGNATURE
 msgid "The previous website sent us invalid data. The signature of the verification request is invalid. Please start the login flow again."
-msgstr ""
+msgstr "El sitio web anterior nos envió datos invalidos. La firma de la solicitud de verificación es invalida. Por favor vuelve a iniciar el proceso de inicio de sesión."
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr ""
+msgstr "No se encuentra el ID de Steam. El cliente del juego no proporcionó toda la información que necesitamos para autentificar tu cuenta. Por favor cierra el juego y empieza de nuevo."
 
 #. i18n: keyword: E_STEAM_BROKEN_TICKET
 msgid "Steam ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr ""
+msgstr "El ticket de Steam es invalido. El cliente del juego no proporcionó toda la información que necesitamos para autentificar tu cuenta. Por favor cierra el juego y empieza de nuevo."
 
 #. i18n: keyword: E_RAIL_ID_IS_MISSING
 msgid "Tencent Games identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr ""
+msgstr "No se encuentra el ID de Tencent Ggames. El cliente del juego no proporcionó toda la información que necesitamos para autentificar tu cuenta. Por favor cierra el juego y empieza de nuevo."
 
 #. i18n: keyword: E_RAIL_BROKEN_TICKET
 msgid "Tencent Games ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr ""
+msgstr "El ticket de Tencent Games es invalido. El cliente del juego no proporcionó toda la información que necesitamos para autentificar tu cuenta. Por favor cierra el juego y empieza de nuevo."
 
 #. i18n: keyword: E_RAIL_EXPIRED_TOKEN
 msgid "The access token has expired. Tencent is asking you to start the process again."
-msgstr ""
+msgstr "El token de acceso ha expirado. Tencent está pidiendo que empieces el proceso de nuevo"
 
 #. i18n: keyword: E_RAIL_GATEWAY_TIMEOUT
 msgid "Tencent’s user authentication service is not available right now. Please <a href='/login'>try again</a> in a few minutes."
@@ -1531,7 +1531,7 @@ msgstr "Su cuenta de Klei ya ha sido desconectada de Douyu. Si usted cree que la
 
 #. i18n: keyword: E_DOUYU_GATEWAY_TIMEOUT
 msgid "Douyu servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
-msgstr ""
+msgstr "Los servidores de Douyu (powered by Tengine) no están actualmente disponibles. Por favor intenta de nuevo en unos minutos."
 
 #. i18n: keyword: E_BILIBILI_ALREADY_BINDED_TO_KU
 msgid "Your Bilibili account is already linked with a Klei User ID."
@@ -1543,7 +1543,7 @@ msgstr "Su cuenta de Klei ya ha sido desconectada de Bilibili. Si usted cree que
 
 #. i18n: keyword: E_BILIBILI_GATEWAY_TIMEOUT
 msgid "Bilibili servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
-msgstr ""
+msgstr "Los servidores de Bilibili (powered by Tengine) no están actualmente disponibles. Por favor intenta de nuevo en unos minutos."
 
 #. i18n: keyword: E_INVALID_CSRF_TOKEN
 msgid "The form has expired, please go back, reload the page, and try again."
@@ -1555,23 +1555,23 @@ msgstr "Consentimiento de usuario no válido, debe leer las instrucciones de eli
 
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
-msgstr "El código de verificación is inválido."
+msgstr "El código de verificación es inválido."
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
-msgstr ""
+msgstr "El proveedor de autorización no fue detectado. Por favor verifica si tu navegador acepta cookies de este sitio, después de eso ve a la página de “Inicio de Sesión” e intenta una vez mas. "
 
 #. i18n: keyword: E_CLIENT_TOKEN_HAS_EXPIRED
 msgid "Client login token has expired."
-msgstr ""
+msgstr "El token de incio de sesión del cliente ha expirado."
 
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_GAME
 msgid "Client login token was generated for a different game."
-msgstr ""
+msgstr "El token de incio de sesión del cliente fue generado para un juego diferente."
 
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_PURPOSE
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
-msgstr ""
+msgstr "La página solo soporta tokens de inicio de sesión de cliente. El token que has proporcionado parece no ser valido pero fue generado para una cosa completamente diferente."
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
@@ -1595,27 +1595,27 @@ msgstr "Facebook no está disponible en este momento. Para procesar su solicitud
 
 #. i18n: keyword: E_FACEBOOK_OAUTH_EXCEPTION
 msgid "An unexpected error has occurred on Facebook. Please retry your request later."
-msgstr ""
+msgstr "Un error inesperado ha ocurrido en Facebook. Por favor reintenta tu solicitud mas tarde."
 
 #. i18n: keyword: E_FACEBOOK_CHECKPOINT_BLOCK
 msgid "Facebook stopped the process because there is an error validating access token: The user is enrolled in a blocking, logged-in checkpoint."
-msgstr ""
+msgstr "Facebook detuvo el proceso debido a que hay un error validando el token de acceso: El usuario está inscrito en un punto de control de bloqueo e inicio de sesión. "
 
 #. i18n: keyword: E_EPIC_GAMES_EXPIRED_TOKEN
 msgid "Unfortunately, the token we use to communicate with Epic Games has expired. You will need to login again to allow the system to get a new token."
-msgstr ""
+msgstr "Desafortunadamente, el token que usamos para comunicar con Epic Games ha expirado. Nesitaras iniciar sesión nuevamente para permitir al sistema obtener un nuevo token."
 
 #. i18n: keyword: E_NOT_ENOUGH_CURRENCY
 msgid "You do not have enough points to claim this item."
-msgstr ""
+msgstr "No tienes puntos suficientes para reclamar este objeto."
 
 #. i18n: keyword: E_ALREADY_CLAIMED
 msgid "You already have claimed this reward."
-msgstr "Usted ya ha reclamado esta recompensa."
+msgstr "Ya has reclamado esta recompensa."
 
 #. i18n: keyword: E_UNKNOWN_LINK
 msgid "The link you have used is not valid. Please check the source of this link and try again."
-msgstr "El enlace que usted ha utilizado no es válido. Verifique la fuente de este enlace e intente nuevamente."
+msgstr "El enlace que has utilizado no es válido. Verifica la fuente de este enlace e intenta nuevamente."
 
 #. i18n: keyword: E_EXPIRED_LINK
 msgid "We're sorry but this reward is no longer active. Please follow us on social media and subscribe to our mailing list to get new rewards as we publish them."
@@ -1623,91 +1623,91 @@ msgstr "Lo sentimos, pero esta recompensa ya no está activa. Síganos en las re
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
-msgstr ""
+msgstr "Transacciones de Usuario"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
-msgstr ""
+msgstr "Todas las transacciones (relevantes) asociadas a tu cuenta estan listadas debajo en orden descendiente (nuevas transacciones arriba, antiguas transacciones abajo). Date cuenta que el tiempo de la trasacción está basada en la zona horaria del servidor del sitio, tal vez necesites ajustar los numero para que coincidan con el reloj de tu computador."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
-msgstr ""
+msgstr "Nombre de la Plataforma"
 
 #. i18n: keyword: FilterBy
 msgid "Filter by"
-msgstr ""
+msgstr "Filtrar por"
 
 #. i18n: keyword: AllTransactions
 msgid "All Transactions"
-msgstr ""
+msgstr "Todas las Transacciones"
 
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
-msgstr ""
+msgstr "No hay transacciones."
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
-msgstr ""
+msgstr "Cantidad de Hilos actuales"
 
 #. i18n: keyword: CurrentBalanceForPoints
 msgid "Current Points Balance"
-msgstr ""
+msgstr "Cantidad de Puntos Actuales"
 
 #. i18n: keyword: NewBalance
 msgid "New Balance:"
-msgstr ""
+msgstr "Nueva Cantidad"
 
 #. i18n: keyword: TXN_NOT_SUPPORTED
 msgid "Transaction Not Supported"
-msgstr ""
+msgstr "Transacción No Soportada"
 
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
-msgstr ""
+msgstr "Crear un objeto"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
-msgstr ""
+msgstr "Link Para Hilos"
 
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
-msgstr ""
+msgstr "Link Para Puntos"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
-msgstr ""
+msgstr "Tarea para hilos"
 
 #. i18n: keyword: TXN_QUEST_FOR_POINTS
 msgid "Quest For Points"
-msgstr ""
+msgstr "Tarea para Puntos"
 
 #. i18n: keyword: TXN_QUEST_FOR_BOLTS
 msgid "Quest For Bolts"
-msgstr ""
+msgstr "Tarea para Tornillos"
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
-msgstr ""
+msgstr "Hilos por Objeto"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
-msgstr ""
+msgstr "Puntos por Objeto"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr ""
+msgstr "Tornillos por Objeto"
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
-msgstr ""
+msgstr "Reembolso de Compra"
 
 #. i18n: keyword: TXN_MARKET_LIST_ITEM
 msgid "Market List Item"
-msgstr ""
+msgstr "Objeto del Mercado"
 
 #. i18n: keyword: TXN_MARKET_PURCHASE
 msgid "Market Purchase"
-msgstr ""
+msgstr "Compra de Mercado"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
@@ -1715,88 +1715,88 @@ msgstr ""
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
-msgstr ""
+msgstr "Objeto intercambiado enviado"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
-msgstr ""
+msgstr "Objeto intercambiado recibido"
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
-msgstr ""
+msgstr "Objeto por Hilos"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
-msgstr ""
+msgstr "Objeto por Puntos"
 
 #. i18n: keyword: TXN_TWITCH_ITEM_DROP
 msgid "Twitch Item Drop"
-msgstr ""
+msgstr "Objeto de Twitch Drop"
 
 #. i18n: keyword: TXN_DAILY_GIFT_ITEM
 msgid "Daily Gift Item"
-msgstr ""
+msgstr "Objeto de Regalo Diario"
 
 #. i18n: keyword: TXN_WEEKLY_GIFT_ITEM
 msgid "Weekly Gift Item"
-msgstr ""
+msgstr "Objeto de Regalo Semanal"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
-msgstr ""
+msgstr "Caja de Steam"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
 msgid "Tencent Games Box"
-msgstr ""
+msgstr "Caja de Tencent Games"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
 msgid "Currency Box"
-msgstr ""
+msgstr "Caja de moneda"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
-msgstr ""
+msgstr "Caja DLC de Steam"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr ""
+msgstr "Comerciable"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr ""
+msgstr "Intercambiable"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr ""
+msgstr "Tornillos insuficientes. Por favor visita la <a href='/account/transactions'>página de transacciones</a> para verificar que tienes suficientes tornillos para proceder con esta operación."
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
-msgstr ""
+msgstr "Hilos insuficientes. Por favor visita la <a href='/account/transactions'>página de transacciones</a> para verificar que tienes suficientes hilos para proceder con esta operación."
 
 #. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
 msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
-msgstr ""
+msgstr "Puntos insuficientes. Por favor visita la <a href='/account/transactions'>página de transacciones</a> para verificar que tienes suficientes puntos para proceder con esta operación."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_TYPE
 msgid "The file you selected is not allowed. Please select either a JPEG, GIF or PNG file."
-msgstr ""
+msgstr "El archivo que has seleccionado no está permitido. Por favor seleccione un archivo JPEG, GIF o PNG."
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_SIZE
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
-msgstr ""
+msgstr "El archivo que has seleccionado es muy grande. Por favor reduce el peso para poder subirlo"
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
-msgstr ""
+msgstr "Desafortunadamente, no puedes participar en el evento de Halloween si no estás de acuerdo con las reglas del evento"
 
 #. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
-msgstr ""
+msgstr "Un administrador ya ha aprobado uno de tus aportes. Recibiras una recompensa muy pronto. si no has recibido nada después de unas horas, por favor visita la <a href='/account/transactions'>página de transacciones</a> y contacta con soporte de ser necesario."
 
 #. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
 msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
-msgstr ""
+msgstr "Gracias por tu aporte. Desafortunadamente, vemos que has alcanzado el limite para este evento. Por favor espera hasta que otras solicitudes sean aprobadas o rechazadas antes de intentar enviar otra."
 
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
-msgstr ""
+msgstr "Gracias por tu aporte y el mensaje. Desafortunadamente, necesitamos que reduzcas los caracteres a 80. Por favor intenta una vez mas con un mensaje más corto."
