@@ -203,7 +203,9 @@ msgstr "Oh! Parece que el vínculo que usted usó para llegar aquí es inválido
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "Please verify your email address to continue."
+
 msgstr "Por favor verifica tu email para continuar."
+
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -581,6 +583,7 @@ msgstr "Estás seguro que quieres desvincular tu"
 msgid "Unlink Account"
 msgstr "Desvincular Cuenta"
 
+
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
 msgstr "Una vez que elimine su cuenta, no hay vuelta atrás. Por favor esté seguro."
@@ -637,6 +640,7 @@ msgstr "Por favor escriba “delete my account” en letras mayúsculas, para co
 msgid "Please explain the reason for the account deletion:"
 msgstr "Por favor explica la razón para la eliminación de la cuenta."
 
+
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
 msgstr "Entiendo las consecuencias, eliminar esta cuenta"
@@ -675,11 +679,12 @@ msgstr "Parece que ya has descargado tus datos hace menos de 24 horas.<br><br>Po
 
 #. i18n: keyword: DownloadData
 msgid "Download Data"
-msgstr "Descargando Datos"
+msgstr "Descargar Datos"
 
 #. i18n: keyword: DownloadingData
 msgid "Downloading Data..."
 msgstr "Descargando Datos..."
+
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -712,6 +717,7 @@ msgstr "Descargar Juego Libre de DRM"
 #. i18n: keyword: DRMFreeDownloadDescription
 msgid "You can get a DRM-free download of this game. More information <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>here</a>."
 msgstr "Usted puede obtener una copia de este juego libre de DRM (Gestión de Derechos Digitales, por sus siglas en Inglés). Más información <a href=\"/\">aquí</a>."
+
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
@@ -874,12 +880,12 @@ msgid "Download Settings"
 msgstr "Descargar Configuración"
 
 #. i18n: keyword: UpcomingBetasTitle
-msgid "Active and Upcoming Betas"
-msgstr "Betas Activas y Futuras"
+msgid "Testing of Upcoming Projects"
+msgstr ""
 
 #. i18n: keyword: UpcomingBetasDescription
-msgid "You can register for betas you’re interested in. You’ll receive an email if you are accepted into one."
-msgstr "Usted puede registrarse para usar proyectos betas a los que esté interesado. Recibirá un correo si es acceptado en una."
+msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
+msgstr ""
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -949,6 +955,10 @@ msgstr "¡Reclamado exitosamente!"
 msgid "You already own a different rarity version of this item, are you sure you would like to redeem points for it? Please, visit the <a href='/account/game/inventory?game=DST'>game inventory</a> page for more information."
 msgstr "Ya posees una version de diferente rareza de este objeto, ¿estás seguro que te gustaría canjear puntos por esto? Por favor, visita el <a href='/account/game/inventory?game=DST'>inventorio del juego</a> para mas información."
 
+#. i18n: keyword: PlayerOwnsAnotherItemRarity
+msgid "You already own a different rarity version of this item, are you sure you would like to redeem points for it? Please, visit the <a href='/account/game/inventory?game=DST'>game inventory</a> page for more information."
+msgstr ""
+
 #. i18n: keyword: RewardAlternative
 msgid "Alternative"
 msgstr "Alternativa"
@@ -959,11 +969,11 @@ msgstr "<b>Puntos de Klei</b> - Los puntos de Klei son usados para canjear recom
 
 #. i18n: keyword: RewardSpoolsMeaning
 msgid "<b>Spools</b> - Spools are used to weave items in the Curio Cabinet in-game."
-msgstr "<b>Hilos</b> - Los hilos son usados para tejer objetos en el armario de curiosidades dentro del juego."
+msgstr "<b>Spools</b> - Los Spools son usados para tejer objetos en el armario de curiosidades dentro del juego."
 
 #. i18n: keyword: RewardBoltsMeaning
 msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>Tornillos de Ropa</b> - (Solamente en Consola) Es una moneda dentro del juego para comprar skins y bundles en la tienda del juego."
+msgstr "<b>Bolts de Ropa</b> - (Solamente en Consola) Es una moneda dentro del juego para comprar skins y bundles en la tienda del juego."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1333,6 +1343,10 @@ msgstr "La sesión ha expirado, debes iniciar sesión nuevamente. <b>¿Estás us
 msgid "The Steam service is unavailable."
 msgstr "El servicio de Steam no está disponible"
 
+#. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
+msgid "The Steam service is unavailable."
+msgstr ""
+
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
 msgstr "Error al autenticar su cuenta de Steam sin una conexión de Internet."
@@ -1583,6 +1597,10 @@ msgstr "El sitio web anterior nos envió datos invalidos. La firma de la solicit
 #. i18n: keyword: E_OPENID_ACCESS_DENIED
 msgid "Steam denied your login attempt. Steam servers may be offline, which usually causes problems with Klei Entertainment and Steam's communication bridge. Please, wait a couple of minutes and try again. If the problem persists, feel free to send a message to our <a href='https://support.klei.com/'>support team</a>."
 msgstr "Steam ha denegado tu intento de inicio de sesión. Los servidores de Steam pueden estar offline, lo cual usualmente causa problemas con el puente de comuncación de Klei Entertainment y Steam. Por favor, espera unos minutos e intenta de nuevo. Si el problema persiste, sientente libre de enviarnos un mensaje a nuestro <a href='https://support.klei.com/'>equipo de soporte</a>. "
+
+#. i18n: keyword: E_OPENID_ACCESS_DENIED
+msgid "Steam denied your login attempt. Steam servers may be offline, which usually causes problems with Klei Entertainment and Steam's communication bridge. Please, wait a couple of minutes and try again. If the problem persists, feel free to send a message to our <a href='https://support.klei.com/'>support team</a>."
+msgstr ""
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
@@ -1918,4 +1936,4 @@ msgstr "El bloqueo de tu cuenta no es reversible."
 
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
-msgstr "¡Oh no! Parece ser que has dado click en un link roto. Puede que debas autentificarte nuevamente."
+msgstr "¡Oh no! Parece ser que has dado clic en un link roto. Puede que debas autentificarte nuevamente."
