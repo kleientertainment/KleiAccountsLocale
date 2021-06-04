@@ -1297,6 +1297,10 @@ msgstr "Cette valeur est déjà utilisée par un autre compte. Merci d'utiliser 
 msgid "The game does not exists."
 msgstr "Ce jeu n'existe pas."
 
+#. i18n: keyword: E_REWARD_REPLAYED
+msgid "This reward has already been claimed, your balances have been updated!"
+msgstr ""
+
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
 msgstr "Erreur interne serveur, réessayez dans quelques secondes."
