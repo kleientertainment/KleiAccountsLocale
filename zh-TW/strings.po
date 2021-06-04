@@ -1297,6 +1297,10 @@ msgstr "該數值已被另一個帳號使用。請用另一個數值。"
 msgid "The game does not exists."
 msgstr "該遊戲不存在。"
 
+#. i18n: keyword: E_REWARD_REPLAYED
+msgid "This reward has already been claimed, your balances have been updated!"
+msgstr ""
+
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
 msgstr "內部伺服器錯誤，請在幾秒鐘後重試。"

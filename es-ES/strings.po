@@ -203,9 +203,7 @@ msgstr "Oh! Parece que el vínculo que usted usó para llegar aquí es inválido
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "Please verify your email address to continue."
-
 msgstr "Por favor verifica tu email para continuar."
-
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -583,7 +581,6 @@ msgstr "Estás seguro que quieres desvincular tu"
 msgid "Unlink Account"
 msgstr "Desvincular Cuenta"
 
-
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
 msgstr "Una vez que elimine su cuenta, no hay vuelta atrás. Por favor esté seguro."
@@ -640,7 +637,6 @@ msgstr "Por favor escriba “delete my account” en letras mayúsculas, para co
 msgid "Please explain the reason for the account deletion:"
 msgstr "Por favor explica la razón para la eliminación de la cuenta."
 
-
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
 msgstr "Entiendo las consecuencias, eliminar esta cuenta"
@@ -685,7 +681,6 @@ msgstr "Descargar Datos"
 msgid "Downloading Data..."
 msgstr "Descargando Datos..."
 
-
 #. i18n: keyword: MyGames
 msgid "My Games"
 msgstr "Mis Juegos"
@@ -717,7 +712,6 @@ msgstr "Descargar Juego Libre de DRM"
 #. i18n: keyword: DRMFreeDownloadDescription
 msgid "You can get a DRM-free download of this game. More information <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>here</a>."
 msgstr "Usted puede obtener una copia de este juego libre de DRM (Gestión de Derechos Digitales, por sus siglas en Inglés). Más información <a href=\"/\">aquí</a>."
-
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
@@ -954,10 +948,6 @@ msgstr "¡Reclamado exitosamente!"
 #. i18n: keyword: PlayerOwnsAnotherItemRarity
 msgid "You already own a different rarity version of this item, are you sure you would like to redeem points for it? Please, visit the <a href='/account/game/inventory?game=DST'>game inventory</a> page for more information."
 msgstr "Ya posees una version de diferente rareza de este objeto, ¿estás seguro que te gustaría canjear puntos por esto? Por favor, visita el <a href='/account/game/inventory?game=DST'>inventorio del juego</a> para mas información."
-
-#. i18n: keyword: PlayerOwnsAnotherItemRarity
-msgid "You already own a different rarity version of this item, are you sure you would like to redeem points for it? Please, visit the <a href='/account/game/inventory?game=DST'>game inventory</a> page for more information."
-msgstr ""
 
 #. i18n: keyword: RewardAlternative
 msgid "Alternative"
@@ -1307,6 +1297,10 @@ msgstr "Ese valor ya está siendo usado por otra cuenta."
 msgid "The game does not exists."
 msgstr "El juego no existe."
 
+#. i18n: keyword: E_REWARD_REPLAYED
+msgid "This reward has already been claimed, your balances have been updated!"
+msgstr ""
+
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
 msgstr "Error interno del servidor, intente de nuevo en unos segundos."
@@ -1342,10 +1336,6 @@ msgstr "La sesión ha expirado, debes iniciar sesión nuevamente. <b>¿Estás us
 #. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
 msgid "The Steam service is unavailable."
 msgstr "El servicio de Steam no está disponible"
-
-#. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
-msgid "The Steam service is unavailable."
-msgstr ""
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
@@ -1514,6 +1504,7 @@ msgstr "Al parecer usted ya ha conectado el ID de su cuenta de juegos con otra c
 #. i18n: keyword: E_TWITCH_DELETED_SECRET
 msgid "Twitch is having problems verifying the credentials associated to our application. This usually happens when an internal service on Twitch infrastructure is having internal server errors. Please try again in a few minutes."
 msgstr "Twitch está teniendo problemas verificando las credenciales asociadas a nuestra aplicación. Esto usualmente pasa cuando un servicio interno en la infraestructura de Twitch está teniendo error internor de servidores. Por favor intenta de nuevo en unos minutos."
+
 #. i18n: keyword: E_TWITCH_BLACKLISTED
 msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
 msgstr "La opción para vincular un perfil de Twitch con su cuenta de Klei ha sido removida. Si usted considera que esto es un error, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>por favor contáctenos</a>."
@@ -1597,10 +1588,6 @@ msgstr "El sitio web anterior nos envió datos invalidos. La firma de la solicit
 #. i18n: keyword: E_OPENID_ACCESS_DENIED
 msgid "Steam denied your login attempt. Steam servers may be offline, which usually causes problems with Klei Entertainment and Steam's communication bridge. Please, wait a couple of minutes and try again. If the problem persists, feel free to send a message to our <a href='https://support.klei.com/'>support team</a>."
 msgstr "Steam ha denegado tu intento de inicio de sesión. Los servidores de Steam pueden estar offline, lo cual usualmente causa problemas con el puente de comuncación de Klei Entertainment y Steam. Por favor, espera unos minutos e intenta de nuevo. Si el problema persiste, sientente libre de enviarnos un mensaje a nuestro <a href='https://support.klei.com/'>equipo de soporte</a>. "
-
-#. i18n: keyword: E_OPENID_ACCESS_DENIED
-msgid "Steam denied your login attempt. Steam servers may be offline, which usually causes problems with Klei Entertainment and Steam's communication bridge. Please, wait a couple of minutes and try again. If the problem persists, feel free to send a message to our <a href='https://support.klei.com/'>support team</a>."
-msgstr ""
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."

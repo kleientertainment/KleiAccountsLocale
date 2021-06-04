@@ -1297,6 +1297,10 @@ msgstr "Це значення вже використовується іншим
 msgid "The game does not exists."
 msgstr "Такої гри немає."
 
+#. i18n: keyword: E_REWARD_REPLAYED
+msgid "This reward has already been claimed, your balances have been updated!"
+msgstr ""
+
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
 msgstr "Внутрішня помилка сервера, спробуйте ще раз через кілька секунд."
