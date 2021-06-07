@@ -1849,6 +1849,10 @@ msgstr "貨幣箱子"
 msgid "Steam Box DLC"
 msgstr "Steam 箱子 DLC"
 
+#. i18n: keyword: TXN_CURRENCY_EXCHANGE
+msgid "Currency Exchange"
+msgstr ""
+
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "可於市集販售"
