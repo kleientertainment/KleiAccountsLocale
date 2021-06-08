@@ -63,7 +63,7 @@ msgstr "奖励"
 
 #. i18n: keyword: Transactions
 msgid "Transactions"
-msgstr ""
+msgstr "交易"
 
 #. i18n: keyword: Settings
 msgid "Settings"
@@ -203,7 +203,7 @@ msgstr "哎呀，您的链接好像是无效的。"
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "Please verify your email address to continue."
-msgstr ""
+msgstr "请验证您的邮箱以便继续。"
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -355,7 +355,7 @@ msgstr "我们会把关于您的账户或游戏的新消息和更新发送到该
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "We have sent a verification code to your new email address to authorize the change."
-msgstr ""
+msgstr "我们已将验证码发送到您的新邮箱以授权这项变更。"
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -399,11 +399,11 @@ msgstr "我们已向您发送邮件以确认您订阅我们的邮件列表。"
 
 #. i18n: keyword: MarketingOptionsArchived
 msgid "Your newsletter subscription has been archived due to recent changes in your account. We archive newsletter subscriptions when you request deletion of your Klei account or when you make repetitive changes in your marketing options. You can try to subscribe one more time. If this does not work, please contact support."
-msgstr ""
+msgstr "由于您账户最近发生的变更，您的新闻订阅已被存档。当您请求删除您的Klei账户，或是对市场营销选项做出重复变更时，我们会将新闻订阅存档。您可以尝试再订阅一次，如果仍未起效，请联系我们的客户支持。"
 
 #. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
-msgstr ""
+msgstr "我们用以管理您新闻订阅的第三方服务在处理我们的请求时出现了问题。请稍后重试。"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -571,15 +571,15 @@ msgstr "删除账户"
 
 #. i18n: keyword: UnlinkThis
 msgid "Unlink"
-msgstr ""
+msgstr "取消关联"
 
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
-msgstr ""
+msgstr "您确定要取消关联吗"
 
 #. i18n: keyword: UnlinkAccount
 msgid "Unlink Account"
-msgstr ""
+msgstr "取消关联账户"
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
@@ -631,11 +631,11 @@ msgstr "确认删除"
 
 #. i18n: keyword: DeleteAccountConfirmation
 msgid "Please type in “delete my account” but in UPPERCASE letters, to confirm:"
-msgstr "请输入 大写的“delete my account” 以确认:"
+msgstr "请输入大写的“delete my account” 以确认:"
 
 #. i18n: keyword: DeleteAccountReason
 msgid "Please explain the reason for the account deletion:"
-msgstr ""
+msgstr "请解释删除账户的原因:"
 
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
@@ -663,23 +663,23 @@ msgstr "取消"
 
 #. i18n: keyword: ExportData
 msgid "Export Data"
-msgstr ""
+msgstr "导出数据"
 
 #. i18n: keyword: ExportDataShortDescription
 msgid "We can arrange for a report of your account details as controlled by Klei."
-msgstr ""
+msgstr "我们可以整理一份由Klei控制的关于您账户详细内容的报告。"
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
-msgstr ""
+msgstr "您似乎已经在24小时之内下载过了数据。<br><br>请等到明天再下载数据的另一份副本。<br><br>感谢您的耐心配合。"
 
 #. i18n: keyword: DownloadData
 msgid "Download Data"
-msgstr ""
+msgstr "下载数据"
 
 #. i18n: keyword: DownloadingData
 msgid "Downloading Data..."
-msgstr ""
+msgstr "正在下载数据..."
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -875,11 +875,11 @@ msgstr "下载设置"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
-msgstr ""
+msgstr "测试即将到来的项目"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr ""
+msgstr "您可以申请您感兴趣的企划的alpha与beta测试资格。如果您被选中，您将会收到一封电子邮件。"
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -891,11 +891,11 @@ msgstr "开始："
 
 #. i18n: keyword: BetaRegister
 msgid "Register"
-msgstr "加入测试版"
+msgstr "申请测试资格"
 
 #. i18n: keyword: BetaRegistered
 msgid "Registered. We will notify you if you have been selected to participate in this test."
-msgstr ""
+msgstr "已申请测试资格。当您被选中参加测试后，我们会通知您。"
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -903,7 +903,7 @@ msgstr "用户已被接受"
 
 #. i18n: keyword: BetaRegistrationEnded
 msgid "Registration has ended"
-msgstr "注册已经结束"
+msgstr "测试资格已结束申请"
 
 #. i18n: keyword: CommunityTranslations
 msgid "Translations"
@@ -947,7 +947,7 @@ msgstr "成功兑换！"
 
 #. i18n: keyword: PlayerOwnsAnotherItemRarity
 msgid "You already own a different rarity version of this item, are you sure you would like to redeem points for it? Please, visit the <a href='/account/game/inventory?game=DST'>game inventory</a> page for more information."
-msgstr ""
+msgstr "您已拥有此物品的其他稀有度版本，您确定您要用点数来兑换这个物品吗？请访问 <a href='/account/game/inventory?game=DST'>游戏物品库存</a> 页面以获取更多信息。"
 
 #. i18n: keyword: RewardAlternative
 msgid "Alternative"
@@ -955,15 +955,15 @@ msgstr "替代"
 
 #. i18n: keyword: RewardPointsMeaning
 msgid "<b>Klei Points</b> - Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr ""
+msgstr "<b>Klei点数</b> - Klei点数用于在Klei奖励页面兑换游戏内奖励。"
 
 #. i18n: keyword: RewardSpoolsMeaning
 msgid "<b>Spools</b> - Spools are used to weave items in the Curio Cabinet in-game."
-msgstr ""
+msgstr "<b>线轴</b> - 线轴用于在珍宝柜中编织道具。"
 
 #. i18n: keyword: RewardBoltsMeaning
 msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>布匹</b> - (仅限主机) 用以在游戏内商店购买皮肤以及同捆包的游戏内货币。"
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -971,7 +971,7 @@ msgstr "点"
 
 #. i18n: keyword: RewardBoltsAbbreviation
 msgid "bolts"
-msgstr "螺栓"
+msgstr "匹"
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
@@ -1175,11 +1175,11 @@ msgstr "您在几分钟前已经提交了一个支持请求。请稍等一会儿
 
 #. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
 msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
-msgstr ""
+msgstr "您的电子邮件地址似乎已被另一个Klei帐户用以创建支持认证。我们无法创建重复的支持帐户，因此您需要以您的辅助Klei帐户来登录才能发送支持问讯。"
 
 #. i18n: keyword: E_ZENDESK_INVALID_IAT_PARAMETER
 msgid "There was a problem establish a secure connection between Klei Entertainment and Zendesk. These errors are usually temporary, please wait five minutes and try again. If the issue persists, please send us an email instead."
-msgstr ""
+msgstr "在Klei Entertainment与Zendesk建立安全连接时出现了问题。错误可能是暂时的，请等待5分钟并重试。如果情况持续发生，请向我们发送邮件。"
 
 #. i18n: keyword: EmailAuthRequired
 msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
@@ -1297,6 +1297,10 @@ msgstr "该值已被另一个账户使用，请用另一个值。"
 msgid "The game does not exists."
 msgstr "该游戏不存在。"
 
+#. i18n: keyword: E_REWARD_REPLAYED
+msgid "This reward has already been claimed, your balances have been updated!"
+msgstr ""
+
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
 msgstr "内部服务器错误，请在几秒钟后重试。"
@@ -1315,7 +1319,7 @@ msgstr "邮箱地址无效，请检查您的输入是否正确。"
 
 #. i18n: keyword: E_INVALID_EMAIL_BY_MAILGUN
 msgid "Your e-mail address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different e-mail address."
-msgstr ""
+msgstr "您的电子邮件地址有效。 但是我们用于发送消息的第三方服务已将您列入黑名单，这意味着我们将无法发送包括验证码，新闻，促销，公告在内的任何类型的电子消息。 您的Klei帐户将保持未验证状态，并将无法使用部分功能，但您仍然可以玩我们的游戏。 要解决此问题，您需要输入另一个电子邮件地址。"
 
 #. i18n: keyword: E_INVALID_PASSWORD
 msgid "The password provided is invalid."
@@ -1331,7 +1335,7 @@ msgstr "操作已过期，您必须再次登录。<b>Are you using Safari?</b> I
 
 #. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
 msgid "The Steam service is unavailable."
-msgstr ""
+msgstr "Steam 服务不可用"
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
@@ -1527,7 +1531,7 @@ msgstr "该Beta测试内容已经失效。"
 
 #. i18n: keyword: E_MISSING_BASE_GAME_FOR_BETA
 msgid "You must own the base game to participate in this test."
-msgstr ""
+msgstr "您必须拥有基础游戏才能参加测试。"
 
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
@@ -1559,7 +1563,7 @@ msgstr "Steam服务器目前无法连接。"
 
 #. i18n: keyword: E_STEAM_E502_L3
 msgid "Steam servers are unavailable at the moment. This usually happens during the first and second hours after a big sale. Please, contact the Steam customer support team for further assistance."
-msgstr ""
+msgstr "目前Steam服务器无法访问。此问题常出现于大型促销活动最开始的一到两小时。请联络Steam客户支持团队以获取更多帮助。"
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
 msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
@@ -1583,7 +1587,7 @@ msgstr "先前的网站向我们发送了无效数据。认证请求的签名无
 
 #. i18n: keyword: E_OPENID_ACCESS_DENIED
 msgid "Steam denied your login attempt. Steam servers may be offline, which usually causes problems with Klei Entertainment and Steam's communication bridge. Please, wait a couple of minutes and try again. If the problem persists, feel free to send a message to our <a href='https://support.klei.com/'>support team</a>."
-msgstr ""
+msgstr "Steam拒绝了您的登录尝试。Steam服务器可能离线，此情况经常导致Klei Entertainment于Steam之间的通信出现问题。请等待数分钟后重试。如果问题持续发生，请放心联络我们的<a href='https://support.klei.com/'>支持团队</a>。"
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
@@ -1771,7 +1775,7 @@ msgstr "通过探索获取点数"
 
 #. i18n: keyword: TXN_QUEST_FOR_BOLTS
 msgid "Quest For Bolts"
-msgstr "通过探索获取螺栓"
+msgstr "通过探索获取布匹"
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
@@ -1783,7 +1787,7 @@ msgstr "通过点数获取物品"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr "通过螺栓获取物品"
+msgstr "通过布匹获取物品"
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
@@ -1845,6 +1849,10 @@ msgstr "Currency盒子"
 msgid "Steam Box DLC"
 msgstr "Steam游戏盒子DLC包"
 
+#. i18n: keyword: TXN_CURRENCY_EXCHANGE
+msgid "Currency Exchange"
+msgstr ""
+
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "可出售的"
@@ -1855,7 +1863,7 @@ msgstr "可交易的"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr "螺栓余量不足。请访问<a href='/account/transactions'>交易页面</a>以确认您持有足够的螺栓来进行操作。"
+msgstr "布匹余量不足。请访问<a href='/account/transactions'>交易页面</a>以确认您持有足够的布匹来进行操作。"
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
@@ -1891,32 +1899,32 @@ msgstr "谢您的提交。遗憾的是，我们将内容限制在了80个字符�
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
-msgstr ""
+msgstr "查看最终用户许可协议和服务条款。"
 
 #. i18n: keyword: ReviewEULADescription
 msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
-msgstr ""
+msgstr "您好 <code>{{.Data.KU}}</code>,<br><br>您的账户由于违反最终用户许可协议或服务条款，现已被禁用。<br><br>请仔细阅读，并以您的认知来决定您是否想要继续参与我们的社区以及游玩我们制作的游戏。"
 
 #. i18n: keyword: ReviewEULAWarning
 msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
-msgstr ""
+msgstr "对服务条款的进一步违反可能会导致对您账户的额外限制，例如暂时或是永久的在线服务访问限制。"
 
 #. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
 msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "您似乎一点都没有阅读最终用户许可协议和服务条款。请点击各个连接，阅读这些信息，然后在您的认知同意这些服务条例时，勾选复选框。"
 
 #. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
 msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "您似乎没有阅读完最终用户许可协议和服务条款。请访问上一页，阅读这些信息，然后在您的认知同意这些服务条例时，勾选复选框。"
 
 #. i18n: keyword: E_USER_IS_NOT_BANNED
 msgid "Your account is not banned."
-msgstr ""
+msgstr "您的账户未被停用。"
 
 #. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
 msgid "The ban in your account is not reversible."
-msgstr ""
+msgstr "对您账户的禁用是不可逆的。"
 
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
-msgstr ""
+msgstr "哦不！您似乎点击了一个残缺的链接。您可能需要再次授权。"

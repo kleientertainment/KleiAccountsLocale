@@ -1297,6 +1297,10 @@ msgstr "Dieser Wert wird bereits von einem anderen Account verwendet. Bitte benu
 msgid "The game does not exists."
 msgstr "Dieses Spiel existiert nicht."
 
+#. i18n: keyword: E_REWARD_REPLAYED
+msgid "This reward has already been claimed, your balances have been updated!"
+msgstr ""
+
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
 msgstr "Interner Serverfehler. Bitte nach einigen Augenblicken nochmal versuchen."
@@ -1843,6 +1847,10 @@ msgstr "Währungs Box"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
+msgstr ""
+
+#. i18n: keyword: TXN_CURRENCY_EXCHANGE
+msgid "Currency Exchange"
 msgstr ""
 
 #. i18n: keyword: Marketable
