@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-06-08 11:00-0300\n"
+"PO-Revision-Date: 2021-07-13 16:51-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -1023,7 +1023,7 @@ msgstr "Inscreva-se em nosso Boletim Informativo (newsletter)"
 
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
-msgstr ""
+msgstr "Código Resgatável"
 
 #. i18n: keyword: RewardMessageFacebook
 msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
@@ -1859,7 +1859,7 @@ msgstr "Câmbio Monetário"
 
 #. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
 msgid "Consume Redeemable Code"
-msgstr ""
+msgstr "Gastar Código Resgatável"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
