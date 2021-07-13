@@ -403,7 +403,7 @@ msgstr "Ваша підписка на розсилку заархівована
 
 #. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
-msgstr ""
+msgstr "Сторонній сервіс, який ми використовуємо для управління підпискою на розсилку, має проблеми з обробкою наших запитів. Будь-ласка спробуйте пізніше."
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -955,15 +955,15 @@ msgstr "Альтернатива"
 
 #. i18n: keyword: RewardPointsMeaning
 msgid "<b>Klei Points</b> - Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr ""
+msgstr "<b>Бали Klei</b> - Бали Klei використовуються для отримання внутрішньоігрових нагород зі сторінки Klei Rewards."
 
 #. i18n: keyword: RewardSpoolsMeaning
 msgid "<b>Spools</b> - Spools are used to weave items in the Curio Cabinet in-game."
-msgstr ""
+msgstr "<b>Котушки</b> - Котушки використовуються для плетіння предметів в шафці сувенірів у грі."
 
 #. i18n: keyword: RewardBoltsMeaning
 msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>Рулони тканини</b> - (Тільки консоль) Внутрішньоігрова валюта, яка використовується для покупки скінів та наборів у внутрішньоігровому магазині."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1020,6 +1020,10 @@ msgstr "Слідкуйте за нами в Instagram"
 #. i18n: keyword: RewardNameNewsletter
 msgid "Subscribe to our newsletter"
 msgstr "Підпишіться на нашу розсилку"
+
+#. i18n: keyword: RewardNameRedeemableCode
+msgid "Redeemable Code"
+msgstr ""
 
 #. i18n: keyword: RewardMessageFacebook
 msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
@@ -1299,7 +1303,7 @@ msgstr "Такої гри немає."
 
 #. i18n: keyword: E_REWARD_REPLAYED
 msgid "This reward has already been claimed, your balances have been updated!"
-msgstr ""
+msgstr "Ви вже отримували цю нагороду, ваш баланс вже було оновлено!"
 
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
@@ -1851,6 +1855,10 @@ msgstr "Набір Steam DLC"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
+msgstr "Обмін валюти"
+
+#. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
+msgid "Consume Redeemable Code"
 msgstr ""
 
 #. i18n: keyword: Marketable
