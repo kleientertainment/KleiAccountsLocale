@@ -427,7 +427,7 @@ msgstr "確認"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "請輸入全大寫的「merge accounts」來確認："
+msgstr "請輸入全大寫的“merge accounts“來確認："
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"

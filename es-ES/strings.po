@@ -427,7 +427,7 @@ msgstr "Confirmar"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "Por favor escribe en “Fusionar cuentas” pero en mayusculas, para confirmar:"
+msgstr "Por favor escribe en “merge accounts” pero en mayusculas, para confirmar:"
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"

@@ -427,7 +427,7 @@ msgstr "Onayla"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "Lütfen onaylamak için büyük harflerle \"merge accounts\" yazın."
+msgstr "Lütfen onaylamak için büyük harflerle “merge accounts“ yazın."
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"

@@ -427,7 +427,7 @@ msgstr "Підтвердження"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "Будь ласка, введіть «merge accounts» повністю ВЕЛИКИМИ літерами для підтвердження:"
+msgstr "Будь ласка, введіть “merge accounts“ повністю ВЕЛИКИМИ літерами для підтвердження:"
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"

@@ -427,7 +427,7 @@ msgstr "Xác nhận"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "Vui lòng điền \"merge accounts\" nhưng với tất cả các chữ cái IN HOA, để xác nhận:"
+msgstr "Vui lòng điền “merge accounts“ nhưng với tất cả các chữ cái IN HOA, để xác nhận:"
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"
