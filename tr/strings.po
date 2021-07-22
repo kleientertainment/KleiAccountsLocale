@@ -427,7 +427,7 @@ msgstr "Onayla"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "Lütfen onaylamak için büyük harflerle \"merge accounts\" yazın."
+msgstr "Lütfen onaylamak için büyük harflerle “merge accounts“ yazın."
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"
@@ -868,6 +868,22 @@ msgstr "Kullanıldı:"
 #. i18n: keyword: ItemsFilterRarity
 msgid "Rarity"
 msgstr "Nadirlik:"
+
+#. i18n: keyword: RollbackDialogConfirmation
+msgid "Are you sure you want to rollback this transaction?"
+msgstr ""
+
+#. i18n: keyword: RollbackDialogNotEnoughCurrency
+msgid "You don't have enough currency for this rollback! You need another"
+msgstr ""
+
+#. i18n: keyword: RollbackGain
+msgid "You will gain"
+msgstr ""
+
+#. i18n: keyword: RollbackLose
+msgid "You will lose"
+msgstr ""
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -1717,6 +1733,14 @@ msgstr "Kullandığınız bağlantı geçerli değil. Lütfen bu bağlantının 
 msgid "We're sorry but this reward is no longer active. Please follow us on social media and subscribe to our mailing list to get new rewards as we publish them."
 msgstr "Üzgünüz ama bu ödül artık aktif değil. Lütfen bizi sosyal medyada takip edin ve yeni ödüllerden haberdar olmak için posta listemize abone olun."
 
+#. i18n: keyword: E_DOUBLE_ROLLBACK
+msgid "This transaction has already been rolled back."
+msgstr ""
+
+#. i18n: keyword: E_UNSUPPORTED_FOR_ROLLBACK
+msgid "This transaction cannot be rolled back."
+msgstr ""
+
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
 msgstr "Kullanıcı İşlemleri"
@@ -1740,6 +1764,10 @@ msgstr "Tüm İşlemler"
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
 msgstr "İşlem yok."
+
+#. i18n: keyword: TransactionRollback
+msgid "Rollback"
+msgstr ""
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"

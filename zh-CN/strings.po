@@ -869,6 +869,22 @@ msgstr "已兑换："
 msgid "Rarity"
 msgstr "稀有度"
 
+#. i18n: keyword: RollbackDialogConfirmation
+msgid "Are you sure you want to rollback this transaction?"
+msgstr ""
+
+#. i18n: keyword: RollbackDialogNotEnoughCurrency
+msgid "You don't have enough currency for this rollback! You need another"
+msgstr ""
+
+#. i18n: keyword: RollbackGain
+msgid "You will gain"
+msgstr ""
+
+#. i18n: keyword: RollbackLose
+msgid "You will lose"
+msgstr ""
+
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
 msgstr "下载设置"
@@ -1717,6 +1733,14 @@ msgstr "您使用的链接无效。请检查此链接的来源，然后重试。
 msgid "We're sorry but this reward is no longer active. Please follow us on social media and subscribe to our mailing list to get new rewards as we publish them."
 msgstr "我们很抱歉，但此奖励已经不再有效。请在社交媒体上关注我们并订阅我们的邮件，以在我们发布最新奖励时获取它们。。"
 
+#. i18n: keyword: E_DOUBLE_ROLLBACK
+msgid "This transaction has already been rolled back."
+msgstr ""
+
+#. i18n: keyword: E_UNSUPPORTED_FOR_ROLLBACK
+msgid "This transaction cannot be rolled back."
+msgstr ""
+
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
 msgstr "用户交易"
@@ -1740,6 +1764,10 @@ msgstr "所有交易"
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
 msgstr "没有交易"
+
+#. i18n: keyword: TransactionRollback
+msgid "Rollback"
+msgstr ""
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
