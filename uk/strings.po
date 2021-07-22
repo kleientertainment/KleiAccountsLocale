@@ -869,6 +869,22 @@ msgstr "Викуплено:"
 msgid "Rarity"
 msgstr "Рідкість"
 
+#. i18n: keyword: RollbackDialogConfirmation
+msgid "Are you sure you want to rollback this transaction?"
+msgstr ""
+
+#. i18n: keyword: RollbackDialogNotEnoughCurrency
+msgid "You don't have enough currency for this rollback! You need another"
+msgstr ""
+
+#. i18n: keyword: RollbackGain
+msgid "You will gain"
+msgstr ""
+
+#. i18n: keyword: RollbackLose
+msgid "You will lose"
+msgstr ""
+
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
 msgstr "Параметри завантаження"
@@ -1717,6 +1733,14 @@ msgstr "Посилання, яке ви використовували, неді
 msgid "We're sorry but this reward is no longer active. Please follow us on social media and subscribe to our mailing list to get new rewards as we publish them."
 msgstr "На жаль, ця нагорода більше не активна. Будь ласка, слідкуйте за нами в соціальних мережах і підпишіться на нашу розсилку, аби мати змогу отримати нові винагороди під час їх публікації."
 
+#. i18n: keyword: E_DOUBLE_ROLLBACK
+msgid "This transaction has already been rolled back."
+msgstr ""
+
+#. i18n: keyword: E_UNSUPPORTED_FOR_ROLLBACK
+msgid "This transaction cannot be rolled back."
+msgstr ""
+
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
 msgstr "Транзакції користувача"
@@ -1740,6 +1764,10 @@ msgstr "Усі транзакції"
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
 msgstr "Транзакцій немає."
+
+#. i18n: keyword: TransactionRollback
+msgid "Rollback"
+msgstr ""
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
