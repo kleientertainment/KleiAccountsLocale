@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-07-13 16:51-0300\n"
+"PO-Revision-Date: 2021-07-22 13:27-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -871,19 +871,19 @@ msgstr "Raridade"
 
 #. i18n: keyword: RollbackDialogConfirmation
 msgid "Are you sure you want to rollback this transaction?"
-msgstr ""
+msgstr "Deseja realmente reverter essa transação?"
 
 #. i18n: keyword: RollbackDialogNotEnoughCurrency
 msgid "You don't have enough currency for this rollback! You need another"
-msgstr ""
+msgstr "Você não tem saldo suficiente para essa reversão! Você precisa de outro"
 
 #. i18n: keyword: RollbackGain
 msgid "You will gain"
-msgstr ""
+msgstr "Você vai ganhar"
 
 #. i18n: keyword: RollbackLose
 msgid "You will lose"
-msgstr ""
+msgstr "Você vai perder"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -1735,11 +1735,11 @@ msgstr "Nós sentimos muito essa recompensa não está mais ativa. Por favor sig
 
 #. i18n: keyword: E_DOUBLE_ROLLBACK
 msgid "This transaction has already been rolled back."
-msgstr ""
+msgstr "Esta transação já foi revertida."
 
 #. i18n: keyword: E_UNSUPPORTED_FOR_ROLLBACK
 msgid "This transaction cannot be rolled back."
-msgstr ""
+msgstr "Esta transação não pode ser revertida."
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
@@ -1767,7 +1767,7 @@ msgstr "Não há transações."
 
 #. i18n: keyword: TransactionRollback
 msgid "Rollback"
-msgstr ""
+msgstr "Reversão"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
