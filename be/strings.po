@@ -5,7 +5,7 @@ msgstr ""
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
 "PO-Revision-Date: 2020-10-13 03:24\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
-"Language-Team: Belarusian\n"
+"Language-Team: Belarusian (https://accounts.klei.com/community-translations)\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -631,7 +631,7 @@ msgstr "Пацвердзіць выдаленне"
 
 #. i18n: keyword: DeleteAccountConfirmation
 msgid "Please type in “delete my account” but in UPPERCASE letters, to confirm:"
-msgstr "Калі Ласка, увядзіце “выдаліць my account” цалкам загалоўнымі літарамі, каб пацвердзіць:"
+msgstr "Калі Ласка, увядзіце “delete my account” цалкам загалоўнымі літарамі, каб пацвердзіць:"
 
 #. i18n: keyword: DeleteAccountReason
 msgid "Please explain the reason for the account deletion:"
