@@ -1866,19 +1866,19 @@ msgid "Weekly Gift Item"
 msgstr "每周礼物"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
-msgid "Steam Box"
+msgid "Shop Chest (Steam)"
 msgstr "Steam盒子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
-msgid "Tencent Games Box"
+msgid "Shop Chest (Tencent Games)"
 msgstr "腾讯游戏盒子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
-msgid "Currency Box"
+msgid "Shop Chest (Currency)"
 msgstr "Currency盒子"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
-msgid "Steam Box DLC"
+msgid "Shop Chest (Steam DLC)"
 msgstr "Steam游戏盒子DLC包"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
