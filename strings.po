@@ -878,7 +878,7 @@ msgid "You don't have enough currency for this rollback! You need another"
 msgstr ""
 
 #. i18n: keyword: RollbackGain
-msgid "You will regain"
+msgid "You will gain"
 msgstr ""
 
 #. i18n: keyword: RollbackLose
