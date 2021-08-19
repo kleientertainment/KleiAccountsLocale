@@ -895,7 +895,7 @@ msgstr "Test des projets à venir"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr "Vous pouvez vous inscrire pour tester les projets alpha et bêta qui vous intéressent. Vous recevrez un courriel si vous êtes accepté dans un."
+msgstr "Vous pouvez vous inscrire pour tester les projets alpha et bêta qui vous intéressent. Vous recevrez un courriel si vous êtes accepté."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
