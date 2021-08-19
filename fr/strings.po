@@ -403,7 +403,7 @@ msgstr "Votre inscription à la newsletter a été archivée suite à des change
 
 #. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
-msgstr "Le service externe qui gère l'inscription de newsletter est en erreur. Merci de ré-essayer plus tard."
+msgstr "Le service externe qui gère l'inscription de newsletter rencontre des problèmes. Merci de ré-essayer plus tard."
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -727,7 +727,7 @@ msgstr "Inventaire"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr "<b>Astuce de recherche :</b> Saisissez un ou plusieurs mots pour rechercher un élément dans votre inventaire de jeu. Si vous voulez trouver un élément appelé <b>Wilson Red Hat</b> vous pouvez soit taper <b>Wilson</b>, ou <b>Hat</b>, ou même <b>Wilson Hat</ b>. L'ordre des termes de recherche est important, cela signifie que vous ne trouverez aucun résultat pour la requête \"Hat Wilson\" car les mots sont dans un ordre différent. <b>Appuyez sur Entré</b> pour soumettre la recherche. Supprimez les termes de recherche et appuyez à nouveau sur Entré pour réinitialiser les filtres."
+msgstr "<b>Astuce de recherche :</b> Saisissez un ou plusieurs mots pour rechercher un élément dans votre inventaire de jeu. Si vous voulez trouver un élément appelé <b>Wilson Red Hat</b> vous pouvez soit taper <b>Wilson</b>, ou <b>Hat</b>, ou même <b>Wilson Hat</ b>. L'ordre des termes de recherche est important, cela signifie que vous ne trouverez aucun résultat pour la requête \"Hat Wilson\" car les mots sont dans un ordre différent. <b>Appuyez sur Entrée</b> pour soumettre la recherche. Supprimez les termes de recherche et appuyez à nouveau sur Entrée pour réinitialiser les filtres."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
@@ -859,7 +859,7 @@ msgstr "Votre inventaire"
 
 #. i18n: keyword: ItemsDialogRarity
 msgid "Rarity:"
-msgstr "Rarité :"
+msgstr "Rareté :"
 
 #. i18n: keyword: ItemsDialogRedeemed
 msgid "Redeemed:"
@@ -867,7 +867,7 @@ msgstr "Échangé :"
 
 #. i18n: keyword: ItemsFilterRarity
 msgid "Rarity"
-msgstr "Rarité"
+msgstr "Rareté"
 
 #. i18n: keyword: RollbackDialogConfirmation
 msgid "Are you sure you want to rollback this transaction?"
@@ -875,7 +875,7 @@ msgstr "Voulez-vous vraiment annuler cette transaction ?"
 
 #. i18n: keyword: RollbackDialogNotEnoughCurrency
 msgid "You don't have enough currency for this rollback! You need another"
-msgstr "Vous n'avez pas assez de points pour ce retour en arrière ! Vous avez besoin d'un autre"
+msgstr "Vous n'avez pas assez de devises pour ce retour en arrière ! Vous avez besoin d'un autre"
 
 #. i18n: keyword: RollbackGain
 msgid "You will gain"
@@ -979,7 +979,7 @@ msgstr "<b>Bobines</b> - Les bobines sont utilisées pour échanger des objets d
 
 #. i18n: keyword: RewardBoltsMeaning
 msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>Rouleaux de tissus</b> - (Console uniquement) Monnaie du jeu utilisée pour acheter des skins et des lots dans la boutique du jeu."
+msgstr "<b>Rouleaux de tissus</b> - (Console uniquement) Devise du jeu utilisée pour acheter des skins et des lots dans la boutique du jeu."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1087,7 +1087,7 @@ msgstr "Échange de cadeau"
 
 #. i18n: keyword: GiftRedemptionDescription
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
-msgstr "Bonjour! Il semble que vous ayez une clé d'article ou un code cadeau, souhaitez-vous l'utiliser maintenant ? Tapez le code dans le formulaire ci-dessous et nous vous accorderons l'article plus rapidement que vous ne pouvez cligner des yeux <em>&mdash;à moins que vous ne puissiez cligner des yeux très rapidement, auquel cas vous devez fermer les yeux pendant quelques millisecondes&mdash;"
+msgstr "Bonjour! Il semble que vous ayez une clé d'article ou un code cadeau, souhaitez-vous l'utiliser maintenant ? Tapez le code dans le formulaire ci-dessous et nous vous accorderons l'article plus rapidement que vous ne pouvez cligner des yeux <em>&mdash;à moins que vous ne puissiez cligner des yeux très rapidement, auquel cas vous devez fermer les yeux pendant quelques millisecondes&mdash;</em>"
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
@@ -1875,7 +1875,7 @@ msgstr "Coffre boutique (Tencent Games)"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
 msgid "Shop Chest (Currency)"
-msgstr "Coffre boutique (Points)"
+msgstr "Coffre boutique (Devise)"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Shop Chest (Steam DLC)"
@@ -1883,7 +1883,7 @@ msgstr "Coffre boutique (Steam DLC)"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
-msgstr "Echange de points"
+msgstr "Echange de devise"
 
 #. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
 msgid "Consume Redeemable Code"
@@ -1899,11 +1899,11 @@ msgstr "Échangeable"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr "Équilibre des boulons insuffisant. Veuillez visiter la <a href='/account/transactions'>page des transactions</a> pour vérifier que vous disposez de suffisamment de Bolts pour procéder à cette opération."
+msgstr "Solde de Rouleaux insuffisant. Veuillez visiter la <a href='/account/transactions'>page des transactions</a> pour vérifier que vous disposez de suffisamment de Rouleaux pour procéder à cette opération."
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
-msgstr "Solde de Rouleaux insuffisant. Veuillez visiter la <a href='/account/transactions'>page des transactions</a> pour vérifier que vous disposez de suffisamment de Rouleaux pour procéder à cette opération."
+msgstr "Solde de Bobines insuffisant. Veuillez visiter la <a href='/account/transactions'>page des transactions</a> pour vérifier que vous disposez de suffisamment de Bobines pour procéder à cette opération."
 
 #. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
 msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
