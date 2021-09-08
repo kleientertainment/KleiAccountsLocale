@@ -405,6 +405,18 @@ msgstr "Sua assinatura de boletim informativo foi arquivada devido a mudanças r
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
 msgstr "O serviço de terceiros que usamos para gerenciar sua assinatura de boletim informativo está tendo problemas para processar nossas solicitações. Por favor, tente novamente mais tarde."
 
+#. i18n: keyword: LinkDiscordTitle
+msgid "Link Discord Account"
+msgstr ""
+
+#. i18n: keyword: LinkDiscordDescription
+msgid "This will link your Discord Account to your Klei Account."
+msgstr ""
+
+#. i18n: keyword: UnlinkDiscordTitle
+msgid "Unlink Discord Account"
+msgstr ""
+
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
 msgstr "Mesclar uma conta"
