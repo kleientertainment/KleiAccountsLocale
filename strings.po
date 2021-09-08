@@ -410,7 +410,7 @@ msgid "Link Discord Account"
 msgstr ""
 
 #. i18n: keyword: LinkDiscordDescription
-msgid "This will link your Discord Account to your Klei Account"
+msgid "This will link your Discord Account to your Klei Account."
 msgstr ""
 
 #. i18n: keyword: UnlinkDiscordTitle
