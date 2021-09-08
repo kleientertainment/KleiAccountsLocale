@@ -405,6 +405,18 @@ msgstr "Ваша підписка на розсилку заархівована
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
 msgstr "Сторонній сервіс, який ми використовуємо для управління підпискою на розсилку, має проблеми з обробкою наших запитів. Будь-ласка спробуйте пізніше."
 
+#. i18n: keyword: LinkDiscordTitle
+msgid "Link Discord Account"
+msgstr ""
+
+#. i18n: keyword: LinkDiscordDescription
+msgid "This will link your Discord Account to your Klei Account"
+msgstr ""
+
+#. i18n: keyword: UnlinkDiscordTitle
+msgid "Unlink Discord Account"
+msgstr ""
+
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
 msgstr "Об’єднати акаунти"
