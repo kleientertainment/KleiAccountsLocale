@@ -407,15 +407,15 @@ msgstr "我们用以管理您新闻订阅的第三方服务在处理我们的请
 
 #. i18n: keyword: LinkDiscordTitle
 msgid "Link Discord Account"
-msgstr ""
+msgstr "绑定Discord账户"
 
 #. i18n: keyword: LinkDiscordDescription
 msgid "This will link your Discord Account to your Klei Account."
-msgstr ""
+msgstr "这将把你的Discord账户与Klei账户绑定。"
 
 #. i18n: keyword: UnlinkDiscordTitle
 msgid "Unlink Discord Account"
-msgstr ""
+msgstr "解绑Discord账户"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -883,19 +883,19 @@ msgstr "稀有度"
 
 #. i18n: keyword: RollbackDialogConfirmation
 msgid "Are you sure you want to rollback this transaction?"
-msgstr ""
+msgstr "您确定要回滚此笔交易吗？"
 
 #. i18n: keyword: RollbackDialogNotEnoughCurrency
 msgid "You don't have enough currency for this rollback! You need another"
-msgstr ""
+msgstr "您没有足够的货币来进行回滚！您需要更多"
 
 #. i18n: keyword: RollbackGain
 msgid "You will gain"
-msgstr ""
+msgstr "您会获得"
 
 #. i18n: keyword: RollbackLose
 msgid "You will lose"
-msgstr ""
+msgstr "您会失去"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -1051,7 +1051,7 @@ msgstr "订阅我们的新闻"
 
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
-msgstr ""
+msgstr "兑换码"
 
 #. i18n: keyword: RewardMessageFacebook
 msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
@@ -1331,7 +1331,7 @@ msgstr "该游戏不存在。"
 
 #. i18n: keyword: E_REWARD_REPLAYED
 msgid "This reward has already been claimed, your balances have been updated!"
-msgstr ""
+msgstr "此奖励已经被获取过，您的余额已经更新了！"
 
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
@@ -1367,7 +1367,7 @@ msgstr "操作已过期，您必须再次登录。<b>Are you using Safari?</b> I
 
 #. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
 msgid "The Steam service is unavailable."
-msgstr "Steam 服务不可用"
+msgstr "Steam 服务不可用。"
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
@@ -1747,11 +1747,11 @@ msgstr "我们很抱歉，但此奖励已经不再有效。请在社交媒体上
 
 #. i18n: keyword: E_DOUBLE_ROLLBACK
 msgid "This transaction has already been rolled back."
-msgstr ""
+msgstr "此笔交易已经被回滚过了。"
 
 #. i18n: keyword: E_UNSUPPORTED_FOR_ROLLBACK
 msgid "This transaction cannot be rolled back."
-msgstr ""
+msgstr "此笔交易无法被回滚。"
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
@@ -1779,7 +1779,7 @@ msgstr "没有交易"
 
 #. i18n: keyword: TransactionRollback
 msgid "Rollback"
-msgstr ""
+msgstr "回滚"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -1895,11 +1895,11 @@ msgstr "Steam游戏盒子DLC包"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
-msgstr ""
+msgstr "货币兑换"
 
 #. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
 msgid "Consume Redeemable Code"
-msgstr ""
+msgstr "使用兑换码"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
