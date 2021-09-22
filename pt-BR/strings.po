@@ -5,7 +5,7 @@ msgstr ""
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
 "PO-Revision-Date: 2021-07-22 13:27-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
-"Language-Team: Portuguese, Brazilian\n"
+"Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -404,6 +404,18 @@ msgstr "Sua assinatura de boletim informativo foi arquivada devido a mudanças r
 #. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
 msgstr "O serviço de terceiros que usamos para gerenciar sua assinatura de boletim informativo está tendo problemas para processar nossas solicitações. Por favor, tente novamente mais tarde."
+
+#. i18n: keyword: LinkDiscordTitle
+msgid "Link Discord Account"
+msgstr ""
+
+#. i18n: keyword: LinkDiscordDescription
+msgid "This will link your Discord Account to your Klei Account."
+msgstr ""
+
+#. i18n: keyword: UnlinkDiscordTitle
+msgid "Unlink Discord Account"
+msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -1866,19 +1878,19 @@ msgid "Weekly Gift Item"
 msgstr "Presente Semanal"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
-msgid "Steam Box"
+msgid "Shop Chest (Steam)"
 msgstr "Caixa Steam"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
-msgid "Tencent Games Box"
+msgid "Shop Chest (Tencent Games)"
 msgstr "Caixa Tencent Games"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
-msgid "Currency Box"
+msgid "Shop Chest (Currency)"
 msgstr "Caixa de Moeda Corrente"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
-msgid "Steam Box DLC"
+msgid "Shop Chest (Steam DLC)"
 msgstr "Caixa Steam DLC"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE

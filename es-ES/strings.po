@@ -5,7 +5,7 @@ msgstr ""
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
 "PO-Revision-Date: 2020-07-24 03:24\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
-"Language-Team: Spanish\n"
+"Language-Team: Spanish (https://accounts.klei.com/community-translations)\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -404,6 +404,18 @@ msgstr "Tu suscripción al boletin informativo ha sido archivada debido a cambio
 #. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
 msgstr "El servicio de terceros que usamos para gestionar tu suscripción al boletin ifnormativo está teniendo problemas procesando nuestras solicitudes. Por favor intenta de nuevo más tarde."
+
+#. i18n: keyword: LinkDiscordTitle
+msgid "Link Discord Account"
+msgstr ""
+
+#. i18n: keyword: LinkDiscordDescription
+msgid "This will link your Discord Account to your Klei Account."
+msgstr ""
+
+#. i18n: keyword: UnlinkDiscordTitle
+msgid "Unlink Discord Account"
+msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -1566,8 +1578,8 @@ msgid "Steam servers are currently offline."
 msgstr "Los servidores de Steam están actualmente desconectados."
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
-msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Steam te ha redirigido a un URL incorrecto, no podemos validar tus credenciales aquí. Porf favor borra el cache y cookies de tu navegador, e intenta iniciar sesión una vez mas. Si necesitas asistencia por favor <a href='http://support.kleientertainment.com/' target='blank_' rel='noopener noreferrer'>contacta a soporte</a>"
+msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
+msgstr "Steam te ha redirigido a un URL incorrecto, no podemos validar tus credenciales aquí. Porf favor borra el cache y cookies de tu navegador, e intenta iniciar sesión una vez mas. Si necesitas asistencia por favor <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contacta a soporte</a>"
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
 msgid "Steam prevented us from showing your profile information."
@@ -1866,19 +1878,19 @@ msgid "Weekly Gift Item"
 msgstr "Objeto de Regalo Semanal"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
-msgid "Steam Box"
+msgid "Shop Chest (Steam)"
 msgstr "Caja de Steam"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
-msgid "Tencent Games Box"
+msgid "Shop Chest (Tencent Games)"
 msgstr "Caja de Tencent Games"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
-msgid "Currency Box"
+msgid "Shop Chest (Currency)"
 msgstr "Caja de moneda"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
-msgid "Steam Box DLC"
+msgid "Shop Chest (Steam DLC)"
 msgstr "Caja DLC de Steam"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE

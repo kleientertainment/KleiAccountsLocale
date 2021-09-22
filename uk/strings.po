@@ -5,7 +5,7 @@ msgstr ""
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
 "PO-Revision-Date: 2020-08-24 21:14+0300\n"
 "Last-Translator: Alex <o.o.bondar4uk@gmail.com>\n"
-"Language-Team: Ukrainian\n"
+"Language-Team: Ukrainian (https://accounts.klei.com/community-translations)\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -404,6 +404,18 @@ msgstr "Ваша підписка на розсилку заархівована
 #. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
 msgstr "Сторонній сервіс, який ми використовуємо для управління підпискою на розсилку, має проблеми з обробкою наших запитів. Будь-ласка спробуйте пізніше."
+
+#. i18n: keyword: LinkDiscordTitle
+msgid "Link Discord Account"
+msgstr ""
+
+#. i18n: keyword: LinkDiscordDescription
+msgid "This will link your Discord Account to your Klei Account."
+msgstr ""
+
+#. i18n: keyword: UnlinkDiscordTitle
+msgid "Unlink Discord Account"
+msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -1866,19 +1878,19 @@ msgid "Weekly Gift Item"
 msgstr "Щотижневий подарунок"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
-msgid "Steam Box"
+msgid "Shop Chest (Steam)"
 msgstr "Набір Steam"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
-msgid "Tencent Games Box"
+msgid "Shop Chest (Tencent Games)"
 msgstr "Набір Tencent Games"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
-msgid "Currency Box"
+msgid "Shop Chest (Currency)"
 msgstr "Набір валюти"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
-msgid "Steam Box DLC"
+msgid "Shop Chest (Steam DLC)"
 msgstr "Набір Steam DLC"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
