@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-07-22 13:27-0300\n"
+"PO-Revision-Date: 2021-09-22 15:51-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -407,15 +407,15 @@ msgstr "O serviço de terceiros que usamos para gerenciar sua assinatura de bole
 
 #. i18n: keyword: LinkDiscordTitle
 msgid "Link Discord Account"
-msgstr ""
+msgstr "Vincular à Conta Discord"
 
 #. i18n: keyword: LinkDiscordDescription
 msgid "This will link your Discord Account to your Klei Account."
-msgstr ""
+msgstr "Isso vinculará sua conta Discord à sua conta Klei."
 
 #. i18n: keyword: UnlinkDiscordTitle
 msgid "Unlink Discord Account"
-msgstr ""
+msgstr "Desvincular Conta Discord"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
