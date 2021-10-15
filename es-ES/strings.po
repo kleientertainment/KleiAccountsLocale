@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-07-24 03:24\n"
+"PO-Revision-Date: 2021-10-15 08:17-0700\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Spanish (https://accounts.klei.com/community-translations)\n"
 "Language: es\n"
@@ -427,7 +427,7 @@ msgstr "Este proceso permitirá que una cuenta de Klei sea asociada a multiples 
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
-msgstr "Por favor, haz clic en la casilla para confirmar que haz leido y entendido lo siguiente"
+msgstr "Por favor, haz clic en la casilla para confirmar que haz leido y entendido lo siguiente."
 
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
@@ -495,7 +495,7 @@ msgstr "Consentimiento de usuario invalido, necesitas leer las instrucciones par
 
 #. i18n: keyword: E_ACCOUNT_MERGE_MISSING_DATA
 msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
-msgstr "Es imposible fusionar tus cuentas ahora porque faltan algunos datos. Por favor cierra sesión y comienza el proceso de nuevo. Asegurate de que tu navegador acepta cookies y de que las dos cuentas que vas a fusionar sean correctas. "
+msgstr "Es imposible fusionar tus cuentas ahora porque faltan algunos datos. Por favor cierra sesión y comienza el proceso de nuevo. Asegúrate de que tu navegador acepta cookies y de que las dos cuentas que vas a fusionar sean correctas."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
@@ -503,11 +503,11 @@ msgstr "Por favor actualiza tus cuentas de *Klei* para usar el mismo correo y co
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the e-mail address in both accounts and start the process again."
-msgstr "Por favor verifica/valida que la dirección de correo electronico en ambas cuentas y comienza el proceso de nuevo"
+msgstr "Por favor verifica/valida la dirección de correo electrónico en ambas cuentas y comienza el proceso de nuevo."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
-msgstr "No podemos fusionar tus cuentas porque una de ellas está suspendida"
+msgstr "No podemos fusionar tus cuentas porque una de ellas está suspendida."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PASSWORD_RESET
 msgid "It appears your password was reset some time ago but you never finished the verification process."
@@ -515,11 +515,11 @@ msgstr "Parece que tu contraseña fue restableecida hace un tiempo pero tu nunca
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_MARKED_FOR_DELETION
 msgid "We cannot merge your accounts because one of them is marked for deletion."
-msgstr "No podemos fusionar tus cuentas porque una de ellas está marcada para eliminarse"
+msgstr "No podemos fusionar tus cuentas porque una de ellas está marcada para eliminarse."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_NOTHING_TO_MERGE
 msgid "There is nothing to merge for this account."
-msgstr "No hay nada que unir en esta cuenta"
+msgstr "No hay nada para unificar en esta cuenta."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
@@ -647,7 +647,7 @@ msgstr "Por favor escriba “delete my account” en letras mayúsculas, para co
 
 #. i18n: keyword: DeleteAccountReason
 msgid "Please explain the reason for the account deletion:"
-msgstr "Por favor explica la razón para la eliminación de la cuenta."
+msgstr "Por favor explica la razón para la eliminación de la cuenta:"
 
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
@@ -683,7 +683,7 @@ msgstr "Podemos organizar un informe de los detalles de tu cuenta controlados po
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
-msgstr "Parece que ya has descargado tus datos hace menos de 24 horas.<br><br>Por favor espera hasta mañana para descargar otra copia de tus datos.<br><br>"
+msgstr "Parece que ya has descargado tus datos hace menos de 24 horas.<br><br>Por favor espera hasta mañana para descargar otra copia de tus datos.<br><br>Nosotros apreciamos tu paciencia."
 
 #. i18n: keyword: DownloadData
 msgid "Download Data"
@@ -727,7 +727,7 @@ msgstr "Usted puede obtener una copia de este juego libre de DRM (Gestión de De
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
-msgstr "Error: No pareces tener ningun juego elegible"
+msgstr "Error: Tu no pareces tener juegos elegibles."
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
@@ -871,11 +871,11 @@ msgstr "Tu inventario de objetos"
 
 #. i18n: keyword: ItemsDialogRarity
 msgid "Rarity:"
-msgstr "Rareza"
+msgstr "Rareza:"
 
 #. i18n: keyword: ItemsDialogRedeemed
 msgid "Redeemed:"
-msgstr "Canjeado"
+msgstr "Canjeado:"
 
 #. i18n: keyword: ItemsFilterRarity
 msgid "Rarity"
@@ -1367,7 +1367,7 @@ msgstr "La sesión ha expirado, debes iniciar sesión nuevamente. <b>¿Estás us
 
 #. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
 msgid "The Steam service is unavailable."
-msgstr "El servicio de Steam no está disponible"
+msgstr "El servicio de Steam no está disponible."
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
@@ -1579,7 +1579,7 @@ msgstr "Los servidores de Steam están actualmente desconectados."
 
 #. i18n: keyword: E_STEAM_INVALID_RETURN_TO
 msgid "Steam redirected you to the incorrect URL, we cannot validate your credentials here. Please clear your web browser cache and cookies, and try to login one more time. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Steam te ha redirigido a un URL incorrecto, no podemos validar tus credenciales aquí. Porf favor borra el cache y cookies de tu navegador, e intenta iniciar sesión una vez mas. Si necesitas asistencia por favor <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contacta a soporte</a>"
+msgstr "Steam te ha redirigido a una página incorrecta, no podemos validar tus credenciales aquí. Por favor borra el cache y cookies de tu navegador, e intenta iniciar sesión una vez mas. Si necesitas asistencia por favor <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contacta a soporte</a>."
 
 #. i18n: keyword: E_STEAM_PLAYER_SUMMARY_FORBIDDEN
 msgid "Steam prevented us from showing your profile information."
@@ -1619,7 +1619,7 @@ msgstr "El sitio web anterior nos envió datos invalidos. La firma de la solicit
 
 #. i18n: keyword: E_OPENID_ACCESS_DENIED
 msgid "Steam denied your login attempt. Steam servers may be offline, which usually causes problems with Klei Entertainment and Steam's communication bridge. Please, wait a couple of minutes and try again. If the problem persists, feel free to send a message to our <a href='https://support.klei.com/'>support team</a>."
-msgstr "Steam ha denegado tu intento de inicio de sesión. Los servidores de Steam pueden estar offline, lo cual usualmente causa problemas con el puente de comuncación de Klei Entertainment y Steam. Por favor, espera unos minutos e intenta de nuevo. Si el problema persiste, sientente libre de enviarnos un mensaje a nuestro <a href='https://support.klei.com/'>equipo de soporte</a>. "
+msgstr "Steam ha denegado tu intento de inicio de sesión. Los servidores de Steam pueden estar fuera de línea, lo cual usualmente causa problemas con el puente de comunicación de Klei Entertainment y Steam. Por favor, espera unos minutos e intenta de nuevo. Si el problema persiste, siéntente libre de enviar un mensaje a nuestro <a href='https://support.klei.com/'>equipo de soporte</a>."
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
@@ -1639,7 +1639,7 @@ msgstr "El ticket de Tencent Games es invalido. El cliente del juego no proporci
 
 #. i18n: keyword: E_RAIL_EXPIRED_TOKEN
 msgid "The access token has expired. Tencent is asking you to start the process again."
-msgstr "El token de acceso ha expirado. Tencent está pidiendo que empieces el proceso de nuevo"
+msgstr "El token de acceso ha expirado. Tencent está pidiendo que empieces el proceso de nuevo."
 
 #. i18n: keyword: E_RAIL_GATEWAY_TIMEOUT
 msgid "Tencent’s user authentication service is not available right now. Please <a href='/login'>try again</a> in a few minutes."
@@ -1683,7 +1683,7 @@ msgstr "El código de verificación es inválido."
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
-msgstr "El proveedor de autorización no fue detectado. Por favor verifica si tu navegador acepta cookies de este sitio, después de eso ve a la página de “Inicio de Sesión” e intenta una vez mas. "
+msgstr "El proveedor de autorización no fue detectado. Por favor verifica si tu navegador acepta cookies de este sitio, después de eso ve a la página de “Inicio de Sesión” e intenta una vez mas."
 
 #. i18n: keyword: E_CLIENT_TOKEN_HAS_EXPIRED
 msgid "Client login token has expired."
@@ -1723,7 +1723,7 @@ msgstr "Un error inesperado ha ocurrido en Facebook. Por favor reintenta tu soli
 
 #. i18n: keyword: E_FACEBOOK_CHECKPOINT_BLOCK
 msgid "Facebook stopped the process because there is an error validating access token: The user is enrolled in a blocking, logged-in checkpoint."
-msgstr "Facebook detuvo el proceso debido a que hay un error validando el token de acceso: El usuario está inscrito en un punto de control de bloqueo e inicio de sesión. "
+msgstr "Facebook detuvo el proceso debido a que hay un error validando el token de acceso: El usuario está inscrito en un punto de control de bloqueo e inicio de sesión."
 
 #. i18n: keyword: E_EPIC_GAMES_EXPIRED_TOKEN
 msgid "Unfortunately, the token we use to communicate with Epic Games has expired. You will need to login again to allow the system to get a new token."
@@ -1791,7 +1791,7 @@ msgstr "Cantidad de Puntos Actuales"
 
 #. i18n: keyword: NewBalance
 msgid "New Balance:"
-msgstr "Nueva Cantidad"
+msgstr "Nuevo Balance:"
 
 #. i18n: keyword: TXN_NOT_SUPPORTED
 msgid "Transaction Not Supported"
@@ -1927,11 +1927,11 @@ msgstr "El archivo que has seleccionado no está permitido. Por favor seleccione
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_SIZE
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
-msgstr "El archivo que has seleccionado es muy grande. Por favor reduce el peso para poder subirlo"
+msgstr "El archivo que has seleccionado es muy grande. Por favor reduce el peso para poder subirlo."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
-msgstr "Desafortunadamente, no puedes participar en el evento de Halloween si no estás de acuerdo con las reglas del evento"
+msgstr "Desafortunadamente, no puedes participar en el evento de Halloween si no estás de acuerdo con las reglas del evento."
 
 #. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
