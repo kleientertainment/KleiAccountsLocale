@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-10-15 08:17-0700\n"
+"PO-Revision-Date: 2021-10-15 08:23-0700\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Spanish (https://accounts.klei.com/community-translations)\n"
 "Language: es\n"
@@ -407,15 +407,15 @@ msgstr "El servicio de terceros que usamos para gestionar tu suscripción al bol
 
 #. i18n: keyword: LinkDiscordTitle
 msgid "Link Discord Account"
-msgstr ""
+msgstr "Vincular Cuenta de Discord"
 
 #. i18n: keyword: LinkDiscordDescription
 msgid "This will link your Discord Account to your Klei Account."
-msgstr ""
+msgstr "Esto vinculará tu cuenta de Discord a tu cuenta de Klei."
 
 #. i18n: keyword: UnlinkDiscordTitle
 msgid "Unlink Discord Account"
-msgstr ""
+msgstr "Desvincular Cuenta de Discord"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -883,19 +883,19 @@ msgstr "Rareza"
 
 #. i18n: keyword: RollbackDialogConfirmation
 msgid "Are you sure you want to rollback this transaction?"
-msgstr ""
+msgstr "¿Estás seguro de querer revertir esta transacción?"
 
 #. i18n: keyword: RollbackDialogNotEnoughCurrency
 msgid "You don't have enough currency for this rollback! You need another"
-msgstr ""
+msgstr "¡Tu no tienes suficiente dinero para esta reversión! Necesitas otro"
 
 #. i18n: keyword: RollbackGain
 msgid "You will gain"
-msgstr ""
+msgstr "Tu obtendrás"
 
 #. i18n: keyword: RollbackLose
 msgid "You will lose"
-msgstr ""
+msgstr "Tu perderás"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -903,11 +903,11 @@ msgstr "Descargar Configuración"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
-msgstr ""
+msgstr "Prueba de Proyectos Futuros"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr ""
+msgstr "Tu puedes registrarte para probar proyectos en modo Alpha y Beta en los que estés interesado. Tu vas a recibir un correo electrónico si eres aceptado en un grupo de prueba."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -1051,7 +1051,7 @@ msgstr "Suscríbete a nuestro boletín de noticias"
 
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
-msgstr ""
+msgstr "Código Redimible"
 
 #. i18n: keyword: RewardMessageFacebook
 msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
@@ -1099,7 +1099,7 @@ msgstr "Canjeo de Regalos"
 
 #. i18n: keyword: GiftRedemptionDescription
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
-msgstr ""
+msgstr "Hola! Tal parece que tu tienes una llave o código de regalo, te gustaría redimirlo ahora? Escribe el código en el formulario de abajo y nosotros te entregaremos un artículo de regalo más rápido de lo que puedes parpadear <em>&mdash;a menos que puedas parpadear muy rápido, en cuyo caso deberías cerrar los ojos por unos milisegundos&mdash;</em>"
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
@@ -1331,7 +1331,7 @@ msgstr "El juego no existe."
 
 #. i18n: keyword: E_REWARD_REPLAYED
 msgid "This reward has already been claimed, your balances have been updated!"
-msgstr ""
+msgstr "Esta recompensa ya ha sido reclamada, ¡tus saldos han sido actualizados!"
 
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
@@ -1595,7 +1595,7 @@ msgstr "Los servidores de Steam no están disponibles en este momento."
 
 #. i18n: keyword: E_STEAM_E502_L3
 msgid "Steam servers are unavailable at the moment. This usually happens during the first and second hours after a big sale. Please, contact the Steam customer support team for further assistance."
-msgstr ""
+msgstr "Los servidores de Steam no están disponibles en este momento. Esto suele suceder durante la primera y segunda hora después de una gran venta. Comuníquese con el equipo de atención al cliente de Steam para obtener más ayuda."
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
 msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
@@ -1747,11 +1747,11 @@ msgstr "Lo sentimos, pero esta recompensa ya no está activa. Síganos en las re
 
 #. i18n: keyword: E_DOUBLE_ROLLBACK
 msgid "This transaction has already been rolled back."
-msgstr ""
+msgstr "Esta transacción ya se ha revertida."
 
 #. i18n: keyword: E_UNSUPPORTED_FOR_ROLLBACK
 msgid "This transaction cannot be rolled back."
-msgstr ""
+msgstr "Esta transacción no se puede revertir."
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
@@ -1779,7 +1779,7 @@ msgstr "No hay transacciones."
 
 #. i18n: keyword: TransactionRollback
 msgid "Rollback"
-msgstr ""
+msgstr "Revertir"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -1847,7 +1847,7 @@ msgstr "Compra de Mercado"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
-msgstr ""
+msgstr "Reversión de Mercado"
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
@@ -1895,11 +1895,11 @@ msgstr "Caja DLC de Steam"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
-msgstr ""
+msgstr "Cambio de Moneda"
 
 #. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
 msgid "Consume Redeemable Code"
-msgstr ""
+msgstr "Consumo de Código Canjeable"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
