@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-10-15 08:23-0700\n"
+"PO-Revision-Date: 2021-10-15 08:26-0700\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Spanish (https://accounts.klei.com/community-translations)\n"
 "Language: es\n"
@@ -75,7 +75,7 @@ msgstr "Juegos"
 
 #. i18n: keyword: Betas
 msgid "Betas"
-msgstr ""
+msgstr "Betas"
 
 #. i18n: keyword: Language
 msgid "Language"
@@ -839,7 +839,7 @@ msgstr "Estilo de Juego del Servidor"
 
 #. i18n: keyword: ConfigureServerPlaystyleSocial
 msgid "Social"
-msgstr ""
+msgstr "Social"
 
 #. i18n: keyword: ConfigureServerPlaystyleCooperative
 msgid "Cooperative"
@@ -995,19 +995,19 @@ msgstr "<b>Bolts de Ropa</b> - (Solamente en Consola) Es una moneda dentro del j
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
-msgstr ""
+msgstr "pts"
 
 #. i18n: keyword: RewardBoltsAbbreviation
 msgid "bolts"
-msgstr ""
+msgstr "bolts"
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
-msgstr ""
+msgstr "spools"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
-msgstr ""
+msgstr "min"
 
 #. i18n: keyword: RewardBalance
 msgid "Current Balance"
@@ -1135,23 +1135,23 @@ msgstr "El token usado para reclamar el código de regalo tiene un propósito di
 
 #. i18n: keyword: Facebook
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. i18n: keyword: Instagram
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #. i18n: keyword: Twitch
 msgid "Twitch"
-msgstr ""
+msgstr "Twitch"
 
 #. i18n: keyword: Douyu
 msgid "Douyu"
-msgstr ""
+msgstr "Douyu"
 
 #. i18n: keyword: Bilibili
 msgid "Bilibili"
-msgstr ""
+msgstr "Bilibili"
 
 #. i18n: keyword: SupportTitle
 msgid "Submit a Support Request"
@@ -1239,7 +1239,7 @@ msgstr "Correo electrónico no válido. Comprueba que la dirección de correo qu
 
 #. i18n: keyword: Error
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #. i18n: keyword: NewAccount
 msgid "Create A New Account"
@@ -1295,7 +1295,7 @@ msgstr "Al registrarte, aceptas nuestra <a href='https://www.kleientertainment.c
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
-msgstr ""
+msgstr "Klei Entertainment"
 
 #. i18n: keyword: ErrorURLMalformed
 msgid "The URL you used to arrive here is malformed and missing required parameters."
