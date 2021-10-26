@@ -1945,6 +1945,14 @@ msgstr "感谢您的提交。遗憾的是，您似乎已经达到了这次活动
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
 msgstr "谢您的提交。遗憾的是，我们将内容限制在了80个字符以内。请使用更短的消息再试一次。"
 
+#. i18n: keyword: E_HALLOWEEN_USER_BANNED
+msgid "Your previous submission has been banned and you are not allowed to make another submission."
+msgstr ""
+
+#. i18n: keyword: HalloweenConfirmResubmission
+msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
+msgstr ""
+
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
 msgstr "查看最终用户许可协议和服务条款。"
