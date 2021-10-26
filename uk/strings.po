@@ -1945,6 +1945,14 @@ msgstr "Дякуємо за заявку. На жаль, здається, до�
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
 msgstr "Дякуємо за подання заявки та повідомлення. На жаль, нам потрібно застосувати обмеження у вісімдесят (80) символів. Будь ласка, зробіть повідомлення коротшим та повторіть спробу."
 
+#. i18n: keyword: E_HALLOWEEN_USER_BANNED
+msgid "Your previous submission has been banned and you are not allowed to make another submission."
+msgstr ""
+
+#. i18n: keyword: HalloweenConfirmResubmission
+msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
+msgstr ""
+
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
 msgstr "Ознайомтесь з ліцензійною угодою та умовами обслуговування"
