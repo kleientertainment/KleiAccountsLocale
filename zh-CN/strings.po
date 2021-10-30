@@ -1929,6 +1929,10 @@ msgstr "您选择的文件格式不受支持。请选择一个JPEG、GIF或者PN
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
 msgstr "您选择的文件过大。请减少文件的大小再上传。"
 
+#. i18n: keyword: E_FILE_SIZE_ZERO
+msgid "The file you selected has a size of zero bytes. Please try again with a different file."
+msgstr ""
+
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
 msgstr "很遗憾，如果您不同意活动规则，您将无法参加万圣节活动。"

@@ -1929,6 +1929,10 @@ msgstr "O arquivo que você selecionou não é permitido. Selecione um arquivo J
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
 msgstr "O arquivo selecionado é muito grande. Reduza o tamanho para prosseguir com o upload."
 
+#. i18n: keyword: E_FILE_SIZE_ZERO
+msgid "The file you selected has a size of zero bytes. Please try again with a different file."
+msgstr ""
+
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
 msgstr "Infelizmente, você não poderá participar do evento de Halloween se não concordar com as regras do evento."
