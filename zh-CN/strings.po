@@ -1931,7 +1931,7 @@ msgstr "您选择的文件过大。请减少文件的大小再上传。"
 
 #. i18n: keyword: E_FILE_SIZE_ZERO
 msgid "The file you selected has a size of zero bytes. Please try again with a different file."
-msgstr ""
+msgstr "您选择的文件大小为0字节。请选择其他文件并重试。"
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
@@ -1951,11 +1951,11 @@ msgstr "谢您的提交。遗憾的是，我们将内容限制在了80个字符�
 
 #. i18n: keyword: E_HALLOWEEN_USER_BANNED
 msgid "Your previous submission has been banned and you are not allowed to make another submission."
-msgstr ""
+msgstr "您先前的提交已被封禁。您已被禁止再次进行提交。"
 
 #. i18n: keyword: HalloweenConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
-msgstr ""
+msgstr "您已经提交了一份图片。您确定要覆盖您的上一次提交吗？"
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
