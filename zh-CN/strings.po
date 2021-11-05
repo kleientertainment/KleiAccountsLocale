@@ -1947,7 +1947,7 @@ msgstr "感谢您的提交。遗憾的是，您似乎已经达到了这次活动
 
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
-msgstr "谢您的提交。遗憾的是，我们将内容限制在了80个字符以内。请使用更短的消息再试一次。"
+msgstr "感谢您的提交。遗憾的是，我们将内容限制在了80个字符以内。请使用更短的消息再试一次。"
 
 #. i18n: keyword: E_HALLOWEEN_USER_BANNED
 msgid "Your previous submission has been banned and you are not allowed to make another submission."
