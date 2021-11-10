@@ -1937,24 +1937,56 @@ msgstr ""
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
 msgstr "Ne yazık ki etkinlik kurallarını kabul etmiyorsanız Cadılar Bayramı etkinliğine katılamazsınız."
 
-#. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
+#. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_RULES
+msgid "Unfortunately, you can not participate in the event if you do not agree with the event rules."
+msgstr ""
+
+#. i18n: keyword: E_FANART_EVENT_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
 msgstr "Bir yönetici, gönderimlerinizden birini zaten onayladı. Çok yakında bir ödül alacaksınız. Birkaç saat sonra herhangi bir şey almadıysanız, lütfen <a href='/account/transactions'> işlemler sayfasını </a> ziyaret edin ve gerekirse destekle iletişim kurun."
 
-#. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
+#. i18n: keyword: E_FANART_EVENT_REACHED_USER_SUBMISSIONS_LIMIT
 msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
 msgstr "Gönderim için teşekkürler. Maalesef, bu etkinlik için sınıra ulaşmış görünüyorsunuz. Lütfen başka bir istek göndermeden önce diğer taleplerin onaylanmasını veya reddedilmesini bekleyin."
 
-#. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
+#. i18n: keyword: E_FANART_EVENT_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
 msgstr "Gönderim ve mesaj için teşekkürler. Maalesef seksen (80) karakterlik bir sınır uygulamamız gerekiyor. Lütfen daha kısa bir mesajla bir kez daha deneyin."
 
-#. i18n: keyword: E_HALLOWEEN_USER_BANNED
+#. i18n: keyword: E_FANART_EVENT_USER_BANNED
 msgid "Your previous submission has been banned and you are not allowed to make another submission."
 msgstr ""
 
-#. i18n: keyword: HalloweenConfirmResubmission
+#. i18n: keyword: FanartEventConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
+msgstr ""
+
+#. i18n: keyword: FanartEventSubmissionID
+msgid "Submission ID"
+msgstr ""
+
+#. i18n: keyword: FanartEventSubmissionStatus
+msgid "Submission status"
+msgstr ""
+
+#. i18n: keyword: FanartEventSubmissionStatusApproved
+msgid "Approved"
+msgstr ""
+
+#. i18n: keyword: FanartEventSubmissionStatusRejected
+msgid "Rejected"
+msgstr ""
+
+#. i18n: keyword: FanartEventSubmissionStatusUnderReview
+msgid "Under review"
+msgstr ""
+
+#. i18n: keyword: FanartEventSubmissionStatusBanned
+msgid "Banned"
+msgstr ""
+
+#. i18n: keyword: FanartEventRewardsGranted
+msgid "Your submission has been approved and your rewards have been granted. You can view your rewards on the <a href='/account/transactions'>transactions page</a>."
 msgstr ""
 
 #. i18n: keyword: ReviewEULATitle
