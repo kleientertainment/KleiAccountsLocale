@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-09-22 15:51-0300\n"
+"PO-Revision-Date: 2021-11-18 21:32-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
+"X-Generator: Poedit 3.0\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -1135,23 +1136,23 @@ msgstr "O token usado para resgatar o código de presente tem um propósito dife
 
 #. i18n: keyword: Facebook
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. i18n: keyword: Instagram
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #. i18n: keyword: Twitch
 msgid "Twitch"
-msgstr ""
+msgstr "Twitch"
 
 #. i18n: keyword: Douyu
 msgid "Douyu"
-msgstr ""
+msgstr "Douyu"
 
 #. i18n: keyword: Bilibili
 msgid "Bilibili"
-msgstr ""
+msgstr "Bilibili"
 
 #. i18n: keyword: SupportTitle
 msgid "Submit a Support Request"
@@ -1931,7 +1932,7 @@ msgstr "O arquivo selecionado é muito grande. Reduza o tamanho para prosseguir 
 
 #. i18n: keyword: E_FILE_SIZE_ZERO
 msgid "The file you selected has a size of zero bytes. Please try again with a different file."
-msgstr ""
+msgstr "O arquivo selecionado tem zero bytes de tamanho. Por favor tente novamente com um arquivo diferente."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
@@ -1951,11 +1952,11 @@ msgstr "Obrigado pelo envio e pela mensagem. Infelizmente, precisamos impor um l
 
 #. i18n: keyword: E_HALLOWEEN_USER_BANNED
 msgid "Your previous submission has been banned and you are not allowed to make another submission."
-msgstr ""
+msgstr "Seu envio anterior foi banido e você não tem permissão para fazer outro envio."
 
 #. i18n: keyword: HalloweenConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
-msgstr ""
+msgstr "Você já enviou uma imagem. Você tem certeza que quer substituir seu envio anterior?"
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
