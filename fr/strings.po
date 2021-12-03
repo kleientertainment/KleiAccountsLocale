@@ -1901,6 +1901,14 @@ msgstr "Echange de devise"
 msgid "Consume Redeemable Code"
 msgstr "Consommer le code échangeable"
 
+#. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
+msgid "Klei Support Issued Currency"
+msgstr ""
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
+msgid "Klei Support Issued Item"
+msgstr ""
+
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "Commercialisable"
