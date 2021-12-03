@@ -16,7 +16,6 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
-"X-Generator: Poedit 3.0\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -1901,6 +1900,14 @@ msgstr "Câmbio Monetário"
 #. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
 msgid "Consume Redeemable Code"
 msgstr "Gastar Código Resgatável"
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
+msgid "Klei Support Issued Currency"
+msgstr ""
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
+msgid "Klei Support Issued Item"
+msgstr ""
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
