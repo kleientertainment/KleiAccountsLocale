@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-11-18 21:32-0300\n"
+"PO-Revision-Date: 2021-12-04 20:27-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
+"X-Generator: Poedit 3.0\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -1903,11 +1904,11 @@ msgstr "Gastar Código Resgatável"
 
 #. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
 msgid "Klei Support Issued Currency"
-msgstr ""
+msgstr "Moeda Emitida pelo Suporte da Klei"
 
 #. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
 msgid "Klei Support Issued Item"
-msgstr ""
+msgstr "Item Emitido pelo Suporte da Klei"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
