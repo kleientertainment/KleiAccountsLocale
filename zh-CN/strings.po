@@ -1903,11 +1903,11 @@ msgstr "使用兑换码"
 
 #. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
 msgid "Klei Support Issued Currency"
-msgstr ""
+msgstr "Klei支持颁发的货币"
 
 #. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
 msgid "Klei Support Issued Item"
-msgstr ""
+msgstr "Klei支持颁发的物品"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
