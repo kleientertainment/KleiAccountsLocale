@@ -83,7 +83,7 @@ msgstr "语言"
 
 #. i18n: keyword: Support
 msgid "Support"
-msgstr "技术支援"
+msgstr "技术支持"
 
 #. i18n: keyword: VisitYourProfile
 msgid "Visit your Profile"
@@ -323,7 +323,7 @@ msgstr "找不到用户"
 
 #. i18n: keyword: LinkedAccounts
 msgid "Linked Accounts"
-msgstr "已连接账户"
+msgstr "已绑定账户"
 
 #. i18n: keyword: LinkAccountButton
 msgid "Link Account"
@@ -339,7 +339,7 @@ msgstr "Twitch直播规则"
 
 #. i18n: keyword: AccountLinkRulesDescription
 msgid "Klei Rewards are intended to be a way to support streamers that provide quality content for our community, and “Away From Keyboard (AFK)” streams disrupt the effectiveness of the system. AFK streams or streams showing content other than Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these rules will be unlinked and potentially banned from participating ever again."
-msgstr "Klei掉落是为了支持为我们的社区提供高质量内容的主播们。挂机直播会破坏系统的有效性，所以挂机直播和直播关于《饥荒》或者《饥荒：联机版》以外的内容是不被允许的。违反这些规则的主播会被取消联解并会被禁止参与Klei的Klei掉落程序。"
+msgstr "Klei奖励是为了支持为我们的社区提供高质量内容的主播们。挂机直播会破坏系统的有效性，所以挂机直播和直播关于《饥荒》或者《饥荒：联机版》以外的内容是不被允许的。违反这些规则的主播会被取消联解并会被禁止参与Klei的Klei奖励程序。"
 
 #. i18n: keyword: AccountLinkRulesAccept
 msgid "Accept and Continue"
@@ -387,7 +387,7 @@ msgstr "我不想收到任何推送邮件"
 
 #. i18n: keyword: MarketingOptionsSubscribe
 msgid "I want to receive marketing emails (news, new games, promos, etc)"
-msgstr "我想要收到推送邮件（新咨询、新游戏、促销消息等）"
+msgstr "我想要收到推送邮件（新资讯、新游戏、促销消息等）"
 
 #. i18n: keyword: MarketingOptionsDetails
 msgid "For more detailed information about each game, please select the boxes below:"
@@ -439,7 +439,7 @@ msgstr "确认"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "请输入 大写的“merge accounts” 以确认："
+msgstr "请输入大写的“merge accounts” 以确认："
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"
