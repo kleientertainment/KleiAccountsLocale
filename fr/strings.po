@@ -1781,6 +1781,14 @@ msgstr "Il n'y a pas d'opérations."
 msgid "Rollback"
 msgstr "Annuler"
 
+#. i18n: keyword: GiftingEventWeek
+msgid "Week"
+msgstr ""
+
+#. i18n: keyword: GiftingEventGift
+msgid "Gift"
+msgstr ""
+
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
 msgstr "Solde actuel des Bobines"
