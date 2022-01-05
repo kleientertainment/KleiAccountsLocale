@@ -405,6 +405,18 @@ msgstr "Ваша підписка на розсилку заархівована
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
 msgstr "Сторонній сервіс, який ми використовуємо для управління підпискою на розсилку, має проблеми з обробкою наших запитів. Будь-ласка спробуйте пізніше."
 
+#. i18n: keyword: LinkDiscordTitle
+msgid "Link Discord Account"
+msgstr ""
+
+#. i18n: keyword: LinkDiscordDescription
+msgid "This will link your Discord Account to your Klei Account."
+msgstr ""
+
+#. i18n: keyword: UnlinkDiscordTitle
+msgid "Unlink Discord Account"
+msgstr ""
+
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
 msgstr "Об’єднати акаунти"
@@ -1769,6 +1781,14 @@ msgstr "Транзакцій немає."
 msgid "Rollback"
 msgstr ""
 
+#. i18n: keyword: GiftingEventWeek
+msgid "Week"
+msgstr ""
+
+#. i18n: keyword: GiftingEventGift
+msgid "Gift"
+msgstr ""
+
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
 msgstr "Поточний баланс котушок"
@@ -1866,19 +1886,19 @@ msgid "Weekly Gift Item"
 msgstr "Щотижневий подарунок"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
-msgid "Steam Box"
+msgid "Shop Chest (Steam)"
 msgstr "Набір Steam"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
-msgid "Tencent Games Box"
+msgid "Shop Chest (Tencent Games)"
 msgstr "Набір Tencent Games"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
-msgid "Currency Box"
+msgid "Shop Chest (Currency)"
 msgstr "Набір валюти"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
-msgid "Steam Box DLC"
+msgid "Shop Chest (Steam DLC)"
 msgstr "Набір Steam DLC"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
@@ -1887,6 +1907,14 @@ msgstr "Обмін валюти"
 
 #. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
 msgid "Consume Redeemable Code"
+msgstr ""
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
+msgid "Klei Support Issued Currency"
+msgstr ""
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
+msgid "Klei Support Issued Item"
 msgstr ""
 
 #. i18n: keyword: Marketable
@@ -1917,6 +1945,10 @@ msgstr "Вибраний файл не допускається. Виберіт�
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
 msgstr "Вибраний файл завеликий. Будь ласка, зменште його розмір, щоб продовжити завантаження."
 
+#. i18n: keyword: E_FILE_SIZE_ZERO
+msgid "The file you selected has a size of zero bytes. Please try again with a different file."
+msgstr ""
+
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
 msgstr "На жаль, ви не можете взяти участь у Хелловінському заході, якщо ви не згодні з правилами заходу."
@@ -1932,6 +1964,14 @@ msgstr "Дякуємо за заявку. На жаль, здається, до�
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
 msgstr "Дякуємо за подання заявки та повідомлення. На жаль, нам потрібно застосувати обмеження у вісімдесят (80) символів. Будь ласка, зробіть повідомлення коротшим та повторіть спробу."
+
+#. i18n: keyword: E_HALLOWEEN_USER_BANNED
+msgid "Your previous submission has been banned and you are not allowed to make another submission."
+msgstr ""
+
+#. i18n: keyword: HalloweenConfirmResubmission
+msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
+msgstr ""
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
