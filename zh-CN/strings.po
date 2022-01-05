@@ -1781,6 +1781,14 @@ msgstr "没有交易"
 msgid "Rollback"
 msgstr "回滚"
 
+#. i18n: keyword: GiftingEventWeek
+msgid "Week"
+msgstr ""
+
+#. i18n: keyword: GiftingEventGift
+msgid "Gift"
+msgstr ""
+
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
 msgstr "当前线轴余量"
