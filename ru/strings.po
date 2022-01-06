@@ -399,10 +399,22 @@ msgstr "Мы отправили вам электронное письмо дл�
 
 #. i18n: keyword: MarketingOptionsArchived
 msgid "Your newsletter subscription has been archived due to recent changes in your account. We archive newsletter subscriptions when you request deletion of your Klei account or when you make repetitive changes in your marketing options. You can try to subscribe one more time. If this does not work, please contact support."
-msgstr ""
+msgstr "Ваша подписка на рассылку была заархивирована из-за недавних изменений в вашей учётной записи. Мы архивируем подписки на рассылки, если вы запрашиваете удаление учётной записи Klei или если вы делаете изменения в настройках маркетинговой рассылки. Вы можете попробовать подписаться ещё раз. Если это не помогло, обратитесь в службу поддержки."
 
 #. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
+msgstr "У сторонней службы, которую мы используем для управления подпиской на рассылку, возникли проблемы с обработкой нашего запроса. Пожалуйста, повторите попытку позже."
+
+#. i18n: keyword: LinkDiscordTitle
+msgid "Link Discord Account"
+msgstr ""
+
+#. i18n: keyword: LinkDiscordDescription
+msgid "This will link your Discord Account to your Klei Account."
+msgstr ""
+
+#. i18n: keyword: UnlinkDiscordTitle
+msgid "Unlink Discord Account"
 msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
@@ -571,15 +583,15 @@ msgstr "Удалить аккаунт"
 
 #. i18n: keyword: UnlinkThis
 msgid "Unlink"
-msgstr ""
+msgstr "Отвязать"
 
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
-msgstr ""
+msgstr "Вы уверены, что хотите отвязать свою"
 
 #. i18n: keyword: UnlinkAccount
 msgid "Unlink Account"
-msgstr ""
+msgstr "Отвязать учётную запись"
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
@@ -591,11 +603,11 @@ msgstr "Вы точно в этом уверены?"
 
 #. i18n: keyword: MustReadAllWarnings
 msgid "Unexpected bad things will happen if you don’t read this!"
-msgstr "Если вы это не прочтете - произойдут непредвиденные обстоятельства!"
+msgstr "Если вы это не прочтёте, произойдут непредвиденные обстоятельства!"
 
 #. i18n: keyword: DeleteAccountExplanation
 msgid "At your request, your <b>Klei account</b> and all personally identifiable information related to your account (excluding financial transactions and information related to abuse) will be submitted to be permanently removed from our system.</p><p><b>Please note: You will not be able to reverse this action, and all data will be completely and irrecoverably removed.</b></p><p><strong>This means you will no longer be able to play any game that requires a Klei Account (Don’t Starve Together and Hot Lava) the {{.PlatformName}} account will be banned permanently, and all records will be destroyed forever including progress, items and entitlements.</strong>"
-msgstr "По вашему запросу, ваша <b>учетная запись Klei</b> и вся личная информация, связанная с вашей учетной записью (исключая финансовые операции и информацию, связанную со злоупотреблениями) будет отправлена на перманентное удаление из нашей системы.</p><p><b>Обратите внимание: вы не сможете отменить это действие, и все данные будут полностью и безвозвратно удалены.</b></p><p><strong>Это означает, что вы больше не сможете играть в любую игру, для которой требуется аккаунт Klei (Don’t Starve Together и Hot Lava) {{.PlatformName}} учетная запись будет заблокирована навсегда, все записи будут уничтожены навсегда, включая прогресс, предметы и права.</strong>"
+msgstr "По вашему запросу, ваша <b>учётная запись Klei</b> и вся личная информация, связанная с вашей учётной записью (исключая финансовые операции и информацию, связанную со злоупотреблениями) будет отправлена на перманентное удаление из нашей системы.</p><p><b>Обратите внимание: вы не сможете отменить это действие, и все данные будут полностью и безвозвратно удалены.</b></p><p><strong>Это означает, что вы больше не сможете играть в любую игру, для которой требуется аккаунт Klei (Don’t Starve Together и Hot Lava) {{.PlatformName}} учетная запись будет заблокирована навсегда, все записи будут уничтожены навсегда, включая прогресс, предметы и права.</strong>"
 
 #. i18n: keyword: DeleteAccountOptions
 msgid "Check the boxes to confirm you understand what is going to happen:"
@@ -611,7 +623,7 @@ msgstr "Удалить все предметы из игрового инвен�
 
 #. i18n: keyword: DeleteAccountOptionsPurchases
 msgid "Delete items from my Steam inventory, including purchased items"
-msgstr "Удалить предметы из моего Steam инвентаря, включая приобретённые"
+msgstr "Удалить предметы из моего инвентаря Steam, включая приобретённые"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayDST
 msgid "I do not want to play Don’t Starve Together anymore"
@@ -623,7 +635,7 @@ msgstr "Я больше не хочу играть в Hot Lava"
 
 #. i18n: keyword: DeleteAccountOptionsBanAccount
 msgid "Ban my {{.PlatformName}} account from playing Klei games for a MINIMUM of 30 days"
-msgstr "Запретить моей {{.PlatformName}} учетной записи играть в игры Klei на МИНИМУМ 30 дней"
+msgstr "Запретить моей учётной записи {{.PlatformName}} играть в игры Klei на МИНИМУМ 30 дней"
 
 #. i18n: keyword: DeleteAccountConfirm
 msgid "Confirm Deletion"
@@ -635,7 +647,7 @@ msgstr "Пожалуйста, введите «delete my account» полнос�
 
 #. i18n: keyword: DeleteAccountReason
 msgid "Please explain the reason for the account deletion:"
-msgstr ""
+msgstr "Пожалуйста, опишите причину удаления аккаунта:"
 
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
@@ -647,7 +659,7 @@ msgstr "Подтвердите удаление вашего аккаунта"
 
 #. i18n: keyword: VerifyAccountDeletionDescription
 msgid "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.PlatformName}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.PlatformName}} account to prevent this from happening again."
-msgstr "Мы отправили вам по электронной почте код подтверждения для удаления вашей учетной записи. Пожалуйста, скопируйте код и вставьте его в форму ниже.</p><p>Если вы не получили проверочный код, нажмите «Отмена». Убедитесь, что ваш адрес электронной почты правильный и начните сначала.</p><p>Если вы не запрашивали удаление своей учетной записи, значит кто-то другой, имеющий доступ к вашей {{.PlatformName}} учетной записи, сделал это от вашего имени. Нажмите «Отмена», чтобы полностью остановить процесс, а затем измените пароль своей {{.PlatformName}} учетной записи, чтобы это не повторилось."
+msgstr "Мы отправили вам по электронной почте код подтверждения для удаления вашей учётной записи. Пожалуйста, скопируйте код и вставьте его в форму ниже.</p><p>Если вы не получили проверочный код, нажмите «Отмена». Убедитесь, что ваш адрес электронной почты правильный и начните сначала.</p><p>Если вы не запрашивали удаление своей учётной записи, значит кто-то другой, имеющий доступ к вашей учётной записи {{.PlatformName}}, сделал это от вашего имени. Нажмите «Отмена», чтобы полностью остановить процесс, а затем измените пароль своей учётной записи {{.PlatformName}}, чтобы это не повторилось."
 
 #. i18n: keyword: VerifyAccountDeletionCode
 msgid "Verification Code"
@@ -663,23 +675,23 @@ msgstr "Отмена"
 
 #. i18n: keyword: ExportData
 msgid "Export Data"
-msgstr ""
+msgstr "Экспорт данных"
 
 #. i18n: keyword: ExportDataShortDescription
 msgid "We can arrange for a report of your account details as controlled by Klei."
-msgstr ""
+msgstr "Мы можем составить отчёт о данных вашей учётной записи, контролируемой Klei."
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
-msgstr ""
+msgstr "Похоже, вы уже загружали свои данные менее 24 часов назад.<br><br>Пожалуйста, подождите до завтра, чтобы загрузить ещё одну копию своих данных.<br><br>Благодарим вас за терпение."
 
 #. i18n: keyword: DownloadData
 msgid "Download Data"
-msgstr ""
+msgstr "Скачать данные"
 
 #. i18n: keyword: DownloadingData
 msgid "Downloading Data..."
-msgstr ""
+msgstr "Скачивание данных..."
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -871,19 +883,19 @@ msgstr "Качество"
 
 #. i18n: keyword: RollbackDialogConfirmation
 msgid "Are you sure you want to rollback this transaction?"
-msgstr ""
+msgstr "Вы уверены, что хотите отменить эту транзакцию?"
 
 #. i18n: keyword: RollbackDialogNotEnoughCurrency
 msgid "You don't have enough currency for this rollback! You need another"
-msgstr ""
+msgstr "У вас недостаточно валюты для отмены! Вам нужно ещё"
 
 #. i18n: keyword: RollbackGain
 msgid "You will gain"
-msgstr ""
+msgstr "Вы получите"
 
 #. i18n: keyword: RollbackLose
 msgid "You will lose"
-msgstr ""
+msgstr "Вы потеряете"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -963,7 +975,7 @@ msgstr "Успешно получено!"
 
 #. i18n: keyword: PlayerOwnsAnotherItemRarity
 msgid "You already own a different rarity version of this item, are you sure you would like to redeem points for it? Please, visit the <a href='/account/game/inventory?game=DST'>game inventory</a> page for more information."
-msgstr ""
+msgstr "У вас уже есть версия этого предмета с другой редкостью. Вы уверены, что хотите потратить на него свои очки? Посетите страницу <a href='/account/game/inventory?game=DST'>инвентаря предметов</a> для получения дополнительной информации."
 
 #. i18n: keyword: RewardAlternative
 msgid "Alternative"
@@ -971,15 +983,15 @@ msgstr "Альтернатива"
 
 #. i18n: keyword: RewardPointsMeaning
 msgid "<b>Klei Points</b> - Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr ""
+msgstr "<b>Очки Klei</b> используются для получения внутриигровых наград на станице наград Klei."
 
 #. i18n: keyword: RewardSpoolsMeaning
 msgid "<b>Spools</b> - Spools are used to weave items in the Curio Cabinet in-game."
-msgstr ""
+msgstr "<b>Катушки</b> используются для сшивания предметов в меню коллекций в игре."
 
 #. i18n: keyword: RewardBoltsMeaning
 msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>Рулоны ткани</b> доступны только на консолях и используются для покупки скинов и наборов скинов во внутриигровом магазине."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1039,7 +1051,7 @@ msgstr "Подписывайтесь на нашу новостную рассы
 
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
-msgstr ""
+msgstr "Подарочный код"
 
 #. i18n: keyword: RewardMessageFacebook
 msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
@@ -1195,11 +1207,11 @@ msgstr "Вы уже отправили запрос в службу поддер
 
 #. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
 msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
-msgstr ""
+msgstr "Похоже, ваш адрес электронной почты уже использовался для создания идентификатора службы поддержки с другой учётной записью Klei. Мы не можем создавать дублирующиеся учётные записи службы поддержки, поэтому вам нужно будет войти в систему, используя другую учётную запись Klei, чтобы отправить заявку в службу поддержки."
 
 #. i18n: keyword: E_ZENDESK_INVALID_IAT_PARAMETER
 msgid "There was a problem establish a secure connection between Klei Entertainment and Zendesk. These errors are usually temporary, please wait five minutes and try again. If the issue persists, please send us an email instead."
-msgstr ""
+msgstr "Не удалось установить безопасное соединение между Klei Entertainment и Zendesk. Обычно такие ошибки являются временными. Подождите пять минут и повторите попытку. Если проблема не исчезнет, отправьте нам письмо по электронной почте."
 
 #. i18n: keyword: EmailAuthRequired
 msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
@@ -1219,7 +1231,7 @@ msgstr "Ошибка - Дата рождения: поле с датой рож�
 
 #. i18n: keyword: ErrorTooYoung
 msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
-msgstr "Эй там, сорванец. Для регистрации учётной записи тебе должно быть не менее 13 лет."
+msgstr "Полегче, сорванец. Для регистрации учётной записи тебе должно быть не менее 13 лет."
 
 #. i18n: keyword: EmailInvalid
 msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
@@ -1319,7 +1331,7 @@ msgstr "Игра не существует."
 
 #. i18n: keyword: E_REWARD_REPLAYED
 msgid "This reward has already been claimed, your balances have been updated!"
-msgstr ""
+msgstr "Эта награда уже получена, ваш баланс обновлён!"
 
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
@@ -1339,11 +1351,11 @@ msgstr "Адрес электронной почты недействителе�
 
 #. i18n: keyword: E_INVALID_EMAIL_BY_MAILGUN
 msgid "Your e-mail address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different e-mail address."
-msgstr ""
+msgstr "Ваш адрес электронной почты действителен. Однако сторонняя служба, которую мы используем для отправки сообщений, занесла вас в чёрный список, что означает, что мы не сможем отправлять коды подтверждения, новостную рассылку, рекламные акции, объявления и любые другие типы электронных сообщений. Ваша учётная запись Klei останется неподтверждённой, и вы потеряете доступ к некоторым функциям, но вы всё равно сможете играть в наши игры. Чтобы решить эту проблему, вам нужно ввести другой адрес электронной почты."
 
 #. i18n: keyword: E_INVALID_PASSWORD
 msgid "The password provided is invalid."
-msgstr "Предоставленный пароль недействителен."
+msgstr "Введён неверный пароль."
 
 #. i18n: keyword: E_INVALID_SESSION
 msgid "Session has expired, you have to log in once again."
@@ -1355,15 +1367,15 @@ msgstr "Сессия истекла, вы должны войти в систе�
 
 #. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
 msgid "The Steam service is unavailable."
-msgstr ""
+msgstr "Сервис Steam недоступен."
 
 #. i18n: keyword: E_INVALID_STEAM_REQUEST
 msgid "Fail to authenticate your Steam account without an Internet connection."
-msgstr "Не удается аутентифицировать вашу учетную запись Steam без подключения к Интернету."
+msgstr "Не удалось аутентифицировать вашу учётную запись Steam без подключения к Интернету."
 
 #. i18n: keyword: E_INVALID_STEAM_TICKET
 msgid "Fail to authenticate your Steam account. Please try again later."
-msgstr "Не удалось аутентифицировать вашу учетную запись Steam. Пожалуйста, попробуйте позже."
+msgstr "Не удалось аутентифицировать вашу учётную запись Steam. Пожалуйста, попробуйте позже."
 
 #. i18n: keyword: E_INVALID_STEAMID
 msgid "The SteamID is not valid."
@@ -1375,19 +1387,19 @@ msgstr "Дата недействительна."
 
 #. i18n: keyword: E_INVALID_OAUTH_CODE
 msgid "The authorization code is invalid, try again."
-msgstr "Код авторизации недействителен, попробуйте еще раз."
+msgstr "Код авторизации недействителен, попробуйте ещё раз."
 
 #. i18n: keyword: E_INVALID_OAUTH_STATE
 msgid "The authorization state is invalid, try again."
-msgstr "Недопустимое состояние авторизации, попробуйте еще раз."
+msgstr "Недопустимое состояние авторизации, попробуйте ещё раз."
 
 #. i18n: keyword: E_INVALID_OAUTH_TOKEN
 msgid "The OAuth access token is missing, try again."
-msgstr "Токен доступа OAuth отсутствует, попробуйте еще раз."
+msgstr "Токен доступа OAuth отсутствует, попробуйте ещё раз."
 
 #. i18n: keyword: E_KU_NOT_FOUND
 msgid "It was not possible to get a copy of the information associated to your user account."
-msgstr "Не удалось получить копию информации, связанной с вашей учетной записью."
+msgstr "Не удалось получить копию информации, связанной с вашей учётной записью."
 
 #. i18n: keyword: E_INVALID_TOKEN
 msgid "The server token is not valid anymore."
@@ -1403,23 +1415,23 @@ msgstr "Ваша учётная запись была заблокирована
 
 #. i18n: keyword: E_LOGIN_ERROR
 msgid "We cannot validate your credentials right now. Try again after a few minutes."
-msgstr "Мы не можем проверить ваши учетные данные прямо сейчас. Попробуйте еще раз через несколько минут."
+msgstr "Мы не можем проверить ваши учётные данные прямо сейчас. Попробуйте ещё раз через несколько минут."
 
 #. i18n: keyword: E_LOGIN_ERROR_BANNED
 msgid "You are not allowed to log in with this account because it has been banned."
-msgstr "Вы не можете войти в систему с этой учетной записью, поскольку она была заблокирована."
+msgstr "Вы не можете войти в систему с этой учётной записью, поскольку она была заблокирована."
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
 msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "Ваша учетная запись была помечена для удаления и будет безвозвратно удалена в течение 30 дней. Если вам нужна дополнительная помощь, пожалуйста, <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>обратитесь в поддержку</a>."
+msgstr "Ваша учётная запись была помечена для удаления и будет безвозвратно удалена в течение 30 дней. Если вам нужна дополнительная помощь, пожалуйста, <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>обратитесь в поддержку</a>."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
 msgid "The authentication failed. The details have been sent to the administrators to investigate. Try again after a few minutes."
-msgstr "Ошибка аутентификации. Подробности были отправлены администраторам для изучения. Попробуйте еще раз через несколько минут."
+msgstr "Ошибка аутентификации. Подробности были отправлены администраторам для изучения. Попробуйте ещё раз через несколько минут."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_MISSING
 msgid "The platform you are coming from didn’t provide us with the code to validate your account."
-msgstr "Платформа, с которой вы пришли, не предоставила нам код для проверки вашей учетной записи."
+msgstr "Платформа, с которой вы пришли, не предоставила нам код для проверки вашей учётной записи."
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUDIENCE
 msgid "The authentication code was generated for a different platform."
@@ -1427,11 +1439,11 @@ msgstr "Код аутентификации был создан для друг�
 
 #. i18n: keyword: E_LOGIN_ERROR_FROM_XBOX
 msgid "Unable to log in with that account at this time. Please sign-in at Xbox.com to resolve the issue with your Xbox Network account."
-msgstr "Невозможно войти в систему с этой учетной записью в настоящее время. Войдите на Xbox.com, чтобы решить проблему с вашей учетной записью Xbox Network."
+msgstr "Невозможно войти в систему с этой учётной записью в настоящее время. Войдите на Xbox.com, чтобы решить проблему с вашей учётной записью Xbox Network."
 
 #. i18n: keyword: E_SESSION_ALREADY_EXISTS
 msgid "It appears you already have a valid session. If you want to login using a different gaming platform, please log out first."
-msgstr "Похоже, у вас уже есть действующий сеанс. Если вы хотите войти в систему, используя другую игровую платформу, сначала выйдите из учетной записи."
+msgstr "Похоже, у вас уже есть действующий сеанс. Если вы хотите войти в систему, используя другую игровую платформу, сначала выйдите из учётной записи."
 
 #. i18n: keyword: E_MISSING_DATA
 msgid "There’s not enough data to execute this action."
@@ -1447,7 +1459,7 @@ msgstr "Аккаунт уже создан, но ожидает подтверж
 
 #. i18n: keyword: E_EMAIL_ALREADY_SET
 msgid "The account already has an email set."
-msgstr "Учетная запись уже имеет адрес электронной почты."
+msgstr "Учётная запись уже имеет адрес электронной почты."
 
 #. i18n: keyword: E_NO_AUTH
 msgid "No authentication mechanism provided"
@@ -1463,7 +1475,7 @@ msgstr "Вы не являетесь владельцем игры."
 
 #. i18n: keyword: E_NO_PASSWORD_RESET_CODE
 msgid "No password change request was make for your account."
-msgstr "Для вашей учетной записи не было запроса на изменение пароля."
+msgstr "Для вашей учётной записи не было запроса на изменение пароля."
 
 #. i18n: keyword: E_NOT_FOUND
 msgid "DisplayName / Email not found"
@@ -1515,7 +1527,7 @@ msgstr "Неверная дата рождения, дата должна быт
 
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
-msgstr "Twitch отклонил запрос на подключение вашей учетной записи Klei; обычно это временная проблема на серверах Twitch. Пожалуйста, <a href='/account/twitch/link'>повторите попытку</a> через несколько минут."
+msgstr "Twitch отклонил запрос на подключение вашей учётной записи Klei; обычно это временная проблема на серверах Twitch. Пожалуйста, <a href='/account/twitch/link'>повторите попытку</a> через несколько минут."
 
 #. i18n: keyword: E_TWITCH_DATA_CONFLICT
 msgid "Apparently you have already connected your game ID with another Twitch account. Open a new session in your web browser (using “Incognito” or “Private” mode, for example) and log in with the secondary Twitch account, visit the “Settings” page, then “Connections”, then disconnect the “Klei Entertainment” application. Finally, return to this page and try to connect your Twitch account again."
@@ -1583,11 +1595,11 @@ msgstr "Серверы Steam в данный момент недоступны."
 
 #. i18n: keyword: E_STEAM_E502_L3
 msgid "Steam servers are unavailable at the moment. This usually happens during the first and second hours after a big sale. Please, contact the Steam customer support team for further assistance."
-msgstr ""
+msgstr "Серверы Steam в данный момент недоступны. Обычно такое происходит в течение нескольких часов после большой расапродажи. Пожалуйста, обратитесь в службу поддержки Steam."
 
 #. i18n: keyword: E_STEAM_BROKEN_FEATURE_WARNING
 msgid "It appears you are viewing this web page using Steam In-Game Browser. Unfortunately, some features in this website do not work very well in this environment. If you have problems using this feature please consider using a regular web browser outside of Steam."
-msgstr "Похоже, вы просматриваете эту веб-страницу с помощью Steam In-Game Browser. К сожалению, некоторые функции на этом сайте не очень хорошо работают в этой среде. Если у вас возникли проблемы с использованием этой функции, рассмотрите возможность использования обычного веб-браузера вне Steam."
+msgstr "Похоже, вы просматриваете эту веб-страницу с помощью внутриигрового браузера Steam. К сожалению, некоторые функции на этом сайте не очень хорошо работают в этой среде. Если у вас возникли проблемы с использованием этой функции, рассмотрите возможность использования обычного веб-браузера вне Steam."
 
 #. i18n: keyword: E_OPENID_INVALID_MODE
 msgid "The previous website sent us invalid data. The OpenID “mode” parameter is invalid. Please start the login flow again."
@@ -1607,7 +1619,7 @@ msgstr "Предыдущий сайт отправил нам неверные �
 
 #. i18n: keyword: E_OPENID_ACCESS_DENIED
 msgid "Steam denied your login attempt. Steam servers may be offline, which usually causes problems with Klei Entertainment and Steam's communication bridge. Please, wait a couple of minutes and try again. If the problem persists, feel free to send a message to our <a href='https://support.klei.com/'>support team</a>."
-msgstr ""
+msgstr "Steam отклонил попытку входа в систему. Серверы Steam могут быть отключены, что обычно вызывает проблемы со связью между Klei Entertainment и Steam. Пожалуйста, подождите пару минут и попробуйте снова. Если проблема не исчезнет, отправьте сообщение в нашу <a href='https://support.klei.com/'>службу поддержки</a>."
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
@@ -1735,11 +1747,11 @@ msgstr "К сожалению, эта награда больше недейст
 
 #. i18n: keyword: E_DOUBLE_ROLLBACK
 msgid "This transaction has already been rolled back."
-msgstr ""
+msgstr "Это транзакция уже была отменена."
 
 #. i18n: keyword: E_UNSUPPORTED_FOR_ROLLBACK
 msgid "This transaction cannot be rolled back."
-msgstr ""
+msgstr "Эта транзакция не может быть отменена."
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
@@ -1767,6 +1779,14 @@ msgstr "Транзакций не существует."
 
 #. i18n: keyword: TransactionRollback
 msgid "Rollback"
+msgstr "Отменить"
+
+#. i18n: keyword: GiftingEventWeek
+msgid "Week"
+msgstr ""
+
+#. i18n: keyword: GiftingEventGift
+msgid "Gift"
 msgstr ""
 
 #. i18n: keyword: CurrentBalanceForSpools
@@ -1866,27 +1886,35 @@ msgid "Weekly Gift Item"
 msgstr "Еженедельный подарок"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
-msgid "Steam Box"
+msgid "Shop Chest (Steam)"
 msgstr "Набор Steam"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
-msgid "Tencent Games Box"
+msgid "Shop Chest (Tencent Games)"
 msgstr "Набор Tencent Games"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
-msgid "Currency Box"
+msgid "Shop Chest (Currency)"
 msgstr "Набор валюты"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
-msgid "Steam Box DLC"
+msgid "Shop Chest (Steam DLC)"
 msgstr "Набор DLC Steam"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
-msgstr ""
+msgstr "Обмен валют"
 
 #. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
 msgid "Consume Redeemable Code"
+msgstr "Ввод подарочного кода"
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
+msgid "Klei Support Issued Currency"
+msgstr ""
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
+msgid "Klei Support Issued Item"
 msgstr ""
 
 #. i18n: keyword: Marketable
@@ -1917,6 +1945,10 @@ msgstr "Вы загрузили файл неверного формата. По
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
 msgstr "Загруженный вами файл слишком большой. Пожалуйста, уменьшите его размер, чтобы продолжить."
 
+#. i18n: keyword: E_FILE_SIZE_ZERO
+msgid "The file you selected has a size of zero bytes. Please try again with a different file."
+msgstr ""
+
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
 msgstr "К сожалению, вы не можете участвовать в Хеллоуинском событии, если вы не согласны с его правилами."
@@ -1932,6 +1964,14 @@ msgstr "Спасибо за участие. К сожалению, вы дост
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
 msgstr "Спасибо за участие и сообщение. К сожалению, мы установили ограничение в восемьдесят (80) символов. Пожалуйста, попробуйте снова, написав более короткое сообщение."
+
+#. i18n: keyword: E_HALLOWEEN_USER_BANNED
+msgid "Your previous submission has been banned and you are not allowed to make another submission."
+msgstr ""
+
+#. i18n: keyword: HalloweenConfirmResubmission
+msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
+msgstr ""
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
@@ -1955,11 +1995,11 @@ msgstr "Похоже, вы не ознакомились со всем поль�
 
 #. i18n: keyword: E_USER_IS_NOT_BANNED
 msgid "Your account is not banned."
-msgstr "Ваш учётная запись не заблокирована."
+msgstr "Ваша учётная запись не заблокирована."
 
 #. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
 msgid "The ban in your account is not reversible."
-msgstr "Блокировка вашего аккаунта необратима."
+msgstr "Блокировка вашей учётной записи необратима."
 
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."

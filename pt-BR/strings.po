@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-07-22 13:27-0300\n"
+"PO-Revision-Date: 2021-12-04 20:27-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -404,6 +404,18 @@ msgstr "Sua assinatura de boletim informativo foi arquivada devido a mudanças r
 #. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
 msgstr "O serviço de terceiros que usamos para gerenciar sua assinatura de boletim informativo está tendo problemas para processar nossas solicitações. Por favor, tente novamente mais tarde."
+
+#. i18n: keyword: LinkDiscordTitle
+msgid "Link Discord Account"
+msgstr "Vincular à Conta Discord"
+
+#. i18n: keyword: LinkDiscordDescription
+msgid "This will link your Discord Account to your Klei Account."
+msgstr "Isso vinculará sua conta Discord à sua conta Klei."
+
+#. i18n: keyword: UnlinkDiscordTitle
+msgid "Unlink Discord Account"
+msgstr "Desvincular Conta Discord"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -1123,23 +1135,23 @@ msgstr "O token usado para resgatar o código de presente tem um propósito dife
 
 #. i18n: keyword: Facebook
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. i18n: keyword: Instagram
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #. i18n: keyword: Twitch
 msgid "Twitch"
-msgstr ""
+msgstr "Twitch"
 
 #. i18n: keyword: Douyu
 msgid "Douyu"
-msgstr ""
+msgstr "Douyu"
 
 #. i18n: keyword: Bilibili
 msgid "Bilibili"
-msgstr ""
+msgstr "Bilibili"
 
 #. i18n: keyword: SupportTitle
 msgid "Submit a Support Request"
@@ -1769,6 +1781,14 @@ msgstr "Não há transações."
 msgid "Rollback"
 msgstr "Reversão"
 
+#. i18n: keyword: GiftingEventWeek
+msgid "Week"
+msgstr ""
+
+#. i18n: keyword: GiftingEventGift
+msgid "Gift"
+msgstr ""
+
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
 msgstr "Saldo atual de Carretéis"
@@ -1866,19 +1886,19 @@ msgid "Weekly Gift Item"
 msgstr "Presente Semanal"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
-msgid "Steam Box"
+msgid "Shop Chest (Steam)"
 msgstr "Caixa Steam"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
-msgid "Tencent Games Box"
+msgid "Shop Chest (Tencent Games)"
 msgstr "Caixa Tencent Games"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
-msgid "Currency Box"
+msgid "Shop Chest (Currency)"
 msgstr "Caixa de Moeda Corrente"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
-msgid "Steam Box DLC"
+msgid "Shop Chest (Steam DLC)"
 msgstr "Caixa Steam DLC"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
@@ -1888,6 +1908,14 @@ msgstr "Câmbio Monetário"
 #. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
 msgid "Consume Redeemable Code"
 msgstr "Gastar Código Resgatável"
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
+msgid "Klei Support Issued Currency"
+msgstr "Moeda Emitida pelo Suporte da Klei"
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
+msgid "Klei Support Issued Item"
+msgstr "Item Emitido pelo Suporte da Klei"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
@@ -1917,6 +1945,10 @@ msgstr "O arquivo que você selecionou não é permitido. Selecione um arquivo J
 msgid "The file you selected is too big. Please reduce the size to proceed with the upload."
 msgstr "O arquivo selecionado é muito grande. Reduza o tamanho para prosseguir com o upload."
 
+#. i18n: keyword: E_FILE_SIZE_ZERO
+msgid "The file you selected has a size of zero bytes. Please try again with a different file."
+msgstr "O arquivo selecionado tem zero bytes de tamanho. Por favor tente novamente com um arquivo diferente."
+
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
 msgstr "Infelizmente, você não poderá participar do evento de Halloween se não concordar com as regras do evento."
@@ -1932,6 +1964,14 @@ msgstr "Obrigado pelo envio. Infelizmente, parece que você atingiu o limite par
 #. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
 msgstr "Obrigado pelo envio e pela mensagem. Infelizmente, precisamos impor um limite de oitenta (80) caracteres. Por favor, tente mais uma vez com uma mensagem mais curta."
+
+#. i18n: keyword: E_HALLOWEEN_USER_BANNED
+msgid "Your previous submission has been banned and you are not allowed to make another submission."
+msgstr "Seu envio anterior foi banido e você não tem permissão para fazer outro envio."
+
+#. i18n: keyword: HalloweenConfirmResubmission
+msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
+msgstr "Você já enviou uma imagem. Você tem certeza que quer substituir seu envio anterior?"
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
