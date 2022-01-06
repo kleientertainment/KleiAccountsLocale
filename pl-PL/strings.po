@@ -1781,6 +1781,14 @@ msgstr "Brak transakcji."
 msgid "Rollback"
 msgstr "Przywróć"
 
+#. i18n: keyword: GiftingEventWeek
+msgid "Week"
+msgstr "Tydzień"
+
+#. i18n: keyword: GiftingEventGift
+msgid "Gift"
+msgstr "Prezent"
+
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
 msgstr "Aktualne saldo szpul"
