@@ -1783,11 +1783,11 @@ msgstr "Przywróć"
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
-msgstr ""
+msgstr "Tydzień"
 
 #. i18n: keyword: GiftingEventGift
 msgid "Gift"
-msgstr ""
+msgstr "Prezent"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
