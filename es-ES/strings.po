@@ -1781,6 +1781,14 @@ msgstr "No hay transacciones."
 msgid "Rollback"
 msgstr "Revertir"
 
+#. i18n: keyword: GiftingEventWeek
+msgid "Week"
+msgstr ""
+
+#. i18n: keyword: GiftingEventGift
+msgid "Gift"
+msgstr ""
+
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
 msgstr "Cantidad de Hilos actuales"
@@ -1900,6 +1908,14 @@ msgstr "Cambio de Moneda"
 #. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
 msgid "Consume Redeemable Code"
 msgstr "Consumo de Código Canjeable"
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
+msgid "Klei Support Issued Currency"
+msgstr ""
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
+msgid "Klei Support Issued Item"
+msgstr ""
 
 #. i18n: keyword: Marketable
 msgid "Marketable"

@@ -3,19 +3,19 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2021-07-27 21:37+0200\n"
+"PO-Revision-Date: 2022-01-05 01:25+0100\n"
 "Last-Translator: aBOOminacja\n"
 "Language-Team: Polish (https://accounts.klei.com/community-translations)\n"
 "Language: pl_PL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12"
-"X-Crowdin-Project: klei-accounts\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12X-Crowdin-Project: klei-accounts;\n"
 "X-Crowdin-Project-ID: 401122\n"
 "X-Crowdin-Language: pl-PL\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -211,7 +211,7 @@ msgstr "Twój email został już zweryfikowany."
 
 #. i18n: keyword: EmailStatusNotVerified
 msgid "Not Verified"
-msgstr "Nie zweryfikowany"
+msgstr "Niezweryfikowany"
 
 #. i18n: keyword: EmailStatusVerified
 msgid "Verified"
@@ -231,7 +231,7 @@ msgstr "Odwiedź forum społeczności Klei"
 
 #. i18n: keyword: Login
 msgid "Login"
-msgstr "Zaloguj sie"
+msgstr "Zaloguj się"
 
 #. i18n: keyword: Logout
 msgid "Logout"
@@ -291,7 +291,7 @@ msgstr "Społeczność Klei"
 
 #. i18n: keyword: OpenForums
 msgid "Open Forums"
-msgstr "Otwarte fora"
+msgstr "Otwórz Fora"
 
 #. i18n: keyword: Newsletter
 msgid "Newsletter"
@@ -407,15 +407,15 @@ msgstr "Usługa zewnętrzna, z której korzystamy do zarządzania subskrypcją n
 
 #. i18n: keyword: LinkDiscordTitle
 msgid "Link Discord Account"
-msgstr ""
+msgstr "Połącz konto Discord"
 
 #. i18n: keyword: LinkDiscordDescription
 msgid "This will link your Discord Account to your Klei Account."
-msgstr ""
+msgstr "To połączy Twoje konto Discord z kontem Klei."
 
 #. i18n: keyword: UnlinkDiscordTitle
 msgid "Unlink Discord Account"
-msgstr ""
+msgstr "Odłącz konto Discord"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -595,7 +595,7 @@ msgstr "Odłącz konto"
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
-msgstr "Po usunięciu konta nie ma odwrotu. Proszę upewnij się."
+msgstr "Po usunięciu konta nie ma odwrotu. Upewnij się, że chcesz to zrobić."
 
 #. i18n: keyword: DeleteAccountAreYouSure
 msgid "Are you absolutely sure?"
@@ -739,7 +739,7 @@ msgstr "Ekwipunek przedmiotów"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr "<b>Wskazówki dotyczące wyszukiwania:</b> wpisz jedno lub więcej słów, aby wyszukać przedmiot w ekwipunku gry. Jeśli chcesz znaleźć przedmiot o nazwie <b>Wilson czerwona czapka</b>, możesz wpisać <b>Wilson</b>, <b>czapka</b>, a nawet <b>Wilson czapka</ b>. Kolejność wyszukiwanych haseł ma znaczenie, co oznacza, że ​​nie znajdziesz żadnych wyników dla zapytania „czapka Wilsona”, ponieważ słowa są w innej kolejności. <b>Naciśnij Cofnij</b>, aby przesłać wyszukiwanie. Usuń wyszukiwane hasła i ponownie naciśnij Cofnij, aby zresetować filtry."
+msgstr "<b>Wskazówki dotyczące wyszukiwania:</b> wpisz jedno lub więcej słów, aby wyszukać przedmiot w ekwipunku gry. Jeśli chcesz znaleźć przedmiot o nazwie <b>Wilson czerwona czapka</b>, możesz wpisać <b>Wilson</b>, <b>czapka</b>, a nawet <b>Wilson czapka </b>. Kolejność wyszukiwanych haseł ma znaczenie, co oznacza, że ​​nie znajdziesz żadnych wyników dla zapytania „czapka Wilsona”, ponieważ słowa są w innej kolejności. <b>Naciśnij Cofnij</b>, aby przesłać wyszukiwanie. Usuń wyszukiwane hasła i ponownie naciśnij Cofnij, aby zresetować filtry."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
@@ -763,7 +763,7 @@ msgstr "Pobierz"
 
 #. i18n: keyword: GetKey
 msgid "Get Key"
-msgstr "Zdobyj klucz"
+msgstr "Uzyskaj klucz"
 
 #. i18n: keyword: Servers
 msgid "Servers"
@@ -907,7 +907,7 @@ msgstr "Testowanie nadchodzących projektów"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr "Możesz zarejestrować się do testowania projektów alfa i beta, którymi jesteś zainteresowany. Otrzymasz wiadomość e-mail, jeśli zostaniesz przyjęty do ktoregoś."
+msgstr "Możesz zarejestrować się do testowania projektów alfa i beta, którymi jesteś zainteresowany. Otrzymasz wiadomość e-mail, jeśli zostaniesz przyjęty do któregoś."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -1231,7 +1231,7 @@ msgstr "Błąd — Data urodzenia: Pola daty urodzenia należy wprowadzić w pra
 
 #. i18n: keyword: ErrorTooYoung
 msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
-msgstr "Ej Młody. Aby założyć konto, musisz mieć co najmniej 13 lat."
+msgstr "Zaczekaj, młodzieniaszku. Aby założyć konto, musisz mieć co najmniej 13 lat."
 
 #. i18n: keyword: EmailInvalid
 msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
@@ -1379,7 +1379,7 @@ msgstr "Nie udało się uwierzytelnić swojego konta Steam. Spróbuj ponownie p�
 
 #. i18n: keyword: E_INVALID_STEAMID
 msgid "The SteamID is not valid."
-msgstr "SteamID jest nieprawidłowy."
+msgstr "Identyfikator Steam jest nieprawidłowy."
 
 #. i18n: keyword: E_INVALID_DATE
 msgid "The date is invalid."
@@ -1451,7 +1451,7 @@ msgstr "Nie ma wystarczającej ilości danych, aby wykonać tę akcję."
 
 #. i18n: keyword: E_MISSING_FIELD
 msgid "You must provide a Steam ID, user name, or e-mail address."
-msgstr "Musisz podać Steam ID, nazwę użytkownika lub adres e-mail."
+msgstr "Musisz podać Identyfikator Steam, nazwę użytkownika lub adres e-mail."
 
 #. i18n: keyword: E_MUST_VALIDATE_EMAIL
 msgid "The account has already been created, but is awaiting validation.  Check your e-mail."
@@ -1781,6 +1781,14 @@ msgstr "Brak transakcji."
 msgid "Rollback"
 msgstr "Przywróć"
 
+#. i18n: keyword: GiftingEventWeek
+msgid "Week"
+msgstr "Tydzień"
+
+#. i18n: keyword: GiftingEventGift
+msgid "Gift"
+msgstr "Prezent"
+
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
 msgstr "Aktualne saldo szpul"
@@ -1901,6 +1909,14 @@ msgstr "Wymiana walut"
 msgid "Consume Redeemable Code"
 msgstr "Zużyj kod do wykorzystania"
 
+#. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
+msgid "Klei Support Issued Currency"
+msgstr "Waluta wydana przez wsparcie Klei"
+
+#. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
+msgid "Klei Support Issued Item"
+msgstr "Produkt wydany przez wsparcie Klei"
+
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "Nadające się do sprzedaży"
@@ -1931,7 +1947,7 @@ msgstr "Wybrany plik jest za duży. Aby kontynuować przesyłanie, zmniejsz rozm
 
 #. i18n: keyword: E_FILE_SIZE_ZERO
 msgid "The file you selected has a size of zero bytes. Please try again with a different file."
-msgstr ""
+msgstr "Wybrany plik ma rozmiar zero bajtów. Spróbuj ponownie z innym plikiem."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
 msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
@@ -1955,11 +1971,11 @@ msgstr "Dzięki za przesłanie i przesłanie. Niestety musimy wymusić limit osi
 
 #. i18n: keyword: E_FANART_EVENT_USER_BANNED
 msgid "Your previous submission has been banned and you are not allowed to make another submission."
-msgstr ""
+msgstr "Twoje poprzednie zgłoszenie zostało zbanowane i nie możesz dokonać kolejnego zgłoszenia."
 
 #. i18n: keyword: FanartEventConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
-msgstr ""
+msgstr "Już przesłałeś zdjęcie. Czy na pewno chcesz zastąpić poprzednie zgłoszenie?"
 
 #. i18n: keyword: FanartEventSubmissionID
 msgid "Submission ID"
