@@ -1305,6 +1305,22 @@ msgstr "La dirección URL que has utilizado para llegar hasta aquí está incomp
 msgid "Failed to connect to Steam"
 msgstr "Error al conectar con Steam"
 
+#. i18n: keyword: RevertAccountLimboTitle
+msgid "Account marked for deletion with User ID:"
+msgstr ""
+
+#. i18n: keyword: RevertAccountLimboDescription
+msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
+msgstr ""
+
+#. i18n: keyword: RevertAccountLimboConfirm
+msgid "Recover Account"
+msgstr ""
+
+#. i18n: keyword: RevertAccountLimboCancel
+msgid "Cancel"
+msgstr ""
+
 #. i18n: keyword: E_JSON_BAD_EOF
 msgid "The server was unable to read the data you submitted. Please try again later."
 msgstr "El servidor no pudo leer los datos que usted envió. Por favor intente de nuevo."

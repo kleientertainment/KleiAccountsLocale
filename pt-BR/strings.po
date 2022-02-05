@@ -16,7 +16,6 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -1305,6 +1304,22 @@ msgstr "O URL/Link que você usou para chegar aqui está quebrado ou faltam par�
 #. i18n: keyword: UnableConnectSteam
 msgid "Failed to connect to Steam"
 msgstr "Falha ao conectar com o Steam"
+
+#. i18n: keyword: RevertAccountLimboTitle
+msgid "Account marked for deletion with User ID:"
+msgstr ""
+
+#. i18n: keyword: RevertAccountLimboDescription
+msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
+msgstr ""
+
+#. i18n: keyword: RevertAccountLimboConfirm
+msgid "Recover Account"
+msgstr ""
+
+#. i18n: keyword: RevertAccountLimboCancel
+msgid "Cancel"
+msgstr ""
 
 #. i18n: keyword: E_JSON_BAD_EOF
 msgid "The server was unable to read the data you submitted. Please try again later."

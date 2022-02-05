@@ -1305,6 +1305,22 @@ msgstr "您使用的URL格式不正确，缺少所需的参数。"
 msgid "Failed to connect to Steam"
 msgstr "连接Steam失败"
 
+#. i18n: keyword: RevertAccountLimboTitle
+msgid "Account marked for deletion with User ID:"
+msgstr ""
+
+#. i18n: keyword: RevertAccountLimboDescription
+msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
+msgstr ""
+
+#. i18n: keyword: RevertAccountLimboConfirm
+msgid "Recover Account"
+msgstr ""
+
+#. i18n: keyword: RevertAccountLimboCancel
+msgid "Cancel"
+msgstr ""
+
 #. i18n: keyword: E_JSON_BAD_EOF
 msgid "The server was unable to read the data you submitted. Please try again later."
 msgstr "服务器无法读取您提交的数据，请稍后再试。"
