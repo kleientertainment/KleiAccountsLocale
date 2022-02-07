@@ -1822,6 +1822,10 @@ msgstr ""
 msgid "Recover Account"
 msgstr "Recuperar Conta"
 
+#. i18n: keyword: RevertAccountLimboCancel
+msgid "Cancel"
+msgstr "Cancelar"
+
 #. i18n: keyword: E_JSON_BAD_EOF
 msgid ""
 "The server was unable to read the data you submitted. Please try again later."
