@@ -16,7 +16,6 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -1318,10 +1317,6 @@ msgstr "Sua conta foi marcada para deleção e será permanentemente irrecuperá
 msgid "Recover Account"
 msgstr "Recuperar Conta"
 
-#. i18n: keyword: RevertAccountLimboCancel
-msgid "Cancel"
-msgstr "Cancelar"
-
 #. i18n: keyword: E_JSON_BAD_EOF
 msgid "The server was unable to read the data you submitted. Please try again later."
 msgstr "O servidor não conseguiu ler os dados que você enviou. Por favor, tente novamente mais tarde."
@@ -2021,4 +2016,3 @@ msgstr "O banimento em sua conta não é reversível."
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
 msgstr "Ah não! Parece que você clicou em um link quebrado. Pode ser necessário autenticar-se novamente."
-
