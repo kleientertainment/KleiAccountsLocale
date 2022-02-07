@@ -1117,6 +1117,38 @@ msgstr ""
 msgid "Click here to redeem another gift"
 msgstr ""
 
+#. i18n: keyword: ValidateGiftTitle
+msgid "Gift Code Validation"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftDescription
+msgid "Use this tool to check if your gift code is valid and redeemable."
+msgstr ""
+
+#. i18n: keyword: ValidateGiftCodeLabel
+msgid "Enter Your Code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftSubmitButton
+msgid "Validate Code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftAgainButton
+msgid "Click here to validate another code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftInvalid
+msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
+msgstr ""
+
+#. i18n: keyword: ValidateGiftRedeemed
+msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
+msgstr ""
+
+#. i18n: keyword: ValidateGiftValid
+msgid "<b>\"{{ .Data.Code }}\"</b> is a valid redeemable code."
+msgstr ""
+
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
 msgstr ""
