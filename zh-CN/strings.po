@@ -1306,12 +1306,12 @@ msgid "Failed to connect to Steam"
 msgstr "连接Steam失败"
 
 #. i18n: keyword: RevertAccountLimboTitle
-msgid "Account marked for deletion with User ID:"
-msgstr "为以下用户ID的账户已被标记为待删除："
+msgid "Account marked for deletion"
+msgstr "账户已被标记删除"
 
 #. i18n: keyword: RevertAccountLimboDescription
-msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
-msgstr "您的账户已被标记为待删除，并且将在30日内变为永久无法恢复状态。<br>如果您希望恢复您的账户，请点击\"恢复账户\"按钮。"
+msgid "Your account with User ID <b>{{ .Data.KU }}</b> has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
+msgstr "您的用户ID为<b>{{ .Data.KU }}</b>的账户已被标记为待删除，并且将在30日内变为永久无法恢复的状态。<br>假如您想要恢复您的账户，请点击\"恢复账户\"按钮。"
 
 #. i18n: keyword: RevertAccountLimboConfirm
 msgid "Recover Account"

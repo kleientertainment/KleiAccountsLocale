@@ -1306,11 +1306,11 @@ msgid "Failed to connect to Steam"
 msgstr "Error al conectar con Steam"
 
 #. i18n: keyword: RevertAccountLimboTitle
-msgid "Account marked for deletion with User ID:"
+msgid "Account marked for deletion"
 msgstr ""
 
 #. i18n: keyword: RevertAccountLimboDescription
-msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
+msgid "Your account with User ID <b>{{ .Data.KU }}</b> has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
 msgstr ""
 
 #. i18n: keyword: RevertAccountLimboConfirm
