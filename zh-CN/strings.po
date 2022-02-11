@@ -1307,15 +1307,15 @@ msgstr "连接Steam失败"
 
 #. i18n: keyword: RevertAccountLimboTitle
 msgid "Account marked for deletion"
-msgstr ""
+msgstr "账户已被标记删除"
 
 #. i18n: keyword: RevertAccountLimboDescription
 msgid "Your account with User ID <b>{{ .Data.KU }}</b> has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
-msgstr ""
+msgstr "您的用户ID为<b>{{ .Data.KU }}</b>的账户已被标记为待删除，并且将在30日内变为永久无法恢复的状态。<br>假如您想要恢复您的账户，请点击\"恢复账户\"按钮。"
 
 #. i18n: keyword: RevertAccountLimboConfirm
 msgid "Recover Account"
-msgstr ""
+msgstr "恢复账户"
 
 #. i18n: keyword: E_JSON_BAD_EOF
 msgid "The server was unable to read the data you submitted. Please try again later."
@@ -1795,11 +1795,11 @@ msgstr "回滚"
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
-msgstr ""
+msgstr "周"
 
 #. i18n: keyword: GiftingEventGift
 msgid "Gift"
-msgstr ""
+msgstr "礼物"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -1923,11 +1923,11 @@ msgstr "使用兑换码"
 
 #. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
 msgid "Klei Support Issued Currency"
-msgstr ""
+msgstr "Klei客服发出的货币"
 
 #. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
 msgid "Klei Support Issued Item"
-msgstr ""
+msgstr "Klei客服发出的道具"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
