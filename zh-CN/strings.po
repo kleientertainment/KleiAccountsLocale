@@ -1101,6 +1101,10 @@ msgstr "礼品兑换"
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
 msgstr "您好！看上去您有一个物品码或礼品码，您想要现在兑换它吗？在下方填入您的兑换码，然后我们就会将此物品以比你眨眼还快的速度发给你<em>&mdash;除非您眨眼可以真的眨得很快，在这种情况下您应该闭上您的眼睛几毫秒;</em>"
 
+#. i18n: keyword: GiftRedemptionGoToValidation
+msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
+msgstr ""
+
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
 msgstr "输入你的礼品码"
@@ -1116,6 +1120,38 @@ msgstr "恭喜！礼品码已成功兑换。</p><p>送达时间会因为临时�
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
 msgstr "点击此处以兑换另一个礼品"
+
+#. i18n: keyword: ValidateGiftTitle
+msgid "Gift Code Validation"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftDescription
+msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
+msgstr ""
+
+#. i18n: keyword: ValidateGiftCodeLabel
+msgid "Enter Your Code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftSubmitButton
+msgid "Validate Code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftAgainButton
+msgid "Click here to validate another code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftInvalid
+msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
+msgstr ""
+
+#. i18n: keyword: ValidateGiftRedeemed
+msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
+msgstr ""
+
+#. i18n: keyword: ValidateGiftValid
+msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
+msgstr ""
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."

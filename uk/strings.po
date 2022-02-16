@@ -1101,6 +1101,10 @@ msgstr "Купівля подарунків"
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
 msgstr "Привіт! Схоже, у вас є ключ предмета або подарунковий код, ви хочете його зараз активувати? Введіть код у нижченаведеній формі, і ми надамо вам товар швидше, ніж ви кліпнете <em>&mdash;якщо ви в змозі кліпати дуже швидко, в такому випадку вам слід закрити очі на кілька мілісекунд&mdash;</em>"
 
+#. i18n: keyword: GiftRedemptionGoToValidation
+msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
+msgstr ""
+
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
 msgstr "Введіть свій код"
@@ -1116,6 +1120,38 @@ msgstr "Вітаємо! Активація подарункового коду �
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
 msgstr "Натисніть тут, щоб погасити ще один подарунковий код"
+
+#. i18n: keyword: ValidateGiftTitle
+msgid "Gift Code Validation"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftDescription
+msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
+msgstr ""
+
+#. i18n: keyword: ValidateGiftCodeLabel
+msgid "Enter Your Code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftSubmitButton
+msgid "Validate Code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftAgainButton
+msgid "Click here to validate another code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftInvalid
+msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
+msgstr ""
+
+#. i18n: keyword: ValidateGiftRedeemed
+msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
+msgstr ""
+
+#. i18n: keyword: ValidateGiftValid
+msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
+msgstr ""
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
