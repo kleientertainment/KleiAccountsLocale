@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-02-15 22:10-0300\n"
+"PO-Revision-Date: 2022-02-15 22:12-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -1140,15 +1140,15 @@ msgstr "Clique aqui para validar outro código"
 
 #. i18n: keyword: ValidateGiftInvalid
 msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
-msgstr "<b>\"{{ . Data.Code }}\"</b> não é um código válido."
+msgstr "<b>\"{{ .Data.Code }}\"</b> não é um código válido."
 
 #. i18n: keyword: ValidateGiftRedeemed
 msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
-msgstr "<b>\"{{ . Data.Code }}\"</b> já foi resgatado."
+msgstr "<b>\"{{ .Data.Code }}\"</b> já foi resgatado."
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
-msgstr "<b>\"{{ . Data.Code }}\"</b> é um código válido e ainda não foi resgatado."
+msgstr "<b>\"{{ .Data.Code }}\"</b> é um código válido e ainda não foi resgatado."
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
