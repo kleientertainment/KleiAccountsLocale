@@ -1101,6 +1101,10 @@ msgstr "Geschenk einlösen"
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
 msgstr "Hallo! Es sieht so aus, als hast du einen Gegenstands- oder Belohnungs-Code - möchtest du diesen jetzt einlösen? Trage den Code in das untenstehende Formular ein und du erhälst den Gegenstand schneller als du blinzeln kannst, <em>&mdash;außer wenn du extrem schnell blinzeln kannst, in diesem Fall die Augen bitte für einige Millisekunden schließen&mdash;</em>"
 
+#. i18n: keyword: GiftRedemptionGoToValidation
+msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
+msgstr ""
+
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
 msgstr "Code eingeben"
@@ -1116,6 +1120,38 @@ msgstr "Gratulation! Der Geschenk-Code wurde erfolgreich eingelöst.</p><p>Zuste
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
 msgstr "Hier klicken, um eine weitere Belohnung einzulösen"
+
+#. i18n: keyword: ValidateGiftTitle
+msgid "Gift Code Validation"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftDescription
+msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
+msgstr ""
+
+#. i18n: keyword: ValidateGiftCodeLabel
+msgid "Enter Your Code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftSubmitButton
+msgid "Validate Code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftAgainButton
+msgid "Click here to validate another code"
+msgstr ""
+
+#. i18n: keyword: ValidateGiftInvalid
+msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
+msgstr ""
+
+#. i18n: keyword: ValidateGiftRedeemed
+msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
+msgstr ""
+
+#. i18n: keyword: ValidateGiftValid
+msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
+msgstr ""
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
