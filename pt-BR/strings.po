@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-02-07 16:13-0300\n"
+"PO-Revision-Date: 2022-02-11 15:31-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -1306,12 +1307,12 @@ msgid "Failed to connect to Steam"
 msgstr "Falha ao conectar com o Steam"
 
 #. i18n: keyword: RevertAccountLimboTitle
-msgid "Account marked for deletion with User ID:"
-msgstr "Conta com o seguinte ID de usuário foi marcada para deleção:"
+msgid "Account marked for deletion"
+msgstr "Conta marcada para exclusão"
 
 #. i18n: keyword: RevertAccountLimboDescription
-msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
-msgstr "Sua conta foi marcada para deleção e será permanentemente irrecuperável dentro de 30 dias.<br>Se você deseja recuperar a sua conta, por favor pressione o botão \"Recuperar Conta\"."
+msgid "Your account with User ID <b>{{ .Data.KU }}</b> has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
+msgstr "Sua conta com o código de usuário <b>{{ .Data.KU }}</b> foi marcada para exclusão e será permanentemente irrecuperável dentro de 30 dias.<br>Se você quiser recuperar sua conta, por favor, pressione o botão \"Recuperar Conta\"."
 
 #. i18n: keyword: RevertAccountLimboConfirm
 msgid "Recover Account"
