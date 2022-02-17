@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-02-11 15:31-0300\n"
+"PO-Revision-Date: 2022-02-15 22:12-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -1103,7 +1104,7 @@ msgstr "Olá! Parece que você tem um item ou um código de presente, gostaria d
 
 #. i18n: keyword: GiftRedemptionGoToValidation
 msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
-msgstr ""
+msgstr "Se você quiser verificar a validade do seu código sem resgatá-lo, você pode ir para a <a href='/account/validate-gift'>página de validação do código de presente</a>."
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
@@ -1123,35 +1124,31 @@ msgstr "Clique aqui para resgator outro presente"
 
 #. i18n: keyword: ValidateGiftTitle
 msgid "Gift Code Validation"
-msgstr ""
+msgstr "Validação do Código de Presente"
 
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
-msgstr ""
-
-#. i18n: keyword: ValidateGiftCodeLabel
-msgid "Enter Your Code"
-msgstr ""
+msgstr "Use esta página para verificar se seu código de presente é válido e se ainda não foi resgatado. Esta ação NÃO resgatará o código de presente. "
 
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"
-msgstr ""
+msgstr "Código de Validação"
 
 #. i18n: keyword: ValidateGiftAgainButton
 msgid "Click here to validate another code"
-msgstr ""
+msgstr "Clique aqui para validar outro código"
 
 #. i18n: keyword: ValidateGiftInvalid
 msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b> não é um código válido."
 
 #. i18n: keyword: ValidateGiftRedeemed
 msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b> já foi resgatado."
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b> é um código válido e ainda não foi resgatado."
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
