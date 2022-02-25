@@ -1925,6 +1925,14 @@ msgstr "以物品兌換點數"
 msgid "Twitch Item Drop"
 msgstr ""
 
+#. i18n: keyword: TXN_DOUYU_ITEM_DROP
+msgid "Douyu Item Drop"
+msgstr ""
+
+#. i18n: keyword: TXN_BILIBILI_ITEM_DROP
+msgid "Bilibili Item Drop"
+msgstr ""
+
 #. i18n: keyword: TXN_DAILY_GIFT_ITEM
 msgid "Daily Gift Item"
 msgstr ""
