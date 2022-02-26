@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-02-15 22:12-0300\n"
+"PO-Revision-Date: 2022-02-25 23:33-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -16,6 +16,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -1129,10 +1130,6 @@ msgstr "Validação do Código de Presente"
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
 msgstr "Use esta página para verificar se seu código de presente é válido e se ainda não foi resgatado. Esta ação NÃO resgatará o código de presente. "
 
-#. i18n: keyword: ValidateGiftCodeLabel
-msgid "Enter Your Code"
-msgstr ""
-
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"
 msgstr "Código de Validação"
@@ -1927,11 +1924,11 @@ msgstr "Drops da Twitch"
 
 #. i18n: keyword: TXN_DOUYU_ITEM_DROP
 msgid "Douyu Item Drop"
-msgstr ""
+msgstr "Drops do Douyu"
 
 #. i18n: keyword: TXN_BILIBILI_ITEM_DROP
 msgid "Bilibili Item Drop"
-msgstr ""
+msgstr "Drops do Bilibili"
 
 #. i18n: keyword: TXN_DAILY_GIFT_ITEM
 msgid "Daily Gift Item"
