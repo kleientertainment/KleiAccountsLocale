@@ -421,6 +421,18 @@ msgstr ""
 msgid "Merge An Account"
 msgstr ""
 
+#. i18n: keyword: MergeAccountConnectedTitle
+msgid "Connected"
+msgstr ""
+
+#. i18n: keyword: MergeAccountConnected
+msgid "Added on "
+msgstr ""
+
+#. i18n: keyword: MergeAccountNotConnected
+msgid "Not connected"
+msgstr ""
+
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
 msgstr ""
