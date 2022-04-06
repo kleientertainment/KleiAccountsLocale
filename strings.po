@@ -421,6 +421,18 @@ msgstr ""
 msgid "Merge An Account"
 msgstr ""
 
+#. i18n: keyword: MergeAccountConnectedTitle
+msgid "Connected"
+msgstr ""
+
+#. i18n: keyword: MergeAccountConnected
+msgid "Added on "
+msgstr ""
+
+#. i18n: keyword: MergeAccountNotConnected
+msgid "Not connected"
+msgstr ""
+
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
 msgstr ""
@@ -445,10 +457,6 @@ msgstr ""
 msgid "I understand the consequences, merge these accounts"
 msgstr ""
 
-#. i18n: keyword: MergeAccountDoButton
-msgid "I understand, merge these accounts"
-msgstr ""
-
 #. i18n: keyword: MergeAccountSuccessTitle
 msgid "Successful Account Merge"
 msgstr ""
@@ -461,16 +469,43 @@ msgstr ""
 msgid "Fix Warnings"
 msgstr ""
 
-#. i18n: keyword: MergeAccountReviewEmail
-msgid "Below is your Klei account e-mail:"
+#. i18n: keyword: MergeAccountDate
+msgid "Account creation date"
+msgstr ""
+#. i18n: keyword: MergeAccountEmail
+msgid "Klei Account e-mail"
 msgstr ""
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
 msgstr ""
 
-#. i18n: keyword: MergeAccountReadyToExecute
-msgid "We have checked all the information we could find about the two accounts you are about to merge and did not find any warnings. You will be able to log in with the new account after submitting this form."
+#. i18n: keyword: MergeAccountCheckProfileSelected
+msgid "Make sure this is the account you want to keep."
+msgstr ""
+
+#. i18n: keyword: MergeAccountCheckProfileUnselected
+msgid "You'll lose all your progress and items in this account."
+msgstr ""
+
+#. i18n: keyword: MergeAccountReadyButton
+msgid "Merge accounts"
+msgstr ""
+
+#. i18n: keyword: MergeAccountReady
+msgid "You will be able to log in with the new account after submitting."
+msgstr ""
+
+#. i18n: keyword: MergeAccountMerging
+msgid "Merging…"
+msgstr ""
+
+#. i18n: keyword: MergeAccountWarningsTitle
+msgid "Warning"
+msgstr ""
+
+#. i18n: keyword: MergeAccountWarningsSubtitle
+msgid "You need to fix these issues"
 msgstr ""
 
 #. i18n: keyword: MergeAccountConsentQuestion1
