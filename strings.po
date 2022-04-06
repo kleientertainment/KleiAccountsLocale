@@ -1173,6 +1173,26 @@ msgstr ""
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
 msgstr ""
 
+#. i18n: keyword: MergeFailedTitle
+msgid "Account Merging Failed"
+msgstr ""
+
+#. i18n: keyword: MergeFailedErrorDescription
+msgid "An error has occured while merging the following KUs:"
+msgstr ""
+
+#. i18n: keyword: MergeFailedSourceKU
+msgid "<b>Source KU:</b> {{ .Data.SourceKU }}"
+msgstr ""
+
+#. i18n: keyword: MergeFailedDestinationKU
+msgid "<b>Destination KU:</b> {{ .Data.DestinationKU }}"
+msgstr ""
+
+#. i18n: keyword: MergeFailedDescription
+msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
+msgstr ""
+
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
 msgstr ""
@@ -1875,6 +1895,10 @@ msgstr ""
 
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
+msgstr ""
+
+#. i18n: keyword: TXN_INVENTORY_MERGE
+msgid "Account Merge"
 msgstr ""
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
