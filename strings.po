@@ -425,8 +425,8 @@ msgstr ""
 msgid "Connected"
 msgstr ""
 
-#. i18n: keyword: MergeAccountConnected
-msgid "Added on "
+#. i18n: keyword: MergeAccountConnectedID
+msgid "ID:"
 msgstr ""
 
 #. i18n: keyword: MergeAccountNotConnected
@@ -1206,6 +1206,26 @@ msgstr ""
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
+msgstr ""
+
+#. i18n: keyword: LP_STEAM_Username
+msgid "Steam Username"
+msgstr ""
+
+#. i18n: keyword: LP_EPIC_Username
+msgid "Epic Games Username"
+msgstr ""
+
+#. i18n: keyword: LP_XBL_Username
+msgid "Xbox Network Username"
+msgstr ""
+
+#. i18n: keyword: LP_RAIL_Username
+msgid "Tencent Games Username"
+msgstr ""
+
+#. i18n: keyword: LP_NINTENDO_Username
+msgid "Nintendo Username"
 msgstr ""
 
 #. i18n: keyword: MergeFailedTitle
