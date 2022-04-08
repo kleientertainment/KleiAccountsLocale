@@ -981,17 +981,37 @@ msgstr "Masz już inną rzadko spotykaną wersję tego przedmiotu. Czy na pewno 
 msgid "Alternative"
 msgstr "Alternatywa"
 
-#. i18n: keyword: RewardPointsMeaning
-msgid "<b>Klei Points</b> - Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr "<b>Punkty Klei</b> - Punkty Klei są używane do wymiany nagród w grze ze strony Klei Rewards."
+#. i18n: keyword: RewardPoints
+msgid "Klei Points"
+msgstr ""
 
-#. i18n: keyword: RewardSpoolsMeaning
-msgid "<b>Spools</b> - Spools are used to weave items in the Curio Cabinet in-game."
-msgstr "<b>Szpule</b> — Szpule służą do tkania przedmiotów w Szafce Osobliwości w grze."
+#. i18n: keyword: RewardSpools
+msgid "Spools"
+msgstr ""
 
-#. i18n: keyword: RewardBoltsMeaning
-msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>Śruby płótna</b> — (tylko konsola) Waluta w grze używana do kupowania skórek i zestawów w sklepie w grze."
+#. i18n: keyword: RewardBolts
+msgid "Bolts of Cloth"
+msgstr ""
+
+#. i18n: keyword: RewardNintendoBolts
+msgid "Bolts of Cloth"
+msgstr ""
+
+#. i18n: keyword: RewardPointsGlossary
+msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
+msgstr ""
+
+#. i18n: keyword: RewardSpoolsGlossary
+msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-game."
+msgstr ""
+
+#. i18n: keyword: RewardBoltsGlossary
+msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
+
+#. i18n: keyword: RewardNintendoBoltsGlossary
+msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
