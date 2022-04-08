@@ -421,6 +421,18 @@ msgstr ""
 msgid "Merge An Account"
 msgstr "合併帳戶"
 
+#. i18n: keyword: MergeAccountConnectedTitle
+msgid "Connected"
+msgstr ""
+
+#. i18n: keyword: MergeAccountConnectedID
+msgid "ID:"
+msgstr ""
+
+#. i18n: keyword: MergeAccountNotConnected
+msgid "Not connected"
+msgstr ""
+
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
 msgstr "這個流程將允許 Klei 帳號去關聯多個平台，此功能適用於當您在多個平台上擁有帳戶，並希望將它們全部連接到同一個 Klei 帳戶時。"
@@ -445,10 +457,6 @@ msgstr "請輸入全大寫的“merge accounts“來確認："
 msgid "I understand the consequences, merge these accounts"
 msgstr "我瞭解後果，合併這些帳戶"
 
-#. i18n: keyword: MergeAccountDoButton
-msgid "I understand, merge these accounts"
-msgstr "我瞭解，合併這些帳戶"
-
 #. i18n: keyword: MergeAccountSuccessTitle
 msgid "Successful Account Merge"
 msgstr "成功合併帳戶"
@@ -461,17 +469,45 @@ msgstr "帳戶合併已成功。</p><p>我們已清除您的 session，讓您能
 msgid "Fix Warnings"
 msgstr "修正警告"
 
-#. i18n: keyword: MergeAccountReviewEmail
-msgid "Below is your Klei account e-mail:"
-msgstr "以下是您的 Klei 帳戶郵件地址："
+#. i18n: keyword: MergeAccountDate
+msgid "Account creation date"
+msgstr ""
+
+#. i18n: keyword: MergeAccountEmail
+msgid "Klei Account e-mail"
+msgstr ""
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
 msgstr "請再次確認要將此遊戲帳戶合併。"
 
-#. i18n: keyword: MergeAccountReadyToExecute
-msgid "We have checked all the information we could find about the two accounts you are about to merge and did not find any warnings. You will be able to log in with the new account after submitting this form."
-msgstr "我們已檢查所有與您將要合併的兩個帳戶有關的資訊，但未發現任何警告，在完成此表單後，您將可以登入新帳戶。"
+#. i18n: keyword: MergeAccountCheckProfileSelected
+msgid "Make sure this is the account you want to keep."
+msgstr ""
+
+#. i18n: keyword: MergeAccountCheckProfileUnselected
+msgid "You'll lose all your progress and items in this account."
+msgstr ""
+
+#. i18n: keyword: MergeAccountReadyButton
+msgid "Merge accounts"
+msgstr ""
+
+#. i18n: keyword: MergeAccountReady
+msgid "You will be able to log in with the new account after submitting."
+msgstr ""
+
+#. i18n: keyword: MergeAccountMerging
+msgid "Merging…"
+msgstr ""
+
+#. i18n: keyword: MergeAccountWarningsTitle
+msgid "Warning"
+msgstr ""
+
+#. i18n: keyword: MergeAccountWarningsSubtitle
+msgid "You need to fix these issues"
+msgstr ""
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
@@ -1171,6 +1207,46 @@ msgstr ""
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
+msgstr ""
+
+#. i18n: keyword: LP_STEAM_Username
+msgid "Steam Username"
+msgstr ""
+
+#. i18n: keyword: LP_EPIC_Username
+msgid "Epic Games Username"
+msgstr ""
+
+#. i18n: keyword: LP_XBL_Username
+msgid "Xbox Network Username"
+msgstr ""
+
+#. i18n: keyword: LP_RAIL_Username
+msgid "Tencent Games Username"
+msgstr ""
+
+#. i18n: keyword: LP_NINTENDO_Username
+msgid "Nintendo Username"
+msgstr ""
+
+#. i18n: keyword: MergeFailedTitle
+msgid "Account Merging Failed"
+msgstr ""
+
+#. i18n: keyword: MergeFailedErrorDescription
+msgid "An error has occured while merging the following KUs:"
+msgstr ""
+
+#. i18n: keyword: MergeFailedSourceKU
+msgid "<b>Source KU:</b> {{ .Data.SourceKU }}"
+msgstr ""
+
+#. i18n: keyword: MergeFailedDestinationKU
+msgid "<b>Destination KU:</b> {{ .Data.DestinationKU }}"
+msgstr ""
+
+#. i18n: keyword: MergeFailedDescription
+msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
 msgstr ""
 
 #. i18n: keyword: E_INVALID_CODE
@@ -1876,6 +1952,10 @@ msgstr "交易未被支援"
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
 msgstr "新增一件物品"
+
+#. i18n: keyword: TXN_INVENTORY_MERGE
+msgid "Account Merge"
+msgstr ""
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
