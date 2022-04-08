@@ -471,7 +471,7 @@ msgstr "Por favor cheque se está correto sua conta de jogo para mesclar."
 
 #. i18n: keyword: MergeAccountReadyToExecute
 msgid "We have checked all the information we could find about the two accounts you are about to merge and did not find any warnings. You will be able to log in with the new account after submitting this form."
-msgstr ""
+msgstr "Nós checamos todas as informações, podemos achar duas contas que você está prestes a mesclar e não achamos nenhum aviso. Você pode logar com a nova conta depois de submeter este formulário."
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
