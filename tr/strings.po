@@ -565,6 +565,18 @@ msgstr "Epic Games hesabınızı zaten birleştirdiniz."
 msgid "You already merged your Steam account."
 msgstr "Steam hesabınızı zaten birleştirdiniz."
 
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
+msgid "You already merged your Xbox Network account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
+msgid "You already merged your Nintendo account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
+msgid "You already merged your Tencent Games account."
+msgstr ""
+
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
 msgstr "Zaten sahip olduğunuz oyunlara farklı bir oyun platformunda erişmek için bu sayfayı kullanın."

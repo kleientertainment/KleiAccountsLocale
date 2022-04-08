@@ -565,6 +565,18 @@ msgstr ""
 msgid "You already merged your Steam account."
 msgstr ""
 
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
+msgid "You already merged your Xbox Network account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
+msgid "You already merged your Nintendo account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
+msgid "You already merged your Tencent Games account."
+msgstr ""
+
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
 msgstr "使用此頁面可以造訪您在其他遊戲平台上已經擁有的遊戲。"
