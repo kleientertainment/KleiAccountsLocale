@@ -1210,23 +1210,23 @@ msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet
 msgstr ""
 
 #. i18n: keyword: LP_STEAM_Username
-msgid "Steam Username"
+msgid "Steam username"
 msgstr ""
 
 #. i18n: keyword: LP_EPIC_Username
-msgid "Epic Games Username"
+msgid "Epic Games username"
 msgstr ""
 
 #. i18n: keyword: LP_XBL_Username
-msgid "Xbox Network Username"
+msgid "Xbox Network username"
 msgstr ""
 
 #. i18n: keyword: LP_RAIL_Username
-msgid "Tencent Games Username"
+msgid "Tencent Games username"
 msgstr ""
 
 #. i18n: keyword: LP_NINTENDO_Username
-msgid "Nintendo Username"
+msgid "Nintendo username"
 msgstr ""
 
 #. i18n: keyword: MergeFailedTitle
