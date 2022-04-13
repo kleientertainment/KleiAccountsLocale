@@ -994,10 +994,6 @@ msgstr "Carretéis"
 msgid "Bolts of Cloth"
 msgstr "Parafusos de Tecido"
 
-#. i18n: keyword: RewardNintendoBolts
-msgid "Bolts of Cloth"
-msgstr "Parafusos de Tecido"
-
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
 msgstr "<b>Pontos Klei</b><br>Os pontos Klei são utilizados para resgatar conquistas dentro do jogo na página de recompensas da Klei."
