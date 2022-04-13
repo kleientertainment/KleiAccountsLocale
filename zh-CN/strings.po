@@ -981,17 +981,37 @@ msgstr "您已拥有此物品的其他稀有度版本，您确定您要用点数
 msgid "Alternative"
 msgstr "替代"
 
-#. i18n: keyword: RewardPointsMeaning
-msgid "<b>Klei Points</b> - Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr "<b>Klei点数</b> - Klei点数用于在Klei奖励页面兑换游戏内奖励。"
+#. i18n: keyword: RewardPoints
+msgid "Klei Points"
+msgstr ""
 
-#. i18n: keyword: RewardSpoolsMeaning
-msgid "<b>Spools</b> - Spools are used to weave items in the Curio Cabinet in-game."
-msgstr "<b>线轴</b> - 线轴用于在珍宝柜中编织道具。"
+#. i18n: keyword: RewardSpools
+msgid "Spools"
+msgstr ""
 
-#. i18n: keyword: RewardBoltsMeaning
-msgid "<b>Bolts of Cloth</b> - (Console Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>布匹</b> - (仅限主机) 用以在游戏内商店购买皮肤以及同捆包的游戏内货币。"
+#. i18n: keyword: RewardBolts
+msgid "Bolts of Cloth"
+msgstr ""
+
+#. i18n: keyword: RewardNintendoBolts
+msgid "Bolts of Cloth"
+msgstr ""
+
+#. i18n: keyword: RewardPointsGlossary
+msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
+msgstr ""
+
+#. i18n: keyword: RewardSpoolsGlossary
+msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-game."
+msgstr ""
+
+#. i18n: keyword: RewardBoltsGlossary
+msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
+
+#. i18n: keyword: RewardNintendoBoltsGlossary
+msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
