@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-02-25 23:33-0300\n"
+"PO-Revision-Date: 2022-04-13 14:56-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -984,35 +984,35 @@ msgstr "Alternativa"
 
 #. i18n: keyword: RewardPoints
 msgid "Klei Points"
-msgstr ""
+msgstr "Pontos Klei"
 
 #. i18n: keyword: RewardSpools
 msgid "Spools"
-msgstr ""
+msgstr "Carretéis"
 
 #. i18n: keyword: RewardBolts
 msgid "Bolts of Cloth"
-msgstr ""
+msgstr "Parafusos de Tecido"
 
 #. i18n: keyword: RewardNintendoBolts
 msgid "Bolts of Cloth"
-msgstr ""
+msgstr "Parafusos de Tecido"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr ""
+msgstr "<b>Pontos Klei</b><br>Os pontos Klei são utilizados para resgatar conquistas dentro do jogo na página de recompensas da Klei."
 
 #. i18n: keyword: RewardSpoolsGlossary
 msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-game."
-msgstr ""
+msgstr "<b>Carretéis</b><br>Os carretéis são utilizados para tecer os itens no Armário Curio dentro do jogo."
 
 #. i18n: keyword: RewardBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>Parafusos de Tecido</b><br>(Apenas PlayStation e XBox) Moeda utilizada dentro jogo para comprar skins e pacotes da loja."
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>Parafusos de Tecido</b><br>(Apenas Nintendo Switch) Moeda utilizada dentro do jogo para comprar skins e pacotes da loja."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -2077,3 +2077,4 @@ msgstr "O banimento em sua conta não é reversível."
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
 msgstr "Ah não! Parece que você clicou em um link quebrado. Pode ser necessário autenticar-se novamente."
+
