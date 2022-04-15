@@ -463,7 +463,7 @@ msgstr "Успешное объединение учётных записей"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr "Объединение учётных записей прошло успешно.</p><p>Мы очистили ваш сеанс, чтобы вы могли войти в систему с помощью новой учётной записи.</p><p>Игры на другую платформу будут предоставляться по запросу.</p><p>Помните, что вы должны <strong>запустить игру хотя бы один раз</strong>, чтобы мы могли зафиксировать её наличие."
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"

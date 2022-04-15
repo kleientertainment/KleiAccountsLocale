@@ -463,7 +463,7 @@ msgstr "Association de compte réussie"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr "L'opération d'association de compte est un succès.</p><p>Merci de vous re-connecter.</p><p>Il est maintenant possible de jouer à certains jeux sur d'autres platforms dans la page: mes jeux."
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"

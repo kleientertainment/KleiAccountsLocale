@@ -463,7 +463,7 @@ msgstr "Hợp nhất tài khoản thành công"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr "Quá trình hợp nhất tài khoản đã thành công.</p><p>Chúng tôi đã dọn dẹp phiên để bạn có thể đăng nhập với tài khoản mới.</p><p>Các trò chơi sẽ được cung cấp tùy theo yêu cầu trên nền tảng chơi game khác.</p><p>Hãy nhớ rằng bạn phải <strong>khởi động trò chơi ít nhất một lần</strong> để chúng tôi có thể phát hiện ra nó."
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"

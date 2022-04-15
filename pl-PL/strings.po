@@ -463,7 +463,7 @@ msgstr "Udane połączenie kont"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr "Operacja łączenia kont zakończyła się sukcesem.</p><p>Wyczyściliśmy Twoją sesję, aby umożliwić Ci zalogowanie się na nowe konto.</p><p>Gry będą przyznawane na żądanie na innej platformie gier.< /p><p>Pamiętaj, że musisz <strong>przynajmniej raz uruchomić grę</strong>, abyśmy mogli ją wykryć."
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"

@@ -463,7 +463,7 @@ msgstr "Hesap Birleştirme Başarılı"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr "Hesap birleştirme işlemi başarılı oldu. </p> <p> Yeni hesapla giriş yapabilmeniz için oturumunuzu temizledik. </p> <p> Diğer oyun platformunda talep üzerine oyunlara verilecek. </p> <p> Bunu algılayabilmemiz için <strong> oyunu en az bir kez başlatmanız gerektiğini </strong> unutmayın."
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
