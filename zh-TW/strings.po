@@ -422,7 +422,7 @@ msgid "Merge An Account"
 msgstr "合併帳戶"
 
 #. i18n: keyword: MergeAccountInstructionsDescription
-msgid "Merge An Account"
+msgid "If you are using a public computer or one you share with other people you may want to use your browser's "Incognito Window" function (or equivalent) to ensure you are merging your own accounts and not someone else's, as the account merge process cannot be reversed."
 msgstr ""
 
 #. i18n: keyword: MergeAccountInstructionsContinue
@@ -444,6 +444,10 @@ msgstr ""
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
 msgstr "這個流程將允許 Klei 帳號去關聯多個平台，此功能適用於當您在多個平台上擁有帳戶，並希望將它們全部連接到同一個 Klei 帳戶時。"
+
+#. i18n: keyword: MergeAccountSelectDescription
+msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
+msgstr ""
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
