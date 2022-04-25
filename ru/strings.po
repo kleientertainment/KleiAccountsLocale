@@ -422,7 +422,7 @@ msgid "Merge An Account"
 msgstr "Объединить учётную запись"
 
 #. i18n: keyword: MergeAccountInstructionsDescription
-msgid "If you are using a public computer or one you share with other people you may want to use your browser's "Incognito Window" function (or equivalent) to ensure you are merging your own accounts and not someone else's, as the account merge process cannot be reversed."
+msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are merging your own accounts and not someone else's, as the account merge process cannot be reversed."
 msgstr ""
 
 #. i18n: keyword: MergeAccountInstructionsContinue
