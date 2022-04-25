@@ -1052,10 +1052,6 @@ msgstr ""
 msgid "Bolts of Cloth"
 msgstr ""
 
-#. i18n: keyword: RewardNintendoBolts
-msgid "Bolts of Cloth"
-msgstr ""
-
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
 msgstr ""
