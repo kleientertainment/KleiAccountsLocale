@@ -421,9 +421,33 @@ msgstr ""
 msgid "Merge An Account"
 msgstr "Bir Hesabı Birleştir"
 
+#. i18n: keyword: MergeAccountInstructionsDescription
+msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are merging your own accounts and not someone else's, as the account merge process cannot be reversed."
+msgstr ""
+
+#. i18n: keyword: MergeAccountInstructionsContinue
+msgid "Continue"
+msgstr ""
+
+#. i18n: keyword: MergeAccountConnectedTitle
+msgid "Connected"
+msgstr ""
+
+#. i18n: keyword: MergeAccountConnectedID
+msgid "ID:"
+msgstr ""
+
+#. i18n: keyword: MergeAccountNotConnected
+msgid "Not connected"
+msgstr ""
+
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
 msgstr "Bu işlem, bir Klei hesabının birden çok platformla ilişkilendirilmesine izin verecektir. Bu,işlem birden fazla platformda hesabınız olduğunda ve hepsinin tek bir Klei hesabına toplanmasını amaçlamıştır."
+
+#. i18n: keyword: MergeAccountSelectDescription
+msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
+msgstr ""
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -445,33 +469,57 @@ msgstr "Lütfen onaylamak için büyük harflerle “merge accounts“ yazın."
 msgid "I understand the consequences, merge these accounts"
 msgstr "Sonuçları anlıyorum, bu hesapları birleştiriyorum"
 
-#. i18n: keyword: MergeAccountDoButton
-msgid "I understand, merge these accounts"
-msgstr "Anlıyorum, bu hesapları birleştir"
-
 #. i18n: keyword: MergeAccountSuccessTitle
 msgid "Successful Account Merge"
 msgstr "Hesap Birleştirme Başarılı"
 
 #. i18n: keyword: MergeAccountSuccessDescription
-msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>Games will be granted on demand on the other gaming platform.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr "Hesap birleştirme işlemi başarılı oldu. </p> <p> Yeni hesapla giriş yapabilmeniz için oturumunuzu temizledik. </p> <p> Diğer oyun platformunda talep üzerine oyunlara verilecek. </p> <p> Bunu algılayabilmemiz için <strong> oyunu en az bir kez başlatmanız gerektiğini </strong> unutmayın."
+msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
 msgstr "Uyarıları Düzelt"
 
-#. i18n: keyword: MergeAccountReviewEmail
-msgid "Below is your Klei account e-mail:"
-msgstr "Klei hesabı e-postanız aşağıdadır:"
+#. i18n: keyword: MergeAccountDate
+msgid "Account creation date"
+msgstr ""
+
+#. i18n: keyword: MergeAccountEmail
+msgid "Klei Account e-mail"
+msgstr ""
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
 msgstr "Lütfen birleştirilecek doğru oyun hesabı olup olmadığını iki kez kontrol edin."
 
-#. i18n: keyword: MergeAccountReadyToExecute
-msgid "We have checked all the information we could find about the two accounts you are about to merge and did not find any warnings. You will be able to log in with the new account after submitting this form."
-msgstr "Birleştirmek üzere olduğunuz iki hesap hakkında bulabildiğimiz tüm bilgileri kontrol ettik ve herhangi bir uyarı bulamadık. Bu formu gönderdikten sonra yeni hesapla giriş yapabilirsiniz."
+#. i18n: keyword: MergeAccountCheckProfileSelected
+msgid "Make sure this is the account you want to keep."
+msgstr ""
+
+#. i18n: keyword: MergeAccountCheckProfileUnselected
+msgid "You'll lose all your progress and items in this account."
+msgstr ""
+
+#. i18n: keyword: MergeAccountReadyButton
+msgid "Merge accounts"
+msgstr ""
+
+#. i18n: keyword: MergeAccountReady
+msgid "You will be able to log in with the new account after submitting."
+msgstr ""
+
+#. i18n: keyword: MergeAccountMerging
+msgid "Merging…"
+msgstr ""
+
+#. i18n: keyword: MergeAccountWarningsTitle
+msgid "Warning"
+msgstr ""
+
+#. i18n: keyword: MergeAccountWarningsSubtitle
+msgid "You need to fix these issues"
+msgstr ""
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
@@ -528,6 +576,18 @@ msgstr "Epic Games hesabınızı zaten birleştirdiniz."
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
 msgstr "Steam hesabınızı zaten birleştirdiniz."
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
+msgid "You already merged your Xbox Network account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
+msgid "You already merged your Nintendo account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
+msgid "You already merged your Tencent Games account."
+msgstr ""
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -1167,6 +1227,46 @@ msgstr ""
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
+msgstr ""
+
+#. i18n: keyword: LP_STEAM_Username
+msgid "Steam username"
+msgstr ""
+
+#. i18n: keyword: LP_EPIC_Username
+msgid "Epic Games username"
+msgstr ""
+
+#. i18n: keyword: LP_XBL_Username
+msgid "Xbox Network username"
+msgstr ""
+
+#. i18n: keyword: LP_RAIL_Username
+msgid "Tencent Games username"
+msgstr ""
+
+#. i18n: keyword: LP_NINTENDO_Username
+msgid "Nintendo username"
+msgstr ""
+
+#. i18n: keyword: MergeFailedTitle
+msgid "Account Merging Failed"
+msgstr ""
+
+#. i18n: keyword: MergeFailedErrorDescription
+msgid "An error has occured while merging the following KUs:"
+msgstr ""
+
+#. i18n: keyword: MergeFailedSourceKU
+msgid "<b>Source KU:</b> {{ .Data.SourceKU }}"
+msgstr ""
+
+#. i18n: keyword: MergeFailedDestinationKU
+msgid "<b>Destination KU:</b> {{ .Data.DestinationKU }}"
+msgstr ""
+
+#. i18n: keyword: MergeFailedDescription
+msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
 msgstr ""
 
 #. i18n: keyword: E_INVALID_CODE
@@ -1872,6 +1972,10 @@ msgstr "İşlem Desteklenmiyor"
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
 msgstr "Eşya Oluştur"
+
+#. i18n: keyword: TXN_INVENTORY_MERGE
+msgid "Account Merge"
+msgstr ""
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
