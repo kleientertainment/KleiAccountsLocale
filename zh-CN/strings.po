@@ -421,6 +421,14 @@ msgstr "解绑Discord账户"
 msgid "Merge An Account"
 msgstr "合并账户"
 
+#. i18n: keyword: MergeAccountInstructionsDescription
+msgid "Merge An Account"
+msgstr ""
+
+#. i18n: keyword: MergeAccountInstructionsContinue
+msgid "Continue"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConnectedTitle
 msgid "Connected"
 msgstr ""

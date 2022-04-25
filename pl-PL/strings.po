@@ -421,6 +421,14 @@ msgstr "Odłącz konto Discord"
 msgid "Merge An Account"
 msgstr "Połącz konto"
 
+#. i18n: keyword: MergeAccountInstructionsDescription
+msgid "Merge An Account"
+msgstr ""
+
+#. i18n: keyword: MergeAccountInstructionsContinue
+msgid "Continue"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConnectedTitle
 msgid "Connected"
 msgstr ""
