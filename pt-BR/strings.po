@@ -16,7 +16,6 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
-"X-Generator: Poedit 3.0.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -587,8 +586,8 @@ msgid "You already merged your Nintendo account."
 msgstr "Você já mesclou sua conta da Nintendo."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
-msgid "You already merged your Tencent Games account."
-msgstr "Você já mesclou sua conta da Tencent Games."
+msgid "You already merged your WeGame account."
+msgstr "Você já mesclou sua conta da WeGame."
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -1206,6 +1205,10 @@ msgstr "Validação do Código de Presente"
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
 msgstr "Use esta página para verificar se seu código de presente é válido e se ainda não foi resgatado. Esta ação NÃO resgatará o código de presente. "
 
+#. i18n: keyword: ValidateGiftCodeLabel
+msgid "Enter Your Code"
+msgstr ""
+
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"
 msgstr "Código de Validação"
@@ -1239,8 +1242,8 @@ msgid "Xbox Network username"
 msgstr "Usuário da Xbox Network"
 
 #. i18n: keyword: LP_RAIL_Username
-msgid "Tencent Games username"
-msgstr "Usuário da Tencent Games"
+msgid "WeGame username"
+msgstr "Usuário da WeGame"
 
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
