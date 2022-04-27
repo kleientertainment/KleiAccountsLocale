@@ -586,7 +586,7 @@ msgid "You already merged your Nintendo account."
 msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
-msgid "You already merged your Tencent Games account."
+msgid "You already merged your WeGame account."
 msgstr ""
 
 #. i18n: keyword: OwnershipDescription
@@ -1242,7 +1242,7 @@ msgid "Xbox Network Username"
 msgstr ""
 
 #. i18n: keyword: LP_RAIL_Username
-msgid "Tencent Games Username"
+msgid "WeGame Username"
 msgstr ""
 
 #. i18n: keyword: LP_NINTENDO_Username
