@@ -498,8 +498,8 @@ msgid "Make sure this is the account you want to keep."
 msgstr "Certifique-se de que esta é a conta que você quer manter."
 
 #. i18n: keyword: MergeAccountCheckProfileUnselected
-msgid "You'll lose all your progress and items in this account."
-msgstr "Você perderá todo o progresso e itens desta conta."
+msgid "You'll lose all your in-game progress in this account."
+msgstr ""
 
 #. i18n: keyword: MergeAccountReadyButton
 msgid "Merge accounts"
@@ -512,6 +512,10 @@ msgstr "Você será capaz de acessar a na nova conta depois de enviar."
 #. i18n: keyword: MergeAccountMerging
 msgid "Merging…"
 msgstr "Mesclando…"
+
+#. i18n: keyword: MergeAccountDoNotLeave
+msgid "Please do not leave this page"
+msgstr ""
 
 #. i18n: keyword: MergeAccountWarningsTitle
 msgid "Warning"
@@ -532,6 +536,18 @@ msgstr "Esse processo é permanente e não pode ser alterado ou revertido."
 #. i18n: keyword: MergeAccountConsentQuestion3
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
 msgstr "Assim que uma plataforma foi ligada a conta Klei, ela não pode ser desligada."
+
+#. i18n: keyword: ContinueMergeTitle
+msgid "Continue Merge"
+msgstr ""
+
+#. i18n: keyword: ContinueMergeDescription
+msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
+msgstr ""
+
+#. i18n: keyword: ContinueMergeButton
+msgid "Continue"
+msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
