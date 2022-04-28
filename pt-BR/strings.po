@@ -545,6 +545,10 @@ msgstr "Continuar Mesclagem"
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
 msgstr "Sua conta está em processo de mesclagem <b>{{ .Data.SourceKU }}</b> para <b>{{ .Data.DestinationKU }}</b>, você não poderá acessa-lá até que a mesclagem seja concluída.<br>Por favor, clique no botão abaixo para continuar a mesclagem."
 
+#. i18n: keyword: ContinueMergeButton
+msgid "Continue"
+msgstr "Continuar"
+
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
 msgstr "Infelizmente, a plataforma de jogo que você está tentando mesclar não tem capacidade para executar essa operação ainda."
@@ -1216,6 +1220,10 @@ msgstr "Validação do Código de Presente"
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
 msgstr "Use esta página para verificar se seu código de presente é válido e se ainda não foi resgatado. Esta ação NÃO resgatará o código de presente. "
+
+#. i18n: keyword: ValidateGiftCodeLabel
+msgid "Enter Your Code"
+msgstr "Coloque seu Código"
 
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"
