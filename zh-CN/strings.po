@@ -489,6 +489,14 @@ msgstr "账户创建日期"
 msgid "Klei Account e-mail"
 msgstr "科雷账户邮箱"
 
+#. i18n: keyword: MergeAccountKeepThis
+msgid "Keep this account"
+msgstr "保留这个账户"
+
+#. i18n: keyword: MergeAccountMergeThis
+msgid "Merge this account"
+msgstr "合并这个账户"
+
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
 msgstr "请仔细检查这是正确的要合并的游戏账户。"
@@ -536,14 +544,6 @@ msgstr "此操作是永久性的，无法撤销或更改。"
 #. i18n: keyword: MergeAccountConsentQuestion3
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
 msgstr "一个平台一旦被关联到Klei账户就无法取消。"
-
-#. i18n: keyword: MergeInProgressTitle
-msgid "Merge In Progress"
-msgstr "正在合并中"
-
-#. i18n: keyword: MergeInProgressDescription
-msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
-msgstr "你的账户已登出，因为在账户合并过程中出现了中断。请再次登录以尝试继续合并账户。"
 
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
