@@ -537,6 +537,14 @@ msgstr "此操作是永久性的，无法撤销或更改。"
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
 msgstr "一个平台一旦被关联到Klei账户就无法取消。"
 
+#. i18n: keyword: MergeInProgressTitle
+msgid "Merge In Progress"
+msgstr ""
+
+#. i18n: keyword: MergeInProgressDescription
+msgid "You have been logged out because an interruption occured while account merging was in progress. Please log in again to try to continue merging."
+msgstr ""
+
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
 msgstr ""

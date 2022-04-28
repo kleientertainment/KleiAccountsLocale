@@ -537,6 +537,14 @@ msgstr "Cette procédure est permanente et irréversible."
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
 msgstr "Une fois qu'une plateforme est liée à un compte, cela ne peut être défait."
 
+#. i18n: keyword: MergeInProgressTitle
+msgid "Merge In Progress"
+msgstr ""
+
+#. i18n: keyword: MergeInProgressDescription
+msgid "You have been logged out because an interruption occured while account merging was in progress. Please log in again to try to continue merging."
+msgstr ""
+
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
 msgstr ""
