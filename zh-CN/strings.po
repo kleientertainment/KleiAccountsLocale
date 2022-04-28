@@ -447,7 +447,7 @@ msgstr "此操作将允许一个Klei账户与多个平台相关联。这适用�
 
 #. i18n: keyword: MergeAccountSelectDescription
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
-msgstr "请选择你希望保留的账户,<b>另外一个账号将丢失游戏存档内数据</b>"
+msgstr "请选择你希望保留的账户,<b>另外一个账户将丢失游戏存档内数据</b>"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -475,7 +475,7 @@ msgstr "合并账户成功"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr "账户合并成功</p><p>我们已清除你的登陆信息,请用新账户登录。</p><p>如果你合并了Epic和Steam，并且在任一平台上都有Griftlands，那么它也将在另一个平台上也被授予。</p><p>请注意你需要<strong>至少启动一次游戏</strong>我们才能检测到它."
+msgstr "账户合并成功</p><p>我们已清除你的登陆信息,请用新账户登录。</p><p>如果你合并了Epic和Steam，并且在任一平台上有Griftlands，那么它也将在另一个平台上也被授予。</p><p>请注意你需要<strong>至少启动一次游戏</strong>我们才能检测到它."
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
