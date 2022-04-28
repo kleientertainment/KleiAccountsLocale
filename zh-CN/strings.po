@@ -423,23 +423,23 @@ msgstr "合并账户"
 
 #. i18n: keyword: MergeAccountInstructionsDescription
 msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are merging your own accounts and not someone else's, as the account merge process cannot be reversed."
-msgstr ""
+msgstr "如果你使用的是公共电脑或是别人的电脑，建议使用浏览器的“隐身模式”（或类似功能）以确保合并的是自己的账户，避免错误地将自己的账户合并到别人账户中。账户合并的过程是不可逆的。"
 
 #. i18n: keyword: MergeAccountInstructionsContinue
 msgid "Continue"
-msgstr ""
+msgstr "继续"
 
 #. i18n: keyword: MergeAccountConnectedTitle
 msgid "Connected"
-msgstr ""
+msgstr "已连接"
 
 #. i18n: keyword: MergeAccountConnectedID
 msgid "ID:"
-msgstr ""
+msgstr "ID:"
 
 #. i18n: keyword: MergeAccountNotConnected
 msgid "Not connected"
-msgstr ""
+msgstr "未连接"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -447,7 +447,7 @@ msgstr "此操作将允许一个Klei账户与多个平台相关联。这适用�
 
 #. i18n: keyword: MergeAccountSelectDescription
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
-msgstr ""
+msgstr "请选择你想保留的账户。<b>你会失去在其他账户的游戏进度。</b>"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -463,7 +463,7 @@ msgstr "确认"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "请输入 大写的“merge accounts” 以确认："
+msgstr "请输入大写的“merge accounts”以确认："
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"
@@ -475,7 +475,7 @@ msgstr "合并账户成功"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr ""
+msgstr "账户合并成功。</p><p>我们已经清空了你的会话，你可以使用新账户登录了。</p><p>如果你已经合并了Epic和Steam平台，只要你在其中一个平台拥有《欺诈之地》，我们就会在另外一个平台也给你一份。</p><p>请注意 <strong>必须至少启动一次游戏</strong> 我们的后台才能获取到信息。"
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -483,11 +483,11 @@ msgstr "修复警告"
 
 #. i18n: keyword: MergeAccountDate
 msgid "Account creation date"
-msgstr ""
+msgstr "账户创建日期"
 
 #. i18n: keyword: MergeAccountEmail
 msgid "Klei Account e-mail"
-msgstr ""
+msgstr "科雷账户邮箱"
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
@@ -495,35 +495,35 @@ msgstr "请仔细检查这是正确的要合并的游戏账户。"
 
 #. i18n: keyword: MergeAccountCheckProfileSelected
 msgid "Make sure this is the account you want to keep."
-msgstr ""
+msgstr "请确定这是你想保留的账户。"
 
 #. i18n: keyword: MergeAccountCheckProfileUnselected
 msgid "You'll lose all your in-game progress in this account."
-msgstr ""
+msgstr "你会失去此账户中的所有游戏进度。"
 
 #. i18n: keyword: MergeAccountReadyButton
 msgid "Merge accounts"
-msgstr ""
+msgstr "合并账户"
 
 #. i18n: keyword: MergeAccountReady
 msgid "You will be able to log in with the new account after submitting."
-msgstr ""
+msgstr "提交后，你将能够用新账户登录。"
 
 #. i18n: keyword: MergeAccountMerging
 msgid "Merging…"
-msgstr ""
+msgstr "合并中……"
 
 #. i18n: keyword: MergeAccountDoNotLeave
 msgid "Please do not leave this page"
-msgstr ""
+msgstr "请不要离开此页"
 
 #. i18n: keyword: MergeAccountWarningsTitle
 msgid "Warning"
-msgstr ""
+msgstr "警告"
 
 #. i18n: keyword: MergeAccountWarningsSubtitle
 msgid "You need to fix these issues"
-msgstr ""
+msgstr "你需要解决这些问题"
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
@@ -537,17 +537,25 @@ msgstr "此操作是永久性的，无法撤销或更改。"
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
 msgstr "一个平台一旦被关联到Klei账户就无法取消。"
 
+#. i18n: keyword: MergeInProgressTitle
+msgid "Merge In Progress"
+msgstr "正在合并中"
+
+#. i18n: keyword: MergeInProgressDescription
+msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
+msgstr "你的账户已登出，因为在账户合并过程中出现了中断。请再次登录以尝试继续合并账户。"
+
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
-msgstr ""
+msgstr "继续合并"
 
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
-msgstr ""
+msgstr "你正在把<b>{{ .Data.SourceKU }}</b> 账户合并到<b>{{ .Data.DestinationKU }}</b>，合并完成前你将无法登录。<br>请点击下方按钮继续合并。"
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue"
-msgstr ""
+msgstr "继续"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
@@ -595,15 +603,15 @@ msgstr "您已经合并过了Steam账户。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
 msgid "You already merged your Xbox Network account."
-msgstr ""
+msgstr "你已经合并了你的Xbox账户。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
 msgid "You already merged your Nintendo account."
-msgstr ""
+msgstr "你已经合并了你的任天堂账户。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
 msgid "You already merged your WeGame account."
-msgstr ""
+msgstr "你已经合并了你的WeGame账户。"
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -1059,31 +1067,31 @@ msgstr "替代"
 
 #. i18n: keyword: RewardPoints
 msgid "Klei Points"
-msgstr ""
+msgstr "科雷点数"
 
 #. i18n: keyword: RewardSpools
 msgid "Spools"
-msgstr ""
+msgstr "线轴"
 
 #. i18n: keyword: RewardBolts
 msgid "Bolts of Cloth"
-msgstr ""
+msgstr "布卷"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr ""
+msgstr "<b>科雷点数</b><br>科雷点数可以在科雷奖励页面换取游戏奖励。"
 
 #. i18n: keyword: RewardSpoolsGlossary
 msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-game."
-msgstr ""
+msgstr "<b>线轴</b><br>线轴可以在游戏的珍宝柜中编织物品。"
 
 #. i18n: keyword: RewardBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>布卷</b><br>(仅限PlayStation and XBox)游戏商店中用来购买皮肤和套装的游戏货币。"
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>布卷</b><br>(仅限任天堂Switch)游戏商店中用来购买皮肤和套装的游戏货币。"
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1195,7 +1203,7 @@ msgstr "您好！看上去您有一个物品码或礼品码，您想要现在兑
 
 #. i18n: keyword: GiftRedemptionGoToValidation
 msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
-msgstr ""
+msgstr "如果你只是想检查你的礼品码是否有效而不想兑换，你可以前往 <a href='/account/validate-gift'>礼品码验证页</a>。"
 
 #. i18n: keyword: GiftRedemptionCodeLabel
 msgid "Enter Your Code"
@@ -1215,75 +1223,75 @@ msgstr "点击此处以兑换另一个礼品"
 
 #. i18n: keyword: ValidateGiftTitle
 msgid "Gift Code Validation"
-msgstr ""
+msgstr "礼品码验证"
 
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
-msgstr ""
+msgstr "你可以在这个页面检查礼品码是否有效和有没有被兑换。这个操作不会兑换礼品码。"
 
 #. i18n: keyword: ValidateGiftCodeLabel
 msgid "Enter Your Code"
-msgstr ""
+msgstr "输入礼品码"
 
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"
-msgstr ""
+msgstr "验证礼品码"
 
 #. i18n: keyword: ValidateGiftAgainButton
 msgid "Click here to validate another code"
-msgstr ""
+msgstr "再验证一个礼品码"
 
 #. i18n: keyword: ValidateGiftInvalid
 msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b>无效。"
 
 #. i18n: keyword: ValidateGiftRedeemed
 msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b>已经被兑换过。"
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b>有效且没被兑换过。"
 
 #. i18n: keyword: LP_STEAM_Username
 msgid "Steam username"
-msgstr ""
+msgstr "Steam用户名"
 
 #. i18n: keyword: LP_EPIC_Username
 msgid "Epic Games username"
-msgstr ""
+msgstr "Epic Games用户名"
 
 #. i18n: keyword: LP_XBL_Username
 msgid "Xbox Network username"
-msgstr ""
+msgstr "Xbox Network用户名"
 
 #. i18n: keyword: LP_RAIL_Username
 msgid "WeGame username"
-msgstr ""
+msgstr "WeGame用户名"
 
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
-msgstr ""
+msgstr "任天堂用户名"
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
-msgstr ""
+msgstr "账户合并失败"
 
 #. i18n: keyword: MergeFailedErrorDescription
 msgid "An error has occured while merging the following KUs:"
-msgstr ""
+msgstr "在合并下列KU（科雷账户）时发生错误："
 
 #. i18n: keyword: MergeFailedSourceKU
 msgid "<b>Source KU:</b> {{ .Data.SourceKU }}"
-msgstr ""
+msgstr "<b>源KU:</b> {{ .Data.SourceKU }}"
 
 #. i18n: keyword: MergeFailedDestinationKU
 msgid "<b>Destination KU:</b> {{ .Data.DestinationKU }}"
-msgstr ""
+msgstr "<b>目的KU:</b> {{ .Data.DestinationKU }}"
 
 #. i18n: keyword: MergeFailedDescription
 msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
-msgstr ""
+msgstr "你的账户已登出。请联系<a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>客服</a>寻求进一步帮助。 "
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
@@ -1991,7 +1999,7 @@ msgstr "创建一个物品"
 
 #. i18n: keyword: TXN_INVENTORY_MERGE
 msgid "Account Merge"
-msgstr ""
+msgstr "账户合并"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
@@ -2063,11 +2071,11 @@ msgstr "Twitch物品掉落"
 
 #. i18n: keyword: TXN_DOUYU_ITEM_DROP
 msgid "Douyu Item Drop"
-msgstr ""
+msgstr "斗鱼道具掉落"
 
 #. i18n: keyword: TXN_BILIBILI_ITEM_DROP
 msgid "Bilibili Item Drop"
-msgstr ""
+msgstr "B站道具掉落"
 
 #. i18n: keyword: TXN_DAILY_GIFT_ITEM
 msgid "Daily Gift Item"
@@ -2079,19 +2087,19 @@ msgstr "每周礼物"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Shop Chest (Steam)"
-msgstr "Steam盒子"
+msgstr "内购箱子（Steam）"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
 msgid "Shop Chest (Tencent Games)"
-msgstr "腾讯游戏盒子"
+msgstr "内购箱子（腾讯游戏）"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
 msgid "Shop Chest (Currency)"
-msgstr "Currency盒子"
+msgstr "内购箱子（货币）"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Shop Chest (Steam DLC)"
-msgstr "Steam游戏盒子DLC包"
+msgstr "内购箱子（Steam DLC）"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
