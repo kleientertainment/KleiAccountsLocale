@@ -489,6 +489,14 @@ msgstr "Data de criação de conta"
 msgid "Klei Account e-mail"
 msgstr "E-mail da Conta Klei"
 
+#. i18n: keyword: MergeAccountKeepThis
+msgid "Keep this account"
+msgstr ""
+
+#. i18n: keyword: MergeAccountMergeThis
+msgid "Merge this account"
+msgstr ""
+
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
 msgstr "Por favor cheque se está correto sua conta de jogo para mesclar."
