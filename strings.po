@@ -541,7 +541,7 @@ msgid "Merge In Progress"
 msgstr ""
 
 #. i18n: keyword: MergeInProgressDescription
-msgid "You have been logged out because an interruption occured while account merging was in progress. Please log in again to try to continue merging."
+msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
 msgstr ""
 
 #. i18n: keyword: ContinueMergeTitle
