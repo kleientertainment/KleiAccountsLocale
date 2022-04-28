@@ -587,11 +587,11 @@ msgstr "此账户没有可合并的内容。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
-msgstr "您已经合并过了Epic Games账户。"
+msgstr "您已经合并了Epic Games账户。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
-msgstr "您已经合并过了Steam账户。"
+msgstr "您已经合并了Steam账户。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
 msgid "You already merged your Xbox Network account."
@@ -1219,7 +1219,7 @@ msgstr "礼品码验证"
 
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
-msgstr "这个页面可以在不兑换礼物码的情况下验证的你礼物码是否可用，它不会真实的兑换礼品"
+msgstr "这个页面可以在不兑换礼物码的情况下验证的你礼物码是否有效，它不会真正的兑换礼品"
 
 #. i18n: keyword: ValidateGiftCodeLabel
 msgid "Enter Your Code"
