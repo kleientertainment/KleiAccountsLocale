@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-06-21 00:46-0700\n"
+"PO-Revision-Date: 2022-04-28 12:29-0300\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: English (https://accounts.klei.com/community-translations)\n"
 "Language: en\n"
@@ -426,6 +426,7 @@ msgid "If you are using a public computer or one you share with other people you
 msgstr ""
 
 #. i18n: keyword: MergeAccountInstructionsContinue
+#. i18n: keyword: ContinueMergeButton
 msgid "Continue"
 msgstr ""
 
@@ -484,6 +485,7 @@ msgstr ""
 #. i18n: keyword: MergeAccountDate
 msgid "Account creation date"
 msgstr ""
+
 #. i18n: keyword: MergeAccountEmail
 msgid "Klei Account e-mail"
 msgstr ""
@@ -542,10 +544,6 @@ msgstr ""
 
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
-msgstr ""
-
-#. i18n: keyword: ContinueMergeButton
-msgid "Continue"
 msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
@@ -1197,6 +1195,7 @@ msgid "If you would like to check the validity of your code without redeeming it
 msgstr ""
 
 #. i18n: keyword: GiftRedemptionCodeLabel
+#. i18n: keyword: ValidateGiftCodeLabel
 msgid "Enter Your Code"
 msgstr ""
 
@@ -1218,10 +1217,6 @@ msgstr ""
 
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
-msgstr ""
-
-#. i18n: keyword: ValidateGiftCodeLabel
-msgid "Enter Your Code"
 msgstr ""
 
 #. i18n: keyword: ValidateGiftSubmitButton

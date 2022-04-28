@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-04-26 14:06-0300\n"
+"PO-Revision-Date: 2022-04-28 12:14-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -426,6 +426,7 @@ msgid "If you are using a public computer or one you share with other people you
 msgstr "Se você estiver usando um computador público ou um compartilhado com outras pessoas, você pode usar a função \"Janela Anônima\" (ou semelhante) do seu navegador para garantir que você está mesclando suas próprias contas e não as de outra pessoa, já que o processo de mesclagem de contas não pode ser revertido."
 
 #. i18n: keyword: MergeAccountInstructionsContinue
+#. i18n: keyword: ContinueMergeButton
 msgid "Continue"
 msgstr "Continuar"
 
@@ -543,10 +544,6 @@ msgstr ""
 
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
-msgstr ""
-
-#. i18n: keyword: ContinueMergeButton
-msgid "Continue"
 msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
@@ -1220,10 +1217,6 @@ msgstr "Validação do Código de Presente"
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
 msgstr "Use esta página para verificar se seu código de presente é válido e se ainda não foi resgatado. Esta ação NÃO resgatará o código de presente. "
-
-#. i18n: keyword: ValidateGiftCodeLabel
-msgid "Enter Your Code"
-msgstr ""
 
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"
