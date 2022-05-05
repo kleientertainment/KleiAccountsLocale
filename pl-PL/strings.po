@@ -1149,6 +1149,10 @@ msgstr "Śledź nas na Instagramie"
 msgid "Subscribe to our newsletter"
 msgstr "Zapisz się do naszego newslettera"
 
+#. i18n: keyword: RewardNameMerge
+msgid "Merge Klei Accounts"
+msgstr ""
+
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
 msgstr "Kod do wykorzystania"
@@ -1164,6 +1168,10 @@ msgstr "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>O
 #. i18n: keyword: RewardMessageNewsletter
 msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
 msgstr "<a href='/account/settings' target='_blank'>Zasubskrybuj nasz newsletter</a>, aby odebrać tę nagrodę."
+
+#. i18n: keyword: RewardMessageMerge
+msgid "<a href='/account/merge' target='_blank'>Merge an account</a> to claim this reward."
+msgstr ""
 
 #. i18n: keyword: RewardItemCost
 msgid "Cost"
