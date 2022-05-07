@@ -1169,6 +1169,10 @@ msgstr " <a href='https://www.instagram.com/kleientertainment /' target='_blank'
 msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
 msgstr "<a href='/account/settings' target='_blank'>Падпішыцеся на нашу рассылку</a>, каб атрымаць гэтую ўзнагароду."
 
+#. i18n: keyword: RewardMessagMissingEmail
+msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
+msgstr ""
+
 #. i18n: keyword: RewardMessageMerge
 msgid "<a href='/account/merge' target='_blank'>Merge an account</a> to claim this reward."
 msgstr ""
