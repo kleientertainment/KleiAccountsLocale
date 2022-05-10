@@ -490,6 +490,14 @@ msgstr "账户创建日期"
 msgid "Klei Account e-mail"
 msgstr "科雷账户邮箱"
 
+#. i18n: keyword: MergeAccountKeepThis
+msgid "Keep this account"
+msgstr "保留这个账户"
+
+#. i18n: keyword: MergeAccountMergeThis
+msgid "Merge this account"
+msgstr "合并这个账户"
+
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
 msgstr "请仔细检查这是正确的要合并的游戏账户。"
@@ -1146,6 +1154,10 @@ msgstr "在Instagram上关注我们"
 msgid "Subscribe to our newsletter"
 msgstr "订阅我们的新闻"
 
+#. i18n: keyword: RewardNameMerge
+msgid "Merge Klei Accounts"
+msgstr ""
+
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
 msgstr "兑换码"
@@ -1161,6 +1173,14 @@ msgstr "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>�
 #. i18n: keyword: RewardMessageNewsletter
 msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
 msgstr "<a href='/account/settings' target='_blank'>订阅我们的新闻</a>以获得此奖励。"
+
+#. i18n: keyword: RewardMessagMissingEmail
+msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
+msgstr ""
+
+#. i18n: keyword: RewardMessageMerge
+msgid "<a href='/account/merge' target='_blank'>Merge an account</a> to claim this reward."
+msgstr ""
 
 #. i18n: keyword: RewardItemCost
 msgid "Cost"

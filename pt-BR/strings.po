@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-04-28 12:14-0300\n"
+"PO-Revision-Date: 2022-04-28 11:55-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -490,6 +490,14 @@ msgstr "Data de criação de conta"
 msgid "Klei Account e-mail"
 msgstr "E-mail da Conta Klei"
 
+#. i18n: keyword: MergeAccountKeepThis
+msgid "Keep this account"
+msgstr "Manter esta conta"
+
+#. i18n: keyword: MergeAccountMergeThis
+msgid "Merge this account"
+msgstr "Mesclar esta conta"
+
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
 msgstr "Por favor cheque se está correto sua conta de jogo para mesclar."
@@ -500,7 +508,7 @@ msgstr "Certifique-se de que esta é a conta que você quer manter."
 
 #. i18n: keyword: MergeAccountCheckProfileUnselected
 msgid "You'll lose all your in-game progress in this account."
-msgstr ""
+msgstr "Você perderá todo o progresso do jogo desta conta."
 
 #. i18n: keyword: MergeAccountReadyButton
 msgid "Merge accounts"
@@ -516,7 +524,7 @@ msgstr "Mesclando…"
 
 #. i18n: keyword: MergeAccountDoNotLeave
 msgid "Please do not leave this page"
-msgstr ""
+msgstr "Por favor, não saia desta página"
 
 #. i18n: keyword: MergeAccountWarningsTitle
 msgid "Warning"
@@ -538,13 +546,21 @@ msgstr "Esse processo é permanente e não pode ser alterado ou revertido."
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
 msgstr "Assim que uma plataforma foi ligada a conta Klei, ela não pode ser desligada."
 
+#. i18n: keyword: MergeInProgressTitle
+msgid "Merge In Progress"
+msgstr ""
+
+#. i18n: keyword: MergeInProgressDescription
+msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
+msgstr ""
+
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
-msgstr ""
+msgstr "Continuar Mesclagem"
 
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
-msgstr ""
+msgstr "Sua conta está em processo de mesclagem <b>{{ .Data.SourceKU }}</b> para <b>{{ .Data.DestinationKU }}</b>, você não poderá acessa-lá até que a mesclagem seja concluída.<br>Por favor, clique no botão abaixo para continuar a mesclagem."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
@@ -1138,6 +1154,10 @@ msgstr "Siga-nos no Instagram"
 msgid "Subscribe to our newsletter"
 msgstr "Inscreva-se em nosso Boletim Informativo (newsletter)"
 
+#. i18n: keyword: RewardNameMerge
+msgid "Merge Klei Accounts"
+msgstr ""
+
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
 msgstr "Código Resgatável"
@@ -1153,6 +1173,14 @@ msgstr "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>S
 #. i18n: keyword: RewardMessageNewsletter
 msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
 msgstr "<a href='/account/settings' target='_blank'>Inscreva-se em nosso Boletim Informativo (newsletter)</a> para resgatar esta recompensa."
+
+#. i18n: keyword: RewardMessagMissingEmail
+msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
+msgstr ""
+
+#. i18n: keyword: RewardMessageMerge
+msgid "<a href='/account/merge' target='_blank'>Merge an account</a> to claim this reward."
+msgstr ""
 
 #. i18n: keyword: RewardItemCost
 msgid "Cost"

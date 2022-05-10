@@ -490,6 +490,14 @@ msgstr ""
 msgid "Klei Account e-mail"
 msgstr ""
 
+#. i18n: keyword: MergeAccountKeepThis
+msgid "Keep this account"
+msgstr ""
+
+#. i18n: keyword: MergeAccountMergeThis
+msgid "Merge this account"
+msgstr ""
+
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
 msgstr "Переконайтесь у правильності ігрового акаунту, який потрібно об'єднати."
@@ -537,6 +545,14 @@ msgstr "Цей процес безповоротний і його неможл�
 #. i18n: keyword: MergeAccountConsentQuestion3
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
 msgstr "Після того, як платформа буде пов'язана з обліковим записом Klei, її не можна буде від'єднати."
+
+#. i18n: keyword: MergeInProgressTitle
+msgid "Merge In Progress"
+msgstr ""
+
+#. i18n: keyword: MergeInProgressDescription
+msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
+msgstr ""
 
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
@@ -1138,6 +1154,10 @@ msgstr "Слідкуйте за нами в Instagram"
 msgid "Subscribe to our newsletter"
 msgstr "Підпишіться на нашу розсилку"
 
+#. i18n: keyword: RewardNameMerge
+msgid "Merge Klei Accounts"
+msgstr ""
+
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
 msgstr ""
@@ -1153,6 +1173,14 @@ msgstr "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>�
 #. i18n: keyword: RewardMessageNewsletter
 msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
 msgstr "<a href='/account/settings' target='_blank'>Підпишіться на нашу розсилку</a>, щоб отримати цю нагороду."
+
+#. i18n: keyword: RewardMessagMissingEmail
+msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
+msgstr ""
+
+#. i18n: keyword: RewardMessageMerge
+msgid "<a href='/account/merge' target='_blank'>Merge an account</a> to claim this reward."
+msgstr ""
 
 #. i18n: keyword: RewardItemCost
 msgid "Cost"
