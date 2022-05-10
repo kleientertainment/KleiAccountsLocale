@@ -545,6 +545,14 @@ msgstr "Цей процес безповоротний і його неможл�
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
 msgstr "Після того, як платформа буде пов'язана з обліковим записом Klei, її не можна буде від'єднати."
 
+#. i18n: keyword: MergeInProgressTitle
+msgid "Merge In Progress"
+msgstr ""
+
+#. i18n: keyword: MergeInProgressDescription
+msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
+msgstr ""
+
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
 msgstr ""
