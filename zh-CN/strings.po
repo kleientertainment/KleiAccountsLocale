@@ -582,7 +582,7 @@ msgid "Please update your *Klei* accounts to use the same e-mail address and sta
 msgstr "请更新您的*Klei*账户以使用相同的邮箱地址，然后重新开始该操作。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid "Please verify/validate the e-mail address in both accounts and start the process again."
+msgid "Please verify/validate the e-mail address in both Klei Accounts and start the process again."
 msgstr "请确认两个账户中的邮箱地址，然后重新开始该操作。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
