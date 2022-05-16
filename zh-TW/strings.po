@@ -545,6 +545,14 @@ msgstr "這個流程將是永久性的，且無法被復原或更改。"
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
 msgstr "一但有平台被連接到一個 Klei 帳戶，它將無法被解除連接。"
 
+#. i18n: keyword: MergeInProgressTitle
+msgid "Merge In Progress"
+msgstr ""
+
+#. i18n: keyword: MergeInProgressDescription
+msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
+msgstr ""
+
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
 msgstr ""
@@ -574,7 +582,7 @@ msgid "Please update your *Klei* accounts to use the same e-mail address and sta
 msgstr "請更新您的 *Klei* 帳戶以使用相同的電子郵件地址，然後重新開始該流程。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid "Please verify/validate the e-mail address in both accounts and start the process again."
+msgid "Please verify/validate the e-mail address in both Klei Accounts and start the process again."
 msgstr "請驗證兩個帳戶中的電子郵件地址，然後重新開始該流程。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED

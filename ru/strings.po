@@ -545,6 +545,14 @@ msgstr "Этот процесс необратим и не может быть �
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
 msgstr "Платформа, подключённая к учётной записи Klei, не может быть отключена."
 
+#. i18n: keyword: MergeInProgressTitle
+msgid "Merge In Progress"
+msgstr ""
+
+#. i18n: keyword: MergeInProgressDescription
+msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
+msgstr ""
+
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
 msgstr ""
@@ -574,7 +582,7 @@ msgid "Please update your *Klei* accounts to use the same e-mail address and sta
 msgstr "Пожалуйста, обновите свои учётные записи *Klei*, чтобы использовать тот же адрес электронной почты, и начните процесс заново."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid "Please verify/validate the e-mail address in both accounts and start the process again."
+msgid "Please verify/validate the e-mail address in both Klei Accounts and start the process again."
 msgstr "Пожалуйста, подтвердите адрес электронной почты в обеих учётных записях и начните процесс заново."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED

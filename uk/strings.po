@@ -707,6 +707,14 @@ msgstr ""
 "Після того, як платформа буде пов'язана з обліковим записом Klei, її не "
 "можна буде від'єднати."
 
+#. i18n: keyword: MergeInProgressTitle
+msgid "Merge In Progress"
+msgstr ""
+
+#. i18n: keyword: MergeInProgressDescription
+msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
+msgstr ""
+
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
 msgstr "Продовжити об’єднання"
@@ -759,12 +767,8 @@ msgstr ""
 "електронну адресу, а потім запустіть процес заново."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid ""
-"Please verify/validate the e-mail address in both accounts and start the "
-"process again."
-msgstr ""
-"Будь ласка, перевірте/підтвердьте адресу електронної пошти в обох акаунтах "
-"та запустіть процес заново."
+msgid "Please verify/validate the e-mail address in both Klei Accounts and start the process again."
+msgstr "Будь ласка, перевірте/підтвердьте адресу електронної пошти в обох акаунтах та запустіть процес заново."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
