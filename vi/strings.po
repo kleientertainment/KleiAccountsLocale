@@ -562,7 +562,7 @@ msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> int
 msgstr ""
 
 #. i18n: keyword: ContinueMergeButton
-msgid "Continue"
+msgid "Continue Merging"
 msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
@@ -1225,7 +1225,7 @@ msgstr "Xin chào! Có vẻ như bạn đang sở hữu một mã quà tặng, b
 msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
 msgstr ""
 
-#. i18n: keyword: GiftRedemptionCodeLabel
+#. i18n: keyword: GiftCodeLabel
 msgid "Enter Your Code"
 msgstr "Nhập mã của bạn"
 
@@ -1247,10 +1247,6 @@ msgstr ""
 
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
-msgstr ""
-
-#. i18n: keyword: ValidateGiftCodeLabel
-msgid "Enter Your Code"
 msgstr ""
 
 #. i18n: keyword: ValidateGiftSubmitButton
