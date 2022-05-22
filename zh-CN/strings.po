@@ -562,8 +562,8 @@ msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> int
 msgstr "你正在把<b>{{ .Data.SourceKU }}</b> 账户合并到<b>{{ .Data.DestinationKU }}</b>，合并完成前你将无法登录。<br>请点击下方按钮继续合并。"
 
 #. i18n: keyword: ContinueMergeButton
-msgid "Continue"
-msgstr "继续"
+msgid "Continue Merging"
+msgstr "继续合并"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
@@ -1225,7 +1225,7 @@ msgstr "您好！看上去您有一个物品码或礼品码，您想要现在兑
 msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
 msgstr "如果你只是想检查你的礼品码是否有效而不想兑换，你可以前往 <a href='/account/validate-gift'>礼品码验证页</a>。"
 
-#. i18n: keyword: GiftRedemptionCodeLabel
+#. i18n: keyword: GiftCodeLabel
 msgid "Enter Your Code"
 msgstr "输入你的礼品码"
 
@@ -1248,10 +1248,6 @@ msgstr "礼品码验证"
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
 msgstr "你可以在这个页面检查礼品码是否有效和有没有被兑换。这个操作不会兑换礼品码。"
-
-#. i18n: keyword: ValidateGiftCodeLabel
-msgid "Enter Your Code"
-msgstr "输入礼品码"
 
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"

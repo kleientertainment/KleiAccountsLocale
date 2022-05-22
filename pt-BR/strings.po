@@ -562,8 +562,8 @@ msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> int
 msgstr "Sua conta está em processo de mesclagem <b>{{ .Data.SourceKU }}</b> para <b>{{ .Data.DestinationKU }}</b>, você não poderá acessa-lá até que a mesclagem seja concluída.<br>Por favor, clique no botão abaixo para continuar a mesclagem."
 
 #. i18n: keyword: ContinueMergeButton
-msgid "Continue"
-msgstr "Continuar"
+msgid "Continue Merging"
+msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
@@ -1225,7 +1225,7 @@ msgstr "Olá! Parece que você tem um item ou um código de presente, gostaria d
 msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
 msgstr "Se você quiser verificar a validade do seu código sem resgatá-lo, você pode ir para a <a href='/account/validate-gift'>página de validação do código de presente</a>."
 
-#. i18n: keyword: GiftRedemptionCodeLabel
+#. i18n: keyword: GiftCodeLabel
 msgid "Enter Your Code"
 msgstr "Coloque seu Código"
 
@@ -1248,10 +1248,6 @@ msgstr "Validação do Código de Presente"
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
 msgstr "Use esta página para verificar se seu código de presente é válido e se ainda não foi resgatado. Esta ação NÃO resgatará o código de presente. "
-
-#. i18n: keyword: ValidateGiftCodeLabel
-msgid "Enter Your Code"
-msgstr "Coloque seu Código"
 
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"
