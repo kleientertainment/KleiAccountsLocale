@@ -63,7 +63,7 @@ msgstr "獎勵"
 
 #. i18n: keyword: Transactions
 msgid "Transactions"
-msgstr ""
+msgstr "交易"
 
 #. i18n: keyword: Settings
 msgid "Settings"
@@ -203,7 +203,7 @@ msgstr "哎呀，您的超連結好像是無效的。"
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "Please verify your email address to continue."
-msgstr ""
+msgstr "請驗證您的電子郵件地址以繼續。"
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -355,7 +355,7 @@ msgstr "我們會把關於您的帳戶或遊戲的新消息和更新發送到該
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "We have sent a verification code to your new email address to authorize the change."
-msgstr ""
+msgstr "我們已將驗證碼發送到您的新電子郵件地址以授權變更。"
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -399,23 +399,23 @@ msgstr "我們已向您發送電子郵件以確認您訂閱我們的郵件清單
 
 #. i18n: keyword: MarketingOptionsArchived
 msgid "Your newsletter subscription has been archived due to recent changes in your account. We archive newsletter subscriptions when you request deletion of your Klei account or when you make repetitive changes in your marketing options. You can try to subscribe one more time. If this does not work, please contact support."
-msgstr ""
+msgstr "由於您的帳戶最近變更過，您的電子報訂閱已被取消，當您請求刪除您的 Klei 帳戶或對營銷選項進行重複更改時，我們會取消電子報訂閱，您可以嘗試再訂閱一次。如果這沒有用，請聯繫客服人員。"
 
 #. i18n: keyword: E_MARKETING_API_SERVICE_IS_OFFLINE
 msgid "The third-party service we use to manage your newsletter subscription is having problems processing our requests. Please try again later."
-msgstr ""
+msgstr "我們用來管理您電子報訂閱的第三方服務，目前對於您的請求發生了點問題，請稍後再試。"
 
 #. i18n: keyword: LinkDiscordTitle
 msgid "Link Discord Account"
-msgstr ""
+msgstr "連結 Discord 帳戶"
 
 #. i18n: keyword: LinkDiscordDescription
 msgid "This will link your Discord Account to your Klei Account."
-msgstr ""
+msgstr "這將會連結你的 Discord 帳戶到你的 Klei 帳戶。"
 
 #. i18n: keyword: UnlinkDiscordTitle
 msgid "Unlink Discord Account"
-msgstr ""
+msgstr "取消連結 Discord 帳戶"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -423,23 +423,23 @@ msgstr "合併帳戶"
 
 #. i18n: keyword: MergeAccountInstructionsDescription
 msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are merging your own accounts and not someone else's, as the account merge process cannot be reversed."
-msgstr ""
+msgstr "如果你正使用公共電腦或是與其他人分享電腦，建議您使用瀏覽器的「無痕模式」（或類似的）功能，來確保合併的是你的帳戶而不是別人的，因為合併過程將無法取消。"
 
 #. i18n: keyword: MergeAccountInstructionsContinue
 msgid "Continue"
-msgstr ""
+msgstr "繼續"
 
 #. i18n: keyword: MergeAccountConnectedTitle
 msgid "Connected"
-msgstr ""
+msgstr "已連結"
 
 #. i18n: keyword: MergeAccountConnectedID
 msgid "ID:"
-msgstr ""
+msgstr "ID："
 
 #. i18n: keyword: MergeAccountNotConnected
 msgid "Not connected"
-msgstr ""
+msgstr "尚未連結"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -447,7 +447,7 @@ msgstr "這個流程將允許 Klei 帳戶去關聯多個平台，此功能適用
 
 #. i18n: keyword: MergeAccountSelectDescription
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
-msgstr ""
+msgstr "請選擇你想要保留的帳戶，<b>您將會損失另一個帳戶的遊戲進度。</b>"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -475,7 +475,7 @@ msgstr "成功合併帳戶"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr ""
+msgstr "帳戶合併操作已成功過，</p><p>我們將會清除您的 session，來你已新的帳戶登入，</p><p>如果你已經合併 Epic 與 Steam 以及你有的其它平台上的 Griftlands，這也將在其它平台中授權，</p><p>記住你必須<strong>至少開啟過一次遊戲</strong>來讓我們能夠偵測到它。"
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -483,19 +483,19 @@ msgstr "修正警告"
 
 #. i18n: keyword: MergeAccountDate
 msgid "Account creation date"
-msgstr ""
+msgstr "帳戶建立日期"
 
 #. i18n: keyword: MergeAccountEmail
 msgid "Klei Account e-mail"
-msgstr ""
+msgstr "Klei 帳戶電子郵件"
 
 #. i18n: keyword: MergeAccountKeepThis
 msgid "Keep this account"
-msgstr ""
+msgstr "保留這個帳戶"
 
 #. i18n: keyword: MergeAccountMergeThis
 msgid "Merge this account"
-msgstr ""
+msgstr "合併這個帳戶"
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
@@ -503,35 +503,35 @@ msgstr "請再次確認要將此遊戲帳戶合併。"
 
 #. i18n: keyword: MergeAccountCheckProfileSelected
 msgid "Make sure this is the account you want to keep."
-msgstr ""
+msgstr "確定這是你想要保留的帳戶"
 
 #. i18n: keyword: MergeAccountCheckProfileUnselected
 msgid "You'll lose all your in-game progress in this account."
-msgstr ""
+msgstr "你將會失去你於這個帳戶的遊戲進度。"
 
 #. i18n: keyword: MergeAccountReadyButton
 msgid "Merge accounts"
-msgstr ""
+msgstr "合併帳戶"
 
 #. i18n: keyword: MergeAccountReady
 msgid "You will be able to log in with the new account after submitting."
-msgstr ""
+msgstr "你將會能夠在提交後，以新的帳戶登入"
 
 #. i18n: keyword: MergeAccountMerging
 msgid "Merging…"
-msgstr ""
+msgstr "合併中..."
 
 #. i18n: keyword: MergeAccountDoNotLeave
 msgid "Please do not leave this page"
-msgstr ""
+msgstr "請不要離開這個頁面"
 
 #. i18n: keyword: MergeAccountWarningsTitle
 msgid "Warning"
-msgstr ""
+msgstr "警告"
 
 #. i18n: keyword: MergeAccountWarningsSubtitle
 msgid "You need to fix these issues"
-msgstr ""
+msgstr "你必須修正這個問題"
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
@@ -547,23 +547,23 @@ msgstr "一但有平台被連接到一個 Klei 帳戶，它將無法被解除連
 
 #. i18n: keyword: MergeInProgressTitle
 msgid "Merge In Progress"
-msgstr ""
+msgstr "合併進行中"
 
 #. i18n: keyword: MergeInProgressDescription
 msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
-msgstr ""
+msgstr "你已經登出，因為在帳戶合併中發生了一個故障，請重新登入來繼續合併。"
 
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
-msgstr ""
+msgstr "繼續合併"
 
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
-msgstr ""
+msgstr "你的帳戶正在合併 <b>{{ .Data.SourceKU }}</b> 到 <b>{{ .Data.DestinationKU }}</b>，你將無法登入直到合併完成，<br>請點擊下方的按鈕來繼續合併。"
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
-msgstr ""
+msgstr "繼續合併"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
@@ -603,23 +603,23 @@ msgstr "沒有任何東西可以合併進這個帳戶。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
-msgstr ""
+msgstr "您已經合併您的 Epic Games 帳戶。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
-msgstr ""
+msgstr "您已經合併您的 Steam 帳戶。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
 msgid "You already merged your Xbox Network account."
-msgstr ""
+msgstr "您已經合併您的 Xbox Network 帳戶。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
 msgid "You already merged your Nintendo account."
-msgstr ""
+msgstr "您已經合併您的 Nintendo 帳戶。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
 msgid "You already merged your WeGame account."
-msgstr ""
+msgstr "您已經合併您的 WeGame 帳戶。"
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -675,15 +675,15 @@ msgstr "刪除帳戶"
 
 #. i18n: keyword: UnlinkThis
 msgid "Unlink"
-msgstr ""
+msgstr "取消連結"
 
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
-msgstr ""
+msgstr "你確定你想要取消你的"
 
 #. i18n: keyword: UnlinkAccount
 msgid "Unlink Account"
-msgstr ""
+msgstr "取消連結帳戶"
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
@@ -739,7 +739,7 @@ msgstr "請輸入「delete my account」的大寫英文，以確認操作："
 
 #. i18n: keyword: DeleteAccountReason
 msgid "Please explain the reason for the account deletion:"
-msgstr ""
+msgstr "請說明為何要刪除帳戶："
 
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
@@ -767,23 +767,23 @@ msgstr "取消"
 
 #. i18n: keyword: ExportData
 msgid "Export Data"
-msgstr ""
+msgstr "匯出資料"
 
 #. i18n: keyword: ExportDataShortDescription
 msgid "We can arrange for a report of your account details as controlled by Klei."
-msgstr ""
+msgstr "我們可以安排報告您的帳戶由 Klei 控制的詳細信息。"
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
-msgstr ""
+msgstr "這顯示您已經在 24 小時內下載您的資料，<br><br>請等到明天再下載另一份您資料的副本<br><br>感謝您的耐心等候。"
 
 #. i18n: keyword: DownloadData
 msgid "Download Data"
-msgstr ""
+msgstr "下載資料"
 
 #. i18n: keyword: DownloadingData
 msgid "Downloading Data..."
-msgstr ""
+msgstr "資料下載中..."
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -807,7 +807,7 @@ msgstr "獲取DRM-free遊戲"
 
 #. i18n: keyword: DRMFreeGameKey
 msgid "DRM Game Key"
-msgstr ""
+msgstr "DRM Game 金鑰"
 
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
@@ -819,7 +819,7 @@ msgstr "您可以在 DRM-free 下載這個遊戲。更多資料詳見 <a href=\"
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
-msgstr ""
+msgstr "錯誤：您似乎沒有任何遊戲。"
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
@@ -883,11 +883,11 @@ msgstr "成功新增伺服器"
 
 #. i18n: keyword: DeleteGameServer
 msgid "Delete Game Server"
-msgstr ""
+msgstr "刪除遊戲伺服器"
 
 #. i18n: keyword: DeleteGameServerConfirmation
 msgid "Are you sure you want to delete this server:"
-msgstr ""
+msgstr "你確定你想要刪除這個伺服器："
 
 #. i18n: keyword: RemoveServer
 msgid "Delete"
@@ -963,31 +963,31 @@ msgstr "你的物品清單"
 
 #. i18n: keyword: ItemsDialogRarity
 msgid "Rarity:"
-msgstr ""
+msgstr "稀有度："
 
 #. i18n: keyword: ItemsDialogRedeemed
 msgid "Redeemed:"
-msgstr ""
+msgstr "已兌換："
 
 #. i18n: keyword: ItemsFilterRarity
 msgid "Rarity"
-msgstr ""
+msgstr "稀有度"
 
 #. i18n: keyword: RollbackDialogConfirmation
 msgid "Are you sure you want to rollback this transaction?"
-msgstr ""
+msgstr "你確定想要回退這筆交易？"
 
 #. i18n: keyword: RollbackDialogNotEnoughCurrency
 msgid "You don't have enough currency for this rollback! You need another"
-msgstr ""
+msgstr "您沒有足夠的貨幣來完成回退！你要有其它的"
 
 #. i18n: keyword: RollbackGain
 msgid "You will gain"
-msgstr ""
+msgstr "您將會獲得"
 
 #. i18n: keyword: RollbackLose
 msgid "You will lose"
-msgstr ""
+msgstr "您將會失去"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -995,11 +995,11 @@ msgstr "下載設置"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
-msgstr ""
+msgstr "即將進行的專案的測試"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr ""
+msgstr "你可以註冊你有興趣的 alpha 與 beta 測試專案，如果你被同意加入，你將會收到一則電子郵件。"
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -1015,7 +1015,7 @@ msgstr "註冊"
 
 #. i18n: keyword: BetaRegistered
 msgid "Registered. We will notify you if you have been selected to participate in this test."
-msgstr ""
+msgstr "已註冊，我們將會通知您，如果你已被獲選參與這次測試。"
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -1067,7 +1067,7 @@ msgstr "成功兌換！"
 
 #. i18n: keyword: PlayerOwnsAnotherItemRarity
 msgid "You already own a different rarity version of this item, are you sure you would like to redeem points for it? Please, visit the <a href='/account/game/inventory?game=DST'>game inventory</a> page for more information."
-msgstr ""
+msgstr "你已經有一個不同的稀有度等級的該物品，你確定你想要以點數兌換它嗎？請訪問<a href='/account/game/inventory?game=DST'>遊戲物品庫</a>頁面來取得更多資訊。"
 
 #. i18n: keyword: RewardAlternative
 msgid "Alternative"
@@ -1075,31 +1075,32 @@ msgstr "另一個"
 
 #. i18n: keyword: RewardPoints
 msgid "Klei Points"
-msgstr ""
+msgstr "Klei 點數"
 
 #. i18n: keyword: RewardSpools
 msgid "Spools"
-msgstr ""
+msgstr "線軸"
 
-#. i18n: keyword: RewardBolts
+#. i18n: keyword: Reward
+s
 msgid "Bolts of Cloth"
-msgstr ""
+msgstr "布匹"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr ""
+msgstr "<b>Klei 點數</b><br>Klei 點數用來從 Klei 獎勵頁面兌換遊戲內的獎勵"
 
 #. i18n: keyword: RewardSpoolsGlossary
 msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-game."
-msgstr ""
+msgstr "<b>線軸</b><br>線軸用來在 Curio Cabinet 遊戲內編織物品"
 
 #. i18n: keyword: RewardBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>布匹</b><br>（PlayStation and XBox）遊戲內的貨幣，用來購買遊戲內的 Skin 與包裹。"
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>布匹</b><br>（Nintendo Switch Only）遊戲內的貨幣，用來購買遊戲內的 Skin 與包裹。"
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1107,7 +1108,7 @@ msgstr "點"
 
 #. i18n: keyword: RewardBoltsAbbreviation
 msgid "bolts"
-msgstr "螺栓"
+msgstr "布匹"
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
@@ -1159,11 +1160,11 @@ msgstr "訂閱我們的電子報"
 
 #. i18n: keyword: RewardNameMerge
 msgid "Merge Klei Accounts"
-msgstr ""
+msgstr "合併 Klei 帳戶"
 
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
-msgstr ""
+msgstr "可兌換的代碼"
 
 #. i18n: keyword: RewardMessageFacebook
 msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
@@ -1179,11 +1180,11 @@ msgstr "<a href='/account/settings' target='_blank'>訂閱我們的電子報</a>
 
 #. i18n: keyword: RewardMessagMissingEmail
 msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
-msgstr ""
+msgstr "<a href='/account/settings' target='_blank'>設定你的電子郵件位址</a>來得到這個獎勵。"
 
 #. i18n: keyword: RewardMessageMerge
 msgid "<a href='/account/merge' target='_blank'>Merge an account</a> to claim this reward."
-msgstr ""
+msgstr "<a href='/account/merge' target='_blank'>合併一個帳戶</a>來得到這個獎勵。"
 
 #. i18n: keyword: RewardItemCost
 msgid "Cost"
@@ -1195,7 +1196,7 @@ msgstr "兌換"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
-msgstr ""
+msgstr "獎勵名稱："
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
@@ -2035,7 +2036,7 @@ msgstr "獲得點數"
 
 #. i18n: keyword: TXN_QUEST_FOR_BOLTS
 msgid "Quest For Bolts"
-msgstr ""
+msgstr "獲得布匹"
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
@@ -2047,7 +2048,7 @@ msgstr "以點數兌換物品"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr ""
+msgstr "以布匹兌換物品"
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
@@ -2063,15 +2064,15 @@ msgstr "市集購買"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
-msgstr "市場回退"
+msgstr "市場中回退物品"
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
-msgstr "物品交易失去"
+msgstr "交易中失去物品"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
-msgstr ""
+msgstr "交易中獲得物品"
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
@@ -2143,15 +2144,15 @@ msgstr "可交易"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr ""
+msgstr "布匹餘額不足，請訪問 <a href='/account/transactions'>交易頁面</a> 來確定你有足夠的布匹，來完成這次操作。"
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
-msgstr ""
+msgstr "線軸餘額不足，請訪問 <a href='/account/transactions'>交易頁面</a> 來確定你有足夠的布匹，來完成這次操作。"
 
 #. i18n: keyword: E_INSUFFICIENT_POINTS_BALANCE
 msgid "Insufficient Points Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Points to proceed with this operation."
-msgstr ""
+msgstr "點數餘額不足，請訪問 <a href='/account/transactions'>交易頁面</a> 來確定你有足夠的布匹，來完成這次操作。"
 
 #. i18n: keyword: E_INVALID_SELECTED_FILE_TYPE
 msgid "The file you selected is not allowed. Please select either a JPEG, GIF or PNG file."
@@ -2199,15 +2200,15 @@ msgstr "嗨， <code>{{.Data.KU}}</code>,<br><br>您的帳戶因違反最終用�
 
 #. i18n: keyword: ReviewEULAWarning
 msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
-msgstr ""
+msgstr "再次違反服務條款可能會導致您的帳戶受到額外限制，例如暫時或永久限制訪問線上服務。"
 
 #. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
 msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "您似乎沒有檢閱最終用戶許可協議或服務條款，如果您理性的同意服務條款，請點擊每個連結、閱讀資訊並勾選複選框。"
 
 #. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
 msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "您似乎沒有檢閱最終用戶許可協議或服務條款，如果您理性地同意服務條款，請回到上一頁，閱讀資訊並勾選複選框。"
 
 #. i18n: keyword: E_USER_IS_NOT_BANNED
 msgid "Your account is not banned."
