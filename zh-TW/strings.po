@@ -1082,7 +1082,6 @@ msgid "Spools"
 msgstr "線軸"
 
 #. i18n: keyword: Reward
-s
 msgid "Bolts of Cloth"
 msgstr "布匹"
 
