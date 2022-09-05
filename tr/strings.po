@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-08-31 00:34+0300\n"
+"PO-Revision-Date: 2022-09-01 02:49+0300\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Turkish (https://accounts.klei.com/community-translations)Language: tr\n"
 "Language: tr\n"
@@ -679,11 +679,11 @@ msgstr "Bağlantıyı kaldır"
 
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
-msgstr ""
+msgstr "Bağlantınızı kaldırmak istediğinizden emin misiniz?"
 
 #. i18n: keyword: UnlinkAccount
 msgid "Unlink Account"
-msgstr ""
+msgstr "Hesabın Bağlantısını Kaldır"
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
@@ -739,7 +739,7 @@ msgstr "Lütfen onaylamak için tümü büyük harflerle “delete my account“
 
 #. i18n: keyword: DeleteAccountReason
 msgid "Please explain the reason for the account deletion:"
-msgstr ""
+msgstr "Lütfen hesabın silinme nedenini açıklayın:"
 
 #. i18n: keyword: DeleteAccountButton
 msgid "I understand the consequences, delete this account"
@@ -767,23 +767,23 @@ msgstr "İptal"
 
 #. i18n: keyword: ExportData
 msgid "Export Data"
-msgstr ""
+msgstr "Verileri Dışa Aktar"
 
 #. i18n: keyword: ExportDataShortDescription
 msgid "We can arrange for a report of your account details as controlled by Klei."
-msgstr ""
+msgstr "Klei tarafından kontrol edilen hesap ayrıntılarınız için bir rapor ayarlayabiliriz."
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
-msgstr ""
+msgstr "Verilerinizi 24 saatten kısa bir süre önce indirdiğiniz anlaşılıyor.<br><br>Verilerinizin başka bir kopyasını indirmek için lütfen yarına kadar bekleyin.<br><br>Sabrınız için teşekkür ederiz."
 
 #. i18n: keyword: DownloadData
 msgid "Download Data"
-msgstr ""
+msgstr "Verileri İndir"
 
 #. i18n: keyword: DownloadingData
 msgid "Downloading Data..."
-msgstr ""
+msgstr "Veriler İndiriliyor..."
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -1067,7 +1067,7 @@ msgstr "Başarıyla Kullanıldı!"
 
 #. i18n: keyword: PlayerOwnsAnotherItemRarity
 msgid "You already own a different rarity version of this item, are you sure you would like to redeem points for it? Please, visit the <a href='/account/game/inventory?game=DST'>game inventory</a> page for more information."
-msgstr ""
+msgstr "Bu öğenin farklı bir nadirlik sürümüne zaten sahipsiniz, bunun için puan kullanmak istediğinizden emin misiniz? Daha fazla bilgi için lütfen <a href='/account/game/inventory?game=DST'>oyun envanteri</a> sayfasını ziyaret edin."
 
 #. i18n: keyword: RewardAlternative
 msgid "Alternative"
@@ -1075,31 +1075,31 @@ msgstr "Alternatif"
 
 #. i18n: keyword: RewardPoints
 msgid "Klei Points"
-msgstr ""
+msgstr "Klei Puanları"
 
 #. i18n: keyword: RewardSpools
 msgid "Spools"
-msgstr ""
+msgstr "Makaralar"
 
 #. i18n: keyword: RewardBolts
 msgid "Bolts of Cloth"
-msgstr ""
+msgstr "Kumaş Cıvataları"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr ""
+msgstr "<b>Klei Puanları</b><br>Klei puanları, Klei Ödülleri sayfasından oyun içi ödülleri kullanmak için kullanılır."
 
 #. i18n: keyword: RewardSpoolsGlossary
 msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-game."
-msgstr ""
+msgstr "<b>Makaralar</b><br>Makaralar, oyun içi Curio Dolabındaki öğeleri örmek için kullanılır."
 
 #. i18n: keyword: RewardBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>Kumaş Cıvataları</b><br>(Yalnızca PlayStation ve XBox) Oyun içi mağazadan görünüm ve paket satın almak için kullanılan oyun içi para birimi."
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>Kumaş Cıvataları</b><br>(Yalnızca Nintendo Switch) Oyun içi mağazadan görünüm ve paket satın almak için kullanılan oyun içi para birimi."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1159,11 +1159,11 @@ msgstr "Haber bültenimize abone olun"
 
 #. i18n: keyword: RewardNameMerge
 msgid "Merge Klei Accounts"
-msgstr ""
+msgstr "Klei Hesaplarını Birleştir"
 
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
-msgstr ""
+msgstr "Kullanılabilir Kod"
 
 #. i18n: keyword: RewardMessageFacebook
 msgid "<a href='https://www.facebook.com/kleientertainment/' target='_blank'>Follow us on Facebook</a> to claim this reward."
@@ -1179,11 +1179,11 @@ msgstr "Bu ödülü almak için <a href='/account/settings' target='_blank'>Habe
 
 #. i18n: keyword: RewardMessagMissingEmail
 msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
-msgstr ""
+msgstr "Bu ödülü talep etmek için <a href='/account/settings' target='_blank'>e-posta adresinizi ayarlayın</a>."
 
 #. i18n: keyword: RewardMessageMerge
 msgid "<a href='/account/merge' target='_blank'>Merge an account</a> to claim this reward."
-msgstr ""
+msgstr "Bu ödülü almak için <a href='/account/merge' target='_blank'>Bir hesabı birleştirin</a>."
 
 #. i18n: keyword: RewardItemCost
 msgid "Cost"
@@ -1223,7 +1223,7 @@ msgstr "Merhaba! Bir ürün anahtarınız veya hediye kodunuz var gibi görünü
 
 #. i18n: keyword: GiftRedemptionGoToValidation
 msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
-msgstr ""
+msgstr "Kodunuzu kullanmadan geçerliliğini kontrol etmek isterseniz, <a href='/account/validate-gift'>hediye kodu doğrulama sayfasına</a> gidebilirsiniz."
 
 #. i18n: keyword: GiftCodeLabel
 msgid "Enter Your Code"
@@ -1243,71 +1243,71 @@ msgstr "Başka bir hediye kullanmak için burayı tıklayın"
 
 #. i18n: keyword: ValidateGiftTitle
 msgid "Gift Code Validation"
-msgstr ""
+msgstr "Hediye Kodu Doğrulama"
 
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
-msgstr ""
+msgstr "Hediye kodunuzun geçerli olup olmadığını ve henüz kullanılmadığını kontrol etmek için bu sayfayı kullanın. Bu, hediye kodunu KULLANMAYACAKTIR."
 
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"
-msgstr ""
+msgstr "Kodu Doğrula"
 
 #. i18n: keyword: ValidateGiftAgainButton
 msgid "Click here to validate another code"
-msgstr ""
+msgstr "Başka bir kodu doğrulamak için burayı tıklayın"
 
 #. i18n: keyword: ValidateGiftInvalid
 msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b> geçerli bir kod değil."
 
 #. i18n: keyword: ValidateGiftRedeemed
 msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b> zaten kullanıldı."
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b> geçerli bir koddur ve henüz kullanılmamıştır."
 
 #. i18n: keyword: LP_STEAM_Username
 msgid "Steam username"
-msgstr ""
+msgstr "Steam kullanıcı adı"
 
 #. i18n: keyword: LP_EPIC_Username
 msgid "Epic Games username"
-msgstr ""
+msgstr "Epic kullanıcı adı"
 
 #. i18n: keyword: LP_XBL_Username
 msgid "Xbox Network username"
-msgstr ""
+msgstr "Xbox Network kullanıcı adı"
 
 #. i18n: keyword: LP_RAIL_Username
 msgid "WeGame username"
-msgstr ""
+msgstr "WeGame kullanıcı adı"
 
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
-msgstr ""
+msgstr "Nintendo kullanıcı adı"
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
-msgstr ""
+msgstr "Hesap Birleştirme Başarısız"
 
 #. i18n: keyword: MergeFailedErrorDescription
 msgid "An error has occured while merging the following KUs:"
-msgstr ""
+msgstr "Aşağıdaki KU'lar birleştirilirken bir hata oluştu:"
 
 #. i18n: keyword: MergeFailedSourceKU
 msgid "<b>Source KU:</b> {{ .Data.SourceKU }}"
-msgstr ""
+msgstr "<b>Kaynak KU:</b> {{ .Data.SourceKU }}"
 
 #. i18n: keyword: MergeFailedDestinationKU
 msgid "<b>Destination KU:</b> {{ .Data.DestinationKU }}"
-msgstr ""
+msgstr "<b>Hedef KU:</b> {{ .Data.DestinationKU }}"
 
 #. i18n: keyword: MergeFailedDescription
 msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
-msgstr ""
+msgstr "Hesabınızdan çıkış yaptınız. Daha fazla yardım için lütfen <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>desteğe başvurun</a>."
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
@@ -1399,11 +1399,11 @@ msgstr "Birkaç dakika önce zaten bir destek isteği gönderdiniz. Size ve diğ
 
 #. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
 msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
-msgstr ""
+msgstr "E-posta adresiniz, farklı bir Klei hesabıyla bir destek tanımlayıcısı oluşturmak için zaten kullanılmış gibi görünüyor. Mükerrer destek hesapları oluşturamıyoruz, bu nedenle bir destek bileti göndermek için ikincil Klei hesabınızı kullanarak oturum açmanız gerekecek."
 
 #. i18n: keyword: E_ZENDESK_INVALID_IAT_PARAMETER
 msgid "There was a problem establish a secure connection between Klei Entertainment and Zendesk. These errors are usually temporary, please wait five minutes and try again. If the issue persists, please send us an email instead."
-msgstr ""
+msgstr "Klei Entertainment ve Zendesk arasında güvenli bir bağlantı kurulurken bir sorun oluştu. Bu hatalar genellikle geçicidir, lütfen beş dakika bekleyin ve tekrar deneyin. Sorun devam ederse, lütfen bunun yerine bize bir e-posta gönderin."
 
 #. i18n: keyword: EmailAuthRequired
 msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
