@@ -833,6 +833,30 @@ msgstr "Inventaire"
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
 msgstr "<b>Astuce de recherche :</b> Saisissez un ou plusieurs mots pour rechercher un élément dans votre inventaire de jeu. Si vous voulez trouver un élément appelé <b>Wilson Red Hat</b> vous pouvez soit taper <b>Wilson</b>, ou <b>Hat</b>, ou même <b>Wilson Hat</ b>. L'ordre des termes de recherche est important, cela signifie que vous ne trouverez aucun résultat pour la requête \"Hat Wilson\" car les mots sont dans un ordre différent. <b>Appuyez sur Entrée</b> pour soumettre la recherche. Supprimez les termes de recherche et appuyez à nouveau sur Entrée pour réinitialiser les filtres."
 
+#. i18n: keyword: RemoveDuplicateItems
+msgid "Remove Duplicates"
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsConfirmation
+msgid "Are you sure you want to remove all duplicates of this item and only keep one?"
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsQuantityToRemove
+msgid "Quantity to remove: "
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsToReceive
+msgid "You'll receive: "
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsReceiveNothing
+msgid "Nothing"
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsSuccess
+msgid "Duplicates Removed!"
+msgstr ""
+
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
 msgstr "Le jeu que vous avez sélectionné n'a pas d'objets. Assurez-vous d'avoir sélectionné Don't Starve Together"

@@ -848,6 +848,10 @@ msgstr ""
 msgid "You'll receive: "
 msgstr ""
 
+#. i18n: keyword: RemoveDuplicateItemsReceiveNothing
+msgid "Nothing"
+msgstr ""
+
 #. i18n: keyword: RemoveDuplicateItemsSuccess
 msgid "Duplicates Removed!"
 msgstr ""
