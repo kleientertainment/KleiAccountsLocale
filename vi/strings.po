@@ -457,7 +457,7 @@ msgstr "Vui lòng chọn phần đánh dấu để xác nhận bạn đã đọc
 msgid "Consent questions"
 msgstr "Câu hỏi đồng thuận"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "Xác nhận"
 

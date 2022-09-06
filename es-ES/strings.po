@@ -457,7 +457,7 @@ msgstr "Por favor, haz clic en la casilla para confirmar que haz leido y entendi
 msgid "Consent questions"
 msgstr "Preguntas de consentimiento"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "Confirmar"
 

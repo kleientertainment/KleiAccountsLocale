@@ -457,7 +457,7 @@ msgstr "Будь ласка, натисніть на галочку, аби пі
 msgid "Consent questions"
 msgstr "Погоджуюсь, що"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "Підтвердження"
 

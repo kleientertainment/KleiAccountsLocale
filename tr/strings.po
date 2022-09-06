@@ -457,7 +457,7 @@ msgstr "Aşağıdakileri okuduğunuzu ve anladığınızı onaylamak için lütf
 msgid "Consent questions"
 msgstr "Onay soruları"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "Onayla"
 

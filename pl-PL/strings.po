@@ -457,7 +457,7 @@ msgstr "Kliknij znacznik wyboru, aby potwierdzić, że przeczytałeś i rozumies
 msgid "Consent questions"
 msgstr "Pytania o zgodę"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "Potwierdź"
 

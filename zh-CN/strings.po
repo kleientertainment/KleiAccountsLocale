@@ -457,7 +457,7 @@ msgstr "请勾选以确认您已阅读并理解以下内容。"
 msgid "Consent questions"
 msgstr "同意问题"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "确认"
 

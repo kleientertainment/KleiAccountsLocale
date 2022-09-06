@@ -457,7 +457,7 @@ msgstr "Aktiviere das Auswahlfeld um zu bestätigen, dass du das folgende gelese
 msgid "Consent questions"
 msgstr "Zustimmungsfragen"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "Bestätigen"
 

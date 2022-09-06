@@ -457,7 +457,7 @@ msgstr "Націсніце на галачку, каб пацвердзіць, �
 msgid "Consent questions"
 msgstr "Пытанні аб згодзе"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "Пацвердзіць"
 

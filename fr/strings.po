@@ -457,7 +457,7 @@ msgstr "Veuillez sélectionner la case à cocher pour confirmer que vous avez lu
 msgid "Consent questions"
 msgstr "Accord utilisateur"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "Confirmation"
 
