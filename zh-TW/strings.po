@@ -457,7 +457,7 @@ msgstr "請點擊勾選框來確認您已閱讀並瞭解以下內容。"
 msgid "Consent questions"
 msgstr "同意以下問題"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "確認"
 
@@ -832,6 +832,30 @@ msgstr "物品庫存"
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
 msgstr "<b>搜尋提示：</b>輸入一或多個詞語來搜尋您遊戲庫存的物品，如果您想要找一個名叫 <b>Wilson Red Hat</b> 的物品，你可以輸入 <b>Wilson</b>、<b>Hat</b> 或 <b>Wilson Hat</b>。另外搜尋關鍵字的順序很重要，這代表您無法以 \"Hat Wilson\" 找到任何物品，因為順序不對。按下 Enter 鍵來送出搜尋，刪除搜尋關鍵字並按下 Enter 來取消搜尋。"
+
+#. i18n: keyword: RemoveDuplicateItems
+msgid "Remove Duplicates"
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsConfirmation
+msgid "Are you sure you want to remove all duplicates of this item and only keep one?"
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsQuantityToRemove
+msgid "Quantity to remove: "
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsToReceive
+msgid "You'll receive: "
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsReceiveNothing
+msgid "Nothing"
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsSuccess
+msgid "Duplicates Removed!"
+msgstr ""
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."

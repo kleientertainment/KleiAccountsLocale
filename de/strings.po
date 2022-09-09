@@ -457,7 +457,7 @@ msgstr "Aktiviere das Auswahlfeld um zu bestätigen, dass du das folgende gelese
 msgid "Consent questions"
 msgstr "Zustimmungsfragen"
 
-#. i18n: keyword: MergeAccountConfirm
+#. i18n: keyword: ConfirmOperation
 msgid "Confirm"
 msgstr "Bestätigen"
 
@@ -832,6 +832,30 @@ msgstr "Gegenstands-Inventar"
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
 msgstr "<b>Such-Tipps:</b> Gebe ein oder mehrere Wörter ein, um einen Gegenstand in deinem Spiele-Inventar zu suchen. Wenn du einen Gegenstand namens <b>Wilson Red Hat</b> finden möchtest, gib entweder <b>Wilson</b>, oder <b>Hat</b>, oder auch <b>Wilson Hat</b> ein. Die Reihenfolge der Suchbegriffe ist wichtig, was bedeutet, dass etwa \"Hat Wilson\" aufgrund falscher Wortreihenfolge keine Suchtreffer erzielen wird. Drücke <b>Return</b>, um die Suche zu starten. Lösche die Suchbegriffe und drücke Return erneut, um die Filter zurückzusetzen."
+
+#. i18n: keyword: RemoveDuplicateItems
+msgid "Remove Duplicates"
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsConfirmation
+msgid "Are you sure you want to remove all duplicates of this item and only keep one?"
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsQuantityToRemove
+msgid "Quantity to remove: "
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsToReceive
+msgid "You'll receive: "
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsReceiveNothing
+msgid "Nothing"
+msgstr ""
+
+#. i18n: keyword: RemoveDuplicateItemsSuccess
+msgid "Duplicates Removed!"
+msgstr ""
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
