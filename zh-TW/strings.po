@@ -143,15 +143,15 @@ msgstr "啟用"
 
 #. i18n: keyword: Activating
 msgid "Activating..."
-msgstr "啟用中..."
+msgstr "啟用中…"
 
 #. i18n: keyword: ActivateAccountTitle
 msgid "Activate Account"
-msgstr "啟用帳戶"
+msgstr "啟用帳號"
 
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
-msgstr "您的 Klei 帳戶已經成功建立！請完成以下表單來啟用它來存取其他功能，您也可以訂閱我們的郵件推送，來獲取您最喜歡的遊戲的資訊。"
+msgstr "您的 Klei 帳號已經成功建立！請完成以下表單來啟用它來存取其他功能，您也可以訂閱我們的郵件推送，來獲取您最喜歡的遊戲的資訊。"
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -191,7 +191,7 @@ msgstr "發送驗證郵件"
 
 #. i18n: keyword: VerificationEmailSuccessDescription
 msgid "We’ve sent a verification e-mail to your e-mail address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the e-mail after an hour, first check your spam folder."
-msgstr "我們已經向您的電子郵件發送了一封驗證郵件，請點擊郵件里的超連結以完成註冊，郵件通常是立即發送的，如果在一個小時後仍未收到郵件，請檢查郵件是否在垃圾桶裡。"
+msgstr "我們已經向您的電子郵件發送了一封驗證郵件，請點擊郵件中的超連結以完成註冊，郵件通常是立即發送的，如果在一個小時後仍未收到郵件，請檢查郵件是否在垃圾桶裡。"
 
 #. i18n: keyword: VerificationEmailFailureTitle
 msgid "Invalid Verification"
@@ -223,7 +223,7 @@ msgstr "驗證成功"
 
 #. i18n: keyword: RegistrationCompleteDescription
 msgid "Thanks for verifying your email.</p><p>You’re good to go! You can now return to your game and play online. If you have suggestions, feedback or need support during the beta, head over to the Klei community forum."
-msgstr "感謝驗證您的郵箱。</p><p>一切準備就緒! 現在您可以回到遊戲遊玩了，如果您有任何建議、反饋或者在 beta 測試期間需要幫助，請前往 Klei 社群論壇。"
+msgstr "感謝驗證您的郵箱。</p><p>一切準備就緒！現在您可以回到遊戲遊玩了，如果您有任何建議、反饋或者在 beta 測試期間需要幫助，請前往 Klei 社群論壇。"
 
 #. i18n: keyword: VisitCommunityForum
 msgid "Visit Klei Community Forum"
@@ -251,7 +251,7 @@ msgstr "訂閱"
 
 #. i18n: keyword: Subscribing
 msgid "Subscribing..."
-msgstr "訂閱中..."
+msgstr "訂閱中…"
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
@@ -267,7 +267,7 @@ msgstr "您的電子郵件訂閱已被處理，如果您是第一次訂閱我們
 
 #. i18n: keyword: UserInfo
 msgid "User Info"
-msgstr "用戶資料"
+msgstr "使用者資料"
 
 #. i18n: keyword: UsefulLinks
 msgid "Useful Links"
@@ -275,7 +275,7 @@ msgstr "有效超連結"
 
 #. i18n: keyword: KleiUserID
 msgid "Klei User ID"
-msgstr "Klei 用戶 ID"
+msgstr "Klei 使用者 ID"
 
 #. i18n: keyword: FirstSeen
 msgid "First Seen"
@@ -307,7 +307,7 @@ msgstr "取消訂閱郵件訊息推送"
 
 #. i18n: keyword: SignupForABeta
 msgid "Sign up for a Beta"
-msgstr "註冊參與Beta測試"
+msgstr "註冊參與 Beta 測試"
 
 #. i18n: keyword: DownloadPersonalData
 msgid "Download Personal Data"
@@ -319,7 +319,7 @@ msgstr "玩家 ID"
 
 #. i18n: keyword: UserNotFound
 msgid "user not found"
-msgstr "找不到用戶"
+msgstr "找不到使用者"
 
 #. i18n: keyword: LinkedAccounts
 msgid "Linked Accounts"
@@ -339,7 +339,7 @@ msgstr "Twitch 直播規則"
 
 #. i18n: keyword: AccountLinkRulesDescription
 msgid "Klei Rewards are intended to be a way to support streamers that provide quality content for our community, and “Away From Keyboard (AFK)” streams disrupt the effectiveness of the system. AFK streams or streams showing content other than Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these rules will be unlinked and potentially banned from participating ever again."
-msgstr "Klei Drops 是為了支持為我們的社群提供高質量內容的直播主們，掛機直播會破壞系統的有效性，所以掛機直播和直播關於《饑荒》或者《饑荒：聯機版》以外的內容是不被允許的，違反這些規則的直播主會被取消連結，並會被禁止參與 Klei 的 Klei Drops。"
+msgstr "Klei Drops 是為了支持為我們的社群提供高品質內容的直播主們，掛機直播會破壞系統的有效性，所以掛機直播和直播關於《饑荒》或者《饑荒：聯機版》以外的內容是不被允許的，違反這些規則的直播主會被取消連結，並會被禁止參與 Klei 的 Klei Drops。"
 
 #. i18n: keyword: AccountLinkRulesAccept
 msgid "Accept and Continue"
@@ -419,7 +419,7 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
-msgstr "合併帳戶"
+msgstr "合併帳號"
 
 #. i18n: keyword: MergeAccountInstructionsDescription
 msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are merging your own accounts and not someone else's, as the account merge process cannot be reversed."
@@ -427,23 +427,23 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountInstructionsContinue
 msgid "Continue"
-msgstr ""
+msgstr "繼續"
 
 #. i18n: keyword: MergeAccountConnectedTitle
 msgid "Connected"
-msgstr ""
+msgstr "已連結"
 
 #. i18n: keyword: MergeAccountConnectedID
 msgid "ID:"
-msgstr ""
+msgstr "ID："
 
 #. i18n: keyword: MergeAccountNotConnected
 msgid "Not connected"
-msgstr ""
+msgstr "未連結"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
-msgstr "這個流程將允許 Klei 帳號去關聯多個平台，此功能適用於當您在多個平台上擁有帳戶，並希望將它們全部連接到同一個 Klei 帳戶時。"
+msgstr "這個流程將允許 Klei 帳號去關聯多個平台，此功能適用於當您在多個平台上擁有帳號，並希望將它們全部連接到同一個 Klei 帳號時。"
 
 #. i18n: keyword: MergeAccountSelectDescription
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
@@ -463,15 +463,15 @@ msgstr "確認"
 
 #. i18n: keyword: MergeAccountConfirmation
 msgid "Please type in “merge accounts” but in UPPERCASE letters, to confirm:"
-msgstr "請輸入全大寫的“merge accounts“來確認："
+msgstr "請輸入全大寫的「merge accounts」來確認："
 
 #. i18n: keyword: MergeAccountButton
 msgid "I understand the consequences, merge these accounts"
-msgstr "我瞭解後果，合併這些帳戶"
+msgstr "我瞭解後果，合併這些帳號"
 
 #. i18n: keyword: MergeAccountSuccessTitle
 msgid "Successful Account Merge"
-msgstr "成功合併帳戶"
+msgstr "成功合併帳號"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
@@ -499,7 +499,7 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
-msgstr "請再次確認要將此遊戲帳戶合併。"
+msgstr "請再次確認要將此遊戲帳號合併。"
 
 #. i18n: keyword: MergeAccountCheckProfileSelected
 msgid "Make sure this is the account you want to keep."
@@ -535,7 +535,7 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
-msgstr "如果您未擁有這兩個帳戶，請「不要」合併，這兩個帳戶將會被視為同一人擁有，且將無法同時在多人遊戲中遊玩。"
+msgstr "如果您未擁有這兩個帳號，請「不要」合併，這兩個帳號將會被視為同一人擁有，且將無法同時在多人遊戲中遊玩。"
 
 #. i18n: keyword: MergeAccountConsentQuestion2
 msgid "This process is permanent and cannot be reverted or changed."
@@ -543,7 +543,7 @@ msgstr "這個流程將是永久性的，且無法被復原或更改。"
 
 #. i18n: keyword: MergeAccountConsentQuestion3
 msgid "Once a platform is linked to a Klei Account it cannot be unlinked."
-msgstr "一但有平台被連接到一個 Klei 帳戶，它將無法被解除連接。"
+msgstr "一但有平台被連接到一個 Klei 帳號，它將無法被解除連接。"
 
 #. i18n: keyword: MergeInProgressTitle
 msgid "Merge In Progress"
@@ -571,23 +571,23 @@ msgstr "不幸的是，您嘗試合併的遊戲平台尚不具備執行此操作
 
 #. i18n: keyword: E_ACCOUNT_MERGE_INVALID_CONSENT
 msgid "Invalid user consent, you need to read the account merge instructions very carefully."
-msgstr "無效的用戶同意，您需要非常仔細地閱讀帳戶合併說明。"
+msgstr "無效的使用者同意，您需要非常仔細地閱讀帳號合併說明。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_MISSING_DATA
 msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
-msgstr "由於某些資料丟失，現在無法合併您的帳戶。請取消並重新開始該流程，確保您的網頁瀏覽器接受 cookie，並且您要合併的兩個帳戶是正確的。"
+msgstr "由於某些資料丟失，現在無法合併您的帳號。請取消並重新開始該流程，確保您的網頁瀏覽器接受 cookie，並且您要合併的兩個帳號是正確的。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
-msgstr "請更新您的 *Klei* 帳戶以使用相同的電子郵件地址，然後重新開始該流程。"
+msgstr "請更新您的 *Klei* 帳號以使用相同的電子郵件地址，然後重新開始該流程。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the e-mail address in both Klei Accounts and start the process again."
-msgstr "請驗證兩個帳戶中的電子郵件地址，然後重新開始該流程。"
+msgstr "請驗證兩個帳號中的電子郵件地址，然後重新開始該流程。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
-msgstr "我們無法合併您的帳戶，因為其中一個帳戶已被 ban。"
+msgstr "我們無法合併您的帳號，因為其中一個帳號已被 ban。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PASSWORD_RESET
 msgid "It appears your password was reset some time ago but you never finished the verification process."
@@ -595,11 +595,11 @@ msgstr "您的密碼似乎已在一段時間前重設，但您尚未完成驗證
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_MARKED_FOR_DELETION
 msgid "We cannot merge your accounts because one of them is marked for deletion."
-msgstr "我們無法合併您的帳戶，因為其中一個已標記為刪除。"
+msgstr "我們無法合併您的帳號，因為其中一個已標記為刪除。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_NOTHING_TO_MERGE
 msgid "There is nothing to merge for this account."
-msgstr "沒有任何東西可以合併進這個帳戶。"
+msgstr "沒有任何東西可以合併進這個帳號。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
@@ -647,7 +647,7 @@ msgstr "由 Klei 授權"
 
 #. i18n: keyword: OWNERSHIP_STATUS_GRANTING
 msgid "Granting..."
-msgstr "授權中..."
+msgstr "授權中…"
 
 #. i18n: keyword: OWNERSHIP_STATUS_GRANT_AVAILABLE
 msgid "Available for free"
@@ -803,7 +803,7 @@ msgstr "前往網站"
 
 #. i18n: keyword: GetDRMFreeGames
 msgid "Get DRM-free Games"
-msgstr "獲取DRM-free遊戲"
+msgstr "獲取 DRM-free 遊戲"
 
 #. i18n: keyword: DRMFreeGameKey
 msgid "DRM Game Key"
@@ -923,7 +923,7 @@ msgstr "配置伺服器"
 
 #. i18n: keyword: ConfigureServerDescription
 msgid "The following form allows you to configure the settings for the game server. Depending on which operating system you have you also need to execute a few scripts. Please follow the instructions that correspond to your system: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
-msgstr "以下表單讓您可以配置遊戲伺服器的設置。 根據您擁有的作業系統，您還需要執行一些腳本，請按照與您的作業系統對應的說明進行操作：<a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>。"
+msgstr "以下表單讓您可以配置遊戲伺服器的設定。根據您擁有的作業系統，您還需要執行一些腳本，請按照與您的作業系統對應的說明進行操作：<a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>。"
 
 #. i18n: keyword: ConfigureServerToken
 msgid "Server Token"
@@ -1015,7 +1015,7 @@ msgstr ""
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
-msgstr "下載設置"
+msgstr "下載設定"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
@@ -1043,7 +1043,7 @@ msgstr ""
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
-msgstr "用戶已被接受"
+msgstr "使用者已被接受"
 
 #. i18n: keyword: BetaRegistrationEnded
 msgid "Registration has ended"
@@ -1415,11 +1415,11 @@ msgstr "請 <a href='/account/settings'>綁定一個可用的電子郵件至您�
 
 #. i18n: keyword: E_ZENDESK_EMAIL_NOT_VERIFIED
 msgid "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
-msgstr "此支援系統只開放給有驗證過電子郵件的玩家，請至「用戶資訊」，然後移駕到「偏好設定」版塊的「驗證」按鈕"
+msgstr "此支援系統只開放給有驗證過電子郵件的玩家，請至「使用者資訊」，然後移駕到「偏好設定」版塊的「驗證」按鈕"
 
 #. i18n: keyword: E_ZENDESK_COOLDOWN_TIME
 msgid "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
-msgstr "您已經在數分鐘前送出一個支援請求，請稍等個幾分鐘來讓我們回覆您與其他用戶。"
+msgstr "您已經在數分鐘前送出一個支援請求，請稍等個幾分鐘來讓我們回覆您與其他使用者。"
 
 #. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
 msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
@@ -1447,7 +1447,7 @@ msgstr "錯誤－出生日期：出生日期需要以正確的格式輸入（日
 
 #. i18n: keyword: ErrorTooYoung
 msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
-msgstr "哈囉，小朋友，你必須年滿13歲能才註冊帳號。"
+msgstr "哈囉，小朋友，你必須年滿 13 歲能才註冊帳號。"
 
 #. i18n: keyword: EmailInvalid
 msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
@@ -1491,7 +1491,7 @@ msgstr "如果您仍未找到電子郵件，您可以填寫下面的表格，以
 
 #. i18n: keyword: LoadingSteamProfile
 msgid "Loading Steam Profile…"
-msgstr "載入 Steam 個人資訊中…"
+msgstr "正在載入 Steam 個人資訊…"
 
 #. i18n: keyword: AOLNote
 msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
@@ -1571,7 +1571,7 @@ msgstr "我們無法去驗證您原本的請求，請關閉此頁面並重新開
 
 #. i18n: keyword: E_INVALID_DISPLAYNAME
 msgid "The user name chosen contained invalid characters."
-msgstr "選擇的用戶名包含無效字元。"
+msgstr "選擇的使用者名稱包含無效字元。"
 
 #. i18n: keyword: E_INVALID_EMAIL
 msgid "The e-mail address is not valid. Please check that you entered it correctly."
@@ -1627,7 +1627,7 @@ msgstr "缺少 OAuth 存取令牌，請重試。"
 
 #. i18n: keyword: E_KU_NOT_FOUND
 msgid "It was not possible to get a copy of the information associated to your user account."
-msgstr "無法獲得與用戶帳號資料關聯的遊戲。"
+msgstr "無法獲得與使用者帳號資料關聯的遊戲。"
 
 #. i18n: keyword: E_INVALID_TOKEN
 msgid "The server token is not valid anymore."
@@ -1635,11 +1635,11 @@ msgstr "伺服器令牌不再有效。"
 
 #. i18n: keyword: E_EXPIRED_TOKEN
 msgid "The server token is not valid anymore because it has expired."
-msgstr "伺服器令牌不再有效，因為它已過期。"
+msgstr "伺服器權杖不再有效，因為它已過期。"
 
 #. i18n: keyword: E_BANNED
 msgid "Your account has been banned."
-msgstr "您的帳號已經被 Ban。。"
+msgstr "您的帳號已經被 Ban。"
 
 #. i18n: keyword: E_LOGIN_ERROR
 msgid "We cannot validate your credentials right now. Try again after a few minutes."
@@ -1651,7 +1651,7 @@ msgstr "您的帳號已經被 Ban。"
 
 #. i18n: keyword: E_LOGIN_ERROR_DELETED
 msgid "Your account has been marked for deletion and will be permanently unrecoverable within 30 days. If you require further assistance please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a>."
-msgstr "您的帳號已被標記為刪除，並將在30天內變為永久無法恢復的狀態， 如果您需要進一步的協助，<a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>請聯繫支援</a>。"
+msgstr "您的帳號已被標記為刪除，並將在 30 天內變為永久無法恢復的狀態， 如果您需要進一步的協助，<a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>請聯繫支援</a>。"
 
 #. i18n: keyword: E_LOGIN_ERROR_JWT_AUTH
 msgid "The authentication failed. The details have been sent to the administrators to investigate. Try again after a few minutes."
@@ -1679,7 +1679,7 @@ msgstr "沒有足夠的資訊來執行此操作。"
 
 #. i18n: keyword: E_MISSING_FIELD
 msgid "You must provide a Steam ID, user name, or e-mail address."
-msgstr "您必須提供 Steam ID、用戶名或電子郵件地址."
+msgstr "您必須提供 Steam ID、使用者名稱或電子郵件地址."
 
 #. i18n: keyword: E_MUST_VALIDATE_EMAIL
 msgid "The account has already been created, but is awaiting validation.  Check your e-mail."
@@ -1727,7 +1727,7 @@ msgstr "我們的系統日誌中沒有關於此事件的資料。"
 
 #. i18n: keyword: E_STEAM_USER_OFFLINE
 msgid "Steam user is offline."
-msgstr "Steam 用戶離線。"
+msgstr "Steam 使用者離線。"
 
 #. i18n: keyword: E_STEAMID_IN_USE
 msgid "This Steam account is already in use."
@@ -1743,7 +1743,7 @@ msgstr "未能識別該 Steam ID。"
 
 #. i18n: keyword: E_USERNAME_TAKEN
 msgid "That user name is already in use by another account. Please choose another name."
-msgstr "該用戶名已被使用，請選擇其他名字。"
+msgstr "該使用者名稱已被使用，請選擇其他名字。"
 
 #. i18n: keyword: E_WHIPPERSNAPPER
 msgid "You must be at least 13 years old to register an account."
@@ -1755,11 +1755,11 @@ msgstr "出生日期無效，日期必須是此格式：YYYY-MM-DD"
 
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
-msgstr "Twitch 拒絕了連接到您 Klei 帳戶的請求，這通常是 Twicth 授權伺服器內的暫時性錯誤，請在數分鐘後<a href='/account/twitch/link'>重新嘗試</a>。"
+msgstr "Twitch 拒絕了連接到您 Klei 帳號的請求，這通常是 Twicth 授權伺服器內的暫時性錯誤，請在數分鐘後<a href='/account/twitch/link'>重新嘗試</a>。"
 
 #. i18n: keyword: E_TWITCH_DATA_CONFLICT
 msgid "Apparently you have already connected your game ID with another Twitch account. Open a new session in your web browser (using “Incognito” or “Private” mode, for example) and log in with the secondary Twitch account, visit the “Settings” page, then “Connections”, then disconnect the “Klei Entertainment” application. Finally, return to this page and try to connect your Twitch account again."
-msgstr "很明顯的，您已經以另一個 Twitch 帳戶連結您的遊戲 ID，請在網頁瀏覽器中開啟一個新的 session（例如使用「無痕式視窗」或「隱私瀏覽模式」）"
+msgstr "很明顯的，您已經以另一個 Twitch 帳號連結您的遊戲 ID，請在網頁瀏覽器中開啟一個新的 session（例如使用「無痕式視窗」或「隱私瀏覽模式」）"
 
 #. i18n: keyword: E_TWITCH_DELETED_SECRET
 msgid "Twitch is having problems verifying the credentials associated to our application. This usually happens when an internal service on Twitch infrastructure is having internal server errors. Please try again in a few minutes."
@@ -1867,7 +1867,7 @@ msgstr "遊戲用戶端無法提供所有我們所需要的授權資訊，請關
 
 #. i18n: keyword: E_RAIL_EXPIRED_TOKEN
 msgid "The access token has expired. Tencent is asking you to start the process again."
-msgstr "訪問令牌已過期，騰訊要求您重新開始該過程。"
+msgstr "存取權杖已過期，騰訊要求您重新開始該過程。"
 
 #. i18n: keyword: E_RAIL_GATEWAY_TIMEOUT
 msgid "Tencent’s user authentication service is not available right now. Please <a href='/login'>try again</a> in a few minutes."
@@ -1887,11 +1887,11 @@ msgstr "鬥魚伺服器（採用 Tengine）現在無法使用，請在數分鐘�
 
 #. i18n: keyword: E_BILIBILI_ALREADY_BINDED_TO_KU
 msgid "Your Bilibili account is already linked with a Klei User ID."
-msgstr "您的 Bilibili 帳戶已經連接到 Klei User ID。"
+msgstr "您的 Bilibili 帳號已經連接到 Klei User ID。"
 
 #. i18n: keyword: E_BILIBILI_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Bilibili. If you believe the connection still exists, please <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>visit your Bilibili profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "您的 Klei 帳戶已經從 Bilibili 斷開連結，如果您認為您的連線還存在，請<a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>造訪您的 Bilibili 個人檔案</a>，並手動斷開「Klei Entertainment」的應用程式連結。"
+msgstr "您的 Klei 帳號已經從 Bilibili 斷開連結，如果您認為您的連線還存在，請<a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>造訪您的 Bilibili 個人檔案</a>，並手動斷開「Klei Entertainment」的應用程式連結。"
 
 #. i18n: keyword: E_BILIBILI_GATEWAY_TIMEOUT
 msgid "Bilibili servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
@@ -1903,7 +1903,7 @@ msgstr "表單已逾期，請回到上一頁，重新整理頁面，然後重試
 
 #. i18n: keyword: E_INVALID_USER_CONSENT
 msgid "Invalid user consent, you need to read the account deletion instructions very carefully."
-msgstr "非法的用戶許可，您需要非常仔細地閱讀帳號刪除說明。"
+msgstr "非法的使用者許可，您需要非常仔細地閱讀帳號刪除說明。"
 
 #. i18n: keyword: E_INVALID_VERIFICATION_CODE
 msgid "Invalid verification code."
@@ -1915,15 +1915,15 @@ msgstr "授權提供者未被偵測到，請確認您的網頁瀏覽器允許此
 
 #. i18n: keyword: E_CLIENT_TOKEN_HAS_EXPIRED
 msgid "Client login token has expired."
-msgstr "客戶端登入 token 已逾期。"
+msgstr "用戶端登入 token 已逾期。"
 
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_GAME
 msgid "Client login token was generated for a different game."
-msgstr "客戶端登入 token 是為不同的遊戲產生的。"
+msgstr "用戶端登入 token 是為不同的遊戲產生的。"
 
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_PURPOSE
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
-msgstr "網頁僅支援客戶端登入 token，您提供的 token 似乎有效，但是它是為完全不同的事物產生的。"
+msgstr "網頁僅支援用戶端登入 token，您提供的 token 似乎有效，但是它是為完全不同的事物產生的。"
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
@@ -1983,7 +1983,7 @@ msgstr ""
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
-msgstr "用戶交易紀錄"
+msgstr "使用者交易紀錄"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
