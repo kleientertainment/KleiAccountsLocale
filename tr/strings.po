@@ -1005,11 +1005,11 @@ msgstr "Bu işlemi geri almak istediğinizden emin misiniz?"
 msgid "You don't have enough currency for this rollback! You need another"
 msgstr "Bu geri alma için yeterli para biriminiz yok! başka birine ihtiyacın var"
 
-#. i18n: keyword: RollbackGain
+#. i18n: keyword: TransactionWillGain
 msgid "You will gain"
 msgstr "Kazanacaksın"
 
-#. i18n: keyword: RollbackLose
+#. i18n: keyword: TransactionWillLose
 msgid "You will lose"
 msgstr "Kaybedeceksin"
 

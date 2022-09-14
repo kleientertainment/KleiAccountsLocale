@@ -1005,11 +1005,11 @@ msgstr "Voulez-vous vraiment annuler cette transaction ?"
 msgid "You don't have enough currency for this rollback! You need another"
 msgstr "Vous n'avez pas assez de devises pour ce retour en arrière ! Vous avez besoin d'un autre"
 
-#. i18n: keyword: RollbackGain
+#. i18n: keyword: TransactionWillGain
 msgid "You will gain"
 msgstr "Vous gagnerez"
 
-#. i18n: keyword: RollbackLose
+#. i18n: keyword: TransactionWillLose
 msgid "You will lose"
 msgstr "Vous perdrez"
 

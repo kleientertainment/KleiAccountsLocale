@@ -16,7 +16,6 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
-"X-Generator: Poedit 3.1.1\n"
 
 #. i18n: keyword: Email
 msgid "E-mail"
@@ -1006,11 +1005,11 @@ msgstr "Deseja realmente reverter essa transação?"
 msgid "You don't have enough currency for this rollback! You need another"
 msgstr "Você não tem saldo suficiente para essa reversão! Você precisa de outro"
 
-#. i18n: keyword: RollbackGain
+#. i18n: keyword: TransactionWillGain
 msgid "You will gain"
 msgstr "Você vai ganhar"
 
-#. i18n: keyword: RollbackLose
+#. i18n: keyword: TransactionWillLose
 msgid "You will lose"
 msgstr "Você vai perder"
 
