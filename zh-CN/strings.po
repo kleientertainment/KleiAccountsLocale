@@ -1005,11 +1005,11 @@ msgstr "您确定要回滚此笔交易吗？"
 msgid "You don't have enough currency for this rollback! You need another"
 msgstr "您没有足够的货币来进行回滚！您需要更多"
 
-#. i18n: keyword: RollbackGain
+#. i18n: keyword: TransactionWillGain
 msgid "You will gain"
 msgstr "您会获得"
 
-#. i18n: keyword: RollbackLose
+#. i18n: keyword: TransactionWillLose
 msgid "You will lose"
 msgstr "您会失去"
 
