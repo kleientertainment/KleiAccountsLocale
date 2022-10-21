@@ -952,20 +952,24 @@ msgstr ""
 msgid "Server Playstyle"
 msgstr ""
 
-#. i18n: keyword: ConfigureServerPlaystyleSocial
-msgid "Social"
+#. i18n: keyword: ConfigureServerPlaystyleRelaxed
+msgid "Relaxed"
 msgstr ""
 
-#. i18n: keyword: ConfigureServerPlaystyleCooperative
-msgid "Cooperative"
+#. i18n: keyword: ConfigureServerPlaystyleEndless
+msgid "Endless"
 msgstr ""
 
-#. i18n: keyword: ConfigureServerPlaystyleCompetitive
-msgid "Competitive"
+#. i18n: keyword: ConfigureServerPlaystyleSurvival
+msgid "Survival"
 msgstr ""
 
-#. i18n: keyword: ConfigureServerPlaystyleMadness
-msgid "Madness"
+#. i18n: keyword: ConfigureServerPlaystyleWilderness
+msgid "Wilderness"
+msgstr ""
+
+#. i18n: keyword: ConfigureServerPlaystyleLightsOut
+msgid "Lights Out"
 msgstr ""
 
 #. i18n: keyword: ConfigureServerClusterName
