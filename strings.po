@@ -2212,6 +2212,10 @@ msgstr ""
 msgid "Your previous submission has been banned and you are not allowed to make another submission."
 msgstr ""
 
+#. i18n: keyword: FanartEventHalloweenRules
+msgid "<li><strong>You must be at least 18 years old</strong> or have parental permission to submit.</li><li>The image <strong>must be your own</strong> and taken for the purpose of this submission.</li><li><strong>Photos MUST include a <em>handwritten</em> sign with \"Klei {{ .Data.EventTitle }}\" in it.</strong></li><li>No tricks for treats! You must \"try\" to have an interesting or funny costume or image.</li><li>If you don’t want to post a costume, cool. Post something else {{ .Data.EventTitle }} related <strong>that follows the other entry rules</strong>. An In-game Costume, Fan Art, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">Jack o’ Lantern</a> or spooky scene.</li><li><strong>All images must be PG</strong> - any inappropriate images will be deleted and blocked from participating.</li><li>Costumes aren’t required to be related to Klei or Klei games, though they are encouraged!</li><li>As with any community submission, event rules are subject to change.</li><li>Participating submissions will be shared <a href=\"\">here</a> the following day.</li>"
+msgstr ""
+
 #. i18n: keyword: FanartEventConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
 msgstr ""
@@ -2249,7 +2253,7 @@ msgid "Share Image?"
 msgstr ""
 
 #. i18n: keyword: FanartEventShareImage
-msgid "Share image and message publicly on the event page?"
+msgid "I agree to share my image and message publicly on the event page."
 msgstr ""
 
 #. i18n: keyword: FanartEventMessageLabel
