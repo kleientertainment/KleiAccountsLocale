@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-09-08 21:55-0300\n"
+"PO-Revision-Date: 2022-10-24 18:49-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -255,7 +255,7 @@ msgstr "Se inscrevendo..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr "Receba as últimas notícias e atualizações para {{.Gamename}}. Nós não enviamos muitos e-mails, mas quando mandamoos fazemos valer apena! Cancele a qualquer momento na parte inferior de qualquer e-mail que mandarmos. Para as últimas notícias você também pode nos seguir no Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> e visitar nosso fórum oficial <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
+msgstr "Receba as últimas notícias e atualizações para {{.GameName}}. Nós não enviamos muitos e-mails, mas quando mandamoos fazemos valer apena! Cancele a qualquer momento na parte inferior de qualquer e-mail que mandarmos. Para as últimas notícias você também pode nos seguir no Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> e visitar nosso fórum oficial <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
@@ -955,23 +955,23 @@ msgstr "Estilo do Servidor"
 
 #. i18n: keyword: ConfigureServerPlaystyleRelaxed
 msgid "Relaxed"
-msgstr ""
+msgstr "Casual"
 
 #. i18n: keyword: ConfigureServerPlaystyleEndless
 msgid "Endless"
-msgstr ""
+msgstr "Sem Fim"
 
 #. i18n: keyword: ConfigureServerPlaystyleSurvival
 msgid "Survival"
-msgstr ""
+msgstr "Sobrevivência"
 
 #. i18n: keyword: ConfigureServerPlaystyleWilderness
 msgid "Wilderness"
-msgstr ""
+msgstr "Selvagem"
 
 #. i18n: keyword: ConfigureServerPlaystyleLightsOut
 msgid "Lights Out"
-msgstr ""
+msgstr "Luzes Apagadas"
 
 #. i18n: keyword: ConfigureServerClusterName
 msgid "Cluster Name"
