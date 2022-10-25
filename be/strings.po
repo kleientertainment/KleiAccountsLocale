@@ -2281,10 +2281,6 @@ msgstr ""
 msgid "Banned"
 msgstr ""
 
-#. i18n: keyword: FanartEventStatusRewardsGranted
-msgid "Your submission has been approved and your rewards have been granted. You can view your rewards on the <a href='/account/transactions'>transactions page</a>."
-msgstr ""
-
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
 msgstr ""
