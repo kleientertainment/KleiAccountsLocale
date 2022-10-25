@@ -2242,7 +2242,7 @@ msgstr "Você não enviou nenhuma imagem ainda"
 
 #. i18n: keyword: FanartEventStatusKleiMessage
 msgid "Message from Klei:"
-msgstr "Mensagem para a Klei:"
+msgstr "Mensagem da Klei:"
 
 #. i18n: keyword: FanartEventCheckStatus
 msgid "Already made a submission? Check the status of your submission <a href=\"https://accounts.klei.com/account/fanartevent/status\">here</a>"
