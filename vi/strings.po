@@ -2193,28 +2193,92 @@ msgstr ""
 msgid "The file you selected has a size of zero bytes. Please try again with a different file."
 msgstr ""
 
-#. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
-msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
+#. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_RULES
+msgid "Unfortunately, you can not participate in the event if you do not agree with the event rules."
 msgstr ""
 
-#. i18n: keyword: E_HALLOWEEN_USER_ALREADY_PARTICIPATED
+#. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_SHARE
+msgid "Unfortunately, you can not participate in the event if you do not agree to share your image."
+msgstr ""
+
+#. i18n: keyword: E_FANART_EVENT_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
 msgstr ""
 
-#. i18n: keyword: E_HALLOWEEN_REACHED_USER_SUBMISSIONS_LIMIT
+#. i18n: keyword: E_FANART_EVENT_REACHED_USER_SUBMISSIONS_LIMIT
 msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
 msgstr ""
 
-#. i18n: keyword: E_HALLOWEEN_OPTIONAL_MESSAGE_IS_TOO_LONG
+#. i18n: keyword: E_FANART_EVENT_OPTIONAL_MESSAGE_IS_TOO_LONG
 msgid "Thanks for the submission and the message. Unfortunately, we need to enforce a limit of eighty (80) characters. Please try one more time with a shorter message."
 msgstr ""
 
-#. i18n: keyword: E_HALLOWEEN_USER_BANNED
+#. i18n: keyword: E_FANART_EVENT_USER_BANNED
 msgid "Your previous submission has been banned and you are not allowed to make another submission."
 msgstr ""
 
-#. i18n: keyword: HalloweenConfirmResubmission
+#. i18n: keyword: FanartEventHalloweenRules
+msgid "<li><strong>You must be at least 18 years old</strong> or have parental permission to submit.</li><li>The image <strong>must be your own</strong> and taken for the purpose of this submission.</li><li><strong>Photos MUST include a <em>handwritten</em> sign with \"Klei {{ .Data.EventTitle }}\" in it.</strong></li><li>No tricks for treats! You must \"try\" to have an interesting or funny costume or image.</li><li>If you don’t want to post a costume, cool. Post something else {{ .Data.EventTitle }} related <strong>that follows the other entry rules</strong>. An In-game Costume, Fan Art, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">Jack o’ Lantern</a> or spooky scene.</li><li><strong>All images must be PG</strong> - any inappropriate images will be deleted and blocked from participating.</li><li>Costumes aren’t required to be related to Klei or Klei games, though they are encouraged!</li><li>As with any community submission, event rules are subject to change.</li><li>Participating submissions will be shared <a href=\"\">here</a> the following day.</li>"
+msgstr ""
+
+#. i18n: keyword: FanartEventConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
+msgstr ""
+
+#. i18n: keyword: FanartEventStatusSubmissionID
+msgid "Submission ID:"
+msgstr ""
+
+#. i18n: keyword: FanartEventStatusSubmissionStatus
+msgid "Submission status:"
+msgstr ""
+
+#. i18n: keyword: FanartEventStatusNoSubmission
+msgid "You have not submitted an image yet"
+msgstr ""
+
+#. i18n: keyword: FanartEventStatusKleiMessage
+msgid "Message from Klei:"
+msgstr ""
+
+#. i18n: keyword: FanartEventCheckStatus
+msgid "Already made a submission? Check the status of your submission <a href=\"https://accounts.klei.com/account/fanartevent/status\">here</a>"
+msgstr ""
+
+#. i18n: keyword: FanartEventRulesLabel
+msgid "Event Rules:"
+msgstr ""
+
+#. i18n: keyword: FanartEventAgreeToRules
+msgid "I agree to abide by the event rules."
+msgstr ""
+
+#. i18n: keyword: FanartEventShareLabel
+msgid "Share Image?"
+msgstr ""
+
+#. i18n: keyword: FanartEventShareImage
+msgid "I agree to share my image and message publicly on the event page."
+msgstr ""
+
+#. i18n: keyword: FanartEventMessageLabel
+msgid "Message"
+msgstr ""
+
+#. i18n: keyword: FanartEventStatusApproved
+msgid "Approved"
+msgstr ""
+
+#. i18n: keyword: FanartEventStatusRejected
+msgid "Rejected"
+msgstr ""
+
+#. i18n: keyword: FanartEventStatusUnderReview
+msgid "Under review"
+msgstr ""
+
+#. i18n: keyword: FanartEventStatusBanned
+msgid "Banned"
 msgstr ""
 
 #. i18n: keyword: ReviewEULATitle
