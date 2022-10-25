@@ -2193,12 +2193,12 @@ msgstr "您选择的文件过大。请减少文件的大小再上传。"
 msgid "The file you selected has a size of zero bytes. Please try again with a different file."
 msgstr "您选择的文件大小为0字节。请选择其他文件并重试。"
 
-#. i18n: keyword: E_DID_NOT_AGREE_TO_HALLOWEEN_RULES
-msgid "Unfortunately, you can not participate in the Halloween event if you do not agree with the event rules."
-msgstr "很遗憾，如果您不同意活动规则，您将无法参加万圣节活动。"
-
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_RULES
 msgid "Unfortunately, you can not participate in the event if you do not agree with the event rules."
+msgstr ""
+
+#. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_SHARE
+msgid "Unfortunately, you can not participate in the event if you do not agree to share your image."
 msgstr ""
 
 #. i18n: keyword: E_FANART_EVENT_USER_ALREADY_PARTICIPATED
