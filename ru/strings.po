@@ -2217,35 +2217,71 @@ msgstr "Спасибо за участие и сообщение. К сожал�
 msgid "Your previous submission has been banned and you are not allowed to make another submission."
 msgstr ""
 
+#. i18n: keyword: FanartEventHalloweenRules
+msgid "<li><strong>You must be at least 18 years old</strong> or have parental permission to submit.</li><li>The image <strong>must be your own</strong> and taken for the purpose of this submission.</li><li><strong>Photos MUST include a <em>handwritten</em> sign with \"Klei {{ .Data.EventTitle }}\" in it.</strong></li><li>No tricks for treats! You must \"try\" to have an interesting or funny costume or image.</li><li>If you don’t want to post a costume, cool. Post something else {{ .Data.EventTitle }} related <strong>that follows the other entry rules</strong>. An In-game Costume, Fan Art, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">Jack o’ Lantern</a> or spooky scene.</li><li><strong>All images must be PG</strong> - any inappropriate images will be deleted and blocked from participating.</li><li>Costumes aren’t required to be related to Klei or Klei games, though they are encouraged!</li><li>As with any community submission, event rules are subject to change.</li><li>Participating submissions will be shared <a href=\"\">here</a> the following day.</li>"
+msgstr ""
+
 #. i18n: keyword: FanartEventConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
 msgstr ""
 
-#. i18n: keyword: FanartEventSubmissionID
-msgid "Submission ID"
+#. i18n: keyword: FanartEventStatusSubmissionID
+msgid "Submission ID:"
 msgstr ""
 
-#. i18n: keyword: FanartEventSubmissionStatus
-msgid "Submission status"
+#. i18n: keyword: FanartEventStatusSubmissionStatus
+msgid "Submission status:"
 msgstr ""
 
-#. i18n: keyword: FanartEventSubmissionStatusApproved
+#. i18n: keyword: FanartEventStatusNoSubmission
+msgid "You have not submitted an image yet"
+msgstr ""
+
+#. i18n: keyword: FanartEventStatusKleiMessage
+msgid "Message from Klei:"
+msgstr ""
+
+#. i18n: keyword: FanartEventCheckStatus
+msgid "Already made a submission? Check the status of your submission <a href=\"https://accounts.klei.com/account/fanartevent/status\">here</a>"
+msgstr ""
+
+#. i18n: keyword: FanartEventRulesLabel
+msgid "Event Rules:"
+msgstr ""
+
+#. i18n: keyword: FanartEventAgreeToRules
+msgid "I agree to abide by the event rules."
+msgstr ""
+
+#. i18n: keyword: FanartEventShareLabel
+msgid "Share Image?"
+msgstr ""
+
+#. i18n: keyword: FanartEventShareImage
+msgid "I agree to share my image and message publicly on the event page."
+msgstr ""
+
+#. i18n: keyword: FanartEventMessageLabel
+msgid "Message"
+msgstr ""
+
+#. i18n: keyword: FanartEventStatusApproved
 msgid "Approved"
 msgstr ""
 
-#. i18n: keyword: FanartEventSubmissionStatusRejected
+#. i18n: keyword: FanartEventStatusRejected
 msgid "Rejected"
 msgstr ""
 
-#. i18n: keyword: FanartEventSubmissionStatusUnderReview
+#. i18n: keyword: FanartEventStatusUnderReview
 msgid "Under review"
 msgstr ""
 
-#. i18n: keyword: FanartEventSubmissionStatusBanned
+#. i18n: keyword: FanartEventStatusBanned
 msgid "Banned"
 msgstr ""
 
-#. i18n: keyword: FanartEventRewardsGranted
+#. i18n: keyword: FanartEventStatusRewardsGranted
 msgid "Your submission has been approved and your rewards have been granted. You can view your rewards on the <a href='/account/transactions'>transactions page</a>."
 msgstr ""
 
