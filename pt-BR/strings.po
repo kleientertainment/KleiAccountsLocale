@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-10-24 18:49-0300\n"
+"PO-Revision-Date: 2022-10-25 19:56-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -934,14 +934,17 @@ msgid "Game Mode"
 msgstr "Modo de Jogo"
 
 #. i18n: keyword: ConfigureServerSurvival
+#. i18n: keyword: ConfigureServerPlaystyleSurvival
 msgid "Survival"
 msgstr "Sobrevivência"
 
 #. i18n: keyword: ConfigureServerWilderness
+#. i18n: keyword: ConfigureServerPlaystyleWilderness
 msgid "Wilderness"
 msgstr "Selvagem"
 
 #. i18n: keyword: ConfigureServerEndless
+#. i18n: keyword: ConfigureServerPlaystyleEndless
 msgid "Endless"
 msgstr "Sem Fim"
 
@@ -2195,11 +2198,11 @@ msgstr "O arquivo selecionado tem zero bytes de tamanho. Por favor tente novamen
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_RULES
 msgid "Unfortunately, you can not participate in the event if you do not agree with the event rules."
-msgstr ""
+msgstr "Infelizmente, você não poderá participar do evento se você não concordar com as regras."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_SHARE
 msgid "Unfortunately, you can not participate in the event if you do not agree to share your image."
-msgstr ""
+msgstr "Infelizmente, você não poderá participar do evento se você não concordar em compartilhar a sua imagem."
 
 #. i18n: keyword: E_FANART_EVENT_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
@@ -2219,7 +2222,7 @@ msgstr "Seu envio anterior foi banido e você não tem permissão para fazer out
 
 #. i18n: keyword: FanartEventHalloweenRules
 msgid "<li>Prizes are not awarded for submissions this year.</li><li><strong>You must be at least 18 years old</strong> or have parental permission to submit.</li><li>The image <strong>must be your own</strong> and taken for the purpose of this submission.</li><li><strong>Photos MUST include a <em>handwritten</em> sign with \"Klei {{ .Data.EventTitle }}\" in it.</strong></li><li>No tricks for treats! You must \"try\" to have an interesting or funny costume or image.</li><li>If you don’t want to post a costume, cool. Post something else {{ .Data.EventTitle }} related <strong>that follows the other entry rules</strong>. An In-game Costume, Fan Art, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">Jack o’ Lantern</a> or spooky scene.</li><li><strong>All images must be PG</strong> - any inappropriate images will be deleted and blocked from participating.</li><li>Costumes aren’t required to be related to Klei or Klei games, though they are encouraged!</li><li>As with any community submission, event rules are subject to change.</li><li>Participating submissions will be shared <a href=\"\">here</a> the following day.</li>"
-msgstr ""
+msgstr "<li>Este ano os prêmios não serão concedidos aos envios.</li><li><strong>Você deve ter mais de 18 anos</strong> ou ter a permissão dos seus pais para participar.</li><li>A imagem <strong>deve ser sua</strong> e criada com o propósito de participação no evento.</li><li><strong>Fotos DEVEM incluir \"Klei {{ .Data.EventTitle }}\" <em>escrito a mão</em>.</strong></li><li>Sem trapassear! Você deve \"tentar\" ter uma fantasia ou imagem divertidas.</li><li>Se você não quiser enviar uma foto de fantasia, tudo bem. Envie alguma coisa relacionada ao {{ .Data.EventTitle }} <strong>que siga as outras regras de participação</strong>. Uma fantasia do jogo, Fan Art, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">Abóbora de Halloween</a> ou uma cena assustadora.</li><li><strong>Todas as imagens devem ser 10+ (pode conter material inadequado a crianças pequenas)</strong> - qualquer imagem inapropriada será deletada e bloqueada de participar.</li><li>As fantasias não precisam estar relacionadas a Klei ou aos jogos da Klei, mas encorajamos!</li><li>Como todo evento da comunidade, as regras podem mudar.</li><li>Os envios dos participantes serão compartilhados <a href=\"\">aqui</a> no dia seguinte.</li>"
 
 #. i18n: keyword: FanartEventConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
@@ -2227,59 +2230,59 @@ msgstr "Você já enviou uma imagem. Você tem certeza que quer substituir seu e
 
 #. i18n: keyword: FanartEventStatusSubmissionID
 msgid "Submission ID:"
-msgstr ""
+msgstr "Código do envio:"
 
 #. i18n: keyword: FanartEventStatusSubmissionStatus
 msgid "Submission status:"
-msgstr ""
+msgstr "Status do envio:"
 
 #. i18n: keyword: FanartEventStatusNoSubmission
 msgid "You have not submitted an image yet"
-msgstr ""
+msgstr "Você não enviou nenhuma imagem ainda"
 
 #. i18n: keyword: FanartEventStatusKleiMessage
 msgid "Message from Klei:"
-msgstr ""
+msgstr "Mensagem da Klei:"
 
 #. i18n: keyword: FanartEventCheckStatus
 msgid "Already made a submission? Check the status of your submission <a href=\"https://accounts.klei.com/account/fanartevent/status\">here</a>"
-msgstr ""
+msgstr "Já fez um envio? Verifique o status <a href=\"https://accounts.klei.com/account/fanartevent/status\">aqui</a>"
 
 #. i18n: keyword: FanartEventRulesLabel
 msgid "Event Rules:"
-msgstr ""
+msgstr "Regras do evento:"
 
 #. i18n: keyword: FanartEventAgreeToRules
 msgid "I agree to abide by the event rules."
-msgstr ""
+msgstr "Eu concordo em respeitar as regras do evento."
 
 #. i18n: keyword: FanartEventShareLabel
 msgid "Share Image?"
-msgstr ""
+msgstr "Compartilhar imagem?"
 
 #. i18n: keyword: FanartEventShareImage
 msgid "I agree to share my image and message publicly on the event page."
-msgstr ""
+msgstr "Eu concordo em compartilhar publicamente a minha imagem e mensagem na página do evento."
 
 #. i18n: keyword: FanartEventMessageLabel
 msgid "Message"
-msgstr ""
+msgstr "Mensagem"
 
 #. i18n: keyword: FanartEventStatusApproved
 msgid "Approved"
-msgstr ""
+msgstr "Aprovado"
 
 #. i18n: keyword: FanartEventStatusRejected
 msgid "Rejected"
-msgstr ""
+msgstr "Rejeitado"
 
 #. i18n: keyword: FanartEventStatusUnderReview
 msgid "Under review"
-msgstr ""
+msgstr "Em revisão"
 
 #. i18n: keyword: FanartEventStatusBanned
 msgid "Banned"
-msgstr ""
+msgstr "Banido"
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
