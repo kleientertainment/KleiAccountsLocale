@@ -2202,8 +2202,8 @@ msgid "Unfortunately, you can not participate in the event if you do not agree t
 msgstr ""
 
 #. i18n: keyword: E_FANART_EVENT_USER_ALREADY_PARTICIPATED
-msgid "An administrator has already approved one of your submissions. You will receive a reward very soon. If you have not received anything after a couple of hours, please visit the <a href='/account/transactions'>transactions page</a> and contact support if necessary."
-msgstr "管理员已通过了您的一份提交。您将会很快收到一份奖励。如果您在数小时后仍未收到任何物品，请访问<a href='/account/transactions'>交易页面</a>并在必要时联系支持。"
+msgid "An administrator has already approved one of your submissions."
+msgstr "管理员已通过了您的一份提交。"
 
 #. i18n: keyword: E_FANART_EVENT_REACHED_USER_SUBMISSIONS_LIMIT
 msgid "Thanks for the submission. Unfortunately, you seem to have reached the limit for this event. Please wait until the other requests are approved or rejected before attempting to send another one."
@@ -2227,6 +2227,10 @@ msgstr "您已经提交了一份图片。您确定要覆盖您的上一次提交
 
 #. i18n: keyword: FanartEventStatusSubmissionID
 msgid "Submission ID:"
+msgstr ""
+
+#. i18n: keyword: FanartEventSubmissionSuccess
+msgid "Your picture has been recorded!"
 msgstr ""
 
 #. i18n: keyword: FanartEventStatusSubmissionStatus
