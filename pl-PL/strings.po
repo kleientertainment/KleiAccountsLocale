@@ -2231,7 +2231,7 @@ msgstr "Identyfikator zgłoszenia:"
 
 #. i18n: keyword: FanartEventSubmissionSuccess
 msgid "Your picture has been recorded!"
-msgstr ""
+msgstr "Twoje zdjęcie zostało zapisane!"
 
 #. i18n: keyword: FanartEventStatusSubmissionStatus
 msgid "Submission status:"
