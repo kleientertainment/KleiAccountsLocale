@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-10-25 19:56-0300\n"
+"PO-Revision-Date: 2022-10-31 16:05-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -2231,7 +2231,7 @@ msgstr "Código do envio:"
 
 #. i18n: keyword: FanartEventSubmissionSuccess
 msgid "Your picture has been recorded!"
-msgstr ""
+msgstr "Sua imagem foi enviada!"
 
 #. i18n: keyword: FanartEventStatusSubmissionStatus
 msgid "Submission status:"
