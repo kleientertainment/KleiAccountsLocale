@@ -699,7 +699,7 @@ msgstr "如果你不读这个就会发生意想不到的坏事！"
 
 #. i18n: keyword: DeleteAccountExplanation
 msgid "At your request, your <b>Klei account</b> and all personally identifiable information related to your account (excluding financial transactions and information related to abuse) will be submitted to be permanently removed from our system.</p><p><b>Please note: You will not be able to reverse this action, and all data will be completely and irrecoverably removed.</b></p><p><strong>This means you will no longer be able to play any game that requires a Klei Account (Don’t Starve Together and Hot Lava) the {{.PlatformName}} account will be banned permanently, and all records will be destroyed forever including progress, items and entitlements.</strong>"
-msgstr "根据您的请求，您的Klei账户和所有与您的账户相关的个人身份信息(不包括交易以及与您负面行为有关的信息)将被永久从我们的系统中删除。</p><p><b>请注意：您将无法逆转此操作，所有的数据将被彻底和不可逆转地删除。</b></p><p><strong>这意味着您将无法继续游玩任何需要使用Klei账户的游戏（饥荒 和 Hot Lava），您的{{.PlatformName}}账户将被永久禁止，包括进程、物品和权限在内的所有记录信息都会被彻底永久的删除。</strong>"
+msgstr "根据您的请求，您的Klei账户和所有与您的账户相关的个人身份信息(不包括交易以及与您负面行为有关的信息)将被永久从我们的系统中删除。</p><p><b>请注意：您将无法逆转此操作，所有的数据将被彻底和不可逆转地删除。</b></p><p><strong>这意味着您将无法继续游玩任何需要使用Klei账户的游戏（《饥荒：联机版》 和 《炽热熔岩》），您的{{.PlatformName}}账户将被永久禁止，包括进程、物品和权限在内的所有记录信息都会被彻底永久的删除。</strong>"
 
 #. i18n: keyword: DeleteAccountOptions
 msgid "Check the boxes to confirm you understand what is going to happen:"
@@ -723,7 +723,7 @@ msgstr "我不想再玩《饥荒：联机版》了"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayHL
 msgid "I do not want to play Hot Lava anymore"
-msgstr "我不想再玩《热熔岩》了"
+msgstr "我不想再玩《炽热熔岩》了"
 
 #. i18n: keyword: DeleteAccountOptionsBanAccount
 msgid "Ban my {{.PlatformName}} account from playing Klei games for a MINIMUM of 30 days"
@@ -851,7 +851,7 @@ msgstr "您将获得："
 
 #. i18n: keyword: RemoveDuplicateItemsReceiveNothing
 msgid "Nothing"
-msgstr ""
+msgstr "没有东西"
 
 #. i18n: keyword: RemoveDuplicateItemsSuccess
 msgid "Duplicates Removed!"
@@ -943,7 +943,7 @@ msgstr "荒野"
 
 #. i18n: keyword: ConfigureServerEndless
 msgid "Endless"
-msgstr "无穷无尽"
+msgstr "无尽"
 
 #. i18n: keyword: ConfigureServerMaximumPlayers
 msgid "Maximum Players"
@@ -979,7 +979,7 @@ msgstr "集群名（为服务器起一个友好的名字）"
 
 #. i18n: keyword: ConfigureServerClusterDescription
 msgid "Cluster Description"
-msgstr "集群描述（玩家对服务器的描述）"
+msgstr "集群描述（服务器简介）"
 
 #. i18n: keyword: ConfigureServerClusterPassword
 msgid "Cluster Password"
@@ -1595,7 +1595,7 @@ msgstr "操作已过期，您必须再次登录。"
 
 #. i18n: keyword: E_INVALID_SESSION_SAFARI
 msgid "Session has expired, you have to log in once again. <b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
-msgstr "操作已过期，您必须再次登录。<b>Are you using Safari?</b> If yes, please use an alternative web browser for now. <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit’s new Tracking Prevention Policy</a>, which is built in the newest versions of Safari, have inadvertently disabled the communication between the website and the back-end servers."
+msgstr "操作已过期，您必须再次登录。<b>您在使用Safari浏览器吗？</b> 如果是的话，请暂时使用其他浏览器访问。 <a href='https://webkit.org/tracking-prevention-policy/' target='_blank'>WebKit新的防跟踪政策</a>被集成在最新的Safari浏览器中，但其在无意中禁用了网站和后端服务器之间的通信。"
 
 #. i18n: keyword: E_STEAM_SERVICE_UNAVAILABLE
 msgid "The Steam service is unavailable."
@@ -1719,7 +1719,7 @@ msgstr "此密码更改请求已过期。如果您仍然需要一个新密码，
 
 #. i18n: keyword: E_PASSWORD_RESET_CODE_MISMATCH
 msgid "Password code mismatch."
-msgstr "密码错配。"
+msgstr "密码不匹配。"
 
 #. i18n: keyword: E_POST_DATA_STATUS
 msgid "Internal Server Error: The details has been sent to the Klei development team."
@@ -1855,19 +1855,19 @@ msgstr "Steam拒绝了您的登录尝试。Steam服务器可能离线，此情�
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "Steam identifier遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新开始。"
+msgstr "Steam identifier遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
 
 #. i18n: keyword: E_STEAM_BROKEN_TICKET
 msgid "Steam ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "Steam ticket遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新开始。"
+msgstr "Steam ticket遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
 
 #. i18n: keyword: E_RAIL_ID_IS_MISSING
 msgid "Tencent Games identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "腾讯游戏identifier遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新开始。"
+msgstr "腾讯游戏identifier遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
 
 #. i18n: keyword: E_RAIL_BROKEN_TICKET
 msgid "Tencent Games ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "腾讯游戏ticket遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新开始。"
+msgstr "腾讯游戏ticket遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
 
 #. i18n: keyword: E_RAIL_EXPIRED_TOKEN
 msgid "The access token has expired. Tencent is asking you to start the process again."
@@ -2219,7 +2219,7 @@ msgstr "您先前的提交已被封禁。您已被禁止再次进行提交。"
 
 #. i18n: keyword: FanartEventHalloweenRules
 msgid "<li>Prizes are not awarded for submissions this year.</li><li><strong>You must be at least 18 years old</strong> or have parental permission to submit.</li><li>The image <strong>must be your own</strong> and taken for the purpose of this submission.</li><li><strong>Photos MUST include a <em>handwritten</em> sign with \"Klei {{ .Data.EventTitle }}\" in it.</strong></li><li>No tricks for treats! You must \"try\" to have an interesting or funny costume or image.</li><li>If you don’t want to post a costume, cool. Post something else {{ .Data.EventTitle }} related <strong>that follows the other entry rules</strong>. An In-game Costume, Fan Art, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">Jack o’ Lantern</a> or spooky scene.</li><li><strong>All images must be PG</strong> - any inappropriate images will be deleted and blocked from participating.</li><li>Costumes aren’t required to be related to Klei or Klei games, though they are encouraged!</li><li>As with any community submission, event rules are subject to change.</li><li>Participating submissions will be shared <a href=\"https://trickortreat.klei.com/View\">here</a> the following day.</li>"
-msgstr ""
+msgstr "<li>今年将不会为提名作品颁奖。</li><li><strong>您必须年满18岁</strong>或者有监护人的许可才能提交作品。</li><li>您提交的作品<strong>必须是由您自己</strong>并且是为本次提交而创作。</li><li><strong>照片*必须*包含一个<em>手写的</em>\"Klei {{ .Data.EventTitle }}\"标签在其中。</strong></li><li>No tricks for treats! 您必须\"尝试\"一个有趣或者滑稽的服装或照片。</li><li>如果您不想发表装扮照片，您也可以发表一些和{{ .Data.EventTitle }}相关的<strong>遵循其他条目规则的</strong>的作品。一个游戏内的装扮照片、爱好者艺术作品、<a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">杰克灯笼</a>和恐怖诡异的场景</li><li><strong>所有图像必须是PG级的（影片分级制度：普通级）</strong> —— 任何不当的作品都将被删除，并被禁止参与。</li><li>服装并不要求与Klei或Klei游戏有关，但我们鼓励您这样做！</li><li>和许多社区投稿活动一样，本活动规则可能会发生变化。</li><li>参赛作品将于次日在<a href=\"https://trickortreat.klei.com/View\">此处</a>分享。</li>"
 
 #. i18n: keyword: FanartEventConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
@@ -2227,63 +2227,63 @@ msgstr "您已经提交了一份图片。您确定要覆盖您的上一次提交
 
 #. i18n: keyword: FanartEventStatusSubmissionID
 msgid "Submission ID:"
-msgstr ""
+msgstr "提交ID："
 
 #. i18n: keyword: FanartEventSubmissionSuccess
 msgid "Your picture has been recorded!"
-msgstr ""
+msgstr "您的作品已成功提交"
 
 #. i18n: keyword: FanartEventStatusSubmissionStatus
 msgid "Submission status:"
-msgstr ""
+msgstr "提交状态："
 
 #. i18n: keyword: FanartEventStatusNoSubmission
 msgid "You have not submitted an image yet"
-msgstr ""
+msgstr "您尚未提交任何作品"
 
 #. i18n: keyword: FanartEventStatusKleiMessage
 msgid "Message from Klei:"
-msgstr ""
+msgstr "来自Klei的消息："
 
 #. i18n: keyword: FanartEventCheckStatus
 msgid "Already made a submission? Check the status of your submission <a href=\"https://accounts.klei.com/account/fanartevent/status\">here</a>"
-msgstr ""
+msgstr "已经提交过作品了吗？在<a href=\"https://accounts.klei.com/account/fanartevent/status\">此处</a>检查提交状态"
 
 #. i18n: keyword: FanartEventRulesLabel
 msgid "Event Rules:"
-msgstr ""
+msgstr "活动规则"
 
 #. i18n: keyword: FanartEventAgreeToRules
 msgid "I agree to abide by the event rules."
-msgstr ""
+msgstr "我同意遵守活动规则。"
 
 #. i18n: keyword: FanartEventShareLabel
 msgid "Share Image?"
-msgstr ""
+msgstr "分享作品吗？"
 
 #. i18n: keyword: FanartEventShareImage
 msgid "I agree to share my image and message publicly on the event page."
-msgstr ""
+msgstr "我同意在活动页面上公开分享我的作品和信息。"
 
 #. i18n: keyword: FanartEventMessageLabel
 msgid "Message"
-msgstr ""
+msgstr "信息"
 
 #. i18n: keyword: FanartEventStatusApproved
 msgid "Approved"
-msgstr ""
+msgstr "已接受"
 
 #. i18n: keyword: FanartEventStatusRejected
 msgid "Rejected"
-msgstr ""
+msgstr "已拒绝"
 
 #. i18n: keyword: FanartEventStatusUnderReview
 msgid "Under review"
-msgstr ""
+msgstr "待审核"
 
 #. i18n: keyword: FanartEventStatusBanned
 msgid "Banned"
-msgstr ""
+msgstr "已封禁"
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
