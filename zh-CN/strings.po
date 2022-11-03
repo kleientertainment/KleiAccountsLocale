@@ -271,7 +271,7 @@ msgstr "用户信息"
 
 #. i18n: keyword: UsefulLinks
 msgid "Useful Links"
-msgstr "有效链接"
+msgstr "实用链接"
 
 #. i18n: keyword: KleiUserID
 msgid "Klei User ID"
@@ -835,19 +835,19 @@ msgstr "<b>搜索提示：</b> 输入一到两个词来在您的游戏库存中�
 
 #. i18n: keyword: RemoveDuplicateItems
 msgid "Remove Duplicates"
-msgstr ""
+msgstr "移除重复的物品"
 
 #. i18n: keyword: RemoveDuplicateItemsConfirmation
 msgid "Are you sure you want to remove all duplicates of this item and only keep one?"
-msgstr ""
+msgstr "您确定要移除所有重复的物品并仅保留一份吗？"
 
 #. i18n: keyword: RemoveDuplicateItemsQuantityToRemove
 msgid "Quantity to remove: "
-msgstr ""
+msgstr "移除的数量："
 
 #. i18n: keyword: RemoveDuplicateItemsToReceive
 msgid "You'll receive: "
-msgstr ""
+msgstr "您将获得："
 
 #. i18n: keyword: RemoveDuplicateItemsReceiveNothing
 msgid "Nothing"
@@ -855,7 +855,7 @@ msgstr ""
 
 #. i18n: keyword: RemoveDuplicateItemsSuccess
 msgid "Duplicates Removed!"
-msgstr ""
+msgstr "重复的物品已被移除！"
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
@@ -955,23 +955,23 @@ msgstr "服务器游戏风格"
 
 #. i18n: keyword: ConfigureServerPlaystyleRelaxed
 msgid "Relaxed"
-msgstr ""
+msgstr "轻松"
 
 #. i18n: keyword: ConfigureServerPlaystyleEndless
 msgid "Endless"
-msgstr ""
+msgstr "无尽"
 
 #. i18n: keyword: ConfigureServerPlaystyleSurvival
 msgid "Survival"
-msgstr ""
+msgstr "生存"
 
 #. i18n: keyword: ConfigureServerPlaystyleWilderness
 msgid "Wilderness"
-msgstr ""
+msgstr "荒野"
 
 #. i18n: keyword: ConfigureServerPlaystyleLightsOut
 msgid "Lights Out"
-msgstr ""
+msgstr "暗无天日"
 
 #. i18n: keyword: ConfigureServerClusterName
 msgid "Cluster Name"
@@ -1187,7 +1187,7 @@ msgstr "订阅我们的新闻"
 
 #. i18n: keyword: RewardNameMerge
 msgid "Merge Klei Accounts"
-msgstr ""
+msgstr "合并Klei账户"
 
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
@@ -1207,11 +1207,11 @@ msgstr "<a href='/account/settings' target='_blank'>订阅我们的新闻</a>以
 
 #. i18n: keyword: RewardMessagMissingEmail
 msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
-msgstr ""
+msgstr "<a href='/account/settings' target='_blank'>设置您的邮箱地址</a>以获得此奖励。"
 
 #. i18n: keyword: RewardMessageMerge
 msgid "<a href='/account/merge' target='_blank'>Merge an account</a> to claim this reward."
-msgstr ""
+msgstr "<a href='/account/merge' target='_blank'>合并您的账户</a>以获得此奖励。"
 
 #. i18n: keyword: RewardItemCost
 msgid "Cost"
@@ -2195,11 +2195,11 @@ msgstr "您选择的文件大小为0字节。请选择其他文件并重试。"
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_RULES
 msgid "Unfortunately, you can not participate in the event if you do not agree with the event rules."
-msgstr ""
+msgstr "遗憾的是，如果您不同意活动规则，您将不能参加这个活动。"
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_SHARE
 msgid "Unfortunately, you can not participate in the event if you do not agree to share your image."
-msgstr ""
+msgstr "遗憾的是，如果您不同意分享你的图片，您将不能参加这个活动。"
 
 #. i18n: keyword: E_FANART_EVENT_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions."
