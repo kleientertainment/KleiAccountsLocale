@@ -1990,8 +1990,8 @@ msgid "User Transactions"
 msgstr "Транзакції користувача"
 
 #. i18n: keyword: UserTransactionsDescription
-msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
-msgstr "Усі (відповідні) транзакції, пов'язані з вашим обліковим записом, перелічені у порядку спадання (новіші транзакції вгорі, старіші внизу). Зауважте, що час транзакції залежить від часового поясу вебсервера, можливо, вам доведеться відрегулювати цифри відповідно до часу на вашому комп'ютері."
+msgid "Transactions associated with your account are listed below, newest first.<br>Transaction time is in UTC, not your local time."
+msgstr ""
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
