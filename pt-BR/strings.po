@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-10-31 16:05-0300\n"
+"PO-Revision-Date: 2022-11-17 17:25-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -1991,7 +1991,7 @@ msgstr "Transações do Usuário"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "Transactions associated with your account are listed below, newest first.<br>Transaction time is in UTC, not your local time."
-msgstr ""
+msgstr "Transações associadas a sua conta serão listadas abaixo, as mais novas primeiro.<br>O horário da transação é em UTC, não no seu horário local."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
