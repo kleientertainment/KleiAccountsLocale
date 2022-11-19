@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-09-01 02:49+0300\n"
+"PO-Revision-Date: 2022-11-18 10:31+0300\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Turkish (https://accounts.klei.com/community-translations)Language: tr\n"
 "Language: tr\n"
@@ -835,27 +835,27 @@ msgstr "<b>Arama İpuçları:</b> Oyun envanterinizdeki bir eşyayı aramak içi
 
 #. i18n: keyword: RemoveDuplicateItems
 msgid "Remove Duplicates"
-msgstr ""
+msgstr "Kopyaları Kaldır"
 
 #. i18n: keyword: RemoveDuplicateItemsConfirmation
 msgid "Are you sure you want to remove all duplicates of this item and only keep one?"
-msgstr ""
+msgstr "Bu öğenin tüm kopyalarını kaldırmak ve yalnızca birini tutmak istediğinizden emin misiniz?"
 
 #. i18n: keyword: RemoveDuplicateItemsQuantityToRemove
 msgid "Quantity to remove: "
-msgstr ""
+msgstr "Kaldırılacak miktar:"
 
 #. i18n: keyword: RemoveDuplicateItemsToReceive
 msgid "You'll receive: "
-msgstr ""
+msgstr "Kaldırılacak miktar:"
 
 #. i18n: keyword: RemoveDuplicateItemsReceiveNothing
 msgid "Nothing"
-msgstr ""
+msgstr "Hiç bir şey"
 
 #. i18n: keyword: RemoveDuplicateItemsSuccess
 msgid "Duplicates Removed!"
-msgstr ""
+msgstr "Yinelenenler Kaldırıldı!"
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
@@ -955,23 +955,23 @@ msgstr "Sunucu Oyun Stili"
 
 #. i18n: keyword: ConfigureServerPlaystyleRelaxed
 msgid "Relaxed"
-msgstr ""
+msgstr "Rahat"
 
 #. i18n: keyword: ConfigureServerPlaystyleEndless
 msgid "Endless"
-msgstr ""
+msgstr "Sonsuz"
 
 #. i18n: keyword: ConfigureServerPlaystyleSurvival
 msgid "Survival"
-msgstr ""
+msgstr "Hayatta kalma"
 
 #. i18n: keyword: ConfigureServerPlaystyleWilderness
 msgid "Wilderness"
-msgstr ""
+msgstr "Sahra"
 
 #. i18n: keyword: ConfigureServerPlaystyleLightsOut
 msgid "Lights Out"
-msgstr ""
+msgstr "Işıklar Söndü"
 
 #. i18n: keyword: ConfigureServerClusterName
 msgid "Cluster Name"
@@ -1991,7 +1991,7 @@ msgstr "Kullanıcı İşlemleri"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "Transactions associated with your account are listed below, newest first.<br>Transaction time is in UTC, not your local time."
-msgstr ""
+msgstr "Hesabınızla ilişkili işlemler aşağıda en yenisi başta olmak üzere listelenmiştir.<br>İşlem saati UTC'dir, yerel saatiniz değildir."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
@@ -2195,11 +2195,11 @@ msgstr "Seçtiğiniz dosyanın boyutu sıfır bayt. Lütfen farklı bir dosya il
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_RULES
 msgid "Unfortunately, you can not participate in the event if you do not agree with the event rules."
-msgstr ""
+msgstr "Etkinlik kurallarını kabul etmiyorsanız maalesef etkinliğe katılamazsınız."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_SHARE
 msgid "Unfortunately, you can not participate in the event if you do not agree to share your image."
-msgstr ""
+msgstr "Resminizin paylaşılmasını kabul etmediğiniz takdirde maalesef etkinliğe katılamazsınız."
 
 #. i18n: keyword: E_FANART_EVENT_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions."
@@ -2219,7 +2219,7 @@ msgstr "Önceki gönderiminiz yasaklandı ve başka bir gönderim yapmanıza izi
 
 #. i18n: keyword: FanartEventHalloweenRules
 msgid "<li>Prizes are not awarded for submissions this year.</li><li><strong>You must be at least 18 years old</strong> or have parental permission to submit.</li><li>The image <strong>must be your own</strong> and taken for the purpose of this submission.</li><li><strong>Photos MUST include a <em>handwritten</em> sign with \"Klei {{ .Data.EventTitle }}\" in it.</strong></li><li>No tricks for treats! You must \"try\" to have an interesting or funny costume or image.</li><li>If you don’t want to post a costume, cool. Post something else {{ .Data.EventTitle }} related <strong>that follows the other entry rules</strong>. An In-game Costume, Fan Art, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">Jack o’ Lantern</a> or spooky scene.</li><li><strong>All images must be PG</strong> - any inappropriate images will be deleted and blocked from participating.</li><li>Costumes aren’t required to be related to Klei or Klei games, though they are encouraged!</li><li>As with any community submission, event rules are subject to change.</li><li>Participating submissions will be shared <a href=\"https://trickortreat.klei.com/View\">here</a> the following day.</li>"
-msgstr ""
+msgstr "Bu yıl yapılan başvurular için ödül verilmiyor.</li><li><strong>Göndermek için en az 18 yaşında olmalısınız</strong> veya ebeveyn izninizin olması gerekir.</li><li>Resim <strong> size ait</strong> olmalı ve bu gönderimin amacı doğrultusunda çekilmiş olmalıdır.</li><li><strong>Fotoğraflar \"Klei {{ .Data.EventTitle ile <em>el yazısı</em> işareti İÇERMEK ZORUNDADIR İçinde }}\" var.</strong></li><li>İkram için numara yok! İlginç veya komik bir kostüm veya görsele sahip olmak için \"denemelisiniz\".</li><li>Bir kostüm yayınlamak istemiyorsanız, harika. {{ .Data.EventTitle }} ile ilgili <strong>diğer giriş kurallarına uyan</strong> başka bir şey yayınlayın. Oyun İçi Kostüm, Hayran Sanatı, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank \">Jack o' Lantern</a> veya ürkütücü sahne.</li><li><strong>Tüm resimler PG olmalıdır</strong> - uygunsuz resimler silinecek ve katılımları engellenecektir.</li> <li>Kostümlerin Klei veya Klei oyunlarıyla ilgili olması zorunlu değildir, ancak teşvik edilirler!</li><li>Herhangi bir topluluk gönderiminde olduğu gibi, etkinlik kuralları değişebilir.</li><li>Katılıyorum gönderiler ertesi gün <a href=\"https://trickortreat.klei.com/View\">burada</a> paylaşılacaktır.</li>"
 
 #. i18n: keyword: FanartEventConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
@@ -2227,63 +2227,63 @@ msgstr "Zaten bir resim gönderdiniz. Önceki gönderiminizin üzerine yazmak is
 
 #. i18n: keyword: FanartEventStatusSubmissionID
 msgid "Submission ID:"
-msgstr ""
+msgstr "Gönderim Kimliği:"
 
 #. i18n: keyword: FanartEventSubmissionSuccess
 msgid "Your picture has been recorded!"
-msgstr ""
+msgstr "Resminiz kaydedildi!"
 
 #. i18n: keyword: FanartEventStatusSubmissionStatus
 msgid "Submission status:"
-msgstr ""
+msgstr "Gönderim durumu:"
 
 #. i18n: keyword: FanartEventStatusNoSubmission
 msgid "You have not submitted an image yet"
-msgstr ""
+msgstr "Henüz bir resim göndermediniz"
 
 #. i18n: keyword: FanartEventStatusKleiMessage
 msgid "Message from Klei:"
-msgstr ""
+msgstr "Klei'den mesaj:"
 
 #. i18n: keyword: FanartEventCheckStatus
 msgid "Already made a submission? Check the status of your submission <a href=\"https://accounts.klei.com/account/fanartevent/status\">here</a>"
-msgstr ""
+msgstr "Zaten bir başvuru yaptın mı? Gönderinizin durumunu <a href=\"https://accounts.klei.com/account/fanartevent/status\">buradan kontrol edin"
 
 #. i18n: keyword: FanartEventRulesLabel
 msgid "Event Rules:"
-msgstr ""
+msgstr "Etkinlik Kuralları:"
 
 #. i18n: keyword: FanartEventAgreeToRules
 msgid "I agree to abide by the event rules."
-msgstr ""
+msgstr "Etkinlik kurallarına uymayı kabul ediyorum."
 
 #. i18n: keyword: FanartEventShareLabel
 msgid "Share Image?"
-msgstr ""
+msgstr "Fotoğraf paylaşmak?"
 
 #. i18n: keyword: FanartEventShareImage
 msgid "I agree to share my image and message publicly on the event page."
-msgstr ""
+msgstr "Etkinlik sayfasında resmimi ve mesajımı herkese açık olarak paylaşmayı kabul ediyorum."
 
 #. i18n: keyword: FanartEventMessageLabel
 msgid "Message"
-msgstr ""
+msgstr "Mesaj"
 
 #. i18n: keyword: FanartEventStatusApproved
 msgid "Approved"
-msgstr ""
+msgstr "Onaylandı"
 
 #. i18n: keyword: FanartEventStatusRejected
 msgid "Rejected"
-msgstr ""
+msgstr "Reddedildi"
 
 #. i18n: keyword: FanartEventStatusUnderReview
 msgid "Under review"
-msgstr ""
+msgstr "İnceleme altında"
 
 #. i18n: keyword: FanartEventStatusBanned
 msgid "Banned"
-msgstr ""
+msgstr "Yasaklandı"
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
