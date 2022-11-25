@@ -825,7 +825,7 @@ msgstr ""
 msgid "Don’t Starve Together Game Servers"
 msgstr "Гульнявыя серверы для Don't Starve Together"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Don’t Starve Together Items Inventory"
 msgstr "Інвентар Don't Гэта Together"
 

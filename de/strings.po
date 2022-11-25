@@ -825,7 +825,7 @@ msgstr "Fehler: Du scheinst keine dafür qualifizierten Spiele zu besitzen."
 msgid "Game Servers"
 msgstr "Spiele-Server"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
 msgstr "Gegenstands-Inventar"
 

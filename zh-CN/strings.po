@@ -825,7 +825,7 @@ msgstr "错误：您似乎并未拥有任何适用的游戏。"
 msgid "Game Servers"
 msgstr "《饥荒：联机版》的游戏服务器"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
 msgstr "物品库存"
 

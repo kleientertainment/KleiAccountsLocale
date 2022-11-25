@@ -825,7 +825,7 @@ msgstr "Hata: Uygun oyunlara sahip görünmüyorsunuz."
 msgid "Game Servers"
 msgstr "Don’t Starve Together Oyun Sunucusu"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
 msgstr "Eşya Envanteri"
 

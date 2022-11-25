@@ -825,7 +825,7 @@ msgstr "Помилка: Схоже, ви не володієте жодними 
 msgid "Game Servers"
 msgstr "Ігрові сервери"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
 msgstr "Інвентар"
 

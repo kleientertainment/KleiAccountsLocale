@@ -825,7 +825,7 @@ msgstr "Błąd: Wygląda na to, że nie posiadasz żadnych kwalifikujących się
 msgid "Game Servers"
 msgstr "Serwery gry"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
 msgstr "Ekwipunek przedmiotów"
 

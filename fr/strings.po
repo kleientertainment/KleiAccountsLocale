@@ -825,7 +825,7 @@ msgstr "Il semble que vous ne possedez pas de jeux éligibles."
 msgid "Game Servers"
 msgstr "Serveurs de jeux pour Don’t Starve Together"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
 msgstr "Inventaire"
 

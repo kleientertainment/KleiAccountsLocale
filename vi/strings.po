@@ -825,7 +825,7 @@ msgstr ""
 msgid "Game Servers"
 msgstr "Máy chủ trò  Don’t Starve Together"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
 msgstr ""
 

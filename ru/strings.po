@@ -825,7 +825,7 @@ msgstr "Ошибка: У вас нет подходящих игр."
 msgid "Game Servers"
 msgstr "Игровые серверы"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
 msgstr "Инвентарь предметов"
 
