@@ -825,7 +825,7 @@ msgstr "错误：您似乎并未拥有任何适用的游戏。"
 msgid "Game Servers"
 msgstr "《饥荒：联机版》的游戏服务器"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
 msgstr "物品库存"
 
@@ -858,8 +858,8 @@ msgid "Duplicates Removed!"
 msgstr "重复的物品已被移除！"
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
-msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr "您选择的游戏没有物品。请确保您已选择《饥荒：联机版》。"
+msgid "The game you selected does not have items."
+msgstr "您选择的游戏没有物品。"
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"

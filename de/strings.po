@@ -825,7 +825,7 @@ msgstr "Fehler: Du scheinst keine dafür qualifizierten Spiele zu besitzen."
 msgid "Game Servers"
 msgstr "Spiele-Server"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
 msgstr "Gegenstands-Inventar"
 
@@ -858,8 +858,8 @@ msgid "Duplicates Removed!"
 msgstr ""
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
-msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr "Das ausgewählte Spiel besitzt keine Gegenstände. Vergewissere dich bitte, dass du Don't Starve Together ausgewählt hast."
+msgid "The game you selected does not have items."
+msgstr "Das ausgewählte Spiel besitzt keine Gegenstände."
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"

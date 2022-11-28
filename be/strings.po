@@ -825,7 +825,7 @@ msgstr ""
 msgid "Don’t Starve Together Game Servers"
 msgstr "Гульнявыя серверы для Don't Starve Together"
 
-#. i18n: keyword: DontStarveTogetherInventory
+#. i18n: keyword: ItemsInventory
 msgid "Don’t Starve Together Items Inventory"
 msgstr "Інвентар Don't Гэта Together"
 
@@ -858,8 +858,8 @@ msgid "Duplicates Removed!"
 msgstr ""
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
-msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr "У абранай гульні няма прадметаў. Пераканайцеся, што вы выбралі Don't Гэта Together."
+msgid "The game you selected does not have items."
+msgstr "У абранай гульні няма прадметаў."
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
