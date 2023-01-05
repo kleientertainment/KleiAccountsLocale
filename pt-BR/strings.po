@@ -1263,7 +1263,7 @@ msgstr "Resgatar Código"
 
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Redemption of gift code <b>{{ .Data.Code }}</b> was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr "Parabéns! O resgate do código de presente <b>{{ .Data.Code }}</b> foi um sucesso.</p><p>O tempo de entrega pode variar devido a anomalias temporarias do portal. A Klei não se responsabiliza por danos emocionais causados pela espera. Presentes podem resultar em orgulho, alegria inexperada e/ou experiência de jogo melhorada."
+msgstr "Parabéns! O resgate do código de presente <b>{{ .Data.Code }}</b> foi um sucesso.</p><p>O tempo de entrega pode variar devido a anomalias temporarias do portal. A Klei não se responsabiliza por danos emocionais causados pela espera. Presentes podem resultar em orgulho, alegria inesperada e/ou experiência de jogo melhorada."
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
