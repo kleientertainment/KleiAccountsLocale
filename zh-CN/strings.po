@@ -1263,7 +1263,7 @@ msgstr "兑换码"
 
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Redemption of gift code <b>{{ .Data.Code }}</b> was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr ""
+msgstr "恭喜！礼品兑换码<b>{{ .Data.Code }}</b>是正确的。</p><p>由于时空门的异常，交货时间不固定。Klei对因等待而造成的精神伤害不负责任。礼物可能导致吹嘘、意想不到的喜悦亦或增强游戏体验。"
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
@@ -1299,7 +1299,7 @@ msgstr "<b>\"{{ .Data.Code }}\"</b>有效且没被兑换过。"
 
 #. i18n: keyword: ViewTransactionsPage
 msgid "You can view all of your recent transactions <a href=\"/account/transactions\">here</a>."
-msgstr ""
+msgstr "您可以<a href=\"/account/transactions\">在此</a>.查看您最近的所有交易。"
 
 #. i18n: keyword: LP_STEAM_Username
 msgid "Steam username"
