@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2023-01-05 12:11-0300\n"
-"Last-Translator: Mateus Generoso (mtsgeneroso)\n"
+"PO-Revision-Date: 2023-01-11 00:25-0300\n"
+"Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -2175,15 +2175,15 @@ msgstr "Trocável"
 
 #. i18n: keyword: MismatchedKuTitle
 msgid "Mismatched User IDs"
-msgstr ""
+msgstr "IDs de Usuário Incompatíveis"
 
 #. i18n: keyword: LoginToAnotherAccount
 msgid "Login to another account"
-msgstr ""
+msgstr "Entrar com outra conta"
 
 #. i18n: keyword: MismatchedKuDescription
 msgid "You are currently logged in as <b>{{ .Data.CurrentKU }}</b> but you are trying to access a link for user ID <b>{{ .Data.ExpectedKU }}</b>. Would you like to continue on your current account or login to another account?"
-msgstr ""
+msgstr "No momento, você está conectado como <b>{{ .Data.CurrentKU }}</b>, mas está tentando acessar um link para o ID de usuário <b>{{ .Data.ExpectedKU }}</b>. Você gostaria de continuar em sua conta atual ou entrar com outra conta?"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
