@@ -1262,8 +1262,8 @@ msgid "Redeem Code"
 msgstr "Nhận mã"
 
 #. i18n: keyword: GiftRedemptionSuccess
-msgid "Congratulations! Gift code redemption was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr "Xin chúc mừng! Nhận thưởng thành công.</p><p> Thời gian nhận sẽ bị ảnh hưởng do những bất thường tạm thời của cổng thời gian. Klei không chịu trách nhiệu về tổn thương tinh thầnh gây nên bởi sự chờ đợi này. Những quà tặng có thể dẫn đến kết quả là khoe khoang, vui mừng bất ngờ và/hoặc nâng cao trải nghiệm trò chơi."
+msgid "Congratulations! Redemption of gift code <b>{{ .Data.Code }}</b> was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
+msgstr ""
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
@@ -1295,6 +1295,10 @@ msgstr ""
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
+msgstr ""
+
+#. i18n: keyword: ViewTransactionsPage
+msgid "You can view all of your recent transactions <a href=\"/account/transactions\">here</a>."
 msgstr ""
 
 #. i18n: keyword: LP_STEAM_Username
@@ -2168,6 +2172,18 @@ msgstr "Có thể bán được"
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
 msgstr "Có thể trao đổi được"
+
+#. i18n: keyword: MismatchedKuTitle
+msgid "Mismatched User IDs"
+msgstr ""
+
+#. i18n: keyword: LoginToAnotherAccount
+msgid "Login to another account"
+msgstr ""
+
+#. i18n: keyword: MismatchedKuDescription
+msgid "You are currently logged in as <b>{{ .Data.CurrentKU }}</b> but you are trying to access a link for user ID <b>{{ .Data.ExpectedKU }}</b>. Would you like to continue on your current account or login to another account?"
+msgstr ""
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
