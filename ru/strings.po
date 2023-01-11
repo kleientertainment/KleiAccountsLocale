@@ -2173,6 +2173,18 @@ msgstr "Можно продать"
 msgid "Tradeable"
 msgstr "Можно обменять"
 
+#. i18n: keyword: MismatchedKuTitle
+msgid "Mismatched User IDs"
+msgstr ""
+
+#. i18n: keyword: LoginToAnotherAccount
+msgid "Login to another account"
+msgstr ""
+
+#. i18n: keyword: MismatchedKuDescription
+msgid "You are currently logged in as <b>{{ .Data.CurrentKU }}</b> but you are trying to access a link for user ID <b>{{ .Data.ExpectedKU }}</b>. Would you like to continue on your current account or login to another account?"
+msgstr ""
+
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
 msgstr "Недостаточно рулонов. Пожалуйста, посетите <a href='/account/transactions'>страницу транзакций</a> чтобы убедиться, что у вас достаточно рулонов для совершения это операции."
