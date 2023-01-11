@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-11-17 17:25-0300\n"
+"PO-Revision-Date: 2023-01-05 12:11-0300\n"
 "Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -1263,7 +1263,7 @@ msgstr "Resgatar Código"
 
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Redemption of gift code <b>{{ .Data.Code }}</b> was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr ""
+msgstr "Parabéns! O resgate do código de presente <b>{{ .Data.Code }}</b> foi um sucesso.</p><p>O tempo de entrega pode variar devido a anomalias temporarias do portal. A Klei não se responsabiliza por danos emocionais causados pela espera. Presentes podem resultar em orgulho, alegria inesperada e/ou experiência de jogo melhorada."
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
@@ -1299,7 +1299,7 @@ msgstr "<b>\"{{ .Data.Code }}\"</b> é um código válido e ainda não foi resga
 
 #. i18n: keyword: ViewTransactionsPage
 msgid "You can view all of your recent transactions <a href=\"/account/transactions\">here</a>."
-msgstr ""
+msgstr "Você pode ver todas as suas transações recentes <a href=\"/account/transactions\">aqui</a>."
 
 #. i18n: keyword: LP_STEAM_Username
 msgid "Steam username"
