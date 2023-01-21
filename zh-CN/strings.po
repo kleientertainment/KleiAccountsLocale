@@ -2175,15 +2175,15 @@ msgstr "可交易的"
 
 #. i18n: keyword: MismatchedKuTitle
 msgid "Mismatched User IDs"
-msgstr ""
+msgstr "用户ID未找到"
 
 #. i18n: keyword: LoginToAnotherAccount
 msgid "Login to another account"
-msgstr ""
+msgstr "登录其他账号"
 
 #. i18n: keyword: MismatchedKuDescription
 msgid "You are currently logged in as <b>{{ .Data.CurrentKU }}</b> but you are trying to access a link for user ID <b>{{ .Data.ExpectedKU }}</b>. Would you like to continue on your current account or login to another account?"
-msgstr ""
+msgstr "您当前登录的ID为<b>{{ .Data.CurrentKU }}</b>，但您在尝试访问属于<b>{{ .Data.ExpectedKU }}</b>的链接。您是想使用当前的账号继续还是登录其他账号？"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
