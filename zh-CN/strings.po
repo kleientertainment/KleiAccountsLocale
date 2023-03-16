@@ -2179,7 +2179,7 @@ msgstr "可交易的"
 
 #. i18n: keyword: MismatchedKuTitle
 msgid "Mismatched User IDs"
-msgstr "用户ID未找到"
+msgstr "不匹配的用户ID"
 
 #. i18n: keyword: LoginToAnotherAccount
 msgid "Login to another account"
