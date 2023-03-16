@@ -1263,7 +1263,7 @@ msgstr "Kodu Kullan"
 
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Redemption of gift code <b>{{ .Data.Code }}</b> was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr ""
+msgstr "Tebrikler! <b>{{ .Data.Code }}</b> hediye kodunun kullanılması başarılı oldu.</p><p>Geçici portal anormallikleri nedeniyle teslim süresi değişkendir. Beklemenin neden olduğu duygusal yaralanmalardan Klei sorumlu değildir. Hediyeler böbürlenme, beklenmedik zevk ve/veya gelişmiş oyun deneyimi ile sonuçlanabilir."
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
@@ -1299,7 +1299,7 @@ msgstr "<b>\"{{ .Data.Code }}\"</b> geçerli bir koddur ve henüz kullanılmamı
 
 #. i18n: keyword: ViewTransactionsPage
 msgid "You can view all of your recent transactions <a href=\"/account/transactions\">here</a>."
-msgstr ""
+msgstr "Son işlemlerinizin tümünü <a href=\"/account/transactions\">buradan</a> görüntüleyebilirsiniz."
 
 #. i18n: keyword: LP_STEAM_Username
 msgid "Steam username"
@@ -2151,7 +2151,7 @@ msgstr "Steam Kutusu (DLC)"
 
 #. i18n: keyword: TXN_PURCHASEBOX_RAIL_SKINDLC
 msgid "Shop Chest (WeGame DLC)"
-msgstr ""
+msgstr "Mağaza Sandığı (WeGame DLC)"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
@@ -2179,15 +2179,15 @@ msgstr "Takaslanabilir"
 
 #. i18n: keyword: MismatchedKuTitle
 msgid "Mismatched User IDs"
-msgstr ""
+msgstr "Eşleşmeyen Kullanıcı Kimlikleri"
 
 #. i18n: keyword: LoginToAnotherAccount
 msgid "Login to another account"
-msgstr ""
+msgstr "Başka bir hesaba giriş yapın"
 
 #. i18n: keyword: MismatchedKuDescription
 msgid "You are currently logged in as <b>{{ .Data.CurrentKU }}</b> but you are trying to access a link for user ID <b>{{ .Data.ExpectedKU }}</b>. Would you like to continue on your current account or login to another account?"
-msgstr ""
+msgstr "Şu anda <b>{{ .Data.CurrentKU }}</b> olarak oturum açtınız, ancak <b>{{ .Data.ExpectedKU }}</b> kullanıcı kimliği için bir bağlantıya erişmeye çalışıyorsunuz. Mevcut hesabınızla devam etmek mi yoksa başka bir hesaba giriş yapmak mı istiyorsunuz?"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
