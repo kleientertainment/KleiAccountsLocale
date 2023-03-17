@@ -1202,8 +1202,8 @@ msgid "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Fo
 msgstr " <a href='https://www.instagram.com/kleientertainment /' target='_blank' >Падпішыцеся на нас у Instagram</ a>, каб атрымаць гэтую ўзнагароду."
 
 #. i18n: keyword: RewardMessageNewsletter
-msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
-msgstr "<a href='/account/settings' target='_blank'>Падпішыцеся на нашу рассылку</a>, каб атрымаць гэтую ўзнагароду."
+msgid "<a href='/account/settings#marketing-options' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
+msgstr "<a href='/account/settings#marketing-options' target='_blank'>Падпішыцеся на нашу рассылку</a>, каб атрымаць гэтую ўзнагароду."
 
 #. i18n: keyword: RewardMessagMissingEmail
 msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
