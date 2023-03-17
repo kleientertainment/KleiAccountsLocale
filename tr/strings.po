@@ -1889,10 +1889,6 @@ msgstr "Douyu hesabınız zaten bir Klei Kullanıcı Kimliği ile bağlantılı.
 msgid "Your Klei account has already been disconnected from Douyu. If you believe the connection still exists, please <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and disconnect the “Klei Entertainment” app manually."
 msgstr "Klei hesabınızın Douyu ile bağlantısı zaten kesilmiş. Bağlantının hala var olduğunu düşünüyorsanız, lütfen<a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>Douyu profilinizi ziyaret edin</a> \"Klei Entertainment\" uygulamasının bağlantısını manuel olarak kaldırın."
 
-#. i18n: keyword: E_DOUYU_ALREADY_DISCONNECTED
-msgid "Your Klei account has already been disconnected from Douyu. If you believe the connection still exists, please <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and disconnect the “Klei Entertainment” app manually."
-msgstr "Klei hesabınızın Douyu ile bağlantısı zaten kesilmiş. Bağlantının hala var olduğunu düşünüyorsanız, lütfen<a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>Douyu profilinizi ziyaret edin</a> \"Klei Entertainment\" uygulamasının bağlantısını manuel olarak kaldırın."
-
 #. i18n: keyword: E_DOUYU_GATEWAY_TIMEOUT
 msgid "Douyu servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
 msgstr "Douyu sunucuları (Tengine tarafından desteklenmektedir) şu anda kullanılamıyor. Lütfen birkaç dakika içinde tekrar deneyin."
