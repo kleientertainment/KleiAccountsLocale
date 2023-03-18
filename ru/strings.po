@@ -407,15 +407,15 @@ msgstr "У сторонней службы, которую мы использу
 
 #. i18n: keyword: LinkDiscordTitle
 msgid "Link Discord Account"
-msgstr ""
+msgstr "Привязать учётную запись Discord"
 
 #. i18n: keyword: LinkDiscordDescription
 msgid "This will link your Discord Account to your Klei Account."
-msgstr ""
+msgstr "Это свяжет вашу учётную запись Discord с учётной записью Klei."
 
 #. i18n: keyword: UnlinkDiscordTitle
 msgid "Unlink Discord Account"
-msgstr ""
+msgstr "Отвязать учётную запись Discord"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -423,23 +423,23 @@ msgstr "Объединить учётную запись"
 
 #. i18n: keyword: MergeAccountInstructionsDescription
 msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are merging your own accounts and not someone else's, as the account merge process cannot be reversed."
-msgstr ""
+msgstr "Если вы используете общий компьютер, вы можете использовать функцию «Инкогнито» вашего браузера (или эквивалентную), чтобы убедиться, что вы объединяете свои собственные учётные записи, а не чьи-либо ещё, поскольку процесс объединения учётных записей необратим."
 
 #. i18n: keyword: MergeAccountInstructionsContinue
 msgid "Continue"
-msgstr ""
+msgstr "Продолжить"
 
 #. i18n: keyword: MergeAccountConnectedTitle
 msgid "Connected"
-msgstr ""
+msgstr "Связано"
 
 #. i18n: keyword: MergeAccountConnectedID
 msgid "ID:"
-msgstr ""
+msgstr "ID:"
 
 #. i18n: keyword: MergeAccountNotConnected
 msgid "Not connected"
-msgstr ""
+msgstr "Не связано"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -447,7 +447,7 @@ msgstr "Этот процесс позволит одной учётной за�
 
 #. i18n: keyword: MergeAccountSelectDescription
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
-msgstr ""
+msgstr "Пожалуйста, выберите учётную запись, которую вы хотите сохранить. <b>Вы потеряете свой игровой прогресс на другой учётной записи.</b>"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -475,7 +475,7 @@ msgstr "Успешное объединение учётных записей"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
-msgstr ""
+msgstr "Операция объединения учётных записей прошла успешно.</p><p>Мы сбросили ваш сеанс, чтобы вы могли войти с новой учётной записью.</p><p>Если вы объединили учётные записи Epic Games и Steam и у вас есть Griftlands на одной из этих платформ, она будет предоставлена вам и на другой платформе.</p><p>Помните, что вам нужно <strong>запустить игру хотя бы один раз</strong>, чтобы мы могли её обнаружить."
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -483,19 +483,19 @@ msgstr "Исправить предупреждения"
 
 #. i18n: keyword: MergeAccountDate
 msgid "Account creation date"
-msgstr ""
+msgstr "Дата создания учётной записи"
 
 #. i18n: keyword: MergeAccountEmail
 msgid "Klei Account e-mail"
-msgstr ""
+msgstr "Электронная почта учётной записи Klei"
 
 #. i18n: keyword: MergeAccountKeepThis
 msgid "Keep this account"
-msgstr ""
+msgstr "Сохранить эту учётную запись"
 
 #. i18n: keyword: MergeAccountMergeThis
 msgid "Merge this account"
-msgstr ""
+msgstr "Объединить эту учётную запись"
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
@@ -503,35 +503,35 @@ msgstr "Пожалуйста, проверьте дважды, верная ли
 
 #. i18n: keyword: MergeAccountCheckProfileSelected
 msgid "Make sure this is the account you want to keep."
-msgstr ""
+msgstr "Убедитесь, что это именно та учётная запись, которую нужно сохранить."
 
 #. i18n: keyword: MergeAccountCheckProfileUnselected
 msgid "You'll lose all your in-game progress in this account."
-msgstr ""
+msgstr "Вы потеряете весь свой игровой прогресс на этой учётной записи."
 
 #. i18n: keyword: MergeAccountReadyButton
 msgid "Merge accounts"
-msgstr ""
+msgstr "Объединить учётные записи"
 
 #. i18n: keyword: MergeAccountReady
 msgid "You will be able to log in with the new account after submitting."
-msgstr ""
+msgstr "После отправки вы сможете войти в новую учётную запись."
 
 #. i18n: keyword: MergeAccountMerging
 msgid "Merging…"
-msgstr ""
+msgstr "Объединение…"
 
 #. i18n: keyword: MergeAccountDoNotLeave
 msgid "Please do not leave this page"
-msgstr ""
+msgstr "Пожалуйста, не закрывайте эту страницу"
 
 #. i18n: keyword: MergeAccountWarningsTitle
 msgid "Warning"
-msgstr ""
+msgstr "Предупреждение"
 
 #. i18n: keyword: MergeAccountWarningsSubtitle
 msgid "You need to fix these issues"
-msgstr ""
+msgstr "Вам нужно исправить эти проблемы"
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
@@ -547,23 +547,23 @@ msgstr "Платформа, подключённая к учётной запи�
 
 #. i18n: keyword: MergeInProgressTitle
 msgid "Merge In Progress"
-msgstr ""
+msgstr "Объединение в процессе"
 
 #. i18n: keyword: MergeInProgressDescription
 msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
-msgstr ""
+msgstr "Вы вышли из системы, поскольку объединение учётных записей было прервано. Пожалуйста, войдите в систему ещё раз, чтобы продолжить объединение."
 
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
-msgstr ""
+msgstr "Продолжить объединение"
 
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
-msgstr ""
+msgstr "Ваша учётная запись в процессе объединения <b>{{ .Data.SourceKU }}</b> в <b>{{ .Data.DestinationKU }}</b>, вы не сможете войти в систему, пока объединение не будет завершено.<br>Нажмите кнопку ниже, чтобы продолжить объединение."
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
-msgstr ""
+msgstr "Продолжить объединение"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
@@ -611,15 +611,15 @@ msgstr "Вы уже объединили свою учётную запись St
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
 msgid "You already merged your Xbox Network account."
-msgstr ""
+msgstr "Вы уже объединили свою учётную запись Xbox Network."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
 msgid "You already merged your Nintendo account."
-msgstr ""
+msgstr "Вы уже объединили свою учётную запись Nintendo."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
 msgid "You already merged your WeGame account."
-msgstr ""
+msgstr "Вы уже объединили свою учётную запись WeGame."
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -835,27 +835,27 @@ msgstr "<b>Подсказки для поиска:</b> Введите одно �
 
 #. i18n: keyword: RemoveDuplicateItems
 msgid "Remove Duplicates"
-msgstr ""
+msgstr "Убрать дубликаты"
 
 #. i18n: keyword: RemoveDuplicateItemsConfirmation
 msgid "Are you sure you want to remove all duplicates of this item and only keep one?"
-msgstr ""
+msgstr "Вы уверены, что хотите убрать все дубликаты этого предмета и оставить только один?"
 
 #. i18n: keyword: RemoveDuplicateItemsQuantityToRemove
 msgid "Quantity to remove: "
-msgstr ""
+msgstr "Будет убрано: "
 
 #. i18n: keyword: RemoveDuplicateItemsToReceive
 msgid "You'll receive: "
-msgstr ""
+msgstr "Вы получите: "
 
 #. i18n: keyword: RemoveDuplicateItemsReceiveNothing
 msgid "Nothing"
-msgstr ""
+msgstr "Ничего"
 
 #. i18n: keyword: RemoveDuplicateItemsSuccess
 msgid "Duplicates Removed!"
-msgstr ""
+msgstr "Дубликаты убраны!"
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items."
@@ -955,23 +955,23 @@ msgstr "Стиль игры"
 
 #. i18n: keyword: ConfigureServerPlaystyleRelaxed
 msgid "Relaxed"
-msgstr ""
+msgstr "Расслабленный"
 
 #. i18n: keyword: ConfigureServerPlaystyleEndless
 msgid "Endless"
-msgstr ""
+msgstr "Бесконечный"
 
 #. i18n: keyword: ConfigureServerPlaystyleSurvival
 msgid "Survival"
-msgstr ""
+msgstr "Выживание"
 
 #. i18n: keyword: ConfigureServerPlaystyleWilderness
 msgid "Wilderness"
-msgstr ""
+msgstr "Свободный"
 
 #. i18n: keyword: ConfigureServerPlaystyleLightsOut
 msgid "Lights Out"
-msgstr ""
+msgstr "Без света"
 
 #. i18n: keyword: ConfigureServerClusterName
 msgid "Cluster Name"
@@ -1103,31 +1103,31 @@ msgstr "Альтернатива"
 
 #. i18n: keyword: RewardPoints
 msgid "Klei Points"
-msgstr ""
+msgstr "Очки Klei"
 
 #. i18n: keyword: RewardSpools
 msgid "Spools"
-msgstr ""
+msgstr "Катушки"
 
 #. i18n: keyword: RewardBolts
 msgid "Bolts of Cloth"
-msgstr ""
+msgstr "Рулоны ткани"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
-msgstr ""
+msgstr "<b>Очки Klei</b><br>Очки Klei используются для получения внутриигровых наград через страницу наград Klei."
 
 #. i18n: keyword: RewardSpoolsGlossary
 msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-game."
-msgstr ""
+msgstr "<b>Катушки</b><br>Катушки используются, чтобы выткать предметы в меню коллекций в игре."
 
 #. i18n: keyword: RewardBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>Рулоны ткани</b><br>(только для PlayStation и XBox) Внутриигровая валюта, которая используется для покупки скинов и наборов во внутриигровом магазине."
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>Рулоны ткани</b><br>(только для Nintendo Switch) Внутриигровая валюта, которая используется для покупки скинов и наборов во внутриигровом магазине."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1187,7 +1187,7 @@ msgstr "Подписывайтесь на нашу новостную рассы
 
 #. i18n: keyword: RewardNameMerge
 msgid "Merge Klei Accounts"
-msgstr ""
+msgstr "Объединить аккаунты Klei"
 
 #. i18n: keyword: RewardNameRedeemableCode
 msgid "Redeemable Code"
@@ -1207,11 +1207,11 @@ msgstr "<a href='/account/settings#marketing-options' target='_blank'>Подпи
 
 #. i18n: keyword: RewardMessagMissingEmail
 msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
-msgstr ""
+msgstr "<a href='/account/settings' target='_blank'>Введите адрес своей электронной почты</a>, чтобы получить эту награду."
 
 #. i18n: keyword: RewardMessageMerge
 msgid "<a href='/account/merge' target='_blank'>Merge an account</a> to claim this reward."
-msgstr ""
+msgstr "<a href='/account/merge' target='_blank'>Объедините аккаунты</a>, чтобы получить эту награду."
 
 #. i18n: keyword: RewardItemCost
 msgid "Cost"
@@ -1251,7 +1251,7 @@ msgstr "Привет! Похоже, у вас есть ключ от предм�
 
 #. i18n: keyword: GiftRedemptionGoToValidation
 msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
-msgstr ""
+msgstr "Если вы хотите проверить действительность своего кода, не активируя его, вы можете сделать это на <a href='/account/validate-gift'>этой странице</a>."
 
 #. i18n: keyword: GiftCodeLabel
 msgid "Enter Your Code"
@@ -1263,7 +1263,7 @@ msgstr "Использовать код"
 
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Redemption of gift code <b>{{ .Data.Code }}</b> was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr ""
+msgstr "Поздравляем! Активация подарочного кода <b>{{ .Data.Code }}</b> прошла успешно.</p><p>Время доставки может варьироваться из-за временных аномалий портала. Klei не несут ответственности за эмоциональные травмы, вызванные ожиданием. Подарки могут стать поводом для хвастовства, неожиданного удовольствия и/или улучшения игрового процесса."
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
@@ -1271,75 +1271,75 @@ msgstr "Нажмите здесь, чтобы ввести ещё один ко�
 
 #. i18n: keyword: ValidateGiftTitle
 msgid "Gift Code Validation"
-msgstr ""
+msgstr "Проверка подарочного кода"
 
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
-msgstr ""
+msgstr "На этой странице Вы можете проверить, действителен ли Ваш подарочный код и не был ли он ещё активирован. Код при этом НЕ БУДЕТ активирован."
 
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"
-msgstr ""
+msgstr "Проверить код"
 
 #. i18n: keyword: ValidateGiftAgainButton
 msgid "Click here to validate another code"
-msgstr ""
+msgstr "Нажмите здесь, чтобы проверить ещё один код"
 
 #. i18n: keyword: ValidateGiftInvalid
 msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
-msgstr ""
+msgstr "Код <b>\"{{ .Data.Code }}\"</b> недействителен."
 
 #. i18n: keyword: ValidateGiftRedeemed
 msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
-msgstr ""
+msgstr "Код <b>\"{{ .Data.Code }}\"</b> был уже активирован."
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
-msgstr ""
+msgstr "Код <b>\"{{ .Data.Code }}\"</b> действителен и ещё не был активирован."
 
 #. i18n: keyword: ViewTransactionsPage
 msgid "You can view all of your recent transactions <a href=\"/account/transactions\">here</a>."
-msgstr ""
+msgstr "Вы можете посмотреть все недавние транзакции на <a href=\"/account/transactions\">этой странице</a>"
 
 #. i18n: keyword: LP_STEAM_Username
 msgid "Steam username"
-msgstr ""
+msgstr "Имя пользователя Steam"
 
 #. i18n: keyword: LP_EPIC_Username
 msgid "Epic Games username"
-msgstr ""
+msgstr "Имя пользователя Epic Games"
 
 #. i18n: keyword: LP_XBL_Username
 msgid "Xbox Network username"
-msgstr ""
+msgstr "Имя пользователя Xbox Network"
 
 #. i18n: keyword: LP_RAIL_Username
 msgid "WeGame username"
-msgstr ""
+msgstr "Имя пользователя WeGame"
 
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
-msgstr ""
+msgstr "Имя пользователя Nintendo"
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
-msgstr ""
+msgstr "Объединение аккаунтов не удалось."
 
 #. i18n: keyword: MergeFailedErrorDescription
 msgid "An error has occured while merging the following KUs:"
-msgstr ""
+msgstr "Во время объединения следующих KU произошла ошибка:"
 
 #. i18n: keyword: MergeFailedSourceKU
 msgid "<b>Source KU:</b> {{ .Data.SourceKU }}"
-msgstr ""
+msgstr "<b>KU-источник:</b> {{ .Data.SourceKU }}"
 
 #. i18n: keyword: MergeFailedDestinationKU
 msgid "<b>Destination KU:</b> {{ .Data.DestinationKU }}"
-msgstr ""
+msgstr "<b>KU-получатель:</b> {{ .Data.DestinationKU }}"
 
 #. i18n: keyword: MergeFailedDescription
 msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
-msgstr ""
+msgstr "Вы вышли из своей учетной записи. Пожалуйста, <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>обратитесь в службу поддержки</a> для получения дополнительной помощи."
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
@@ -1531,15 +1531,15 @@ msgstr "Не удалось подключиться к Steam"
 
 #. i18n: keyword: RevertAccountLimboTitle
 msgid "Account marked for deletion"
-msgstr ""
+msgstr "Учётная запись помечена для удаления"
 
 #. i18n: keyword: RevertAccountLimboDescription
 msgid "Your account with User ID <b>{{ .Data.KU }}</b> has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
-msgstr ""
+msgstr "Ваша учётная запись с идентификатором <b>{{ .Data.KU }}</b> была помечена для удаления и будет безвозвратно удалена через 30 дней.<br>Если вы хотите восстановить свою учётную запись, нажмите кнопку «Восстановить учётную запись».
 
 #. i18n: keyword: RevertAccountLimboConfirm
 msgid "Recover Account"
-msgstr ""
+msgstr "Восстановить учётную запись"
 
 #. i18n: keyword: E_JSON_BAD_EOF
 msgid "The server was unable to read the data you submitted. Please try again later."
@@ -1995,7 +1995,7 @@ msgstr "Пользовательские транзакции"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "Transactions associated with your account are listed below, newest first.<br>Transaction time is in UTC, not your local time."
-msgstr ""
+msgstr "Транзакции, связанные с вашей учётной записью, перечислены ниже, начиная с самых новых.<br>Время транзакции указано в формате UTC, а не по вашему местному времени."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
@@ -2019,11 +2019,11 @@ msgstr "Отменить"
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
-msgstr ""
+msgstr "Неделя"
 
 #. i18n: keyword: GiftingEventGift
 msgid "Gift"
-msgstr ""
+msgstr "Подарок"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -2047,7 +2047,7 @@ msgstr "Создание предмета"
 
 #. i18n: keyword: TXN_INVENTORY_MERGE
 msgid "Account Merge"
-msgstr ""
+msgstr "Объединение учётных записей"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
@@ -2119,11 +2119,11 @@ msgstr "Twitch-дроп"
 
 #. i18n: keyword: TXN_DOUYU_ITEM_DROP
 msgid "Douyu Item Drop"
-msgstr ""
+msgstr "Douyu-дроп"
 
 #. i18n: keyword: TXN_BILIBILI_ITEM_DROP
 msgid "Bilibili Item Drop"
-msgstr ""
+msgstr "Bilibili-дроп"
 
 #. i18n: keyword: TXN_DAILY_GIFT_ITEM
 msgid "Daily Gift Item"
@@ -2151,7 +2151,7 @@ msgstr "Набор DLC Steam"
 
 #. i18n: keyword: TXN_PURCHASEBOX_RAIL_SKINDLC
 msgid "Shop Chest (WeGame DLC)"
-msgstr ""
+msgstr "Набор DLC WeGame"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
@@ -2163,11 +2163,11 @@ msgstr "Ввод подарочного кода"
 
 #. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
 msgid "Klei Support Issued Currency"
-msgstr ""
+msgstr "Обращение в поддержку Klei"
 
 #. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
 msgid "Klei Support Issued Item"
-msgstr ""
+msgstr "Обращение в поддержку Klei"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
@@ -2179,15 +2179,15 @@ msgstr "Можно обменять"
 
 #. i18n: keyword: MismatchedKuTitle
 msgid "Mismatched User IDs"
-msgstr ""
+msgstr "Несоответствующие идентификаторы"
 
 #. i18n: keyword: LoginToAnotherAccount
 msgid "Login to another account"
-msgstr ""
+msgstr "Войти в другую учётную запись"
 
 #. i18n: keyword: MismatchedKuDescription
 msgid "You are currently logged in as <b>{{ .Data.CurrentKU }}</b> but you are trying to access a link for user ID <b>{{ .Data.ExpectedKU }}</b>. Would you like to continue on your current account or login to another account?"
-msgstr ""
+msgstr "В настоящее время вы вошли в систему как <b>{{ .Data.CurrentKU }}</b>, но пытаетесь получить доступ к ссылке для идентификатора пользователя <b>{{ .Data.ExpectedKU }}</b>. Вы хотите продолжить текущий сеанс или войти в другую учётную запись?"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
@@ -2211,15 +2211,15 @@ msgstr "Загруженный вами файл слишком большой. 
 
 #. i18n: keyword: E_FILE_SIZE_ZERO
 msgid "The file you selected has a size of zero bytes. Please try again with a different file."
-msgstr ""
+msgstr "Выбранный вами файл имеет размер 0 байт. Пожалуйста, попробуйте ещё раз с другим файлом."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_RULES
 msgid "Unfortunately, you can not participate in the event if you do not agree with the event rules."
-msgstr ""
+msgstr "К сожалению, вы не можете участвовать в мероприятии, если не согласны с его правилами."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_SHARE
 msgid "Unfortunately, you can not participate in the event if you do not agree to share your image."
-msgstr ""
+msgstr "К сожалению, вы не можете участвовать в мероприятии, если не согласны поделиться своим изображением."
 
 #. i18n: keyword: E_FANART_EVENT_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions."
@@ -2235,75 +2235,75 @@ msgstr "Спасибо за участие и сообщение. К сожал�
 
 #. i18n: keyword: E_FANART_EVENT_USER_BANNED
 msgid "Your previous submission has been banned and you are not allowed to make another submission."
-msgstr ""
+msgstr "Ваша предыдущая заявка была заблокирована, и вы не можете подавать другую заявку."
 
 #. i18n: keyword: FanartEventHalloweenRules
 msgid "<li>Prizes are not awarded for submissions this year.</li><li><strong>You must be at least 18 years old</strong> or have parental permission to submit.</li><li>The image <strong>must be your own</strong> and taken for the purpose of this submission.</li><li><strong>Photos MUST include a <em>handwritten</em> sign with \"Klei {{ .Data.EventTitle }}\" in it.</strong></li><li>No tricks for treats! You must \"try\" to have an interesting or funny costume or image.</li><li>If you don’t want to post a costume, cool. Post something else {{ .Data.EventTitle }} related <strong>that follows the other entry rules</strong>. An In-game Costume, Fan Art, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">Jack o’ Lantern</a> or spooky scene.</li><li><strong>All images must be PG</strong> - any inappropriate images will be deleted and blocked from participating.</li><li>Costumes aren’t required to be related to Klei or Klei games, though they are encouraged!</li><li>As with any community submission, event rules are subject to change.</li><li>Participating submissions will be shared <a href=\"https://trickortreat.klei.com/View\">here</a> the following day.</li>"
-msgstr ""
+msgstr "<li>В этом году вы не получите призов за участие</li><li><strong>Для участия вам должно быть не менее 18 лет</strong>, или ваши родители должны дать разрешение на участие.</li><li>Изображение <strong>должно принадлежать вам</strong> и сделано вами специально для этого события.</li><li><strong> На изображении должна присутствовать <em>самодельная</em> надпись \"Klei {{ .Data.EventTitle }}\".</strong></li><li>Никаких гадостей ради сладостей! «Постарайтесь» сделать интересные или забавные костюмы или изображения.</li><li> Если вы не хотите публиковать костюм — это всё ещё круто. Опубликуйте что-нибудь связанное с событием {{ .Data.EventTitle }}<strong>, соответствующее остальным правилам</strong>. Внутриигровой костюм, фан-арт <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">фонарь из тыквы</a> или жуткую сцену.</li><li><strong>Изображения не должны содержать материалов для взрослых</strong>!  Несоответствующие материалы будут удалены, а авторы отстранены от участия.</li><li>Костюмы необязательно должны быть связаны с играми Klei (но это приветствуется)!</li><li>Как и в случае с любыми другими объявлениями, правила мероприятия могут измениться позже.</li><li>Работы участников будут публиковаться <a href=\"https://trickortreat.klei.com/View\">здесь</a> на следующий день после заявки.</li>"
 
 #. i18n: keyword: FanartEventConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
-msgstr ""
+msgstr "Вы уже подали заявку. Уверены, что хотите заменить её новой?"
 
 #. i18n: keyword: FanartEventStatusSubmissionID
 msgid "Submission ID:"
-msgstr ""
+msgstr "Идентификатор заявки:"
 
 #. i18n: keyword: FanartEventSubmissionSuccess
 msgid "Your picture has been recorded!"
-msgstr ""
+msgstr "Ваша заявка записана!"
 
 #. i18n: keyword: FanartEventStatusSubmissionStatus
 msgid "Submission status:"
-msgstr ""
+msgstr "Статус заявки:"
 
 #. i18n: keyword: FanartEventStatusNoSubmission
 msgid "You have not submitted an image yet"
-msgstr ""
+msgstr "Вы ещё не подавали заявку."
 
 #. i18n: keyword: FanartEventStatusKleiMessage
 msgid "Message from Klei:"
-msgstr ""
+msgstr "Сообщение от Klei:"
 
 #. i18n: keyword: FanartEventCheckStatus
 msgid "Already made a submission? Check the status of your submission <a href=\"https://accounts.klei.com/account/fanartevent/status\">here</a>"
-msgstr ""
+msgstr "Уже подали заявку? Проверьте её статус на <a href=\"https://accounts.klei.com/account/fanartevent/status\">этой странице</a>."
 
 #. i18n: keyword: FanartEventRulesLabel
 msgid "Event Rules:"
-msgstr ""
+msgstr "Правила мероприятия:"
 
 #. i18n: keyword: FanartEventAgreeToRules
 msgid "I agree to abide by the event rules."
-msgstr ""
+msgstr "Я согласен с правилами мероприятия."
 
 #. i18n: keyword: FanartEventShareLabel
 msgid "Share Image?"
-msgstr ""
+msgstr "Поделиться изображением?"
 
 #. i18n: keyword: FanartEventShareImage
 msgid "I agree to share my image and message publicly on the event page."
-msgstr ""
+msgstr "Я согласен поделиться своим изображением и сообщением публично на странице мероприятия."
 
 #. i18n: keyword: FanartEventMessageLabel
 msgid "Message"
-msgstr ""
+msgstr "Сообщение"
 
 #. i18n: keyword: FanartEventStatusApproved
 msgid "Approved"
-msgstr ""
+msgstr "Принята"
 
 #. i18n: keyword: FanartEventStatusRejected
 msgid "Rejected"
-msgstr ""
+msgstr "Отклонена"
 
 #. i18n: keyword: FanartEventStatusUnderReview
 msgid "Under review"
-msgstr ""
+msgstr "На рассмотрении"
 
 #. i18n: keyword: FanartEventStatusBanned
 msgid "Banned"
-msgstr ""
+msgstr "Запрещена"
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
@@ -2335,4 +2335,4 @@ msgstr "Блокировка вашей учётной записи необра
 
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
-msgstr "О, нет! Похоже, вы перешли по неработающий ссылке. Возможно, вам снова придется пройти аутентификацию."
+msgstr "О, нет! Похоже, вы перешли по неработающий ссылке. Возможно, вам снова придётся пройти аутентификацию."
