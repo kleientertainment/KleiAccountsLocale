@@ -1535,7 +1535,7 @@ msgstr "Учётная запись помечена для удаления"
 
 #. i18n: keyword: RevertAccountLimboDescription
 msgid "Your account with User ID <b>{{ .Data.KU }}</b> has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
-msgstr "Ваша учётная запись с идентификатором <b>{{ .Data.KU }}</b> была помечена для удаления и будет безвозвратно удалена через 30 дней.<br>Если вы хотите восстановить свою учётную запись, нажмите кнопку «Восстановить учётную запись».
+msgstr "Ваша учётная запись с идентификатором <b>{{ .Data.KU }}</b> была помечена для удаления и будет безвозвратно удалена через 30 дней.<br>Если вы хотите восстановить свою учётную запись, нажмите кнопку «Восстановить учётную запись»".
 
 #. i18n: keyword: RevertAccountLimboConfirm
 msgid "Recover Account"
