@@ -1988,6 +1988,14 @@ msgstr ""
 msgid "This transaction cannot be rolled back."
 msgstr ""
 
+#. i18n: keyword: GameDrops
+msgid "${dropInfo.GameName} Drops"
+msgstr ""
+
+#. i18n: keyword: KleiWeekEnding
+msgid "Klei Week ${currentWeek} Ending In:"
+msgstr ""
+
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
 msgstr ""
