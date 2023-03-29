@@ -751,7 +751,7 @@ msgstr "Hesap Silme İşlemini Doğrulayın"
 
 #. i18n: keyword: VerifyAccountDeletionDescription
 msgid "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.PlatformName}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.PlatformName}} account to prevent this from happening again."
-msgstr "Hesabınızın silinmesini onaylamak için size bir doğrulama kodu gönderdik, lütfen kodu kopyalayın ve aşağıdaki forma yapıştırın.</p><p>Doğrulama kodunu almadıysanız, "İptal"e tıklayın, e-posta adresinizin doğru olduğundan emin olun ve işlemi yeniden başlatın.</p><p>Hesabınızın silinmesini siz talep etmediyseniz, {{.PlatformName}} hesabınıza erişimi olan başka biri sizin adınıza bu işlemi gerçekleştirmiştir. . İşlemi tamamen durdurmak için "İptal"e tıklayın ve bunun tekrar olmasını önlemek için {{.PlatformName}} hesabınızın şifresini değiştirin."
+msgstr "Hesabınızın silinmesini onaylamak için size bir doğrulama kodu gönderdik, lütfen kodu kopyalayın ve aşağıdaki forma yapıştırın.</p><p>Doğrulama kodunu almadıysanız, \"İptal\"e tıklayın, e-posta adresinizin doğru olduğundan emin olun ve işlemi yeniden başlatın.</p><p>Hesabınızın silinmesini siz talep etmediyseniz, {{.PlatformName}} hesabınıza erişimi olan başka biri sizin adınıza bu işlemi gerçekleştirmiştir. . İşlemi tamamen durdurmak için \"İptal\"e tıklayın ve bunun tekrar olmasını önlemek için {{.PlatformName}} hesabınızın şifresini değiştirin."
 
 #. i18n: keyword: VerifyAccountDeletionCode
 msgid "Verification Code"
@@ -1988,6 +1988,26 @@ msgstr "Bu işlem zaten geri alındı."
 #. i18n: keyword: E_UNSUPPORTED_FOR_ROLLBACK
 msgid "This transaction cannot be rolled back."
 msgstr "Bu işlem geri alınamaz."
+
+#. i18n: keyword: GameDropsEarned
+msgid "${dropInfo.GameName} drops earned"
+msgstr ""
+
+#. i18n: keyword: KleiWeekDropsTitle
+msgid "Klei Week ${currentWeek} Drops"
+msgstr ""
+
+#. i18n: keyword: KleiWeekEndsIn
+msgid "Ends in ${weekCountdown}"
+msgstr ""
+
+#. i18n: keyword: KleiWeekEnded
+msgid "Week ended"
+msgstr ""
+
+#. i18n: keyword: DropsDescription
+msgid "Earn the currently available drops by playing the respective games throughout the drop period."
+msgstr ""
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
