@@ -1991,23 +1991,23 @@ msgstr "此笔交易无法被回滚。"
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
-msgstr ""
+msgstr "${dropInfo.GameName}礼物掉落数"
 
 #. i18n: keyword: KleiWeekDropsTitle
 msgid "Klei Week ${currentWeek} Drops"
-msgstr ""
+msgstr "第${currentWeek}周的科雷礼物掉落"
 
 #. i18n: keyword: KleiWeekEndsIn
 msgid "Ends in ${weekCountdown}"
-msgstr ""
+msgstr "在${weekCountdown}后结束"
 
 #. i18n: keyword: KleiWeekEnded
 msgid "Week ended"
-msgstr ""
+msgstr "本周已结束"
 
 #. i18n: keyword: DropsDescription
 msgid "Earn the currently available drops by playing the respective games throughout the drop period."
-msgstr ""
+msgstr "在对应的时间玩对应的游戏来获取掉落的礼物"
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
