@@ -2037,6 +2037,10 @@ msgstr "No hay transacciones."
 msgid "Rollback"
 msgstr "Revertir"
 
+#. i18n: keyword: TransactionTraded
+msgid "Traded:"
+msgstr ""
+
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
 msgstr "Semana"
@@ -2188,6 +2192,10 @@ msgstr "Moneda emitida por Klei Support"
 #. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
 msgid "Klei Support Issued Item"
 msgstr "Artículo emitido por Klei Support"
+
+#. i18n: keyword: TXN_TRADE_INN
+msgid "Trade Inn"
+msgstr ""
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
