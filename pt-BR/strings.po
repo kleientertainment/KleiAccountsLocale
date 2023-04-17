@@ -2039,7 +2039,7 @@ msgstr "Reversão"
 
 #. i18n: keyword: TransactionTraded
 msgid "Traded:"
-msgstr ""
+msgstr "Negociado:"
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
@@ -2195,7 +2195,7 @@ msgstr "Item Emitido pelo Suporte da Klei"
 
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
-msgstr ""
+msgstr "Estação de Trocas"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
