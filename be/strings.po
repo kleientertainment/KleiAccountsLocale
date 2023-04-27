@@ -1229,12 +1229,16 @@ msgstr ""
 msgid "Reward Link"
 msgstr "Спасылка на ўзнагароду"
 
+#. i18n: keyword: RewardLinkClaimSuccess
+msgid "Reward Link Claimed!"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultDescriptionPoints
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgid "Congratulations!You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
 msgstr ""
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
 msgstr ""
 
 #. i18n: keyword: E_TRANSACTION_REPLAY

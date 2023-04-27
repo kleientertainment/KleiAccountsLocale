@@ -1229,13 +1229,17 @@ msgstr "Nazwa nagrody:"
 msgid "Reward Link"
 msgstr "Link do nagrody"
 
+#. i18n: keyword: RewardLinkClaimSuccess
+msgid "Reward Link Claimed!"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultDescriptionPoints
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Gratulacje!</p><p>Znalazłeś na wolności prawidłowy link do nagrody z {{.Amount}} {{.Name}}.</p><p>Twoje saldo zostanie natychmiast zaktualizowane. Zapoznaj się ze stroną „Transakcje użytkownika”, aby zrozumieć, w jaki sposób ta operacja wpłynęła na saldo Twojego konta.</p>"
+msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
+msgstr "Gratulacje! Znalazłeś na wolności prawidłowy link do nagrody z {{.Amount}} {{.Name}}. Twoje saldo zostanie natychmiast zaktualizowane. Zapoznaj się ze stroną „Transakcje użytkownika”, aby zrozumieć, w jaki sposób ta operacja wpłynęła na saldo Twojego konta."
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Gratulacje!</p><p>Znalazłeś prawidłowy link do nagrody na wolności za pomocą {{.Amount}} {{.Name}}.</p><p>Znajdziesz go teraz w grze następnym razem, gdy będziesz grać. Zapoznaj się ze stroną „Transakcje użytkownika”, aby zrozumieć, w jaki sposób ta operacja wpłynęła na saldo Twojego konta.</p>"
+msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
+msgstr "Gratulacje! Znalazłeś prawidłowy link do nagrody na wolności za pomocą {{.Amount}} {{.Name}}. Znajdziesz go teraz w grze następnym razem, gdy będziesz grać. Zapoznaj się ze stroną „Transakcje użytkownika”, aby zrozumieć, w jaki sposób ta operacja wpłynęła na saldo Twojego konta."
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."

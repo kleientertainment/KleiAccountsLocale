@@ -1229,13 +1229,17 @@ msgstr "Название награды:"
 msgid "Reward Link"
 msgstr "Наградная ссылка"
 
+#. i18n: keyword: RewardLinkClaimSuccess
+msgid "Reward Link Claimed!"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultDescriptionPoints
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Поздравляем!</p><p>В дикой природе вы сумели отыскать правильную ссылку с {{.Amount}} {{.Name}}.</p><p>Ваш баланс обновлён. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш баланс.</p>"
+msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
+msgstr "Поздравляем! В дикой природе вы сумели отыскать правильную ссылку с {{.Amount}} {{.Name}}. Ваш баланс обновлён. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш баланс."
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Поздравляем!</p><p>В дикой природе вы сумели отыскать правильную ссылку с {{.Amount}} {{.Name}}.</p><p>Вы сможете увидеть это в следующий раз, когда зайдёте в игру. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш баланс.</p>"
+msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
+msgstr "Поздравляем! В дикой природе вы сумели отыскать правильную ссылку с {{.Amount}} {{.Name}}. Вы сможете увидеть это в следующий раз, когда зайдёте в игру. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш баланс."
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
