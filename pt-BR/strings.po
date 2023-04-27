@@ -1235,7 +1235,7 @@ msgstr ""
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
-msgstr "Parabéns! Você encontrou um link de recompensa válido com {{.Amount}} {{.Name}}.</p><p>Seu saldo será atualizado imediatamente. Consulte a página \"Transações do Usuário\" para entender como essa operação afetou o saldo da sua conta."
+msgstr "Parabéns! Você encontrou um link de recompensa válido com {{.Amount}} {{.Name}}. Seu saldo será atualizado imediatamente. Consulte a página \"Transações do Usuário\" para entender como essa operação afetou o saldo da sua conta."
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."

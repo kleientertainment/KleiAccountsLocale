@@ -1238,7 +1238,7 @@ msgid "Congratulations! You have found a valid reward link in the wild with {{.A
 msgstr "Tebrikler! {{.Amount}} {{.Name}} ile vahşi doğada geçerli bir ödül bağlantısı buldunuz. Bakiyeniz hemen güncellenecektir. Bu işlemin hesap bakiyenizi nasıl etkilediğini anlamak için lütfen \"Kullanıcı İşlemleri\" sayfasına bakın."
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
-msgid "Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
+msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
 msgstr "Tebrikler ! {{.Amount}} {{.Name}} ile vahşi doğada geçerli bir ödül bağlantısı buldunuz. Bakiyeniz hemen güncellenecektir. Bu işlemin hesap bakiyenizi nasıl etkilediğini anlamak için lütfen \"Kullanıcı İşlemleri\" sayfasına bakın."
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
