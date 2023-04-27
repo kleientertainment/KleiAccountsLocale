@@ -1202,8 +1202,8 @@ msgid "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Fo
 msgstr "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>在 Instagram 上關注我們</a>以獲得此獎勵。"
 
 #. i18n: keyword: RewardMessageNewsletter
-msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
-msgstr "<a href='/account/settings' target='_blank'>訂閱我們的電子報</a>以獲得此獎勵。"
+msgid "<a href='/account/settings#marketing-options' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
+msgstr "<a href='/account/settings#marketing-options' target='_blank'>訂閱我們的電子報</a>以獲得此獎勵。"
 
 #. i18n: keyword: RewardMessagMissingEmail
 msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
@@ -1989,6 +1989,26 @@ msgstr ""
 msgid "This transaction cannot be rolled back."
 msgstr ""
 
+#. i18n: keyword: GameDropsEarned
+msgid "${dropInfo.GameName} drops earned"
+msgstr ""
+
+#. i18n: keyword: KleiWeekDropsTitle
+msgid "Klei Week ${currentWeek} Drops"
+msgstr ""
+
+#. i18n: keyword: KleiWeekEndsIn
+msgid "Ends in ${weekCountdown}"
+msgstr ""
+
+#. i18n: keyword: KleiWeekEnded
+msgid "Week ended"
+msgstr ""
+
+#. i18n: keyword: DropsDescription
+msgid "Earn the currently available drops by playing the respective games throughout the drop period."
+msgstr ""
+
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
 msgstr "使用者交易紀錄"
@@ -2015,6 +2035,10 @@ msgstr ""
 
 #. i18n: keyword: TransactionRollback
 msgid "Rollback"
+msgstr ""
+
+#. i18n: keyword: TransactionTraded
+msgid "Traded:"
 msgstr ""
 
 #. i18n: keyword: GiftingEventWeek
@@ -2149,6 +2173,10 @@ msgstr "貨幣箱子"
 msgid "Shop Chest (Steam DLC)"
 msgstr "Steam 箱子 DLC"
 
+#. i18n: keyword: TXN_PURCHASEBOX_RAIL_SKINDLC
+msgid "Shop Chest (WeGame DLC)"
+msgstr ""
+
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
 msgstr ""
@@ -2163,6 +2191,10 @@ msgstr ""
 
 #. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
 msgid "Klei Support Issued Item"
+msgstr ""
+
+#. i18n: keyword: TXN_TRADE_INN
+msgid "Trade Inn"
 msgstr ""
 
 #. i18n: keyword: Marketable

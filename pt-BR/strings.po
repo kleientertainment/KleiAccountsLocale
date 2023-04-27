@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2023-01-11 00:25-0300\n"
-"Last-Translator: Gérison Sabino (Geeris)\n"
+"PO-Revision-Date: 2023-03-23 16:00-0300\n"
+"Last-Translator: Mateus Generoso (mtsgeneroso)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -1202,8 +1202,8 @@ msgid "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Fo
 msgstr "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Siga-nos no Instagram</a> para resgatar esta recompensa."
 
 #. i18n: keyword: RewardMessageNewsletter
-msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
-msgstr "<a href='/account/settings' target='_blank'>Inscreva-se em nosso Boletim Informativo (newsletter)</a> para resgatar esta recompensa."
+msgid "<a href='/account/settings#marketing-options' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
+msgstr "<a href='/account/settings#marketing-options' target='_blank'>Inscreva-se em nosso Boletim Informativo (newsletter)</a> para resgatar esta recompensa."
 
 #. i18n: keyword: RewardMessagMissingEmail
 msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
@@ -1989,6 +1989,26 @@ msgstr "Esta transação já foi revertida."
 msgid "This transaction cannot be rolled back."
 msgstr "Esta transação não pode ser revertida."
 
+#. i18n: keyword: GameDropsEarned
+msgid "${dropInfo.GameName} drops earned"
+msgstr "${dropInfo.GameName} drops recebidos"
+
+#. i18n: keyword: KleiWeekDropsTitle
+msgid "Klei Week ${currentWeek} Drops"
+msgstr "Semana ${currentWeek} Klei Drops"
+
+#. i18n: keyword: KleiWeekEndsIn
+msgid "Ends in ${weekCountdown}"
+msgstr "Encerra em ${weekCountdown}"
+
+#. i18n: keyword: KleiWeekEnded
+msgid "Week ended"
+msgstr "Semana encerrada"
+
+#. i18n: keyword: DropsDescription
+msgid "Earn the currently available drops by playing the respective games throughout the drop period."
+msgstr "Ganhe os drops atualmente disponíveis jogando durante o período do drop nos respectivos jogos."
+
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
 msgstr "Transações do Usuário"
@@ -2016,6 +2036,10 @@ msgstr "Não há transações."
 #. i18n: keyword: TransactionRollback
 msgid "Rollback"
 msgstr "Reversão"
+
+#. i18n: keyword: TransactionTraded
+msgid "Traded:"
+msgstr "Negociado:"
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
@@ -2149,6 +2173,10 @@ msgstr "Caixa de Moeda Corrente"
 msgid "Shop Chest (Steam DLC)"
 msgstr "Caixa Steam DLC"
 
+#. i18n: keyword: TXN_PURCHASEBOX_RAIL_SKINDLC
+msgid "Shop Chest (WeGame DLC)"
+msgstr "Caixa WeGame DLC"
+
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
 msgstr "Câmbio Monetário"
@@ -2164,6 +2192,10 @@ msgstr "Moeda Emitida pelo Suporte da Klei"
 #. i18n: keyword: TXN_SUPPORT_ISSUED_ITEM
 msgid "Klei Support Issued Item"
 msgstr "Item Emitido pelo Suporte da Klei"
+
+#. i18n: keyword: TXN_TRADE_INN
+msgid "Trade Inn"
+msgstr "Estação de Trocas"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-11-18 10:31+0300\n"
-"Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
+"PO-Revision-Date: 2023-03-06 04:15+0300\n"
+"Last-Translator: Ramazan Sancar <me@ramazansancar.com.tr>\n"
 "Language-Team: Turkish (https://accounts.klei.com/community-translations)Language: tr\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -751,7 +751,7 @@ msgstr "Hesap Silme İşlemini Doğrulayın"
 
 #. i18n: keyword: VerifyAccountDeletionDescription
 msgid "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.PlatformName}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.PlatformName}} account to prevent this from happening again."
-msgstr "Hesabınızın silinmesini onaylamak için size bir doğrulama kodu gönderdik, lütfen kodu kopyalayın ve aşağıdaki forma yapıştırın."
+msgstr "Hesabınızın silinmesini onaylamak için size bir doğrulama kodu gönderdik, lütfen kodu kopyalayın ve aşağıdaki forma yapıştırın.</p><p>Doğrulama kodunu almadıysanız, \"İptal\"e tıklayın, e-posta adresinizin doğru olduğundan emin olun ve işlemi yeniden başlatın.</p><p>Hesabınızın silinmesini siz talep etmediyseniz, {{.PlatformName}} hesabınıza erişimi olan başka biri sizin adınıza bu işlemi gerçekleştirmiştir. . İşlemi tamamen durdurmak için \"İptal\"e tıklayın ve bunun tekrar olmasını önlemek için {{.PlatformName}} hesabınızın şifresini değiştirin."
 
 #. i18n: keyword: VerifyAccountDeletionCode
 msgid "Verification Code"
@@ -815,7 +815,7 @@ msgstr "DRM-Free İndirme"
 
 #. i18n: keyword: DRMFreeDownloadDescription
 msgid "You can get a DRM-free download of this game. More information <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>here</a>."
-msgstr "Bu oyunu DRM-free olarak indirebilirsiniz. Daha fazla bilgi için <a href=\"/\">buraya</a>."
+msgstr "Bu oyunu DRM-free olarak indirebilirsiniz. Daha fazla bilgi için <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>buraya</a> tıklayın."
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
@@ -923,7 +923,7 @@ msgstr "Sunucuyu Yapılandır"
 
 #. i18n: keyword: ConfigureServerDescription
 msgid "The following form allows you to configure the settings for the game server. Depending on which operating system you have you also need to execute a few scripts. Please follow the instructions that correspond to your system: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
-msgstr "Aşağıdaki form, oyun sunucusu ayarlarını yapılandırmanıza olanak tanır. Hangi işletim sistemine sahip olduğunuza bağlı olarak birkaç komut dosyası yürütmeniz gerekir. Lütfen sisteminize uygun talimatları izleyin: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>."
+msgstr "Aşağıdaki form, oyun sunucusu ayarlarını yapılandırmanıza olanak tanır. Hangi işletim sistemine sahip olduğunuza bağlı olarak birkaç komut dosyası yürütmeniz gerekir. Lütfen işletim sisteminize uygun talimatları izleyin: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
 
 #. i18n: keyword: ConfigureServerToken
 msgid "Server Token"
@@ -1202,8 +1202,8 @@ msgid "<a href='https://www.instagram.com/kleientertainment/' target='_blank'>Fo
 msgstr "Bu ödülü almak için <a href='https://www.instagram.com/kleientertainment/' target='_blank'>Bizi Instagram'da takip edin</a>."
 
 #. i18n: keyword: RewardMessageNewsletter
-msgid "<a href='/account/settings' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
-msgstr "Bu ödülü almak için <a href='/account/settings' target='_blank'>Haber bültenimize abone olun</a>."
+msgid "<a href='/account/settings#marketing-options' target='_blank'>Subscribe to our newsletter</a> to claim this reward."
+msgstr "Bu ödülü almak için <a href='/account/settings#marketing-options' target='_blank'>Haber bültenimize abone olun</a>."
 
 #. i18n: keyword: RewardMessagMissingEmail
 msgid "<a href='/account/settings' target='_blank'>Set your email address</a> to claim this reward."
@@ -1263,7 +1263,7 @@ msgstr "Kodu Kullan"
 
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Redemption of gift code <b>{{ .Data.Code }}</b> was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
-msgstr ""
+msgstr "Tebrikler! <b>{{ .Data.Code }}</b> hediye kodunun kullanılması başarılı oldu.</p><p>Geçici portal anormallikleri nedeniyle teslimat süresi değişebilir. Beklemenin neden olduğu duygusal etkilerden Klei sorumlu değildir. Hediyeler böbürlenme, beklenmedik zevk ve/veya üst düzey oyun deneyimi ile sonuçlanabilir."
 
 #. i18n: keyword: GiftRedemptionAgainButton
 msgid "Click here to redeem another gift"
@@ -1299,7 +1299,7 @@ msgstr "<b>\"{{ .Data.Code }}\"</b> geçerli bir koddur ve henüz kullanılmamı
 
 #. i18n: keyword: ViewTransactionsPage
 msgid "You can view all of your recent transactions <a href=\"/account/transactions\">here</a>."
-msgstr ""
+msgstr "Son işlemlerinizin tümünü <a href=\"/account/transactions\">buradan</a> görüntüleyebilirsiniz."
 
 #. i18n: keyword: LP_STEAM_Username
 msgid "Steam username"
@@ -1307,7 +1307,7 @@ msgstr "Steam kullanıcı adı"
 
 #. i18n: keyword: LP_EPIC_Username
 msgid "Epic Games username"
-msgstr "Epic kullanıcı adı"
+msgstr "Epic Games kullanıcı adı"
 
 #. i18n: keyword: LP_XBL_Username
 msgid "Xbox Network username"
@@ -1427,11 +1427,11 @@ msgstr "Destek sistemi yalnızca doğrulanmış e-posta adresine sahip oyuncular
 
 #. i18n: keyword: E_ZENDESK_COOLDOWN_TIME
 msgid "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
-msgstr "Birkaç dakika önce zaten bir destek isteği gönderdiniz. Size ve diğer kullanıcılara yanıt vermemiz için bize zaman vermek üzere lütfen birkaç dakika bekleyin."
+msgstr "Birkaç dakika önce zaten bir destek isteği gönderdiniz. Size ve diğer kullanıcılara yanıt vermemiz için bize birkaç dakika tanıyın."
 
 #. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
 msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
-msgstr "E-posta adresiniz, farklı bir Klei hesabıyla bir destek tanımlayıcısı oluşturmak için zaten kullanılmış gibi görünüyor. Mükerrer destek hesapları oluşturamıyoruz, bu nedenle bir destek bileti göndermek için ikincil Klei hesabınızı kullanarak oturum açmanız gerekecek."
+msgstr "E-posta adresiniz, farklı bir Klei hesabıyla bir destek tanımlayıcısı oluşturmak için zaten kullanılmış gibi görünüyor. Tekrar eden destek hesapları oluşturamıyoruz, bu nedenle bir destek bileti göndermek için ikincil Klei hesabınızı kullanarak oturum açmanız gerekecek."
 
 #. i18n: keyword: E_ZENDESK_INVALID_IAT_PARAMETER
 msgid "There was a problem establish a secure connection between Klei Entertainment and Zendesk. These errors are usually temporary, please wait five minutes and try again. If the issue persists, please send us an email instead."
@@ -1455,7 +1455,7 @@ msgstr "Hata - Doğum Tarihi: Doğum Tarihi Alanların doğru biçimde girilmesi
 
 #. i18n: keyword: ErrorTooYoung
 msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to register for an account."
-msgstr "Wow Dur Bakalım Ufaklık. Bir hesaba kaydolmak için 13 yaşında veya daha büyük olmanız gerekir."
+msgstr "Hey Hey Dur Bakalım Ufaklık. Bir hesaba kaydolmak için 13 yaşında veya daha büyük olmanız gerekir."
 
 #. i18n: keyword: EmailInvalid
 msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
@@ -1989,6 +1989,26 @@ msgstr "Bu işlem zaten geri alındı."
 msgid "This transaction cannot be rolled back."
 msgstr "Bu işlem geri alınamaz."
 
+#. i18n: keyword: GameDropsEarned
+msgid "${dropInfo.GameName} drops earned"
+msgstr ""
+
+#. i18n: keyword: KleiWeekDropsTitle
+msgid "Klei Week ${currentWeek} Drops"
+msgstr ""
+
+#. i18n: keyword: KleiWeekEndsIn
+msgid "Ends in ${weekCountdown}"
+msgstr ""
+
+#. i18n: keyword: KleiWeekEnded
+msgid "Week ended"
+msgstr ""
+
+#. i18n: keyword: DropsDescription
+msgid "Earn the currently available drops by playing the respective games throughout the drop period."
+msgstr ""
+
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
 msgstr "Kullanıcı İşlemleri"
@@ -2016,6 +2036,10 @@ msgstr "İşlem yok."
 #. i18n: keyword: TransactionRollback
 msgid "Rollback"
 msgstr "Geri alma"
+
+#. i18n: keyword: TransactionTraded
+msgid "Traded:"
+msgstr ""
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
@@ -2135,19 +2159,23 @@ msgstr "Haftalık Hediye Eşya"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Shop Chest (Steam)"
-msgstr "Steam Kutusu"
+msgstr "Mağaza Sandığı (Steam)"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
 msgid "Shop Chest (Tencent Games)"
-msgstr "Tencent Games Kutusu"
+msgstr "Mağaza Sandığı (Tencent Games)"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
 msgid "Shop Chest (Currency)"
-msgstr "Para Birimi Kutusu"
+msgstr "Mağaza Sandığı (Para Birimi)"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Shop Chest (Steam DLC)"
-msgstr "Steam Kutusu (DLC)"
+msgstr "Mağaza Sandığı (Steam DLC)"
+
+#. i18n: keyword: TXN_PURCHASEBOX_RAIL_SKINDLC
+msgid "Shop Chest (WeGame DLC)"
+msgstr "Mağaza Sandığı (WeGame DLC)"
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
@@ -2165,6 +2193,10 @@ msgstr "Klei Support Çıkarılan Para Birimi"
 msgid "Klei Support Issued Item"
 msgstr "Klei Destek Verilmiş Öğe"
 
+#. i18n: keyword: TXN_TRADE_INN
+msgid "Trade Inn"
+msgstr ""
+
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "Pazarlanabilir"
@@ -2175,15 +2207,15 @@ msgstr "Takaslanabilir"
 
 #. i18n: keyword: MismatchedKuTitle
 msgid "Mismatched User IDs"
-msgstr ""
+msgstr "Eşleşmeyen Kullanıcı Kimlikleri"
 
 #. i18n: keyword: LoginToAnotherAccount
 msgid "Login to another account"
-msgstr ""
+msgstr "Başka bir hesaba giriş yapın"
 
 #. i18n: keyword: MismatchedKuDescription
 msgid "You are currently logged in as <b>{{ .Data.CurrentKU }}</b> but you are trying to access a link for user ID <b>{{ .Data.ExpectedKU }}</b>. Would you like to continue on your current account or login to another account?"
-msgstr ""
+msgstr "Şu anda <b>{{ .Data.CurrentKU }}</b> olarak oturum açtınız, ancak <b>{{ .Data.ExpectedKU }}</b> kullanıcı kimliği için bir bağlantıya erişmeye çalışıyorsunuz. Mevcut hesabınızla devam etmek mi yoksa başka bir hesaba giriş yapmak mı istiyorsunuz?"
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
@@ -2263,7 +2295,7 @@ msgstr "Klei'den mesaj:"
 
 #. i18n: keyword: FanartEventCheckStatus
 msgid "Already made a submission? Check the status of your submission <a href=\"https://accounts.klei.com/account/fanartevent/status\">here</a>"
-msgstr "Zaten bir başvuru yaptın mı? Gönderinizin durumunu <a href=\"https://accounts.klei.com/account/fanartevent/status\">buradan kontrol edin"
+msgstr "Zaten bir başvuru yaptın mı? Gönderinizin durumunu <a href=\"https://accounts.klei.com/account/fanartevent/status\">buradan</a> kontrol edin"
 
 #. i18n: keyword: FanartEventRulesLabel
 msgid "Event Rules:"
