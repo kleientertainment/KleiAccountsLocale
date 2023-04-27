@@ -1234,12 +1234,12 @@ msgid "Reward Link Claimed!"
 msgstr ""
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
-msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
-msgstr "Parabéns! Você encontrou um link de recompensa válido com {{.Amount}} {{.Name}}. Seu saldo será atualizado imediatamente. Consulte a página \"Transações do Usuário\" para entender como essa operação afetou o saldo da sua conta."
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido com <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Seu saldo será atualizado imediatamente. Consulte a página \"Transações do Usuário\" para entender como essa operação afetou o saldo da sua conta.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
-msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
-msgstr "Parabéns! Você encontrou um link de recompensa válido com {{.Amount}} {{.Name}}. Agora você irá encontrá-lo no jogo da próxima vez que você jogar. Consulte a página \"Transações do Usuário\" para entender como essa operação afetou o saldo da sua conta."
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
+msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido com <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Agora você irá encontrá-lo no jogo da próxima vez que você jogar. Consulte a página \"Transações do Usuário\" para entender como essa operação afetou o saldo da sua conta.</p>"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
