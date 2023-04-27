@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2023-03-23 16:00-0300\n"
-"Last-Translator: Mateus Generoso (mtsgeneroso)\n"
+"PO-Revision-Date: 2023-04-27 15:31-0300\n"
+"Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -1111,7 +1111,7 @@ msgstr "Carretéis"
 
 #. i18n: keyword: RewardBolts
 msgid "Bolts of Cloth"
-msgstr "Parafusos de Tecido"
+msgstr "Rolos de Tecido"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
@@ -1123,11 +1123,11 @@ msgstr "<b>Carretéis</b><br>Os carretéis são utilizados para tecer os itens n
 
 #. i18n: keyword: RewardBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>Parafusos de Tecido</b><br>(Apenas PlayStation e XBox) Moeda utilizada dentro jogo para comprar skins e pacotes da loja."
+msgstr "<b>Rolos de Tecido</b><br>(Apenas PlayStation e XBox) Moeda utilizada dentro jogo para comprar skins e pacotes da loja."
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>Parafusos de Tecido</b><br>(Apenas Nintendo Switch) Moeda utilizada dentro do jogo para comprar skins e pacotes da loja."
+msgstr "<b>Rolos de Tecido</b><br>(Apenas Nintendo Switch) Moeda utilizada dentro do jogo para comprar skins e pacotes da loja."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -2091,7 +2091,7 @@ msgstr "Desafio por Pontos"
 
 #. i18n: keyword: TXN_QUEST_FOR_BOLTS
 msgid "Quest For Bolts"
-msgstr "Desafio por Parafusos"
+msgstr "Desafio por Rolos"
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
@@ -2103,7 +2103,7 @@ msgstr "Pontos por Item"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr "Parafusos por Item"
+msgstr "Rolos por Item"
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
@@ -2219,7 +2219,7 @@ msgstr "No momento, você está conectado como <b>{{ .Data.CurrentKU }}</b>, mas
 
 #. i18n: keyword: E_INSUFFICIENT_BOLTS_BALANCE
 msgid "Insufficient Bolts Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Bolts to proceed with this operation."
-msgstr "O saldo de Parafusos é insuficiente. Visite a <a href='/account/transactions'>página de transações</a> para verificar se você tem Parafusos suficientes para prosseguir com esta operação."
+msgstr "O saldo de Rolos é insuficiente. Visite a <a href='/account/transactions'>página de transações</a> para verificar se você tem Rolos suficientes para prosseguir com esta operação."
 
 #. i18n: keyword: E_INSUFFICIENT_SPOOLS_BALANCE
 msgid "Insufficient Spools Balance. Please visit the <a href='/account/transactions'>transactions page</a> to verify that you have enough Spools to proceed with this operation."
