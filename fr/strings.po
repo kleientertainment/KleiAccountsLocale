@@ -1229,13 +1229,17 @@ msgstr "Nom de la récompense :"
 msgid "Reward Link"
 msgstr "Lien de récompense"
 
+#. i18n: keyword: RewardLinkClaimSuccess
+msgid "Reward Link Claimed!"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultDescriptionPoints
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Félicitations !</p><p>Vous avez trouvé un lien de récompense valide dans la nature avec {{.Amount}} {{.Name}}.</p><p>Votre solde sera immédiatement mis à jour. Veuillez vous référer à la page \"Transactions utilisateur\" pour comprendre comment cette opération a affecté le solde de votre compte."
+msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
+msgstr "Félicitations ! Vous avez trouvé un lien de récompense valide dans la nature avec {{.Amount}} {{.Name}}. Votre solde sera immédiatement mis à jour. Veuillez vous référer à la page \"Transactions utilisateur\" pour comprendre comment cette opération a affecté le solde de votre compte."
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with {{.Amount}} {{.Name}}.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Félicitations !</p><p>Vous avez trouvé un lien de récompense valide dans la nature avec {{.Amount}} {{.Name}}.</p><p>Vous le trouverez maintenant dans le jeu la prochaine fois que vous jouez. Veuillez vous référer à la page \"Transactions utilisateur\" pour comprendre comment cette opération a affecté le solde de votre compte.</p>"
+msgid "Congratulations! You have found a valid reward link in the wild with {{.Amount}} {{.Name}}. You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance."
+msgstr "Félicitations ! Vous avez trouvé un lien de récompense valide dans la nature avec {{.Amount}} {{.Name}}. Vous le trouverez maintenant dans le jeu la prochaine fois que vous jouez. Veuillez vous référer à la page \"Transactions utilisateur\" pour comprendre comment cette opération a affecté le solde de votre compte."
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
