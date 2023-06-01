@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-11-19 11:16+0800\n"
+"PO-Revision-Date: 2023-04-28 10:51+0000\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Chinese Simplified (https://accounts.klei.com/community-translations)\n"
 "Language: zh\n"
@@ -1231,15 +1231,19 @@ msgstr "奖励链接"
 
 #. i18n: keyword: RewardLinkClaimSuccess
 msgid "Reward Link Claimed!"
-msgstr ""
+msgstr "奖励链接已领取!"
+
+#. i18n: keyword: RewardLinkAlreadyClaimed
+msgid "Reward Link Already Claimed!"
+msgstr "奖励链接已经被领取过了!"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>恭喜！</p><p>您在野外找到一个有效的奖励链接，包含<b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>您的余额将会立即更新。请参照 \"User Transactions\" 页面来了解这项操作对你账户余额的影响。</p>"
+msgstr "<p>恭喜！</p><p>您在野外找到一个有效的奖励链接，包含<b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>您的余额将会立即更新。请参照 \"用户交易\" 页面来了解这项操作对你账户余额的影响。</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>恭喜！</p><p>您在野外找到一个有效的奖励链接，包含<b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>您将会在下次游玩时在游戏中找到它。请参照 \"User Transactions\" 页面来了解这项操作对你账户余额的影响。</p>"
+msgstr "<p>恭喜！</p><p>您在野外找到一个有效的奖励链接，包含<b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>您将会在下次游玩时在游戏中找到它。请参照 \"用户交易\" 页面来了解这项操作对你账户余额的影响。</p>"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1291,19 +1295,19 @@ msgstr "再验证一个礼品码"
 
 #. i18n: keyword: ValidateGiftInvalid
 msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
-msgstr "<b>\"{{ .Data.Code }}\"</b>无效。"
+msgstr "<b>\"{{ .Data.Code }}\"</b> 无效。"
 
 #. i18n: keyword: ValidateGiftRedeemed
 msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
-msgstr "<b>\"{{ .Data.Code }}\"</b>已经被兑换过。"
+msgstr "<b>\"{{ .Data.Code }}\"</b> 已经被兑换过。"
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
-msgstr "<b>\"{{ .Data.Code }}\"</b>有效且没被兑换过。"
+msgstr "<b>\"{{ .Data.Code }}\"</b> 有效且没被兑换过。"
 
 #. i18n: keyword: ViewTransactionsPage
 msgid "You can view all of your recent transactions <a href=\"/account/transactions\">here</a>."
-msgstr "您可以<a href=\"/account/transactions\">在此</a>.查看您最近的所有交易。"
+msgstr "您可以 <a href=\"/account/transactions\">在此</a> 查看您最近的所有交易。"
 
 #. i18n: keyword: LP_STEAM_Username
 msgid "Steam username"
@@ -1999,11 +2003,11 @@ msgstr "${dropInfo.GameName}礼物掉落数"
 
 #. i18n: keyword: KleiWeekDropsTitle
 msgid "Klei Week ${currentWeek} Drops"
-msgstr "第${currentWeek}周的科雷礼物掉落"
+msgstr "第 ${currentWeek} 周的科雷礼物掉落"
 
 #. i18n: keyword: KleiWeekEndsIn
 msgid "Ends in ${weekCountdown}"
-msgstr "在${weekCountdown}后结束"
+msgstr "在 ${weekCountdown}后结束"
 
 #. i18n: keyword: KleiWeekEnded
 msgid "Week ended"
