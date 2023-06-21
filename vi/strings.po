@@ -1225,12 +1225,20 @@ msgstr "Nhận lại"
 msgid "Reward Name:"
 msgstr ""
 
+#. i18n: keyword: RewardLinkClaimedOn
+msgid "Claimed on:"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
 msgstr "Liên kết tới phần thường"
 
 #. i18n: keyword: RewardLinkClaimSuccess
 msgid "Reward Link Claimed!"
+msgstr ""
+
+#. i18n: keyword: RewardLinkAlreadyClaimed
+msgid "Reward Link Already Claimed!"
 msgstr ""
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
