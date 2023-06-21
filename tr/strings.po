@@ -1225,12 +1225,20 @@ msgstr "Öde"
 msgid "Reward Name:"
 msgstr "Ödül Adı:"
 
+#. i18n: keyword: RewardLinkClaimedOn
+msgid "Claimed on:"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
 msgstr "Ödül Bağlantısı"
 
 #. i18n: keyword: RewardLinkClaimSuccess
 msgid "Reward Link Claimed!"
+msgstr ""
+
+#. i18n: keyword: RewardLinkAlreadyClaimed
+msgid "Reward Link Already Claimed!"
 msgstr ""
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints

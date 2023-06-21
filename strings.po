@@ -1221,7 +1221,11 @@ msgid "Redeem"
 msgstr ""
 
 #. i18n: keyword: RewardLinkResultName
-msgid "Reward Name:"
+msgid "Reward name:"
+msgstr ""
+
+#. i18n: keyword: RewardLinkClaimedOn
+msgid "Claimed on:"
 msgstr ""
 
 #. i18n: keyword: RewardLinkResultTitle

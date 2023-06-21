@@ -1225,6 +1225,10 @@ msgstr "兑换"
 msgid "Reward Name:"
 msgstr "奖励名称："
 
+#. i18n: keyword: RewardLinkClaimedOn
+msgid "Claimed on:"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
 msgstr "奖励链接"
