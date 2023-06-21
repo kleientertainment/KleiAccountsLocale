@@ -429,15 +429,15 @@ msgstr ""
 msgid "Continue"
 msgstr ""
 
-#. i18n: keyword: MergeAccountConnectedTitle
+#. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
 msgstr ""
 
-#. i18n: keyword: MergeAccountConnectedID
+#. i18n: keyword: ProviderConnectedID
 msgid "ID:"
 msgstr ""
 
-#. i18n: keyword: MergeAccountNotConnected
+#. i18n: keyword: ProviderNotConnected
 msgid "Not connected"
 msgstr ""
 
@@ -770,6 +770,26 @@ msgstr ""
 
 #. i18n: keyword: ExportDataShortDescription
 msgid "We can arrange for a report of your account details as controlled by Klei."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgram
+msgid "Klei Ambassador Program"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramShortDescription
+msgid "Apply for the Klei Ambassador Program"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramDescription
+msgid "Klei ambassador program description"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramApplyButton
+msgid "Apply"
+msgstr ""
+
+#. i18n: keyword: MoreInfo
+msgid "More Info"
 msgstr ""
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
