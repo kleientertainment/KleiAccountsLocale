@@ -417,6 +417,18 @@ msgstr ""
 msgid "Unlink Discord Account"
 msgstr ""
 
+#. i18n: keyword: LinkYoutubeTitle
+msgid "Link YouTube Channel"
+msgstr ""
+
+#. i18n: keyword: LinkYoutubeDescription
+msgid "This will link your YouTube Channel to your Klei Account."
+msgstr ""
+
+#. i18n: keyword: UnlinkYoutubeTitle
+msgid "Unlink YouTube Channel"
+msgstr ""
+
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
 msgstr ""
