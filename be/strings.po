@@ -1113,6 +1113,10 @@ msgstr ""
 msgid "Bolts of Cloth"
 msgstr ""
 
+#. i18n: keyword: RewardFilament
+msgid "Filament"
+msgstr ""
+
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
 msgstr ""
@@ -1129,6 +1133,10 @@ msgstr ""
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
 msgstr ""
 
+#. i18n: keyword: RewardFilamentGlossary
+msgid "<b>Filament</b> is used to print items in the Supply Closet in-game."
+msgstr ""
+
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
 msgstr "Ачкі"
@@ -1140,6 +1148,10 @@ msgstr "Рулонаў"
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
 msgstr "Шпулкі"
+
+#. i18n: keyword: RewardFilamentAbbreviation
+msgid "filament"
+msgstr ""
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"

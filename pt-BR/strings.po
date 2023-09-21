@@ -1113,6 +1113,10 @@ msgstr "Carretéis"
 msgid "Bolts of Cloth"
 msgstr "Rolos de Tecido"
 
+#. i18n: keyword: RewardFilament
+msgid "Filament"
+msgstr ""
+
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
 msgstr "<b>Pontos Klei</b><br>Os pontos Klei são utilizados para resgatar conquistas dentro do jogo na página de recompensas da Klei."
@@ -1129,6 +1133,10 @@ msgstr "<b>Rolos de Tecido</b><br>(Apenas PlayStation e XBox) Moeda utilizada de
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
 msgstr "<b>Rolos de Tecido</b><br>(Apenas Nintendo Switch) Moeda utilizada dentro do jogo para comprar skins e pacotes da loja."
 
+#. i18n: keyword: RewardFilamentGlossary
+msgid "<b>Filament</b> is used to print items in the Supply Closet in-game."
+msgstr ""
+
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
 msgstr "pontos"
@@ -1140,6 +1148,10 @@ msgstr "parafusos"
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
 msgstr "carretéis"
+
+#. i18n: keyword: RewardFilamentAbbreviation
+msgid "filament"
+msgstr ""
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
