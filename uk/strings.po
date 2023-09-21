@@ -2121,6 +2121,10 @@ msgstr "Квест для рулонів"
 msgid "Spools For Item"
 msgstr "Котушки за предмет"
 
+#. i18n: keyword: TXN_FILAMENT_FOR_ITEM
+msgid "Filament For Item"
+msgstr ""
+
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
 msgstr "Бали за предмет"
@@ -2156,6 +2160,10 @@ msgstr "Отримано через обмін"
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
 msgstr "Предмет за котушки"
+
+#. i18n: keyword: TXN_ITEM_FOR_FILAMENT
+msgid "Item For Filament"
+msgstr ""
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
