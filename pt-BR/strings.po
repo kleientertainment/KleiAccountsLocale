@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2023-04-27 15:31-0300\n"
+"PO-Revision-Date: 2023-10-19 16:57-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -1115,7 +1115,7 @@ msgstr "Rolos de Tecido"
 
 #. i18n: keyword: RewardFilament
 msgid "Filament"
-msgstr ""
+msgstr "Filamento"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
@@ -1135,7 +1135,7 @@ msgstr "<b>Rolos de Tecido</b><br>(Apenas Nintendo Switch) Moeda utilizada dentr
 
 #. i18n: keyword: RewardFilamentGlossary
 msgid "<b>Filament</b> is used to print items in the Supply Closet in-game."
-msgstr ""
+msgstr "<b>Filamento</b> é usado para imprimir itens no Armário de Suprimentos do jogo."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1151,7 +1151,7 @@ msgstr "carretéis"
 
 #. i18n: keyword: RewardFilamentAbbreviation
 msgid "filament"
-msgstr ""
+msgstr "filamento"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
@@ -1239,7 +1239,7 @@ msgstr "Nome da Recompensa:"
 
 #. i18n: keyword: RewardLinkClaimedOn
 msgid "Claimed on:"
-msgstr ""
+msgstr "Resgatado em:"
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
@@ -1247,11 +1247,11 @@ msgstr "Link de Recompensa"
 
 #. i18n: keyword: RewardLinkClaimSuccess
 msgid "Reward Link Claimed!"
-msgstr ""
+msgstr "Link de Recompensa Resgatado!"
 
 #. i18n: keyword: RewardLinkAlreadyClaimed
 msgid "Reward Link Already Claimed!"
-msgstr ""
+msgstr "Link de Recompensa Já Resgatado!"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
@@ -2123,7 +2123,7 @@ msgstr "Carretéis por Item"
 
 #. i18n: keyword: TXN_FILAMENT_FOR_ITEM
 msgid "Filament For Item"
-msgstr ""
+msgstr "Filamento por Item"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
@@ -2163,7 +2163,7 @@ msgstr "Item por Carretéis"
 
 #. i18n: keyword: TXN_ITEM_FOR_FILAMENT
 msgid "Item For Filament"
-msgstr ""
+msgstr "Item por Filamento"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
