@@ -407,15 +407,15 @@ msgstr "Le service externe qui gère l'inscription de newsletter rencontre des p
 
 #. i18n: keyword: LinkDiscordTitle
 msgid "Link Discord Account"
-msgstr ""
+msgstr "Lier un compte Discord"
 
 #. i18n: keyword: LinkDiscordDescription
 msgid "This will link your Discord Account to your Klei Account."
-msgstr ""
+msgstr "Votre compte Discord sera lié à votre compte Klei."
 
 #. i18n: keyword: UnlinkDiscordTitle
 msgid "Unlink Discord Account"
-msgstr ""
+msgstr "Déconnecter un compte Discord"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -427,19 +427,19 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountInstructionsContinue
 msgid "Continue"
-msgstr ""
+msgstr "Continuer"
 
 #. i18n: keyword: MergeAccountConnectedTitle
 msgid "Connected"
-msgstr ""
+msgstr "Connecté"
 
 #. i18n: keyword: MergeAccountConnectedID
 msgid "ID:"
-msgstr ""
+msgstr "ID :"
 
 #. i18n: keyword: MergeAccountNotConnected
 msgid "Not connected"
-msgstr ""
+msgstr "Non-connecté"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -447,7 +447,7 @@ msgstr "Ce processus permet de lier un compte Klei à plusieurs plateformes (Ste
 
 #. i18n: keyword: MergeAccountSelectDescription
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
-msgstr ""
+msgstr "Merci de sélectionner le compte que vous souhaitez conserver. <b>Vous perdrez votre progression en jeu sur l'autre compte.</b>"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -483,19 +483,19 @@ msgstr "Résoudre les alertes"
 
 #. i18n: keyword: MergeAccountDate
 msgid "Account creation date"
-msgstr ""
+msgstr "Date de création du compte"
 
 #. i18n: keyword: MergeAccountEmail
 msgid "Klei Account e-mail"
-msgstr ""
+msgstr "Courriel du compte Klei"
 
 #. i18n: keyword: MergeAccountKeepThis
 msgid "Keep this account"
-msgstr ""
+msgstr "Garder ce compte"
 
 #. i18n: keyword: MergeAccountMergeThis
 msgid "Merge this account"
-msgstr ""
+msgstr "Associer ce compte"
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
@@ -503,35 +503,35 @@ msgstr "Veuillez bien vérifier qu'il s'agit du compte à associer."
 
 #. i18n: keyword: MergeAccountCheckProfileSelected
 msgid "Make sure this is the account you want to keep."
-msgstr ""
+msgstr "Assurez-vous qu'il s'agit du compte que vous souhaitez conserver."
 
 #. i18n: keyword: MergeAccountCheckProfileUnselected
 msgid "You'll lose all your in-game progress in this account."
-msgstr ""
+msgstr "Vous perdrez toute votre progression en jeu sur ce compte."
 
 #. i18n: keyword: MergeAccountReadyButton
 msgid "Merge accounts"
-msgstr ""
+msgstr "Associer les comptes"
 
 #. i18n: keyword: MergeAccountReady
 msgid "You will be able to log in with the new account after submitting."
-msgstr ""
+msgstr "Vous pourrez vous connecter avec le nouveau compte après cette opération."
 
 #. i18n: keyword: MergeAccountMerging
 msgid "Merging…"
-msgstr ""
+msgstr "Association en cours..."
 
 #. i18n: keyword: MergeAccountDoNotLeave
 msgid "Please do not leave this page"
-msgstr ""
+msgstr "Ne pas quitter cette page"
 
 #. i18n: keyword: MergeAccountWarningsTitle
 msgid "Warning"
-msgstr ""
+msgstr "Attention"
 
 #. i18n: keyword: MergeAccountWarningsSubtitle
 msgid "You need to fix these issues"
-msgstr ""
+msgstr "Vous devez résoudre ces alertes"
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
@@ -547,7 +547,7 @@ msgstr "Une fois qu'une plateforme est liée à un compte, cela ne peut être d�
 
 #. i18n: keyword: MergeInProgressTitle
 msgid "Merge In Progress"
-msgstr ""
+msgstr "Association en cours"
 
 #. i18n: keyword: MergeInProgressDescription
 msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
@@ -555,7 +555,7 @@ msgstr ""
 
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
-msgstr ""
+msgstr "Continuer l'association"
 
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
@@ -563,7 +563,7 @@ msgstr ""
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
-msgstr ""
+msgstr "Continuer l'association"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to merge does not have the capabilities to execute this operation yet."
@@ -603,19 +603,19 @@ msgstr "Il n'y a rien à associer pour ce compte."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already merged your Epic Games account."
-msgstr "Vous avez déjà associé votre compte avec Epic Games"
+msgstr "Vous avez déjà associé votre compte avec Epic Games."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already merged your Steam account."
-msgstr "Vous avez déjà associé votre compte avec Steam"
+msgstr "Vous avez déjà associé votre compte avec Steam."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
 msgid "You already merged your Xbox Network account."
-msgstr ""
+msgstr "Vous avez déjà associé votre compte avec le Xbox Network."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
 msgid "You already merged your Nintendo account."
-msgstr ""
+msgstr "Vous avez déjà associé votre compte avec Nintendo."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
 msgid "You already merged your WeGame account."
@@ -835,27 +835,27 @@ msgstr "<b>Astuce de recherche :</b> Saisissez un ou plusieurs mots pour recherc
 
 #. i18n: keyword: RemoveDuplicateItems
 msgid "Remove Duplicates"
-msgstr ""
+msgstr "Supprimer les objets dupliqués"
 
 #. i18n: keyword: RemoveDuplicateItemsConfirmation
 msgid "Are you sure you want to remove all duplicates of this item and only keep one?"
-msgstr ""
+msgstr "Êtes-vous sûrs de vouloir supprimer les objets dupliqués et n'en garder qu'un seul ?"
 
 #. i18n: keyword: RemoveDuplicateItemsQuantityToRemove
 msgid "Quantity to remove: "
-msgstr ""
+msgstr "Quantité à supprimer :"
 
 #. i18n: keyword: RemoveDuplicateItemsToReceive
 msgid "You'll receive: "
-msgstr ""
+msgstr "Vous recevrez :"
 
 #. i18n: keyword: RemoveDuplicateItemsReceiveNothing
 msgid "Nothing"
-msgstr ""
+msgstr "Rien"
 
 #. i18n: keyword: RemoveDuplicateItemsSuccess
 msgid "Duplicates Removed!"
-msgstr ""
+msgstr "Objets dupliqués supprimés !"
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items."
@@ -1103,7 +1103,7 @@ msgstr "Alternative"
 
 #. i18n: keyword: RewardPoints
 msgid "Klei Points"
-msgstr ""
+msgstr "Points Klei"
 
 #. i18n: keyword: RewardSpools
 msgid "Spools"
@@ -2063,15 +2063,15 @@ msgstr "Annuler"
 
 #. i18n: keyword: TransactionTraded
 msgid "Traded:"
-msgstr ""
+msgstr "Echangé :"
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
-msgstr ""
+msgstr "Semaine"
 
 #. i18n: keyword: GiftingEventGift
 msgid "Gift"
-msgstr ""
+msgstr "Cadeau"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -2095,7 +2095,7 @@ msgstr "Créer un objet"
 
 #. i18n: keyword: TXN_INVENTORY_MERGE
 msgid "Account Merge"
-msgstr ""
+msgstr "Association de comptes"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
@@ -2243,7 +2243,7 @@ msgstr ""
 
 #. i18n: keyword: LoginToAnotherAccount
 msgid "Login to another account"
-msgstr ""
+msgstr "Se connecter avec un autre compte"
 
 #. i18n: keyword: MismatchedKuDescription
 msgid "You are currently logged in as <b>{{ .Data.CurrentKU }}</b> but you are trying to access a link for user ID <b>{{ .Data.ExpectedKU }}</b>. Would you like to continue on your current account or login to another account?"
@@ -2275,11 +2275,11 @@ msgstr ""
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_RULES
 msgid "Unfortunately, you can not participate in the event if you do not agree with the event rules."
-msgstr ""
+msgstr "Malheureusement, vous ne pouvez pas participer à l'évènement si vous n'en acceptez pas les règles."
 
 #. i18n: keyword: E_DID_NOT_AGREE_TO_FANART_EVENT_SHARE
 msgid "Unfortunately, you can not participate in the event if you do not agree to share your image."
-msgstr ""
+msgstr "Malheureusement, vous ne pouvez pas participer à l'évènement si vous n'acceptez pas de partager votre image."
 
 #. i18n: keyword: E_FANART_EVENT_USER_ALREADY_PARTICIPATED
 msgid "An administrator has already approved one of your submissions."
@@ -2307,23 +2307,23 @@ msgstr ""
 
 #. i18n: keyword: FanartEventStatusSubmissionID
 msgid "Submission ID:"
-msgstr ""
+msgstr "ID de soumission :"
 
 #. i18n: keyword: FanartEventSubmissionSuccess
 msgid "Your picture has been recorded!"
-msgstr ""
+msgstr "Votre image a été enregistrée !"
 
 #. i18n: keyword: FanartEventStatusSubmissionStatus
 msgid "Submission status:"
-msgstr ""
+msgstr "Statut de la soumission :"
 
 #. i18n: keyword: FanartEventStatusNoSubmission
 msgid "You have not submitted an image yet"
-msgstr ""
+msgstr "Vous n'avez pas encore soumis d'image"
 
 #. i18n: keyword: FanartEventStatusKleiMessage
 msgid "Message from Klei:"
-msgstr ""
+msgstr "Message de la part de Klei :"
 
 #. i18n: keyword: FanartEventCheckStatus
 msgid "Already made a submission? Check the status of your submission <a href=\"https://accounts.klei.com/account/fanartevent/status\">here</a>"
