@@ -975,15 +975,15 @@ msgstr "暗无天日"
 
 #. i18n: keyword: ConfigureServerClusterName
 msgid "Cluster Name"
-msgstr "集群名（为服务器起一个友好的名字）"
+msgstr "服务器名称"
 
 #. i18n: keyword: ConfigureServerClusterDescription
 msgid "Cluster Description"
-msgstr "集群描述（服务器简介）"
+msgstr "服务器简介"
 
 #. i18n: keyword: ConfigureServerClusterPassword
 msgid "Cluster Password"
-msgstr "集群密码 (设置服务器密码）"
+msgstr "服务器密码"
 
 #. i18n: keyword: ItemsInventoryTitle
 msgid "Your Items Inventory"
@@ -1007,7 +1007,7 @@ msgstr "您确定要回滚此笔交易吗？"
 
 #. i18n: keyword: RollbackDialogNotEnoughCurrency
 msgid "You don't have enough currency for this rollback! You need another"
-msgstr "您没有足够的货币来进行回滚！您需要更多"
+msgstr "您没有足够的货币来进行回滚！您还需要"
 
 #. i18n: keyword: TransactionWillGain
 msgid "You will gain"
@@ -1063,7 +1063,7 @@ msgstr "<a href='/community-translations'>这是一个非官方的翻译。</a>"
 
 #. i18n: keyword: CommunityTranslationsDescription
 msgid "If you would like to add a new language or make corrections to the existing text <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>please visit the following link</a> and read the instructions of how to contribute to the translations of the website."
-msgstr "如果您想要添加一个新的语言，或者校正现存的翻译 <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>请访问以下链接</a> 并阅读关于如何为网站的翻译作出贡献的指引。"
+msgstr "如果您想要添加一个新的语言，或者校正现存的翻译 <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>请访问此链接</a> 并阅读关于如何为网站的翻译作出贡献的指引。"
 
 #. i18n: keyword: RewardTitle
 msgid "Drops & Rewards (Beta)"
@@ -2015,7 +2015,7 @@ msgstr "此笔交易无法被回滚。"
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
-msgstr "${dropInfo.GameName}礼物掉落数"
+msgstr "从 ${dropInfo.GameName} 获得的礼物"
 
 #. i18n: keyword: KleiWeekDropsTitle
 msgid "Klei Week ${currentWeek} Drops"
