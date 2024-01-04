@@ -1115,7 +1115,7 @@ msgstr "布卷"
 
 #. i18n: keyword: RewardFilament
 msgid "Filament"
-msgstr ""
+msgstr "线卷"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
@@ -1135,7 +1135,7 @@ msgstr "<b>布卷</b><br>(仅限任天堂Switch)游戏商店中用来购买皮�
 
 #. i18n: keyword: RewardFilamentGlossary
 msgid "<b>Filament</b> is used to print items in the Supply Closet in-game."
-msgstr ""
+msgstr "<b>线卷</b>可以在游戏的供应柜打印物品。"
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1151,7 +1151,7 @@ msgstr "线轴"
 
 #. i18n: keyword: RewardFilamentAbbreviation
 msgid "filament"
-msgstr ""
+msgstr "线卷"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
@@ -2123,7 +2123,7 @@ msgstr "通过编织获取物品"
 
 #. i18n: keyword: TXN_FILAMENT_FOR_ITEM
 msgid "Filament For Item"
-msgstr ""
+msgstr "通过打印获得物品"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
@@ -2163,7 +2163,7 @@ msgstr "通过分解获取线轴"
 
 #. i18n: keyword: TXN_ITEM_FOR_FILAMENT
 msgid "Item For Filament"
-msgstr ""
+msgstr "通过回收获取线卷"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
@@ -2227,7 +2227,7 @@ msgstr "Klei客服发出的道具"
 
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
-msgstr ""
+msgstr "交易小店"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
