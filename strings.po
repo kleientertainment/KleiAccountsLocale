@@ -405,6 +405,10 @@ msgstr ""
 msgid "Marketing Options"
 msgstr ""
 
+#. i18n: keyword: MarketingRequiresBirthday
+msgid "To edit marketing options, please set your birthday (in Profile)"
+msgstr ""
+
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
 msgstr ""
