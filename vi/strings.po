@@ -18,7 +18,7 @@ msgstr ""
 "X-Crowdin-File-ID: 76\n"
 
 #. i18n: keyword: Email
-msgid "E-mail"
+msgid "Email"
 msgstr "Email"
 
 #. i18n: keyword: Loading
@@ -182,16 +182,16 @@ msgid "Steam Account"
 msgstr "Tài khoản Steam"
 
 #. i18n: keyword: VerifyEmail
-msgid "Verify E-mail"
-msgstr "Xác minh E-mail"
+msgid "Verify email"
+msgstr "Xác minh email"
 
 #. i18n: keyword: VerificationEmailSuccessTitle
 msgid "Verification Email Sent"
 msgstr "Email xác thực đã được gửi"
 
 #. i18n: keyword: VerificationEmailSuccessDescription
-msgid "We’ve sent a verification e-mail to your e-mail address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the e-mail after an hour, first check your spam folder."
-msgstr "Chúng tôi vừa gửi một e-mail xác thực tới địa chỉ e-mail của bạn. Để hoàn thành việc đăng ký, vui lòng click vào đường dẫn đi kèm trong email. Email thường được gửi ngày lập tức. Nếu trong vòng một tiếng bạn không nhận được email, xin vui lòng kiểm tra mục thư rác."
+msgid "We’ve sent a verification email to your email address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the email after an hour, first check your spam folder."
+msgstr "Chúng tôi vừa gửi một email xác thực tới địa chỉ email của bạn. Để hoàn thành việc đăng ký, vui lòng click vào đường dẫn đi kèm trong email. Email thường được gửi ngày lập tức. Nếu trong vòng một tiếng bạn không nhận được email, xin vui lòng kiểm tra mục thư rác."
 
 #. i18n: keyword: VerificationEmailFailureTitle
 msgid "Invalid Verification"
@@ -206,8 +206,8 @@ msgid "Please verify your email address to continue."
 msgstr ""
 
 #. i18n: keyword: E_EMAIL_VERIFIED
-msgid "Your e-mail has already been verified."
-msgstr "E-mail của bạn đã được xác thực."
+msgid "Your email has already been verified."
+msgstr "email của bạn đã được xác thực."
 
 #. i18n: keyword: EmailStatusNotVerified
 msgid "Not Verified"
@@ -223,7 +223,7 @@ msgstr "Xác thực thành công"
 
 #. i18n: keyword: RegistrationCompleteDescription
 msgid "Thanks for verifying your email.</p><p>You’re good to go! You can now return to your game and play online. If you have suggestions, feedback or need support during the beta, head over to the Klei community forum."
-msgstr "Cảm ơn đã xác minh e-mail của bạn.</p><p>Bạn có thể quay trở lại trò chơi và chơi trực tuyến. Nếu bạn có bất kỳ gợi ý, phản hồi hoặc cần sự trợ giúp trong quá trình thử nghiệm, vui lòng tới diện đàn cộng đồng của Klei."
+msgstr "Cảm ơn đã xác minh email của bạn.</p><p>Bạn có thể quay trở lại trò chơi và chơi trực tuyến. Nếu bạn có bất kỳ gợi ý, phản hồi hoặc cần sự trợ giúp trong quá trình thử nghiệm, vui lòng tới diện đàn cộng đồng của Klei."
 
 #. i18n: keyword: VisitCommunityForum
 msgid "Visit Klei Community Forum"
@@ -302,8 +302,8 @@ msgid "Edit Subscriptions"
 msgstr "Thay đổi đăng ký"
 
 #. i18n: keyword: UnsubscribeFromEmails
-msgid "Unsubscribe from E-mails"
-msgstr "Dừng đăng ký theo dõi từ E-mail"
+msgid "Unsubscribe from emails"
+msgstr "Dừng đăng ký theo dõi từ email"
 
 #. i18n: keyword: SignupForABeta
 msgid "Sign up for a Beta"
@@ -486,7 +486,7 @@ msgid "Account creation date"
 msgstr ""
 
 #. i18n: keyword: MergeAccountEmail
-msgid "Klei Account e-mail"
+msgid "Klei Account email"
 msgstr ""
 
 #. i18n: keyword: MergeAccountKeepThis
@@ -578,12 +578,12 @@ msgid "It is impossible to merge your accounts right now because some data is mi
 msgstr "Việc hợp nhất các tài khoản của bạn ngay bây giờ là bất khả thi vì một số dữ liệu bị thiếu. Vui lòng đăng xuất và bắt đầu lại quá trình. Hãy đảm bảo trình duyệt web của bạn chấp nhận cookie và hai tài khoản bạn sắp hợp nhất là chính xác."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
-msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
+msgid "Please update your *Klei* accounts to use the same email address and start the process again."
 msgstr "Vui lòng cập nhật tài khoản * Klei * của bạn để sử dung địa chỉ email giống nhau và bắt đầu lại quy trình."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid "Please verify/validate the e-mail address in both Klei Accounts and start the process again."
-msgstr "Vui lòng xác minh / xác thực địa chỉ e-mail trong cả hai tài khoản và bắt đầu lại quy trình."
+msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
+msgstr "Vui lòng xác minh / xác thực địa chỉ email trong cả hai tài khoản và bắt đầu lại quy trình."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
@@ -1454,7 +1454,7 @@ msgid "You already submitted a support request a few minutes ago. Please wait a 
 msgstr "Bạn đã gửi một yêu cầu hỗ trợ vài phút trước. Vui lòng đợi vài phút để chúng tôi có thời gian trả lời bạn và những người dùng khác."
 
 #. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
-msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
+msgid "It looks like your email address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
 msgstr ""
 
 #. i18n: keyword: E_ZENDESK_INVALID_IAT_PARAMETER
@@ -1462,8 +1462,8 @@ msgid "There was a problem establish a secure connection between Klei Entertainm
 msgstr ""
 
 #. i18n: keyword: EmailAuthRequired
-msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
-msgstr "Xác thực email là điều bắt buộc. Vui lòng kiểm tra e-mail của bạn và nhấp vào liên kết xác thực."
+msgid "Email Authentication Required. Please check your email and click the authentication link."
+msgstr "Xác thực email là điều bắt buộc. Vui lòng kiểm tra email của bạn và nhấp vào liên kết xác thực."
 
 #. i18n: keyword: EnterDOB
 msgid "Please Enter Your Date of Birth"
@@ -1482,8 +1482,8 @@ msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to r
 msgstr "Whoa, này anh bạn láu cá. Bạn cần ít nhất 13 tuổi hoặc hơn để có thể đăng ký một tài khoản."
 
 #. i18n: keyword: EmailInvalid
-msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
-msgstr "Email không hợp lệ. Vui lòng kiểm trả lại địa chỉ e-mail bạn đã nhập theo đúng định dạng (Ví dụ: tencuaban@email.com)"
+msgid "Invalid Email. Please check that the email address you entered is in the correct format. (Example name@email.com)"
+msgstr "Email không hợp lệ. Vui lòng kiểm trả lại địa chỉ email bạn đã nhập theo đúng định dạng (Ví dụ: tencuaban@email.com)"
 
 #. i18n: keyword: Error
 msgid "Error"
@@ -1494,8 +1494,8 @@ msgid "Create A New Account"
 msgstr "Tạo tài khoản mới"
 
 #. i18n: keyword: EmailInfoText
-msgid "Your e-mail address will be used to manage your account. We will send a confirmation e-mail here as well."
-msgstr "Địa chỉ e-mail của bạn sẽ được dùng để quản lý tài khoản này. Chúng tôi cũng sẽ gửi cho bạn một e-mail xác nhận vào đó."
+msgid "Your email address will be used to manage your account. We will send a confirmation email here as well."
+msgstr "Địa chỉ email của bạn sẽ được dùng để quản lý tài khoản này. Chúng tôi cũng sẽ gửi cho bạn một email xác nhận vào đó."
 
 #. i18n: keyword: DOBInfoText
 msgid "Date of birth is required for age verification, security, and account recovery support."
@@ -1510,23 +1510,23 @@ msgid "Please review the EULA terms and agree by selecting the checkbox. You mus
 msgstr "Vui lòng xem lại các điều khoản EULA và đồng ý bằng cách đánh dấu vào ô . Bạn phải đồng ý với EULA để tiếp tục."
 
 #. i18n: keyword: ResendAccountInfo
-msgid "Re-send Account Activation E-mail"
-msgstr "Gửi lại E-mail kích hoạt tài khoản"
+msgid "Re-send Account Activation email"
+msgstr "Gửi lại email kích hoạt tài khoản"
 
 #. i18n: keyword: AwaitingVerification
-msgid "Your account has been created previously, but is still awaiting e-mail verification.  Check your e-mail account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the e-mail."
-msgstr "Tài khoản của bạn đã được tạo trước đó, nhưng vẫn đang chờ xác minh e-mail. Kiểm tra thư gửi từ noreply@kleientertainment.com trong tài khoản e-mail của bạn và nhấp vào liên kết xác minh có trong đó để hoàn tất đăng ký tài khoản. Hãy chắc chắn kiểm tra các thư mục Thư rác nếu bạn không thể tìm thấy này."
+msgid "Your account has been created previously, but is still awaiting email verification.  Check your email account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the email."
+msgstr "Tài khoản của bạn đã được tạo trước đó, nhưng vẫn đang chờ xác minh email. Kiểm tra thư gửi từ noreply@kleientertainment.com trong tài khoản email của bạn và nhấp vào liên kết xác minh có trong đó để hoàn tất đăng ký tài khoản. Hãy chắc chắn kiểm tra các thư mục Thư rác nếu bạn không thể tìm thấy này."
 
 #. i18n: keyword: ResendVerification
-msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address. Please double-check it for accuracy!"
-msgstr "Nếu bạn vẫn không thể tìm thấy e-mail này, bạn có thể hoàn thành biểu mẫu sau để được gửi lại e-mail xác minh. Bạn có thể sử dụng một địa chỉ e-mail khác. Vui lòng kiểm tra lại để đảm bảo chính xác!"
+msgid "If you still can’t find the email, you can complete the form below to have the verification email re-sent.  You may use a different email address. Please double-check it for accuracy!"
+msgstr "Nếu bạn vẫn không thể tìm thấy email này, bạn có thể hoàn thành biểu mẫu sau để được gửi lại email xác minh. Bạn có thể sử dụng một địa chỉ email khác. Vui lòng kiểm tra lại để đảm bảo chính xác!"
 
 #. i18n: keyword: LoadingSteamProfile
 msgid "Loading Steam Profile…"
 msgstr "Đang tải hồ sơ Steam…"
 
 #. i18n: keyword: AOLNote
-msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
+msgid "NOTE: At this time AOL email addresses are experiencing issues receiving validation emails. If you are using an @aol email address, you may not receive your confirmation email until this issue is resolved. We recommend using an email address from another provider."
 msgstr "LƯU Ý: Tại thời điểm này, các địa chỉ email AOL đang gặp sự cố khi nhận email xác thực. Nếu bạn đang sử dụng địa chỉ email có đuôi @aol, bạn có thể không nhận được email xác nhận cho đến khi vấn đề này được giải quyết. Chúng tôi khuyên bạn nên sử dụng một địa chỉ email từ nhà cung cấp khác."
 
 #. i18n: keyword: DOBUsage
@@ -1574,8 +1574,8 @@ msgid "The authentication information provided did not match an existing account
 msgstr "Thông tin xác thực được cung cấp không khớp với tài khoản hiện có."
 
 #. i18n: keyword: E_EMAIL_IN_USE
-msgid "The e-mail address is already being used."
-msgstr "Địa chỉ e-mail đã được sử dụng."
+msgid "The email address is already being used."
+msgstr "Địa chỉ email đã được sử dụng."
 
 #. i18n: keyword: E_FAILED_SENDING_EMAIL
 msgid "There was a problem on the mail server. Please try again later."
@@ -1606,11 +1606,11 @@ msgid "The user name chosen contained invalid characters."
 msgstr "Tên đăng nhập được chọn có chứa kí tự không hợp lệ."
 
 #. i18n: keyword: E_INVALID_EMAIL
-msgid "The e-mail address is not valid. Please check that you entered it correctly."
-msgstr "Địa chỉ e-mail không hợp lệ. Vui kiểm tra lại xem bạn đã nhập chính xác ."
+msgid "The email address is not valid. Please check that you entered it correctly."
+msgstr "Địa chỉ email không hợp lệ. Vui kiểm tra lại xem bạn đã nhập chính xác ."
 
 #. i18n: keyword: E_INVALID_EMAIL_BY_MAILGUN
-msgid "Your e-mail address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different e-mail address."
+msgid "Your email address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different email address."
 msgstr ""
 
 #. i18n: keyword: E_INVALID_PASSWORD
@@ -1710,11 +1710,11 @@ msgid "There’s not enough data to execute this action."
 msgstr "Không đủ dữ liệu để thực hiện hành động này."
 
 #. i18n: keyword: E_MISSING_FIELD
-msgid "You must provide a Steam ID, user name, or e-mail address."
-msgstr "Bạn phải cung cấp một Steam ID, tên đăng nhập, hoặc địa chỉ e-mail."
+msgid "You must provide a Steam ID, user name, or email address."
+msgstr "Bạn phải cung cấp một Steam ID, tên đăng nhập, hoặc địa chỉ email."
 
 #. i18n: keyword: E_MUST_VALIDATE_EMAIL
-msgid "The account has already been created, but is awaiting validation.  Check your e-mail."
+msgid "The account has already been created, but is awaiting validation.  Check your email."
 msgstr "Tài khoản đã được tạo, nhưng đang chờ xác thực. Hãy kiểm tra thư điện tử của bạn."
 
 #. i18n: keyword: E_EMAIL_ALREADY_SET
