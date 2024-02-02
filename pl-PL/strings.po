@@ -354,7 +354,7 @@ msgid "Change Email"
 msgstr "Zmień adres email"
 
 #. i18n: keyword: ChangeEmailDescription
-msgid "This is the email address we will use to send you updates & news regarding your account or games."
+msgid "This is the email associated with this account. It is what we use for important system alerts and account support."
 msgstr "To jest adres email, którego będziemy używać do wysyłania aktualizacji i wiadomości dotyczących Twojego konta lub gier."
 
 #. i18n: keyword: ChangeEmailInProgress
