@@ -301,6 +301,10 @@ msgstr "Newsletter"
 msgid "Edit Subscriptions"
 msgstr "Mettre à jour les inscriptions"
 
+#. i18n: keyword: LearnMore
+msgid "Learn More"
+msgstr ""
+
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
 msgstr "Se désinscrire des courriels"

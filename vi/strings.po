@@ -301,6 +301,10 @@ msgstr "Bản tin"
 msgid "Edit Subscriptions"
 msgstr "Thay đổi đăng ký"
 
+#. i18n: keyword: LearnMore
+msgid "Learn More"
+msgstr ""
+
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
 msgstr "Dừng đăng ký theo dõi từ email"

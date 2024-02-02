@@ -301,6 +301,10 @@ msgstr "Навінавая рассыланне"
 msgid "Edit Subscriptions"
 msgstr "Рэдагаваць падпіску"
 
+#. i18n: keyword: LearnMore
+msgid "Learn More"
+msgstr ""
+
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
 msgstr "Адпісацца ад навіннай рассылання"

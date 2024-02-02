@@ -301,6 +301,10 @@ msgstr "電子報"
 msgid "Edit Subscriptions"
 msgstr "編輯訂閱內容"
 
+#. i18n: keyword: LearnMore
+msgid "Learn More"
+msgstr ""
+
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
 msgstr "取消訂閱郵件訊息推送"

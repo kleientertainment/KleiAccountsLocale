@@ -301,6 +301,10 @@ msgstr "Bülten"
 msgid "Edit Subscriptions"
 msgstr "Abonelikleri Düzenle"
 
+#. i18n: keyword: LearnMore
+msgid "Learn More"
+msgstr ""
+
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
 msgstr "E-posta listesinden çık"

@@ -301,6 +301,10 @@ msgstr "新信件"
 msgid "Edit Subscriptions"
 msgstr "编辑订阅内容"
 
+#. i18n: keyword: LearnMore
+msgid "Learn More"
+msgstr ""
+
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
 msgstr "从邮件里取消订阅"
