@@ -18,7 +18,7 @@ msgstr ""
 "X-Crowdin-File-ID: 76\n"
 
 #. i18n: keyword: Email
-msgid "E-mail"
+msgid "Email"
 msgstr "Электронная почта"
 
 #. i18n: keyword: Loading
@@ -182,7 +182,7 @@ msgid "Steam Account"
 msgstr "Акаўнт Steam"
 
 #. i18n: keyword: VerifyEmail
-msgid "Verify E-mail"
+msgid "Verify email"
 msgstr "Пацвердзіць"
 
 #. i18n: keyword: VerificationEmailSuccessTitle
@@ -190,7 +190,7 @@ msgid "Verification Email Sent"
 msgstr "Ліст з пацвярджэннем адпраўлена"
 
 #. i18n: keyword: VerificationEmailSuccessDescription
-msgid "We’ve sent a verification e-mail to your e-mail address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the e-mail after an hour, first check your spam folder."
+msgid "We’ve sent a verification email to your email address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the email after an hour, first check your spam folder."
 msgstr "Мы адправілі ліст з пацвярджэннем на ваш адрас электроннай пошты. Для завяршэння рэгістрацыі, калі ласка, націсніце на спасылку, указаную ў лісце. Лісты звычайна адпраўляюцца імгненна. Калі вы не атрымалі ліст на працягу гадзіны, спачатку праверце тэчку са спамам."
 
 #. i18n: keyword: VerificationEmailFailureTitle
@@ -206,7 +206,7 @@ msgid "Please verify your email address to continue."
 msgstr ""
 
 #. i18n: keyword: E_EMAIL_VERIFIED
-msgid "Your e-mail has already been verified."
+msgid "Your email has already been verified."
 msgstr "Ваш адрас электроннай пошты быў пацверджаны."
 
 #. i18n: keyword: EmailStatusNotVerified
@@ -301,8 +301,12 @@ msgstr "Навінавая рассыланне"
 msgid "Edit Subscriptions"
 msgstr "Рэдагаваць падпіску"
 
+#. i18n: keyword: LearnMore
+msgid "Learn More"
+msgstr ""
+
 #. i18n: keyword: UnsubscribeFromEmails
-msgid "Unsubscribe from E-mails"
+msgid "Unsubscribe from emails"
 msgstr "Адпісацца ад навіннай рассылання"
 
 #. i18n: keyword: SignupForABeta
@@ -350,7 +354,7 @@ msgid "Change Email"
 msgstr "Змяніць адрас электроннай пошты"
 
 #. i18n: keyword: ChangeEmailDescription
-msgid "This is the email address we will use to send you updates & news regarding your account or games."
+msgid "This is the email associated with this account. It is what we use for important system alerts and account support."
 msgstr "Гэта адрас электроннай пошты, які мы будзем выкарыстоўваць для адпраўкі вам абнаўленняў і навін, якія тычацца вашага ўліковага запісу або гульняў."
 
 #. i18n: keyword: ChangeEmailInProgress
@@ -486,7 +490,7 @@ msgid "Account creation date"
 msgstr ""
 
 #. i18n: keyword: MergeAccountEmail
-msgid "Klei Account e-mail"
+msgid "Klei Account email"
 msgstr ""
 
 #. i18n: keyword: MergeAccountKeepThis
@@ -578,11 +582,11 @@ msgid "It is impossible to merge your accounts right now because some data is mi
 msgstr "Цяпер немагчыма аб'яднаць вашыя уліковыя запісы, таму што некаторыя дадзеныя адсутнічаюць. Калі ласка, выйдзіце з сістэмы і пачніце працэс зноўку. Пераканайцеся, што ваш вэб-браўзэр прымае файлы cookie і што дзве уліковыя запісы, якія вы збіраецеся аб'яднаць, верныя."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
-msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
+msgid "Please update your *Klei* accounts to use the same email address and start the process again."
 msgstr "Калі Ласка, абновіце свае ўліковыя запісы * Klei *, каб выкарыстоўваць той жа адрас электроннай пошты, і пачаць працэс зноўку."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid "Please verify/validate the e-mail address in both Klei Accounts and start the process again."
+msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
 msgstr "Калі Ласка, пацвердзіце адрас электроннай пошты ў абедзвюх уліковых запісах і зноў запусціце працэс."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
@@ -1454,7 +1458,7 @@ msgid "You already submitted a support request a few minutes ago. Please wait a 
 msgstr "Вы ўжо адправілі запыт у службу падтрымкі некалькі хвілін таму. Пачакайце некалькі хвілін, каб даць нам час адказаць вам і іншым карыстальнікам."
 
 #. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
-msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
+msgid "It looks like your email address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
 msgstr ""
 
 #. i18n: keyword: E_ZENDESK_INVALID_IAT_PARAMETER
@@ -1462,7 +1466,7 @@ msgid "There was a problem establish a secure connection between Klei Entertainm
 msgstr ""
 
 #. i18n: keyword: EmailAuthRequired
-msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
+msgid "Email Authentication Required. Please check your email and click the authentication link."
 msgstr "Патрабуецца аўтэнтыфікацыя электроннай пошты. Калі ласка, праверце сваю электронную пошту і націсніце на спасылку аўтэнтыфікацыі."
 
 #. i18n: keyword: EnterDOB
@@ -1482,7 +1486,7 @@ msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to r
 msgstr "Гэй там, свавольнік. Для рэгістрацыі ўліковага запісу табе павінна быць не менш за 13 гадоў."
 
 #. i18n: keyword: EmailInvalid
-msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
+msgid "Invalid Email. Please check that the email address you entered is in the correct format. (Example name@email.com)"
 msgstr "Няправільны адрас электроннай пошты. Калі ласка, пераканайцеся, што уведзены Вамі адрас электроннай пошты мае правільны фармат. (Напрыклад: name@email.com)"
 
 #. i18n: keyword: Error
@@ -1494,7 +1498,7 @@ msgid "Create A New Account"
 msgstr "Стварыць новы ўліковы запіс"
 
 #. i18n: keyword: EmailInfoText
-msgid "Your e-mail address will be used to manage your account. We will send a confirmation e-mail here as well."
+msgid "Your email address will be used to manage your account. We will send a confirmation email here as well."
 msgstr "Ваш адрас электроннай пошты будзе выкарыстоўвацца для кіравання вашым уліковым запісам. Мы таксама вышлем Вам пацвярджэнне па электроннай пошце."
 
 #. i18n: keyword: DOBInfoText
@@ -1510,15 +1514,15 @@ msgid "Please review the EULA terms and agree by selecting the checkbox. You mus
 msgstr "Калі Ласка, азнаёмцеся з умовамі ліцэнзійнага пагаднення і пагадзіцеся, усталяваўшы сцяжок. Вы павінны пагадзіцца з EULA для працягу."
 
 #. i18n: keyword: ResendAccountInfo
-msgid "Re-send Account Activation E-mail"
+msgid "Re-send Account Activation email"
 msgstr "Даслаць ліст актывацыі ўліковага запісу зноўку"
 
 #. i18n: keyword: AwaitingVerification
-msgid "Your account has been created previously, but is still awaiting e-mail verification. Check your e-mail account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration. Be sure to check your Spam or Junk folders if you can’t find the e-mail."
+msgid "Your account has been created previously, but is still awaiting email verification. Check your email account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration. Be sure to check your Spam or Junk folders if you can’t find the email."
 msgstr "Ваш уліковы запіс была створана раней, але ўсё яшчэ чакае пацверджання па электроннай пошце. Праверце свой уліковы запіс электроннай пошты на наяўнасць паведамлення, адпраўленага з noreply@kleientertainment.com, і націсніце якая змяшчаецца ў ім спасылку, каб завяршыць рэгістрацыю свайго ўліковага запісу. Абавязкова праверце тэчкі» Спам або непажаданая пошта, калі не можаце знайсці ліст."
 
 #. i18n: keyword: ResendVerification
-msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent. You may use a different e-mail address. Please double-check it for accuracy!"
+msgid "If you still can’t find the email, you can complete the form below to have the verification email re-sent. You may use a different email address. Please double-check it for accuracy!"
 msgstr "Калі вы па-ранейшаму не можаце знайсці электронны ліст, вы можаце запоўніць форму ніжэй, каб паўторна адправіць ліст з пацвярджэннем. Вы можаце выкарыстаць іншы адрас электроннай пошты. Калі ласка, двойчы праверце яго на дакладнасць!"
 
 #. i18n: keyword: LoadingSteamProfile
@@ -1526,7 +1530,7 @@ msgid "Loading Steam Profile…"
 msgstr "Загрузка профілю Steam…"
 
 #. i18n: keyword: AOLNote
-msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
+msgid "NOTE: At this time AOL email addresses are experiencing issues receiving validation emails. If you are using an @aol email address, you may not receive your confirmation email until this issue is resolved. We recommend using an email address from another provider."
 msgstr "УВАГА: У цяперашні час на адрасах электроннай пошты AOL ўзнікаюць праблемы з атрыманнем праверачных лістоў. Калі вы выкарыстоўваеце адрас электроннай пошты @aol, вы можаце не атрымаць пацвярджэнне па электроннай пошце, пакуль гэтая праблема не будзе вырашана. Мы рэкамендуем выкарыстоўваць адрас электроннай пошты іншага правайдэра."
 
 #. i18n: keyword: DOBUsage
@@ -1574,7 +1578,7 @@ msgid "The authentication information provided did not match an existing account
 msgstr "Прадстаўленая інфармацыя для аўтэнтыфікацыі не адпавядае існуючай ўліковага запісу."
 
 #. i18n: keyword: E_EMAIL_IN_USE
-msgid "The e-mail address is already being used."
+msgid "The email address is already being used."
 msgstr "Адрас электроннай пошты ўжо выкарыстоўваецца."
 
 #. i18n: keyword: E_FAILED_SENDING_EMAIL
@@ -1606,11 +1610,11 @@ msgid "The user name chosen contained invalid characters."
 msgstr "Абранае імя карыстальніка ўтрымлівае недапушчальныя сімвалы."
 
 #. i18n: keyword: E_INVALID_EMAIL
-msgid "The e-mail address is not valid. Please check that you entered it correctly."
+msgid "The email address is not valid. Please check that you entered it correctly."
 msgstr "Адрас электроннай пошты ня дзейнічае. Калі ласка, пераканайцеся, што вы ўвялі яго правільна."
 
 #. i18n: keyword: E_INVALID_EMAIL_BY_MAILGUN
-msgid "Your e-mail address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different e-mail address."
+msgid "Your email address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different email address."
 msgstr ""
 
 #. i18n: keyword: E_INVALID_PASSWORD
@@ -1710,11 +1714,11 @@ msgid "There’s not enough data to execute this action."
 msgstr "Недастаткова дадзеных для выканання гэтага дзеяння."
 
 #. i18n: keyword: E_MISSING_FIELD
-msgid "You must provide a Steam ID, user name, or e-mail address."
+msgid "You must provide a Steam ID, user name, or email address."
 msgstr "Вы павінны даць Steam ID, імя карыстальніка або адрас электроннай пошты."
 
 #. i18n: keyword: E_MUST_VALIDATE_EMAIL
-msgid "The account has already been created, but is awaiting validation. Check your e-mail."
+msgid "The account has already been created, but is awaiting validation. Check your email."
 msgstr "Рахунак ужо створаны, але чакае пацверджання. Праверце сваю электронную пошту."
 
 #. i18n: keyword: E_EMAIL_ALREADY_SET

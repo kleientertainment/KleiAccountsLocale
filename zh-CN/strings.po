@@ -18,7 +18,7 @@ msgstr ""
 "X-Crowdin-File-ID: 76\n"
 
 #. i18n: keyword: Email
-msgid "E-mail"
+msgid "Email"
 msgstr "邮箱"
 
 #. i18n: keyword: Loading
@@ -182,7 +182,7 @@ msgid "Steam Account"
 msgstr "Steam账户"
 
 #. i18n: keyword: VerifyEmail
-msgid "Verify E-mail"
+msgid "Verify email"
 msgstr "验证"
 
 #. i18n: keyword: VerificationEmailSuccessTitle
@@ -190,7 +190,7 @@ msgid "Verification Email Sent"
 msgstr "发送验证邮件"
 
 #. i18n: keyword: VerificationEmailSuccessDescription
-msgid "We’ve sent a verification e-mail to your e-mail address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the e-mail after an hour, first check your spam folder."
+msgid "We’ve sent a verification email to your email address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the email after an hour, first check your spam folder."
 msgstr "我们已经给您的邮箱发送了一封验证邮件。请点击邮件里的链接以完成注册。邮件通常是立即发送的，如果在一个小时后仍未收到邮件，请检查邮件是否在垃圾桶文件夹里。"
 
 #. i18n: keyword: VerificationEmailFailureTitle
@@ -206,7 +206,7 @@ msgid "Please verify your email address to continue."
 msgstr "请验证您的邮箱以便继续。"
 
 #. i18n: keyword: E_EMAIL_VERIFIED
-msgid "Your e-mail has already been verified."
+msgid "Your email has already been verified."
 msgstr "您的邮箱地址已被验证。"
 
 #. i18n: keyword: EmailStatusNotVerified
@@ -301,8 +301,12 @@ msgstr "新信件"
 msgid "Edit Subscriptions"
 msgstr "编辑订阅内容"
 
+#. i18n: keyword: LearnMore
+msgid "Learn More"
+msgstr ""
+
 #. i18n: keyword: UnsubscribeFromEmails
-msgid "Unsubscribe from E-mails"
+msgid "Unsubscribe from emails"
 msgstr "从邮件里取消订阅"
 
 #. i18n: keyword: SignupForABeta
@@ -350,7 +354,7 @@ msgid "Change Email"
 msgstr "修改邮箱地址"
 
 #. i18n: keyword: ChangeEmailDescription
-msgid "This is the email address we will use to send you updates & news regarding your account or games."
+msgid "This is the email associated with this account. It is what we use for important system alerts and account support."
 msgstr "我们会把关于您的账户或游戏的新消息和更新发送到该邮箱。"
 
 #. i18n: keyword: ChangeEmailInProgress
@@ -486,7 +490,7 @@ msgid "Account creation date"
 msgstr "账户创建日期"
 
 #. i18n: keyword: MergeAccountEmail
-msgid "Klei Account e-mail"
+msgid "Klei Account email"
 msgstr "科雷账户邮箱"
 
 #. i18n: keyword: MergeAccountKeepThis
@@ -578,11 +582,11 @@ msgid "It is impossible to merge your accounts right now because some data is mi
 msgstr "由于某些数据丢失，现在无法合并您的账户。请登出并重新开始该操作。确保您的浏览器接受cookie，并且您要合并的两个账户是正确的。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
-msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
+msgid "Please update your *Klei* accounts to use the same email address and start the process again."
 msgstr "请更新您的*Klei*账户以使用相同的邮箱地址，然后重新开始该操作。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid "Please verify/validate the e-mail address in both Klei Accounts and start the process again."
+msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
 msgstr "请确认两个账户中的邮箱地址，然后重新开始该操作。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
@@ -975,15 +979,15 @@ msgstr "暗无天日"
 
 #. i18n: keyword: ConfigureServerClusterName
 msgid "Cluster Name"
-msgstr "集群名（为服务器起一个友好的名字）"
+msgstr "服务器名称"
 
 #. i18n: keyword: ConfigureServerClusterDescription
 msgid "Cluster Description"
-msgstr "集群描述（服务器简介）"
+msgstr "服务器简介"
 
 #. i18n: keyword: ConfigureServerClusterPassword
 msgid "Cluster Password"
-msgstr "集群密码 (设置服务器密码）"
+msgstr "服务器密码"
 
 #. i18n: keyword: ItemsInventoryTitle
 msgid "Your Items Inventory"
@@ -1007,7 +1011,7 @@ msgstr "您确定要回滚此笔交易吗？"
 
 #. i18n: keyword: RollbackDialogNotEnoughCurrency
 msgid "You don't have enough currency for this rollback! You need another"
-msgstr "您没有足够的货币来进行回滚！您需要更多"
+msgstr "您没有足够的货币来进行回滚！您还需要"
 
 #. i18n: keyword: TransactionWillGain
 msgid "You will gain"
@@ -1063,7 +1067,7 @@ msgstr "<a href='/community-translations'>这是一个非官方的翻译。</a>"
 
 #. i18n: keyword: CommunityTranslationsDescription
 msgid "If you would like to add a new language or make corrections to the existing text <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>please visit the following link</a> and read the instructions of how to contribute to the translations of the website."
-msgstr "如果您想要添加一个新的语言，或者校正现存的翻译 <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>请访问以下链接</a> 并阅读关于如何为网站的翻译作出贡献的指引。"
+msgstr "如果您想要添加一个新的语言，或者校正现存的翻译 <a href='https://github.com/kleientertainment/KleiAccountsLocale' target='_blank' rel='noopener noreferrer'>请访问此链接</a> 并阅读关于如何为网站的翻译作出贡献的指引。"
 
 #. i18n: keyword: RewardTitle
 msgid "Drops & Rewards (Beta)"
@@ -1115,7 +1119,7 @@ msgstr "布卷"
 
 #. i18n: keyword: RewardFilament
 msgid "Filament"
-msgstr ""
+msgstr "线卷"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
@@ -1135,7 +1139,7 @@ msgstr "<b>布卷</b><br>(仅限任天堂Switch)游戏商店中用来购买皮�
 
 #. i18n: keyword: RewardFilamentGlossary
 msgid "<b>Filament</b> is used to print items in the Supply Closet in-game."
-msgstr ""
+msgstr "<b>线卷</b>可以在游戏的供应柜打印物品。"
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1151,7 +1155,7 @@ msgstr "线轴"
 
 #. i18n: keyword: RewardFilamentAbbreviation
 msgid "filament"
-msgstr ""
+msgstr "线卷"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
@@ -1454,7 +1458,7 @@ msgid "You already submitted a support request a few minutes ago. Please wait a 
 msgstr "您在几分钟前已经提交了一个支持请求。请稍等一会儿，让我们有时间回复您和其他用户。"
 
 #. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
-msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
+msgid "It looks like your email address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
 msgstr "您的电子邮件地址似乎已被另一个Klei帐户用以创建支持认证。我们无法创建重复的支持帐户，因此您需要以您的辅助Klei帐户来登录才能发送支持问讯。"
 
 #. i18n: keyword: E_ZENDESK_INVALID_IAT_PARAMETER
@@ -1462,7 +1466,7 @@ msgid "There was a problem establish a secure connection between Klei Entertainm
 msgstr "在Klei Entertainment与Zendesk建立安全连接时出现了问题。错误可能是暂时的，请等待5分钟并重试。如果情况持续发生，请向我们发送邮件。"
 
 #. i18n: keyword: EmailAuthRequired
-msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
+msgid "Email Authentication Required. Please check your email and click the authentication link."
 msgstr "需要邮件认证。请查看您的邮件并点击击认证链接."
 
 #. i18n: keyword: EnterDOB
@@ -1482,7 +1486,7 @@ msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to r
 msgstr "嘿，年轻人。你必须年满13岁能才注册账户。"
 
 #. i18n: keyword: EmailInvalid
-msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
+msgid "Invalid Email. Please check that the email address you entered is in the correct format. (Example name@email.com)"
 msgstr "无效邮箱。请检查您输入的邮箱地址是否格式正确.（例如： name@email.com)"
 
 #. i18n: keyword: Error
@@ -1494,7 +1498,7 @@ msgid "Create A New Account"
 msgstr "创建新账户"
 
 #. i18n: keyword: EmailInfoText
-msgid "Your e-mail address will be used to manage your account. We will send a confirmation e-mail here as well."
+msgid "Your email address will be used to manage your account. We will send a confirmation email here as well."
 msgstr "您的邮箱地址将用于管理您的账户.我们也会在这里发送确认邮件."
 
 #. i18n: keyword: DOBInfoText
@@ -1510,15 +1514,15 @@ msgid "Please review the EULA terms and agree by selecting the checkbox. You mus
 msgstr "请检查最终用户许可协议的条款，并勾选同意选项复选框。您必须同意最终用户许可协议才能继续。"
 
 #. i18n: keyword: ResendAccountInfo
-msgid "Re-send Account Activation E-mail"
+msgid "Re-send Account Activation email"
 msgstr "重新发送账户激活邮件"
 
 #. i18n: keyword: AwaitingVerification
-msgid "Your account has been created previously, but is still awaiting e-mail verification.  Check your e-mail account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the e-mail."
+msgid "Your account has been created previously, but is still awaiting email verification.  Check your email account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the email."
 msgstr "您曾经创建过此账户，但仍在等待邮件验证。请查看您邮箱，以获得norespon@kolyentertainment.com发送的消息，单击其中包含的验证链接以完成您的账户注册。如果找不到邮件，请务必检查您的垃圾邮件或垃圾文件夹。"
 
 #. i18n: keyword: ResendVerification
-msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address. Please double-check it for accuracy!"
+msgid "If you still can’t find the email, you can complete the form below to have the verification email re-sent.  You may use a different email address. Please double-check it for accuracy!"
 msgstr "如果您仍未找到邮件，您可以填写下面的表格，以便重新发送验证邮件。您可以使用不同的邮箱地址。请再次检查它的准确性！"
 
 #. i18n: keyword: LoadingSteamProfile
@@ -1526,7 +1530,7 @@ msgid "Loading Steam Profile…"
 msgstr "正在加载Steam个人资料…"
 
 #. i18n: keyword: AOLNote
-msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
+msgid "NOTE: At this time AOL email addresses are experiencing issues receiving validation emails. If you are using an @aol email address, you may not receive your confirmation email until this issue is resolved. We recommend using an email address from another provider."
 msgstr "请注意：AOL的邮箱地址在接收验证邮件时遇到了问题.如果您使用的是@aol邮箱地址，在此问题解决之前，您可能不会收到确认邮件。我们建议使用另一个提供商的邮箱地址。"
 
 #. i18n: keyword: DOBUsage
@@ -1574,7 +1578,7 @@ msgid "The authentication information provided did not match an existing account
 msgstr "所提供的身份验证信息与现有账户不匹配。"
 
 #. i18n: keyword: E_EMAIL_IN_USE
-msgid "The e-mail address is already being used."
+msgid "The email address is already being used."
 msgstr "邮箱地址已经被使用了。"
 
 #. i18n: keyword: E_FAILED_SENDING_EMAIL
@@ -1606,11 +1610,11 @@ msgid "The user name chosen contained invalid characters."
 msgstr "选择的用户名包含无效字符。"
 
 #. i18n: keyword: E_INVALID_EMAIL
-msgid "The e-mail address is not valid. Please check that you entered it correctly."
+msgid "The email address is not valid. Please check that you entered it correctly."
 msgstr "邮箱地址无效，请检查您的输入是否正确。"
 
 #. i18n: keyword: E_INVALID_EMAIL_BY_MAILGUN
-msgid "Your e-mail address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different e-mail address."
+msgid "Your email address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different email address."
 msgstr "您的电子邮件地址有效。 但是我们用于发送消息的第三方服务已将您列入黑名单，这意味着我们将无法发送包括验证码，新闻，促销，公告在内的任何类型的电子消息。 您的Klei帐户将保持未验证状态，并将无法使用部分功能，但您仍然可以玩我们的游戏。 要解决此问题，您需要输入另一个电子邮件地址。"
 
 #. i18n: keyword: E_INVALID_PASSWORD
@@ -1710,11 +1714,11 @@ msgid "There’s not enough data to execute this action."
 msgstr "没有足够的数据来执行此操作。"
 
 #. i18n: keyword: E_MISSING_FIELD
-msgid "You must provide a Steam ID, user name, or e-mail address."
+msgid "You must provide a Steam ID, user name, or email address."
 msgstr "您必须提供Steam ID、用户名或邮箱地址."
 
 #. i18n: keyword: E_MUST_VALIDATE_EMAIL
-msgid "The account has already been created, but is awaiting validation.  Check your e-mail."
+msgid "The account has already been created, but is awaiting validation.  Check your email."
 msgstr "账户已经创建，但正在等待验证。请查看您的邮件。"
 
 #. i18n: keyword: E_EMAIL_ALREADY_SET
@@ -2015,7 +2019,7 @@ msgstr "此笔交易无法被回滚。"
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
-msgstr "${dropInfo.GameName}礼物掉落数"
+msgstr "从 ${dropInfo.GameName} 获得的礼物"
 
 #. i18n: keyword: KleiWeekDropsTitle
 msgid "Klei Week ${currentWeek} Drops"
@@ -2123,7 +2127,7 @@ msgstr "通过编织获取物品"
 
 #. i18n: keyword: TXN_FILAMENT_FOR_ITEM
 msgid "Filament For Item"
-msgstr ""
+msgstr "通过打印获得物品"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
@@ -2163,7 +2167,7 @@ msgstr "通过分解获取线轴"
 
 #. i18n: keyword: TXN_ITEM_FOR_FILAMENT
 msgid "Item For Filament"
-msgstr ""
+msgstr "通过回收获取线卷"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
@@ -2227,7 +2231,7 @@ msgstr "Klei客服发出的道具"
 
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
-msgstr ""
+msgstr "交易小店"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
