@@ -820,6 +820,50 @@ msgstr ""
 msgid "Downloading Data..."
 msgstr ""
 
+#. i18n: keyword: AmbassadorProgram
+msgid "Ambassador Program"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramShortDescription
+msgid "As a content creator, you can apply for the Klei Ambassador program here."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramDescription
+msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Ambassador program. Once your application is sent, please give us some time to review it."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramPleaseLinkAccount
+msgid "Please link at least one external account."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramRequirementsNotMet
+msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramRequirementsMet
+msgid "You qualify for the ambassador program!"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramTellUsAboutYourself
+msgid "Please tell us a bit about yourself:"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramApplyButton
+msgid "Apply"
+msgstr ""
+
+#. i18n: keyword: MoreInfo
+msgid "More Info"
+msgstr ""
+
+#. i18n: keyword: ProviderConnectedID
+msgid "External account ID:"
+msgstr ""
+
+#. i18n: keyword: ProviderConnectedTitle
+msgid "Account Linked"
+msgstr ""
+
 #. i18n: keyword: MyGames
 msgid "My Games"
 msgstr ""
