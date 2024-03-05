@@ -852,6 +852,18 @@ msgstr ""
 msgid "Apply"
 msgstr ""
 
+#. i18n: keyword: AmbassadorProgramApproved
+msgid "Your application has been approved and you're now a Klei Ambassador!"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramRejected
+msgid "Your last application has been denied. You can try again in <b>{{ .Data.CooldownDays }} days</b>."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramPending
+msgid "You have already submitted an application, it is currently being reviewed."
+msgstr ""
+
 #. i18n: keyword: MoreInfo
 msgid "More Info"
 msgstr ""
