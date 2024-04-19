@@ -303,7 +303,7 @@ msgstr "Редактировать подписки"
 
 #. i18n: keyword: LearnMore
 msgid "Learn More"
-msgstr ""
+msgstr "Узнать больше"
 
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
@@ -1119,7 +1119,7 @@ msgstr "Рулоны ткани"
 
 #. i18n: keyword: RewardFilament
 msgid "Filament"
-msgstr ""
+msgstr "Печатное волокно"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
@@ -1139,7 +1139,7 @@ msgstr "<b>Рулоны ткани</b><br>(только для Nintendo Switch) 
 
 #. i18n: keyword: RewardFilamentGlossary
 msgid "<b>Filament</b> is used to print items in the Supply Closet in-game."
-msgstr ""
+msgstr "<b>Печатное волокно</b> используется для печати предметов в Oxygen Not Included."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1155,7 +1155,7 @@ msgstr "катушек"
 
 #. i18n: keyword: RewardFilamentAbbreviation
 msgid "filament"
-msgstr ""
+msgstr "печатного волокна"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
@@ -1243,7 +1243,7 @@ msgstr "Название награды:"
 
 #. i18n: keyword: RewardLinkClaimedOn
 msgid "Claimed on:"
-msgstr ""
+msgstr "Получено:"
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
@@ -1251,11 +1251,11 @@ msgstr "Наградная ссылка"
 
 #. i18n: keyword: RewardLinkClaimSuccess
 msgid "Reward Link Claimed!"
-msgstr ""
+msgstr "Награда получена!"
 
 #. i18n: keyword: RewardLinkAlreadyClaimed
 msgid "Reward Link Already Claimed!"
-msgstr ""
+msgstr "Награда уже была получена!"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
@@ -2019,23 +2019,23 @@ msgstr "Эта транзакция не может быть отменена."
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
-msgstr ""
+msgstr "Получено ${dropInfo.GameName} дропов"
 
 #. i18n: keyword: KleiWeekDropsTitle
 msgid "Klei Week ${currentWeek} Drops"
-msgstr ""
+msgstr "Неделя подарков №${currentWeek}"
 
 #. i18n: keyword: KleiWeekEndsIn
 msgid "Ends in ${weekCountdown}"
-msgstr ""
+msgstr "Закончится через ${weekCountdown}"
 
 #. i18n: keyword: KleiWeekEnded
 msgid "Week ended"
-msgstr ""
+msgstr "Неделя завершилась"
 
 #. i18n: keyword: DropsDescription
 msgid "Earn the currently available drops by playing the respective games throughout the drop period."
-msgstr ""
+msgstr "Получайте подарки со скинами, играя в соответствующие игры на протяжении всего периода получения."
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
@@ -2067,7 +2067,7 @@ msgstr "Отменить"
 
 #. i18n: keyword: TransactionTraded
 msgid "Traded:"
-msgstr ""
+msgstr "Обмен:"
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
@@ -2127,7 +2127,7 @@ msgstr "Катушки за предмет"
 
 #. i18n: keyword: TXN_FILAMENT_FOR_ITEM
 msgid "Filament For Item"
-msgstr ""
+msgstr "Печатное волокно за предмет"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
@@ -2167,7 +2167,7 @@ msgstr "Предмет за катушки"
 
 #. i18n: keyword: TXN_ITEM_FOR_FILAMENT
 msgid "Item For Filament"
-msgstr ""
+msgstr "Предмет за печатное волокно"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
@@ -2231,7 +2231,7 @@ msgstr "Обращение в поддержку Klei"
 
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
-msgstr ""
+msgstr "Обменник"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
