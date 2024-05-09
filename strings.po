@@ -1268,6 +1268,10 @@ msgstr ""
 msgid "Redeem"
 msgstr ""
 
+#. i18n: keyword: RewardItemReskins
+msgid "Reskins:"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward name:"
 msgstr ""

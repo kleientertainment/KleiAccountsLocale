@@ -361,6 +361,34 @@ msgstr "Bu, hesabınız veya oyunlarınızla ilgili güncellemeler ve haberler g
 msgid "We have sent a verification code to your new email address to authorize the change."
 msgstr "Değişikliği onaylamak için yeni e-posta adresinize bir doğrulama kodu gönderdik."
 
+#. i18n: keyword: Profile
+msgid "Profile"
+msgstr ""
+
+#. i18n: keyword: Birthday
+msgid "Birthday"
+msgstr ""
+
+#. i18n: keyword: Month
+msgid "Month"
+msgstr ""
+
+#. i18n: keyword: Year
+msgid "Year"
+msgstr ""
+
+#. i18n: keyword: ChangeBirthday
+msgid "Change Birthday"
+msgstr ""
+
+#. i18n: keyword: ChangeBirthdayDescription
+msgid "To comply with ESRB and PEGI communication standards, we are required to know your age to ensure we are sending only age appropriate content."
+msgstr ""
+
+#. i18n: keyword: ChangeBirthdayDone
+msgid "Birthday successfully changed!"
+msgstr ""
+
 #. i18n: keyword: Inventory
 msgid "Inventory"
 msgstr "Envanter"
@@ -380,6 +408,10 @@ msgstr "Envanter gizlendi"
 #. i18n: keyword: MarketingOptions
 msgid "Marketing Options"
 msgstr "Pazarlama Seçenekleri"
+
+#. i18n: keyword: MarketingRequiresBirthday
+msgid "To edit marketing options, please set your birthday (in Profile)"
+msgstr ""
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
@@ -1236,6 +1268,10 @@ msgstr "Fiyat"
 #. i18n: keyword: RewardItemReedem
 msgid "Redeem"
 msgstr "Öde"
+
+#. i18n: keyword: RewardItemReskins
+msgid "Reskins:"
+msgstr ""
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
