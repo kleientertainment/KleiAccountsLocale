@@ -18,8 +18,8 @@ msgstr ""
 "X-Crowdin-File-ID: 76\n"
 
 #. i18n: keyword: Email
-msgid "E-mail"
-msgstr "E-Mail"
+msgid "Email"
+msgstr "Email"
 
 #. i18n: keyword: Loading
 msgid "Loading…"
@@ -182,16 +182,16 @@ msgid "Steam Account"
 msgstr "Steam-Account"
 
 #. i18n: keyword: VerifyEmail
-msgid "Verify E-mail"
-msgstr "E-Mail verifizieren"
+msgid "Verify email"
+msgstr "email verifizieren"
 
 #. i18n: keyword: VerificationEmailSuccessTitle
 msgid "Verification Email Sent"
 msgstr "Verifizierungs-Mail gesendet"
 
 #. i18n: keyword: VerificationEmailSuccessDescription
-msgid "We’ve sent a verification e-mail to your e-mail address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the e-mail after an hour, first check your spam folder."
-msgstr "Wir haben eine Verifizierungs-Mail an deine E-Mail-Adresse gesendet. Um die Registrierung abzuschließen, klicke bitte den Bestätigungslink in der E-Mail an. E-Mails werden typischerweise sofort versendet. Falls du die E-Mail auch nach einer Stunde noch nicht erhalten hast, überprüfe bitte zunächst deinen Spam-Ordner."
+msgid "We’ve sent a verification email to your email address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the email after an hour, first check your spam folder."
+msgstr "Wir haben eine Verifizierungs-Mail an deine email-Adresse gesendet. Um die Registrierung abzuschließen, klicke bitte den Bestätigungslink in der email an. emails werden typischerweise sofort versendet. Falls du die email auch nach einer Stunde noch nicht erhalten hast, überprüfe bitte zunächst deinen Spam-Ordner."
 
 #. i18n: keyword: VerificationEmailFailureTitle
 msgid "Invalid Verification"
@@ -206,8 +206,8 @@ msgid "Please verify your email address to continue."
 msgstr ""
 
 #. i18n: keyword: E_EMAIL_VERIFIED
-msgid "Your e-mail has already been verified."
-msgstr "Deine E-Mail wurde bereits verifiziert."
+msgid "Your email has already been verified."
+msgstr "Deine email wurde bereits verifiziert."
 
 #. i18n: keyword: EmailStatusNotVerified
 msgid "Not Verified"
@@ -223,7 +223,7 @@ msgstr "Verifizierung erfolgreich"
 
 #. i18n: keyword: RegistrationCompleteDescription
 msgid "Thanks for verifying your email.</p><p>You’re good to go! You can now return to your game and play online. If you have suggestions, feedback or need support during the beta, head over to the Klei community forum."
-msgstr "Vielen Dank für die Verifizierung deiner E-Mail-Adresse.</p><p>SDu kannst jetzt loslegen! Du kannst nun zum Spiel zurückkehren und online spielen. Für Vorschläge, Feedback während einer Beta, oder falls du Support benötigst, nutze bitte das Klei Community Forum."
+msgstr "Vielen Dank für die Verifizierung deiner email-Adresse.</p><p>SDu kannst jetzt loslegen! Du kannst nun zum Spiel zurückkehren und online spielen. Für Vorschläge, Feedback während einer Beta, oder falls du Support benötigst, nutze bitte das Klei Community Forum."
 
 #. i18n: keyword: VisitCommunityForum
 msgid "Visit Klei Community Forum"
@@ -255,7 +255,7 @@ msgstr "Abonniere..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr "Erhalte aktuelle Neuigkeiten für {{.GameName}}. Wir senden nicht viele E-Mails, aber wenn, dann lohnt es sich! Du kannst dich problemlos über einen Link in der Fußzeile jeder versendeten Mail wieder abmelden. Für weitere aktuelle Neuigkeiten folge uns auch auf Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> und besuche unser offizielles <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}} Forum</a>!"
+msgstr "Erhalte aktuelle Neuigkeiten für {{.GameName}}. Wir senden nicht viele emails, aber wenn, dann lohnt es sich! Du kannst dich problemlos über einen Link in der Fußzeile jeder versendeten Mail wieder abmelden. Für weitere aktuelle Neuigkeiten folge uns auch auf Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> und besuche unser offizielles <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}} Forum</a>!"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
@@ -263,7 +263,7 @@ msgstr "Abonnement erfolgreich"
 
 #. i18n: keyword: SubscribeCompleteDescription
 msgid "Your email subscription has been processed. If this is the first time you subscribe to one of our newsletters, you will receive a confirmation email."
-msgstr "DEine E-Mail Anmeldung wurde ausgeführt. Wenn dies die erste Anmeldung zu einem unserer Newsletter ist, wirst du eine Bestätigungs-Mail erhalten."
+msgstr "DEine email Anmeldung wurde ausgeführt. Wenn dies die erste Anmeldung zu einem unserer Newsletter ist, wirst du eine Bestätigungs-Mail erhalten."
 
 #. i18n: keyword: UserInfo
 msgid "User Info"
@@ -301,9 +301,13 @@ msgstr ""
 msgid "Edit Subscriptions"
 msgstr "Abonnements bearbeiten"
 
+#. i18n: keyword: LearnMore
+msgid "Learn More"
+msgstr ""
+
 #. i18n: keyword: UnsubscribeFromEmails
-msgid "Unsubscribe from E-mails"
-msgstr "Von E-Mails abmelden"
+msgid "Unsubscribe from emails"
+msgstr "Von emails abmelden"
 
 #. i18n: keyword: SignupForABeta
 msgid "Sign up for a Beta"
@@ -347,14 +351,42 @@ msgstr "Bestätigen und Fortfahren"
 
 #. i18n: keyword: ChangeEmail
 msgid "Change Email"
-msgstr "E-Mail-Adresse bearbeiten"
+msgstr "email-Adresse bearbeiten"
 
 #. i18n: keyword: ChangeEmailDescription
-msgid "This is the email address we will use to send you updates & news regarding your account or games."
-msgstr "Dies ist die E-Mail-Adresse, an die wir Updates & Neuigkeiten bezüglich deines Accounts oder deinen Spielen versenden."
+msgid "This is the email associated with this account. It is what we use for important system alerts and account support."
+msgstr "Dies ist die email-Adresse, an die wir Updates & Neuigkeiten bezüglich deines Accounts oder deinen Spielen versenden."
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "We have sent a verification code to your new email address to authorize the change."
+msgstr ""
+
+#. i18n: keyword: Profile
+msgid "Profile"
+msgstr ""
+
+#. i18n: keyword: Birthday
+msgid "Birthday"
+msgstr ""
+
+#. i18n: keyword: Month
+msgid "Month"
+msgstr ""
+
+#. i18n: keyword: Year
+msgid "Year"
+msgstr ""
+
+#. i18n: keyword: ChangeBirthday
+msgid "Change Birthday"
+msgstr ""
+
+#. i18n: keyword: ChangeBirthdayDescription
+msgid "To comply with ESRB and PEGI communication standards, we are required to know your age to ensure we are sending only age appropriate content."
+msgstr ""
+
+#. i18n: keyword: ChangeBirthdayDone
+msgid "Birthday successfully changed!"
 msgstr ""
 
 #. i18n: keyword: Inventory
@@ -377,17 +409,21 @@ msgstr "Inventar wurde unsichtbar gemacht"
 msgid "Marketing Options"
 msgstr "Marketing-Einstellungen"
 
+#. i18n: keyword: MarketingRequiresBirthday
+msgid "To edit marketing options, please set your birthday (in Profile)"
+msgstr ""
+
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
 msgstr "Verwende  diese Optionen um deine Newsletter-Abonnements zu konfigurieren. Vergiss nicht, du kannst dich jederzeit wieder abmelden."
 
 #. i18n: keyword: MarketingOptionsUnsubscribe
 msgid "I do not want to receive marketing emails"
-msgstr "Ich möchte keine Marketing-E-Mails erhalten"
+msgstr "Ich möchte keine Marketing-emails erhalten"
 
 #. i18n: keyword: MarketingOptionsSubscribe
 msgid "I want to receive marketing emails (news, new games, promos, etc)"
-msgstr "Ich möchte Marketing-E-Mails erhalten (Neuigkeiten, neue Spiele, Ankündigungen, etc.)"
+msgstr "Ich möchte Marketing-emails erhalten (Neuigkeiten, neue Spiele, Ankündigungen, etc.)"
 
 #. i18n: keyword: MarketingOptionsDetails
 msgid "For more detailed information about each game, please select the boxes below:"
@@ -486,7 +522,7 @@ msgid "Account creation date"
 msgstr ""
 
 #. i18n: keyword: MergeAccountEmail
-msgid "Klei Account e-mail"
+msgid "Klei Account email"
 msgstr ""
 
 #. i18n: keyword: MergeAccountKeepThis
@@ -578,12 +614,12 @@ msgid "It is impossible to merge your accounts right now because some data is mi
 msgstr "Es ist zur Zeit nicht möglich, deine Accounts zusammenzuschließen, da noch einige Daten fehlen. Bitte melde dich ab und starte den Vorgang erneut. Stelle sicher, dass dein Webbrowser Cookies akzeptiert und dass die beiden Accounts, die du zusammenzuschließen möchtest, korrekt sind."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
-msgid "Please update your *Klei* accounts to use the same e-mail address and start the process again."
-msgstr "Bitte aktualisiere deine *Klei*-Accounts, so dass diese dieselbe E-Mail-Adresse verwenden, und starte den Vorgang erneut."
+msgid "Please update your *Klei* accounts to use the same email address and start the process again."
+msgstr "Bitte aktualisiere deine *Klei*-Accounts, so dass diese dieselbe email-Adresse verwenden, und starte den Vorgang erneut."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid "Please verify/validate the e-mail address in both Klei Accounts and start the process again."
-msgstr "Bitte verifiziere die E-Mail-Adresse in beiden Accounts und starte den Vorgang erneut."
+msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
+msgstr "Bitte verifiziere die email-Adresse in beiden Accounts und starte den Vorgang erneut."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
@@ -751,7 +787,7 @@ msgstr "Account-Löschung verifizieren"
 
 #. i18n: keyword: VerifyAccountDeletionDescription
 msgid "We emailed you a verification code to confirm the deletion of your account, please copy the code, and paste it into the form below.</p><p>If you didn’t receive the verification code, click “Cancel”, make sure your email is correct, and start the process again.</p><p>If you didn’t request the deletion of your account, then someone else with access to your {{.PlatformName}} account did it on your behalf. Click “Cancel” to stop the process entirely, and then change the password of your {{.PlatformName}} account to prevent this from happening again."
-msgstr "Wir haben dir eine E-Mail mit einem Verifizierungscode zur Bestätigung der Löschung deines Accounts gesendet. Bitte kopiere den Code und füge ihn in das Feld unten ein.</p><p>Falls du keinen Verifizierungscode erhalten hast, klicke auf “Abbrechen”, stelle sicher, dass deine E-Mail korrekt ist, und starte den Vorgang erneut.</p><p>Falls du die Löschung deines Accounts nicht beantragt hast, dann hat dies jemand anderes mit Zugang zu deinem {{.PlatformName}}-Account getan. Klicke auf “Abbrechen”, um den Vorgang abzubrechen, und ändere dann bitte das Passwort zu deinem {{.PlatformName}}-Account, um zu verhindern, dass dies noch einmal geschieht."
+msgstr "Wir haben dir eine email mit einem Verifizierungscode zur Bestätigung der Löschung deines Accounts gesendet. Bitte kopiere den Code und füge ihn in das Feld unten ein.</p><p>Falls du keinen Verifizierungscode erhalten hast, klicke auf “Abbrechen”, stelle sicher, dass deine email korrekt ist, und starte den Vorgang erneut.</p><p>Falls du die Löschung deines Accounts nicht beantragt hast, dann hat dies jemand anderes mit Zugang zu deinem {{.PlatformName}}-Account getan. Klicke auf “Abbrechen”, um den Vorgang abzubrechen, und ändere dann bitte das Passwort zu deinem {{.PlatformName}}-Account, um zu verhindern, dass dies noch einmal geschieht."
 
 #. i18n: keyword: VerifyAccountDeletionCode
 msgid "Verification Code"
@@ -1233,6 +1269,10 @@ msgstr "Kosten"
 msgid "Redeem"
 msgstr "Einlösen"
 
+#. i18n: keyword: RewardItemReskins
+msgid "Reskins:"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
 msgstr "Reward Name:"
@@ -1439,22 +1479,22 @@ msgstr "Senden"
 
 #. i18n: keyword: E_ZENDESK_AUTH_PROBLEMS
 msgid "Could not authenticate you. Check your email address or register."
-msgstr "Wir konnten dich nicht authentifizieren. Bitte überprüfe deine E-Mail-Adresse oder registriere dich."
+msgstr "Wir konnten dich nicht authentifizieren. Bitte überprüfe deine email-Adresse oder registriere dich."
 
 #. i18n: keyword: E_ZENDESK_EMAIL_IS_MISSING
 msgid "Please <a href='/account/settings'>associate a valid email address to your account</a>. Otherwise, we will not be able to reply to your support request."
-msgstr "Bitte <a href='/account/settings'>verknüpfe  eine gültige E-Mail-Adresse mit deinem Account</a>. Andernfalls ist es uns nicht möglich, auf deine Support-Anfrage zu antworten."
+msgstr "Bitte <a href='/account/settings'>verknüpfe  eine gültige email-Adresse mit deinem Account</a>. Andernfalls ist es uns nicht möglich, auf deine Support-Anfrage zu antworten."
 
 #. i18n: keyword: E_ZENDESK_EMAIL_NOT_VERIFIED
 msgid "The support system is only open to players with a verified email address. Please go to “User Info”, and locate the “Verify” button under the “Preferences” panel."
-msgstr "Das Support-System ist nur für Spieler mit einer verifizierten E-Mail-Adresse verfügbar. Bitte gehe zu “Benutzer-Info” und verwende die Schaltfläche “Verifizieren” unter dem Abschnitt “Einstellungen”."
+msgstr "Das Support-System ist nur für Spieler mit einer verifizierten email-Adresse verfügbar. Bitte gehe zu “Benutzer-Info” und verwende die Schaltfläche “Verifizieren” unter dem Abschnitt “Einstellungen”."
 
 #. i18n: keyword: E_ZENDESK_COOLDOWN_TIME
 msgid "You already submitted a support request a few minutes ago. Please wait a few minutes to give us time to reply to you and other users."
 msgstr "Du hast bereits vor wenigen Minuten eine Support-Anfrage übermittelt. Bitte warte einige Minuten, um uns Zeit zu geben, dir und anderen Benutzern zu antworten."
 
 #. i18n: keyword: E_ZENDESK_USER_HAS_ALREADY_BEEN_TAKEN
-msgid "It looks like your e-mail address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
+msgid "It looks like your email address has already been used to create a support identifier with a different Klei account. We can not create duplicate support accounts, so you will need to log in using your secondary Klei account to send a support ticket."
 msgstr ""
 
 #. i18n: keyword: E_ZENDESK_INVALID_IAT_PARAMETER
@@ -1462,8 +1502,8 @@ msgid "There was a problem establish a secure connection between Klei Entertainm
 msgstr ""
 
 #. i18n: keyword: EmailAuthRequired
-msgid "Email Authentication Required. Please check your e-mail and click the authentication link."
-msgstr "E-Mail Authentifizierung erforderlich. Bitte überprüfe deine E-Mail und klicke auf den Authentifizierungslink."
+msgid "Email Authentication Required. Please check your email and click the authentication link."
+msgstr "email Authentifizierung erforderlich. Bitte überprüfe deine email und klicke auf den Authentifizierungslink."
 
 #. i18n: keyword: EnterDOB
 msgid "Please Enter Your Date of Birth"
@@ -1482,8 +1522,8 @@ msgid "Whoa There, Whipper-Snapper. You need to be 13 years of age or older to r
 msgstr "Hey da, Jungspund. Du musst 13 Jahre oder älter sein, um einen Account registrieren zu können."
 
 #. i18n: keyword: EmailInvalid
-msgid "Invalid Email. Please check that the e-mail address you entered is in the correct format. (Example name@email.com)"
-msgstr "Ungültige E-Mail. Bitte überprüfe, dass die E-Mail-Adresse im korrekten Format eingegeben wurde (z.B. name@email.com)."
+msgid "Invalid Email. Please check that the email address you entered is in the correct format. (Example name@email.com)"
+msgstr "Ungültige email. Bitte überprüfe, dass die email-Adresse im korrekten Format eingegeben wurde (z.B. name@email.com)."
 
 #. i18n: keyword: Error
 msgid "Error"
@@ -1494,8 +1534,8 @@ msgid "Create A New Account"
 msgstr "Neuen Account erstellen"
 
 #. i18n: keyword: EmailInfoText
-msgid "Your e-mail address will be used to manage your account. We will send a confirmation e-mail here as well."
-msgstr "Deine E-Mail-Adresse wird zur Verwaltung deines Accounts verwendet. Wir werden ebenfalls eine Bestätigungs-Mail an diese versenden."
+msgid "Your email address will be used to manage your account. We will send a confirmation email here as well."
+msgstr "Deine email-Adresse wird zur Verwaltung deines Accounts verwendet. Wir werden ebenfalls eine Bestätigungs-Mail an diese versenden."
 
 #. i18n: keyword: DOBInfoText
 msgid "Date of birth is required for age verification, security, and account recovery support."
@@ -1503,31 +1543,31 @@ msgstr "Das Geburtsdatum ist erforderlich für eine Altersverifizierung, Sicherh
 
 #. i18n: keyword: EmailNewsletterText
 msgid "Get emails for major announcements, events and promotions. You may change this setting later."
-msgstr "Erhalte E-Mails für größere Ankündigungen, Events und Promotionen. Du kannst diese Einstellung jederzeit ändern."
+msgstr "Erhalte emails für größere Ankündigungen, Events und Promotionen. Du kannst diese Einstellung jederzeit ändern."
 
 #. i18n: keyword: EULACheck
 msgid "Please review the EULA terms and agree by selecting the checkbox. You must agree with the EULA to continue."
 msgstr "Bitte lese unsere EULA und aktiviere das Bestätigungsfeld. Die EULA muss zum Fortfahren akzeptiert werden."
 
 #. i18n: keyword: ResendAccountInfo
-msgid "Re-send Account Activation E-mail"
-msgstr "E-Mail zur Account-Aktivierung erneut senden"
+msgid "Re-send Account Activation email"
+msgstr "email zur Account-Aktivierung erneut senden"
 
 #. i18n: keyword: AwaitingVerification
-msgid "Your account has been created previously, but is still awaiting e-mail verification.  Check your e-mail account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the e-mail."
-msgstr "Dein Account wurde bereits erstellt, benötigt jedoch noch eine E-Mail-Verifizierung. Überprüfe deinen E-Mail-Account bzgl. Nachrichten von noreply@kleientertainment.com und klicke auf den darin enthaltenen Bestätigungslink, um deine Account-Registrierung abzuschließen. Überprüfe bitte auch den Spam-Ordner, falls du die E-Mail nicht finden kannst."
+msgid "Your account has been created previously, but is still awaiting email verification.  Check your email account for a message sent from noreply@kleientertainment.com and click the verification link contained therein to complete your account registration.  Be sure to check your Spam or Junk folders if you can’t find the email."
+msgstr "Dein Account wurde bereits erstellt, benötigt jedoch noch eine email-Verifizierung. Überprüfe deinen email-Account bzgl. Nachrichten von noreply@kleientertainment.com und klicke auf den darin enthaltenen Bestätigungslink, um deine Account-Registrierung abzuschließen. Überprüfe bitte auch den Spam-Ordner, falls du die email nicht finden kannst."
 
 #. i18n: keyword: ResendVerification
-msgid "If you still can’t find the e-mail, you can complete the form below to have the verification e-mail re-sent.  You may use a different e-mail address. Please double-check it for accuracy!"
-msgstr "Falls du die E-Mail noch immer nicht finden kannst, nutze das untenstehende Formular, um die Verifizierungs-Mail erneut zu senden. Du kannst dabei eine andere E-Mail-Adresse verwenden. Bitte überprüfe die Korrektheit der Eingabe!"
+msgid "If you still can’t find the email, you can complete the form below to have the verification email re-sent.  You may use a different email address. Please double-check it for accuracy!"
+msgstr "Falls du die email noch immer nicht finden kannst, nutze das untenstehende Formular, um die Verifizierungs-Mail erneut zu senden. Du kannst dabei eine andere email-Adresse verwenden. Bitte überprüfe die Korrektheit der Eingabe!"
 
 #. i18n: keyword: LoadingSteamProfile
 msgid "Loading Steam Profile…"
 msgstr "Lade Steam-Profil…"
 
 #. i18n: keyword: AOLNote
-msgid "NOTE: At this time AOL e-mail addresses are experiencing issues receiving validation emails. If you are using an @aol e-mail address, you may not receive your confirmation e-mail until this issue is resolved. We recommend using an e-mail address from another provider."
-msgstr "HINWEIS: Zur Zeit gibt es Probleme bei AOL E-Mail-Adressen, die Validierungs-Mails zu erhalten. Falls du eine @aol E-Mail-Adresse verwendest, kann es sein, dass du die Validierungs-Mail nicht erhälst bis die Probleme gelöst sind. Wir empfehlen die Verwendung einer E-Mail-Adresse eines anderen Anbieters."
+msgid "NOTE: At this time AOL email addresses are experiencing issues receiving validation emails. If you are using an @aol email address, you may not receive your confirmation email until this issue is resolved. We recommend using an email address from another provider."
+msgstr "HINWEIS: Zur Zeit gibt es Probleme bei AOL email-Adressen, die Validierungs-Mails zu erhalten. Falls du eine @aol email-Adresse verwendest, kann es sein, dass du die Validierungs-Mail nicht erhälst bis die Probleme gelöst sind. Wir empfehlen die Verwendung einer email-Adresse eines anderen Anbieters."
 
 #. i18n: keyword: DOBUsage
 msgid "Date of birth (to verify your age)"
@@ -1574,8 +1614,8 @@ msgid "The authentication information provided did not match an existing account
 msgstr "Die eingegebenen Authentifizierungsdaten stimmen mit keinem bestehenden Account überein."
 
 #. i18n: keyword: E_EMAIL_IN_USE
-msgid "The e-mail address is already being used."
-msgstr "Die E-Mail-Adresse wird bereits verwendet."
+msgid "The email address is already being used."
+msgstr "Die email-Adresse wird bereits verwendet."
 
 #. i18n: keyword: E_FAILED_SENDING_EMAIL
 msgid "There was a problem on the mail server. Please try again later."
@@ -1606,11 +1646,11 @@ msgid "The user name chosen contained invalid characters."
 msgstr "Der gewählte Benutzername enthält ungültige Zeichen."
 
 #. i18n: keyword: E_INVALID_EMAIL
-msgid "The e-mail address is not valid. Please check that you entered it correctly."
-msgstr "Die E-Mail-Adresse ist ungültig. Bitte überprüfe, dass diese korrekt eingegeben wurde."
+msgid "The email address is not valid. Please check that you entered it correctly."
+msgstr "Die email-Adresse ist ungültig. Bitte überprüfe, dass diese korrekt eingegeben wurde."
 
 #. i18n: keyword: E_INVALID_EMAIL_BY_MAILGUN
-msgid "Your e-mail address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different e-mail address."
+msgid "Your email address is valid. However, the third-party service that we use to send messages has blacklisted you, which means we will not be able to send verification codes, newsletters, promotions, announcements, and any other type of electronic message. Your Klei account will remain unverified, and you will lose access to some features, but you can still play our games. To fix this problem, you need to input a different email address."
 msgstr ""
 
 #. i18n: keyword: E_INVALID_PASSWORD
@@ -1710,16 +1750,16 @@ msgid "There’s not enough data to execute this action."
 msgstr "Es sind nicht genügend Daten vorhanden, um diese Aktion durchzuführen."
 
 #. i18n: keyword: E_MISSING_FIELD
-msgid "You must provide a Steam ID, user name, or e-mail address."
-msgstr "Du musst eine Steam-ID, Benutzername, oder E-Mail-Adresse eintragen."
+msgid "You must provide a Steam ID, user name, or email address."
+msgstr "Du musst eine Steam-ID, Benutzername, oder email-Adresse eintragen."
 
 #. i18n: keyword: E_MUST_VALIDATE_EMAIL
-msgid "The account has already been created, but is awaiting validation.  Check your e-mail."
-msgstr "Der Account wurde bereits erstellt, aber benötigt noch eine Validierung. Bitte überprüfe deine E-Mails."
+msgid "The account has already been created, but is awaiting validation.  Check your email."
+msgstr "Der Account wurde bereits erstellt, aber benötigt noch eine Validierung. Bitte überprüfe deine emails."
 
 #. i18n: keyword: E_EMAIL_ALREADY_SET
 msgid "The account already has an email set."
-msgstr "Für diesen Account wurde bereits eine E-Mail eingegeben."
+msgstr "Für diesen Account wurde bereits eine email eingegeben."
 
 #. i18n: keyword: E_NO_AUTH
 msgid "No authentication mechanism provided"
@@ -1739,7 +1779,7 @@ msgstr "Es wurde keine Anfrage zur Änderung des Passworts für deinen Account e
 
 #. i18n: keyword: E_NOT_FOUND
 msgid "DisplayName / Email not found"
-msgstr "DisplayName / E-mail nicht vorhanden"
+msgstr "DisplayName / email nicht vorhanden"
 
 #. i18n: keyword: E_PASSWORD_RESET_CODE_EXPIRED
 msgid "This password change request has expired. Please make a new request if you still require a new password."
