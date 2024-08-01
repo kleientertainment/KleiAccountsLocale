@@ -820,8 +820,44 @@ msgstr ""
 msgid "Downloading Data..."
 msgstr ""
 
+#. i18n: keyword: AmbassadorTitle
+msgid "Ambassador"
+msgstr ""
+
 #. i18n: keyword: AmbassadorProgram
 msgid "Ambassador Program"
+msgstr ""
+
+#. i18n: keyword: AmbassadorRewardRedeem
+msgid "Redeem"
+msgstr ""
+
+#. i18n: keyword: AmbassadorDescription
+msgid "Redeem ambassador rewards"
+msgstr ""
+
+#. i18n: keyword: AmbassadorPointsGlossary
+msgid "Ambassador Points are used to redeem skins and codes"
+msgstr ""
+
+#. i18n: keyword: AmbassadorPoints
+msgid "Ambassador Points"
+msgstr ""
+
+#. i18n: keyword: AmbassadorTiersGlossary
+msgid "Higher Ambassador Tiers get you more points"
+msgstr ""
+
+#. i18n: keyword: AmbassadorTier
+msgid "Ambassador Tier"
+msgstr ""
+
+#. i18n: keyword: AmbassadorTier
+msgid "Ambassador Tier"
+msgstr ""
+
+#. i18n: keyword: AmbassadorRewardCost
+msgid "Cost"
 msgstr ""
 
 #. i18n: keyword: AmbassadorProgramShortDescription
