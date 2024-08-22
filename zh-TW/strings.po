@@ -1113,6 +1113,18 @@ msgstr "持續關注動態並獲得遊戲內獎勵，我們會不時添加新的
 msgid "Reward"
 msgstr "獎勵"
 
+#. i18n: keyword: GiftCodeRedeemTitle
+msgid "Redeem a Gift Code"
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemDesc
+msgid "If you have an item key or gift code, you can redeem it below."
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemButton
+msgid "Redeem Code"
+msgstr ""
+
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
 msgstr "兌換"
