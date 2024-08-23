@@ -1113,6 +1113,18 @@ msgstr "Bleibe auf dem Laufenden und verdiene Ingame-Belohnungen. Wir werden von
 msgid "Reward"
 msgstr "Belohnung"
 
+#. i18n: keyword: GiftCodeRedeemTitle
+msgid "Redeem a Gift Code"
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemDesc
+msgid "If you have an item key or gift code, you can redeem it below."
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemButton
+msgid "Redeem Code"
+msgstr ""
+
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
 msgstr "Belohnung einlösen"

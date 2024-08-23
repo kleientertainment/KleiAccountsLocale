@@ -1113,6 +1113,18 @@ msgstr "Hãy cập nhật thường xuyên và giành những phần thường t
 msgid "Reward"
 msgstr "Phần thưởng"
 
+#. i18n: keyword: GiftCodeRedeemTitle
+msgid "Redeem a Gift Code"
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemDesc
+msgid "If you have an item key or gift code, you can redeem it below."
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemButton
+msgid "Redeem Code"
+msgstr ""
+
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
 msgstr "Nhận phần thưởng"

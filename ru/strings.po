@@ -363,31 +363,31 @@ msgstr "Мы отправили код проверки на новый адре
 
 #. i18n: keyword: Profile
 msgid "Profile"
-msgstr ""
+msgstr "Профиль"
 
 #. i18n: keyword: Birthday
 msgid "Birthday"
-msgstr ""
+msgstr "Дата рождения"
 
 #. i18n: keyword: Month
 msgid "Month"
-msgstr ""
+msgstr "Месяц"
 
 #. i18n: keyword: Year
 msgid "Year"
-msgstr ""
+msgstr "Год"
 
 #. i18n: keyword: ChangeBirthday
 msgid "Change Birthday"
-msgstr ""
+msgstr "Изменить дату рождения"
 
 #. i18n: keyword: ChangeBirthdayDescription
 msgid "To comply with ESRB and PEGI communication standards, we are required to know your age to ensure we are sending only age appropriate content."
-msgstr ""
+msgstr "Чтобы соответствовать коммуникационным стандартам ESRB и PEGI, нам нужно знать ваш возраст, чтобы быть уверенными, что мы отправляем только соответствующий возрасту контент."
 
 #. i18n: keyword: ChangeBirthdayDone
 msgid "Birthday successfully changed!"
-msgstr ""
+msgstr "Дата рождения успешно изменена!"
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -411,7 +411,7 @@ msgstr "Маркетинговые рассылки"
 
 #. i18n: keyword: MarketingRequiresBirthday
 msgid "To edit marketing options, please set your birthday (in Profile)"
-msgstr ""
+msgstr "Чтобы изменить параметры, пожалуйста, укажите дату своего рождения (в профиле)"
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
@@ -1113,6 +1113,18 @@ msgstr "Будьте в курсе и зарабатывайте внутрии�
 msgid "Reward"
 msgstr "Награда"
 
+#. i18n: keyword: GiftCodeRedeemTitle
+msgid "Redeem a Gift Code"
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemDesc
+msgid "If you have an item key or gift code, you can redeem it below."
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemButton
+msgid "Redeem Code"
+msgstr ""
+
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
 msgstr "Забрать"
@@ -1271,7 +1283,7 @@ msgstr "Получить"
 
 #. i18n: keyword: RewardItemReskins
 msgid "Reskins:"
-msgstr ""
+msgstr "Меняет внешний вид предмета "
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
