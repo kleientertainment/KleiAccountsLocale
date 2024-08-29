@@ -453,6 +453,26 @@ msgstr ""
 msgid "Unlink Discord Account"
 msgstr ""
 
+#. i18n: keyword: LinkYoutubeTitle
+msgid "Link YouTube Channel"
+msgstr ""
+
+#. i18n: keyword: LinkYoutubeDescription
+msgid "This will link your YouTube Channel to your Klei Account."
+msgstr ""
+
+#. i18n: keyword: UnlinkYoutubeTitle
+msgid "Unlink YouTube Channel"
+msgstr ""
+
+#. i18n: keyword: LinkAccountsTitle
+msgid "Link Accounts"
+msgstr ""
+
+#. i18n: keyword: LinkAccountsDescription
+msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, YouTube, and Discord."
+msgstr ""
+
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
 msgstr "合併帳號"
@@ -465,17 +485,17 @@ msgstr ""
 msgid "Continue"
 msgstr "繼續"
 
-#. i18n: keyword: MergeAccountConnectedTitle
-msgid "Connected"
-msgstr "已連結"
+#. i18n: keyword: ProviderConnectedTitle
+msgid "Account Linked"
+msgstr ""
 
-#. i18n: keyword: MergeAccountConnectedID
-msgid "ID:"
-msgstr "ID："
+#. i18n: keyword: ProviderConnectedID
+msgid "External account ID:"
+msgstr ""
 
-#. i18n: keyword: MergeAccountNotConnected
+#. i18n: keyword: ProviderNotConnected
 msgid "Not connected"
-msgstr "未連結"
+msgstr ""
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -809,6 +829,26 @@ msgstr ""
 msgid "We can arrange for a report of your account details as controlled by Klei."
 msgstr ""
 
+#. i18n: keyword: AmbassadorProgram
+msgid "Ambassador Program"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramShortDescription
+msgid "As a content creator, you can apply for the Klei Ambassador program here."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramDescription
+msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Ambassador program. Once your application is sent, please give us some time to review it."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramApplyButton
+msgid "Apply"
+msgstr ""
+
+#. i18n: keyword: MoreInfo
+msgid "More Info"
+msgstr ""
+
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
 msgstr ""
@@ -819,6 +859,70 @@ msgstr ""
 
 #. i18n: keyword: DownloadingData
 msgid "Downloading Data..."
+msgstr ""
+
+#. i18n: keyword: AmbassadorTitle
+msgid "Ambassador"
+msgstr ""
+
+#. i18n: keyword: AmbassadorRewardRedeem
+msgid "Redeem"
+msgstr ""
+
+#. i18n: keyword: AmbassadorDescription
+msgid "Redeem ambassador rewards"
+msgstr ""
+
+#. i18n: keyword: AmbassadorPointsGlossary
+msgid "Ambassador Points are used to redeem skins and codes"
+msgstr ""
+
+#. i18n: keyword: AmbassadorPoints
+msgid "Ambassador Points"
+msgstr ""
+
+#. i18n: keyword: AmbassadorTiersGlossary
+msgid "Higher Ambassador Tiers get you more points"
+msgstr ""
+
+#. i18n: keyword: AmbassadorTier
+msgid "Ambassador Tier"
+msgstr ""
+
+#. i18n: keyword: AmbassadorRewardCost
+msgid "Cost"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramPleaseLinkAccount
+msgid "Please link at least one external account."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramRequirementsNotMet
+msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramRequirementsMet
+msgid "You qualify for the ambassador program!"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramTellUsAboutYourself
+msgid "Please tell us a bit about yourself:"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramApplySuccess
+msgid "Your application was submitted! It will be reviewed soon."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramApproved
+msgid "Your application has been approved and you're now a Klei Ambassador!"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramRejected
+msgid "Your last application has been denied. You can try again in <b>{{ .Data.CooldownDays }} days</b>."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramPending
+msgid "You have already submitted an application, it is currently being reviewed."
 msgstr ""
 
 #. i18n: keyword: MyGames
@@ -2020,6 +2124,10 @@ msgstr "您的 Klei 帳號已與 Twitter 斷開連接，如果您認為仍然連
 #. i18n: keyword: E_GOOGLE_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "您的 Klei 帳號已與 Google 斷開連接。 如果您認為仍然連接著，請 <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>訪問您的 Google 個人資料</a> 並手動斷開「Klei Accounts」應用程式。"
+
+#. i18n: keyword: E_GOOGLE_NO_YOUTUBE_CHANNEL
+msgid "This Google account has no YouTube channel associated with it."
+msgstr ""
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."

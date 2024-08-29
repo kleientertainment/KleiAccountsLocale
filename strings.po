@@ -465,6 +465,14 @@ msgstr ""
 msgid "Unlink YouTube Channel"
 msgstr ""
 
+#. i18n: keyword: LinkAccountsTitle
+msgid "Link Accounts"
+msgstr ""
+
+#. i18n: keyword: LinkAccountsDescription
+msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, YouTube, and Discord."
+msgstr ""
+
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
 msgstr ""
