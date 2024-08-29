@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2023-10-19 16:57-0300\n"
+"PO-Revision-Date: 2024-05-11 13:38-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -303,7 +303,7 @@ msgstr "Editar Assinaturas"
 
 #. i18n: keyword: LearnMore
 msgid "Learn More"
-msgstr ""
+msgstr "Saber Mais"
 
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
@@ -361,6 +361,34 @@ msgstr "Este é o endereço de email que usaremos para enviar atualizações e n
 msgid "We have sent a verification code to your new email address to authorize the change."
 msgstr "Enviamos um código de verificação para seu novo endereço de email para autorizar a alteração."
 
+#. i18n: keyword: Profile
+msgid "Profile"
+msgstr "Perfil"
+
+#. i18n: keyword: Birthday
+msgid "Birthday"
+msgstr "Dia de Nascimento"
+
+#. i18n: keyword: Month
+msgid "Month"
+msgstr "Mês"
+
+#. i18n: keyword: Year
+msgid "Year"
+msgstr "Ano"
+
+#. i18n: keyword: ChangeBirthday
+msgid "Change Birthday"
+msgstr "Alterar Data de Nascimento"
+
+#. i18n: keyword: ChangeBirthdayDescription
+msgid "To comply with ESRB and PEGI communication standards, we are required to know your age to ensure we are sending only age appropriate content."
+msgstr "Para cumprir os padrões de comunicação ESRB e PEGI, nós precisamos a saber a sua idade para garantir que enviaremos apenas conteúdo adequado."
+
+#. i18n: keyword: ChangeBirthdayDone
+msgid "Birthday successfully changed!"
+msgstr "Data de Nascimento alterada com sucesso!"
+
 #. i18n: keyword: Inventory
 msgid "Inventory"
 msgstr "Inventário"
@@ -380,6 +408,10 @@ msgstr "O inventário foi ocultado"
 #. i18n: keyword: MarketingOptions
 msgid "Marketing Options"
 msgstr "Opções de Marketing"
+
+#. i18n: keyword: MarketingRequiresBirthday
+msgid "To edit marketing options, please set your birthday (in Profile)"
+msgstr "Para editar as opções de marketing, defina sua data de nascimento (no Perfil)"
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
@@ -1081,6 +1113,18 @@ msgstr "Mantenha-se atualizado e ganhe recompensas no jogo. Estaremos adicionand
 msgid "Reward"
 msgstr "Recompensa"
 
+#. i18n: keyword: GiftCodeRedeemTitle
+msgid "Redeem a Gift Code"
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemDesc
+msgid "If you have an item key or gift code, you can redeem it below."
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemButton
+msgid "Redeem Code"
+msgstr ""
+
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
 msgstr "Resgatar recompensa"
@@ -1236,6 +1280,10 @@ msgstr "Preço"
 #. i18n: keyword: RewardItemReedem
 msgid "Redeem"
 msgstr "Resgatar"
+
+#. i18n: keyword: RewardItemReskins
+msgid "Reskins:"
+msgstr "Reskins:"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"

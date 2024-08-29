@@ -361,6 +361,34 @@ msgstr "Addresse de courriel où vous recevrez les nouveautés à propos de votr
 msgid "We have sent a verification code to your new email address to authorize the change."
 msgstr "Nous avons envoyé un code de vérification à votre nouvelle adresse courriel pour autoriser le changement."
 
+#. i18n: keyword: Profile
+msgid "Profile"
+msgstr ""
+
+#. i18n: keyword: Birthday
+msgid "Birthday"
+msgstr ""
+
+#. i18n: keyword: Month
+msgid "Month"
+msgstr ""
+
+#. i18n: keyword: Year
+msgid "Year"
+msgstr ""
+
+#. i18n: keyword: ChangeBirthday
+msgid "Change Birthday"
+msgstr ""
+
+#. i18n: keyword: ChangeBirthdayDescription
+msgid "To comply with ESRB and PEGI communication standards, we are required to know your age to ensure we are sending only age appropriate content."
+msgstr ""
+
+#. i18n: keyword: ChangeBirthdayDone
+msgid "Birthday successfully changed!"
+msgstr ""
+
 #. i18n: keyword: Inventory
 msgid "Inventory"
 msgstr "Inventaire"
@@ -380,6 +408,10 @@ msgstr "L'inventaire est masqué"
 #. i18n: keyword: MarketingOptions
 msgid "Marketing Options"
 msgstr "Options de Marketing"
+
+#. i18n: keyword: MarketingRequiresBirthday
+msgid "To edit marketing options, please set your birthday (in Profile)"
+msgstr ""
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
@@ -1081,6 +1113,18 @@ msgstr "Restez à jour et gagnez des récompenses dans le jeu. Nous ajouterons d
 msgid "Reward"
 msgstr "Récompense"
 
+#. i18n: keyword: GiftCodeRedeemTitle
+msgid "Redeem a Gift Code"
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemDesc
+msgid "If you have an item key or gift code, you can redeem it below."
+msgstr ""
+
+#. i18n: keyword: GiftCodeRedeemButton
+msgid "Redeem Code"
+msgstr ""
+
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
 msgstr "Demandez une récompense"
@@ -1236,6 +1280,10 @@ msgstr "Coût"
 #. i18n: keyword: RewardItemReedem
 msgid "Redeem"
 msgstr "Échanger"
+
+#. i18n: keyword: RewardItemReskins
+msgid "Reskins:"
+msgstr ""
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
