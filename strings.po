@@ -844,6 +844,10 @@ msgstr ""
 msgid "Apply"
 msgstr ""
 
+#. i18n: keyword: Limit
+msgid "Limit"
+msgstr ""
+
 #. i18n: keyword: MoreInfo
 msgid "More Info"
 msgstr ""
