@@ -949,7 +949,7 @@ msgid "You have already submitted an application, it is currently being reviewed
 msgstr ""
 
 #. i18n: keyword: AmbassadorRewardClaimed
-msgid "Successfully Claimed! An email has been sent to {{ .Data.Email }} with your codes."
+msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
 msgstr ""
 
 #. i18n: keyword: MoreInfo
