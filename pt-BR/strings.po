@@ -2217,6 +2217,14 @@ msgstr "Esta transação já foi revertida."
 msgid "This transaction cannot be rolled back."
 msgstr "Esta transação não pode ser revertida."
 
+#. i18n: keyword: E_USER_NOT_QUALIFIED_FOR_AMBASSADOR
+msgid "You currently do not meet the requirements for application to the Ambassador Program."
+msgstr ""
+
+#. i18n: keyword: E_AMBASSADOR_INVALID_SELF_DESCRIPTION
+msgid "The self description field was either empty or exceeded the max character count."
+msgstr ""
+
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
 msgstr "${dropInfo.GameName} drops recebidos"
