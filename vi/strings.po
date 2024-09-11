@@ -833,16 +833,48 @@ msgstr ""
 msgid "Ambassador Program"
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramShortDescription
-msgid "As a content creator, you can apply for the Klei Ambassador program here."
+#. i18n: keyword: AmbassadorProgramInfoHeader
+msgid "Ambassador Program Info and Consent"
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramDescription
-msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Ambassador program. Once your application is sent, please give us some time to review it."
+#. i18n: keyword: AmbassadorProgramInfoDescription
+msgid "Thank you for your interest in the Klei Ambassador Program.<p>The Klei Ambassador Program is intended to provide a way for us to thank content creators for their support by helping them engage with their fans when creating content centered around our games.</p><p>This program is intended for creators of all sizes; however, to maintain the program's intention, we ask that creators be reasonably established in the community before participating.</p><p>For more general information about the Ambassador Program and what it offers, please check out our <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>article here</a>.</p>"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoConsent
+msgid "If you would like to apply, please confirm the following."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoConsentItem1
+msgid "You understand that benefits provided by the Ambassador Program are not guaranteed and may be discontinued at any time."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoConsentItem2
+msgid "You understand that participation in the Ambassador Program is not an endorsement nor does it constitute a business relationship with Klei Entertainment."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoConsentItem3
+msgid "You understand that you are to remain a community member in good standing and while not bound by Klei’s Community Guidelines, you will act in good faith with other community members and Ambassadors."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoConsentItem4
+msgid "Klei expects nothing in return as a member of the program. However, we do expect members to act in good faith and may remove benefits from the program if we believe the program is being misused or your behavior is harmful to the community."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramSignupInfo
+msgid "When you sign up, we will review your application. If approved, you will be added to our program and provided a link to the Ambassador Discord server where you can find additional information about the program."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramSignupAgree
+msgid "I understand and agree. I would like to sign-up."
 msgstr ""
 
 #. i18n: keyword: AmbassadorProgramApplyButton
-msgid "Apply"
+msgid "Sign up"
+msgstr ""
+
+#. i18n: keyword: Limit
+msgid "Limit"
 msgstr ""
 
 #. i18n: keyword: MoreInfo
@@ -893,6 +925,14 @@ msgstr ""
 msgid "Cost"
 msgstr ""
 
+#. i18n: keyword: AmbassadorProgramShortDescription
+msgid "As a content creator, you can apply for the Klei Ambassador program here."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramDescription
+msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Ambassador program. Once your application is sent, please give us some time to review it."
+msgstr ""
+
 #. i18n: keyword: AmbassadorProgramPleaseLinkAccount
 msgid "Please link at least one external account."
 msgstr ""
@@ -923,6 +963,10 @@ msgstr ""
 
 #. i18n: keyword: AmbassadorProgramPending
 msgid "You have already submitted an application, it is currently being reviewed."
+msgstr ""
+
+#. i18n: keyword: AmbassadorRewardClaimed
+msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
 msgstr ""
 
 #. i18n: keyword: MyGames
