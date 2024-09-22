@@ -1115,15 +1115,15 @@ msgstr "Награда"
 
 #. i18n: keyword: GiftCodeRedeemTitle
 msgid "Redeem a Gift Code"
-msgstr ""
+msgstr "Активировать подарочный код"
 
 #. i18n: keyword: GiftCodeRedeemDesc
 msgid "If you have an item key or gift code, you can redeem it below."
-msgstr ""
+msgstr "Если у вас есть ключ к предмету или подарочный код, вы можете активировать его ниже."
 
 #. i18n: keyword: GiftCodeRedeemButton
 msgid "Redeem Code"
-msgstr ""
+msgstr "Активировать код"
 
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
