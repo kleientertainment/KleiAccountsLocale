@@ -485,6 +485,10 @@ msgstr ""
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
 msgstr ""
 
+#. i18n: keyword: MergeAutoMergeInto
+msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click each checkbox to confirm that you have read and understand the following."
 msgstr ""
