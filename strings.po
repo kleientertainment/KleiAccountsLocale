@@ -876,6 +876,10 @@ msgstr ""
 msgid "Limit"
 msgstr ""
 
+#. i18n: keyword: Available
+msgid "Available"
+msgstr ""
+
 #. i18n: keyword: MoreInfo
 msgid "More Info"
 msgstr ""
