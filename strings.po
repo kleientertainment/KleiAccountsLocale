@@ -869,7 +869,7 @@ msgid "I understand and agree. I would like to sign-up."
 msgstr ""
 
 #. i18n: keyword: AmbassadorProgramApplyButton
-msgid "Sign up"
+msgid "Apply"
 msgstr ""
 
 #. i18n: keyword: Limit
