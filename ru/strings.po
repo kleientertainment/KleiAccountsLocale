@@ -485,6 +485,14 @@ msgstr "Этот процесс позволит одной учётной за�
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
 msgstr "Пожалуйста, выберите учётную запись, которую вы хотите сохранить. <b>Вы потеряете свой игровой прогресс на другой учётной записи.</b>"
 
+#. i18n: keyword: MergeAutoMergeInto
+msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
+msgstr ""
+
+#. i18n: keyword: MergeAutoNoEmail
+msgid "Email not linked"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
 msgstr "Пожалуйста, нажмите на флажок, чтобы подтвердить, что вы прочитали и поняли следующее."
@@ -492,6 +500,10 @@ msgstr "Пожалуйста, нажмите на флажок, чтобы по�
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
 msgstr "Вопросы о согласии"
+
+#. i18n: keyword: MergeConsent
+msgid "Consent"
+msgstr ""
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -512,6 +524,10 @@ msgstr "Успешное объединение учётных записей"
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
 msgstr "Операция объединения учётных записей прошла успешно.</p><p>Мы сбросили ваш сеанс, чтобы вы могли войти с новой учётной записью.</p><p>Если вы объединили учётные записи Epic Games и Steam и у вас есть Griftlands на одной из этих платформ, она будет предоставлена вам и на другой платформе.</p><p>Помните, что вам нужно <strong>запустить игру хотя бы один раз</strong>, чтобы мы могли её обнаружить."
+
+#. i18n: keyword: MergeAccountSuccessShortDescription
+msgid "The account merge operation was a success!"
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -596,6 +612,10 @@ msgstr "Продолжить объединение"
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
 msgstr "Ваша учётная запись в процессе объединения <b>{{ .Data.SourceKU }}</b> в <b>{{ .Data.DestinationKU }}</b>, вы не сможете войти в систему, пока объединение не будет завершено.<br>Нажмите кнопку ниже, чтобы продолжить объединение."
+
+#. i18n: keyword: ContinueMergeShortDescription
+msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
+msgstr ""
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -1396,6 +1416,10 @@ msgstr "Имя пользователя WeGame"
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
 msgstr "Имя пользователя Nintendo"
+
+#. i18n: keyword: LP_NETFLIX_Username
+msgid "Netflix username"
+msgstr ""
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"

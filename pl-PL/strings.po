@@ -485,6 +485,14 @@ msgstr "Ten proces pozwoli na powiązanie jednego konta Klei z wieloma platforma
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
 msgstr "Wybierz konto które chcesz zachować. <b>Stracisz swój postęp w grze na innych kontach.</b>"
 
+#. i18n: keyword: MergeAutoMergeInto
+msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
+msgstr ""
+
+#. i18n: keyword: MergeAutoNoEmail
+msgid "Email not linked"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
 msgstr "Kliknij znacznik wyboru, aby potwierdzić, że przeczytałeś i rozumiesz poniższe informacje."
@@ -492,6 +500,10 @@ msgstr "Kliknij znacznik wyboru, aby potwierdzić, że przeczytałeś i rozumies
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
 msgstr "Pytania o zgodę"
+
+#. i18n: keyword: MergeConsent
+msgid "Consent"
+msgstr ""
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -512,6 +524,10 @@ msgstr "Udane połączenie kont"
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
 msgstr "Operacja łączenia kont zakończyła się sukcesem.</p><p>Wyczyściliśmy Twoją sesję, aby umożliwić Ci zalogowanie się na nowe konto.</p><p>Jeśli połączyłeś Epic i Steam oraz masz Griftlands zarówno z tych platform, zostanie przyznana również na innej platformie.</p><p>Pamiętaj, że musisz <strong>przynajmniej raz uruchomić grę</strong>, abyśmy mogli ją wykryć."
+
+#. i18n: keyword: MergeAccountSuccessShortDescription
+msgid "The account merge operation was a success!"
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -596,6 +612,10 @@ msgstr "Kontynuuj łączenie"
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
 msgstr "Twoje konto jest w trakcie łączenia <b>{{ .Data.SourceKU }}</b> z <b>{{ .Data.DestinationKU }}</b>, nie będziesz mógł się zalogować dopóki łączenie nie zostanie zakończone.<br>Kliknij poniższy przycisk, aby kontynuować łączenie."
+
+#. i18n: keyword: ContinueMergeShortDescription
+msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
+msgstr ""
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -1396,6 +1416,10 @@ msgstr "Nazwa WeGame"
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
 msgstr "Nazwa Nintendo"
+
+#. i18n: keyword: LP_NETFLIX_Username
+msgid "Netflix username"
+msgstr ""
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"

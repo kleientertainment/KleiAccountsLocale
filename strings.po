@@ -489,12 +489,20 @@ msgstr ""
 msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
 msgstr ""
 
+#. i18n: keyword: MergeAutoNoEmail
+msgid "Email not linked"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click each checkbox to confirm that you have read and understand the following."
 msgstr ""
 
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
+msgstr ""
+
+#. i18n: keyword: MergeConsent
+msgid "Consent"
 msgstr ""
 
 #. i18n: keyword: ConfirmOperation
@@ -515,6 +523,10 @@ msgstr ""
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
+msgstr ""
+
+#. i18n: keyword: MergeAccountSuccessShortDescription
+msgid "The account merge operation was a success!"
 msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
@@ -598,6 +610,10 @@ msgstr ""
 
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
+msgstr ""
+
+#. i18n: keyword: ContinueMergeShortDescription
+msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
 msgstr ""
 
 #. i18n: keyword: ContinueMergeButton
@@ -1398,6 +1414,10 @@ msgstr ""
 
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
+msgstr ""
+
+#. i18n: keyword: LP_NETFLIX_Username
+msgid "Netflix username"
 msgstr ""
 
 #. i18n: keyword: MergeFailedTitle
