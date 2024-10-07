@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2024-05-11 13:38-0300\n"
+"PO-Revision-Date: 2024-08-23 00:26-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -1135,15 +1135,15 @@ msgstr "Recompensa"
 
 #. i18n: keyword: GiftCodeRedeemTitle
 msgid "Redeem a Gift Code"
-msgstr ""
+msgstr "Resgatar um Código de Presente"
 
 #. i18n: keyword: GiftCodeRedeemDesc
 msgid "If you have an item key or gift code, you can redeem it below."
-msgstr ""
+msgstr "Se você tiver uma chave de item ou código de presente, você pode resgatá-lo abaixo."
 
 #. i18n: keyword: GiftCodeRedeemButton
 msgid "Redeem Code"
-msgstr ""
+msgstr "Resgatar Código"
 
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
