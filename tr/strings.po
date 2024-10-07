@@ -485,6 +485,14 @@ msgstr "Bu işlem, bir Klei hesabının birden çok platformla ilişkilendirilme
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
 msgstr "Lütfen tutmak istediğiniz hesabı seçin. <b>Diğer hesaptaki oyun içi ilerlemenizi kaybedeceksiniz.</b>"
 
+#. i18n: keyword: MergeAutoMergeInto
+msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
+msgstr ""
+
+#. i18n: keyword: MergeAutoNoEmail
+msgid "Email not linked"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
 msgstr "Aşağıdakileri okuduğunuzu ve anladığınızı onaylamak için lütfen onay işaretini tıklayın."
@@ -492,6 +500,10 @@ msgstr "Aşağıdakileri okuduğunuzu ve anladığınızı onaylamak için lütf
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
 msgstr "Onay soruları"
+
+#. i18n: keyword: MergeConsent
+msgid "Consent"
+msgstr ""
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -512,6 +524,10 @@ msgstr "Hesap Birleştirme Başarılı"
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
 msgstr "Hesap birleştirme işlemi başarılı oldu.</p><p>Yeni hesapla giriş yapabilmeniz için oturumunuzu temizledik.</p><p>Epic ve Steam'i birleştirdiyseniz ve her ikisinde de Griftlands varsa platformda, diğer platformda da verilecektir.</p><p>Oyunu algılayabilmemiz için <strong>oyunu en az bir kez başlatmanız</strong> gerektiğini unutmayın."
+
+#. i18n: keyword: MergeAccountSuccessShortDescription
+msgid "The account merge operation was a success!"
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -596,6 +612,10 @@ msgstr "Birleştirmeye Devam Et"
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
 msgstr "Hesabınız <b>{{ .Data.SourceKU }}</b> ile <b>{{ .Data.DestinationKU }}</b> birleştiriliyor, şu ana kadar giriş yapamayacaksınız. birleştirme tamamlandı.<br>Birleştirmeye devam etmek için lütfen aşağıdaki düğmeyi tıklayın."
+
+#. i18n: keyword: ContinueMergeShortDescription
+msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
+msgstr ""
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -1396,6 +1416,10 @@ msgstr "WeGame kullanıcı adı"
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
 msgstr "Nintendo kullanıcı adı"
+
+#. i18n: keyword: LP_NETFLIX_Username
+msgid "Netflix username"
+msgstr ""
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
