@@ -1333,6 +1333,18 @@ msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido com <b
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
 msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido com <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Agora você irá encontrá-lo no jogo da próxima vez que você jogar. Consulte a página \"Transações do Usuário\" para entender como essa operação afetou o saldo da sua conta.</p>"
 
+#. i18n: keyword: RewardLinkResultDescriptionItem
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
+msgstr ""
+
+#. i18n: keyword: RewardLinkResultDescriptionDefault
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild</b>.</p> Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
+msgstr ""
+
+#. i18n: keyword: E_INVALID_REFERRER
+msgid "Oops, it looks like this link has been accessed from the wrong location."
+msgstr ""
+
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
 msgstr "Oops! Parece que você já utilizou este link antes. Você só pode resgatar essa recompensa uma vez."
@@ -2180,6 +2192,10 @@ msgstr "Link para Carretéis"
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
 msgstr "Link para Pontos"
+
+#. i18n: keyword: TXN_LINK_FOR_ITEM
+msgid "Link For Item"
+msgstr ""
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
