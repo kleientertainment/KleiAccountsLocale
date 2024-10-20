@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2024-08-23 00:26-0300\n"
+"PO-Revision-Date: 2024-10-20 14:14-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -487,11 +487,11 @@ msgstr "Por favor, selecione a conta que deseja manter. <b>Você perderá seu pr
 
 #. i18n: keyword: MergeAutoMergeInto
 msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
-msgstr ""
+msgstr "O usuário <b>${userProfileA.data.KU}</b> será mesclado ao <b>${userProfileB.data.KU}"
 
 #. i18n: keyword: MergeAutoNoEmail
 msgid "Email not linked"
-msgstr ""
+msgstr "Email não vinculado"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -503,7 +503,7 @@ msgstr "Perguntas de consentimento"
 
 #. i18n: keyword: MergeConsent
 msgid "Consent"
-msgstr ""
+msgstr "Permitir"
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -527,7 +527,7 @@ msgstr "A operação de mesclagem de contas foi um sucesso.</p><p>Nós liberamos
 
 #. i18n: keyword: MergeAccountSuccessShortDescription
 msgid "The account merge operation was a success!"
-msgstr ""
+msgstr "A operação de mesclagem de conta foi bem-sucedida!"
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -615,7 +615,7 @@ msgstr "Sua conta está em processo de mesclagem <b>{{ .Data.SourceKU }}</b> par
 
 #. i18n: keyword: ContinueMergeShortDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
-msgstr ""
+msgstr "Sua conta está no processo de mesclagem de <b>{{ .Data.SourceKU }}</b> com <b>{{ .Data.DestinationKU }}</b>.<br>Por favor, clique no botão abaixo para continuar a mesclagem."
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -1335,15 +1335,15 @@ msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido com <b
 
 #. i18n: keyword: RewardLinkResultDescriptionItem
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
-msgstr ""
+msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido para <b>{{.Data.ItemName}}</b>.</p><p>O item estará disponível no jogo na próxima vez que você jogar. Consulte a página \"Transações\" para entender como essa operação afetou o inventário da sua conta.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionDefault
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild</b>.</p> Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
-msgstr ""
+msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido</b>.</p> Consulte a página \"Transações\" para entender como essa operação afetou sua conta.</p>"
 
 #. i18n: keyword: E_INVALID_REFERRER
 msgid "Oops, it looks like this link has been accessed from the wrong location."
-msgstr ""
+msgstr "Oops, parece que este link foi acessado a partir de um local incorreto."
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1431,7 +1431,7 @@ msgstr "Usuário da Nintendo"
 
 #. i18n: keyword: LP_NETFLIX_Username
 msgid "Netflix username"
-msgstr ""
+msgstr "Usuário da Netflix"
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
@@ -2195,7 +2195,7 @@ msgstr "Link para Pontos"
 
 #. i18n: keyword: TXN_LINK_FOR_ITEM
 msgid "Link For Item"
-msgstr ""
+msgstr "Link para o Item"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
