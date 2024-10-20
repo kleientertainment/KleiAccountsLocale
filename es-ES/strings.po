@@ -485,6 +485,14 @@ msgstr "Este proceso permitirá que una cuenta de Klei sea asociada a multiples 
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
 msgstr "Por favor seleccione la cuenta que desea conservar. <b>El progreso del juego en esta cuenta se perderá.</b>"
 
+#. i18n: keyword: MergeAutoMergeInto
+msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
+msgstr ""
+
+#. i18n: keyword: MergeAutoNoEmail
+msgid "Email not linked"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
 msgstr "Por favor, haz clic en la casilla para confirmar que haz leido y entendido lo siguiente."
@@ -492,6 +500,10 @@ msgstr "Por favor, haz clic en la casilla para confirmar que haz leido y entendi
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
 msgstr "Preguntas de consentimiento"
+
+#. i18n: keyword: MergeConsent
+msgid "Consent"
+msgstr ""
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -512,6 +524,10 @@ msgstr "Fusion de cuentas exitoso"
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
 msgstr "La operación de fusión de cuentas fue un éxito.</p><p>Hemos limpiado su sesión para permitirle iniciar sesión con la nueva cuenta.</p><p>Si ha fusionado Epic y Steam y tiene Griftlands en cualquier plataforma, también se le otorgará en la otra plataforma.</p><p>Recuerda que debe <strong>iniciar el juego al menos una vez</strong> para poder detectarlo."
+
+#. i18n: keyword: MergeAccountSuccessShortDescription
+msgid "The account merge operation was a success!"
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -596,6 +612,10 @@ msgstr "Continuar Fusión"
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
 msgstr "Su cuenta <b>{{ .Data.SourceKU }}</b> está en proceso de fusión con <b>{{ .Data.DestinationKU }}</b>, no podrá iniciar sesión hasta que la fusión sea completada.<br>Haga clic en el botón de abajo para continuar con la fusión."
+
+#. i18n: keyword: ContinueMergeShortDescription
+msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
+msgstr ""
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -1313,6 +1333,18 @@ msgstr "<p>¡Felicidades!</p><p>Has encontrado un link de recompensa en lo salva
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
 msgstr "<p>¡Felicidades!</p><p>Has encontrado un link de recompensa en lo salvaje con <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Lo encontrarás en el el juego la proxima vez que juegues. Por favor consulta la página de \"Transacciones de usuario\" para entender como esta operación afectó el saldo de tu cuenta.</p>"
 
+#. i18n: keyword: RewardLinkResultDescriptionItem
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
+msgstr ""
+
+#. i18n: keyword: RewardLinkResultDescriptionDefault
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild</b>.</p> Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
+msgstr ""
+
+#. i18n: keyword: E_INVALID_REFERRER
+msgid "Oops, it looks like this link has been accessed from the wrong location."
+msgstr ""
+
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
 msgstr "¡Whoa! Parece que ya has pulsado este link antes. Solo puedes canjear la recompensa una vez."
@@ -1396,6 +1428,10 @@ msgstr "Nombre de usuario de WeGame"
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
 msgstr "Nombre de usuario de Nintendo"
+
+#. i18n: keyword: LP_NETFLIX_Username
+msgid "Netflix username"
+msgstr ""
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
@@ -2156,6 +2192,10 @@ msgstr "Link Para Hilos"
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
 msgstr "Link Para Puntos"
+
+#. i18n: keyword: TXN_LINK_FOR_ITEM
+msgid "Link For Item"
+msgstr ""
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"

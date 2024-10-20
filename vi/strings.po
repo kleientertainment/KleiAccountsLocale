@@ -485,6 +485,14 @@ msgstr "Quá trình này sẽ cho phép một tài khoản Klei có thể kết 
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
 msgstr ""
 
+#. i18n: keyword: MergeAutoMergeInto
+msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
+msgstr ""
+
+#. i18n: keyword: MergeAutoNoEmail
+msgid "Email not linked"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
 msgstr "Vui lòng chọn phần đánh dấu để xác nhận bạn đã đọc và hiểu những mục sau đây."
@@ -492,6 +500,10 @@ msgstr "Vui lòng chọn phần đánh dấu để xác nhận bạn đã đọc
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
 msgstr "Câu hỏi đồng thuận"
+
+#. i18n: keyword: MergeConsent
+msgid "Consent"
+msgstr ""
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -511,6 +523,10 @@ msgstr "Hợp nhất tài khoản thành công"
 
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
+msgstr ""
+
+#. i18n: keyword: MergeAccountSuccessShortDescription
+msgid "The account merge operation was a success!"
 msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
@@ -595,6 +611,10 @@ msgstr ""
 
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
+msgstr ""
+
+#. i18n: keyword: ContinueMergeShortDescription
+msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
 msgstr ""
 
 #. i18n: keyword: ContinueMergeButton
@@ -1313,6 +1333,18 @@ msgstr ""
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
 msgstr ""
 
+#. i18n: keyword: RewardLinkResultDescriptionItem
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
+msgstr ""
+
+#. i18n: keyword: RewardLinkResultDescriptionDefault
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild</b>.</p> Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
+msgstr ""
+
+#. i18n: keyword: E_INVALID_REFERRER
+msgid "Oops, it looks like this link has been accessed from the wrong location."
+msgstr ""
+
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
 msgstr "Whoa! Có vẻ như bạn đã click vào đường dẫn này trước đây. Bạn chỉ có thể nhận phần thưởng này một lần duy nhất."
@@ -1395,6 +1427,10 @@ msgstr ""
 
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
+msgstr ""
+
+#. i18n: keyword: LP_NETFLIX_Username
+msgid "Netflix username"
 msgstr ""
 
 #. i18n: keyword: MergeFailedTitle
@@ -2156,6 +2192,10 @@ msgstr "Liên kết cho Cuộn chỉ"
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
 msgstr "Liên kết cho Điểm"
+
+#. i18n: keyword: TXN_LINK_FOR_ITEM
+msgid "Link For Item"
+msgstr ""
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
