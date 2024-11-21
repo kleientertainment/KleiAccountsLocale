@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2024-05-11 13:38-0300\n"
+"PO-Revision-Date: 2024-08-23 00:26-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -505,6 +505,14 @@ msgstr "Esse processo vai autorizar uma conta Klei para se associar a multiplas 
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
 msgstr "Por favor, selecione a conta que deseja manter. <b>Você perderá seu progresso do jogo na outra conta.</b>"
 
+#. i18n: keyword: MergeAutoMergeInto
+msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
+msgstr ""
+
+#. i18n: keyword: MergeAutoNoEmail
+msgid "Email not linked"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
 msgstr "Por favor clique na caixa de confirmação para confirmar que você leu e entende o seguinte."
@@ -512,6 +520,10 @@ msgstr "Por favor clique na caixa de confirmação para confirmar que você leu 
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
 msgstr "Perguntas de consentimento"
+
+#. i18n: keyword: MergeConsent
+msgid "Consent"
+msgstr ""
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -532,6 +544,10 @@ msgstr "Conta mesclada com sucesso"
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
 msgstr "A operação de mesclagem de contas foi um sucesso.</p><p>Nós liberamos sua sessão para permitir que você faça login com a nova conta.</p><p>Se você mesclou Epic e Steam e tem Griftlands em qualquer plataforma, ela será concedida na outra plataforma também.</p><p>Lembre-se que você precisa <strong>começar o jogo pelo menos uma vez</strong> para que possamos detectá-lo."
+
+#. i18n: keyword: MergeAccountSuccessShortDescription
+msgid "The account merge operation was a success!"
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -616,6 +632,10 @@ msgstr "Continuar Mesclagem"
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
 msgstr "Sua conta está em processo de mesclagem <b>{{ .Data.SourceKU }}</b> para <b>{{ .Data.DestinationKU }}</b>, você não poderá acessa-lá até que a mesclagem seja concluída.<br>Por favor, clique no botão abaixo para continuar a mesclagem."
+
+#. i18n: keyword: ContinueMergeShortDescription
+msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
+msgstr ""
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -1267,15 +1287,15 @@ msgstr "Recompensa"
 
 #. i18n: keyword: GiftCodeRedeemTitle
 msgid "Redeem a Gift Code"
-msgstr ""
+msgstr "Resgatar um Código de Presente"
 
 #. i18n: keyword: GiftCodeRedeemDesc
 msgid "If you have an item key or gift code, you can redeem it below."
-msgstr ""
+msgstr "Se você tiver uma chave de item ou código de presente, você pode resgatá-lo abaixo."
 
 #. i18n: keyword: GiftCodeRedeemButton
 msgid "Redeem Code"
-msgstr ""
+msgstr "Resgatar Código"
 
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
@@ -1465,6 +1485,18 @@ msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido com <b
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
 msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido com <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Agora você irá encontrá-lo no jogo da próxima vez que você jogar. Consulte a página \"Transações do Usuário\" para entender como essa operação afetou o saldo da sua conta.</p>"
 
+#. i18n: keyword: RewardLinkResultDescriptionItem
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
+msgstr ""
+
+#. i18n: keyword: RewardLinkResultDescriptionDefault
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild</b>.</p> Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
+msgstr ""
+
+#. i18n: keyword: E_INVALID_REFERRER
+msgid "Oops, it looks like this link has been accessed from the wrong location."
+msgstr ""
+
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
 msgstr "Oops! Parece que você já utilizou este link antes. Você só pode resgatar essa recompensa uma vez."
@@ -1548,6 +1580,10 @@ msgstr "Usuário da WeGame"
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
 msgstr "Usuário da Nintendo"
+
+#. i18n: keyword: LP_NETFLIX_Username
+msgid "Netflix username"
+msgstr ""
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
@@ -2320,6 +2356,10 @@ msgstr "Link para Carretéis"
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
 msgstr "Link para Pontos"
+
+#. i18n: keyword: TXN_LINK_FOR_ITEM
+msgid "Link For Item"
+msgstr ""
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"

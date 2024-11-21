@@ -505,6 +505,14 @@ msgstr "此操作将允许一个Klei账户与多个平台相关联。这适用�
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
 msgstr "请选择你想保留的账户。<b>你会失去在其他账户的游戏进度。</b>"
 
+#. i18n: keyword: MergeAutoMergeInto
+msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
+msgstr ""
+
+#. i18n: keyword: MergeAutoNoEmail
+msgid "Email not linked"
+msgstr ""
+
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
 msgstr "请勾选以确认您已阅读并理解以下内容。"
@@ -512,6 +520,10 @@ msgstr "请勾选以确认您已阅读并理解以下内容。"
 #. i18n: keyword: MergeAccountOptions
 msgid "Consent questions"
 msgstr "同意问题"
+
+#. i18n: keyword: MergeConsent
+msgid "Consent"
+msgstr ""
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -532,6 +544,10 @@ msgstr "合并账户成功"
 #. i18n: keyword: MergeAccountSuccessDescription
 msgid "The account merge operation was a success.</p><p>We have cleared your session to allow you to login with the new account.</p><p>If you have merged Epic and Steam and you have Griftlands on either platform, it will be granted on the other platform as well.</p><p>Remember you need to <strong>start the game at least once</strong> for us to be able to detect it."
 msgstr "账户合并成功。</p><p>我们已经清空了你的会话，你可以使用新账户登录了。</p><p>如果你已经合并了Epic和Steam平台，只要你在其中一个平台拥有《欺诈之地》，我们就会在另外一个平台也给你一份。</p><p>请注意 <strong>必须至少启动一次游戏</strong> 我们的后台才能获取到信息。"
+
+#. i18n: keyword: MergeAccountSuccessShortDescription
+msgid "The account merge operation was a success!"
+msgstr ""
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -616,6 +632,10 @@ msgstr "继续合并"
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
 msgstr "你正在把<b>{{ .Data.SourceKU }}</b> 账户合并到<b>{{ .Data.DestinationKU }}</b>，合并完成前你将无法登录。<br>请点击下方按钮继续合并。"
+
+#. i18n: keyword: ContinueMergeShortDescription
+msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
+msgstr ""
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -1465,6 +1485,18 @@ msgstr "<p>恭喜！</p><p>您在野外找到一个有效的奖励链接，包�
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
 msgstr "<p>恭喜！</p><p>您在野外找到一个有效的奖励链接，包含<b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>您将会在下次游玩时在游戏中找到它。请参照 \"用户交易\" 页面来了解这项操作对你账户余额的影响。</p>"
 
+#. i18n: keyword: RewardLinkResultDescriptionItem
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
+msgstr ""
+
+#. i18n: keyword: RewardLinkResultDescriptionDefault
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild</b>.</p> Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
+msgstr ""
+
+#. i18n: keyword: E_INVALID_REFERRER
+msgid "Oops, it looks like this link has been accessed from the wrong location."
+msgstr ""
+
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
 msgstr "哇！看上去你已经点击过这个链接了。你只能领取这个奖励一次"
@@ -1548,6 +1580,10 @@ msgstr "WeGame用户名"
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
 msgstr "任天堂用户名"
+
+#. i18n: keyword: LP_NETFLIX_Username
+msgid "Netflix username"
+msgstr ""
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
@@ -2320,6 +2356,10 @@ msgstr "通过链接获取线轴"
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
 msgstr "通过链接获取点数"
+
+#. i18n: keyword: TXN_LINK_FOR_ITEM
+msgid "Link For Item"
+msgstr ""
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
