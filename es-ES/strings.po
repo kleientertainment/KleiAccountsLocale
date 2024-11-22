@@ -470,7 +470,7 @@ msgid "Link Accounts"
 msgstr ""
 
 #. i18n: keyword: LinkAccountsDescription
-msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, YouTube, and Discord."
+msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
 msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
