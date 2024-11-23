@@ -453,18 +453,6 @@ msgstr ""
 msgid "Unlink Discord Account"
 msgstr ""
 
-#. i18n: keyword: LinkYoutubeTitle
-msgid "Link YouTube Channel"
-msgstr ""
-
-#. i18n: keyword: LinkYoutubeDescription
-msgid "This will link your YouTube Channel to your Klei Account."
-msgstr ""
-
-#. i18n: keyword: UnlinkYoutubeTitle
-msgid "Unlink YouTube Channel"
-msgstr ""
-
 #. i18n: keyword: LinkAccountsTitle
 msgid "Link Accounts"
 msgstr ""
@@ -891,6 +879,18 @@ msgstr ""
 
 #. i18n: keyword: AmbassadorProgramApplyButton
 msgid "Apply"
+msgstr ""
+
+#. i18n: keyword: AmbassadorYouTubeContentCheck
+msgid "I mainly provide YouTube content"
+msgstr ""
+
+#. i18n: keyword: AmbassadorYouTubeInfo
+msgid "<p>Please provide the Channel ID of your YouTube channel below.<br>The instructions to find your YouTube Channel ID are <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">here.</a></p><p><b>The email address listed in your YouTube \"About\" page must be the same as the verified email address for your Klei Account.</b></p>"
+msgstr ""
+
+#. i18n: keyword: ChannelID
+msgid "Channel ID"
 msgstr ""
 
 #. i18n: keyword: Limit
@@ -2263,6 +2263,10 @@ msgstr ""
 
 #. i18n: keyword: E_AMBASSADOR_INVALID_SELF_DESCRIPTION
 msgid "The self description field was either empty or exceeded the max character count."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_YOUTUBE_CHANNELID
+msgid "Invalid YouTube channel ID"
 msgstr ""
 
 #. i18n: keyword: GameDropsEarned
