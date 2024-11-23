@@ -495,11 +495,11 @@ msgstr "Пожалуйста, выберите учётную запись, ко
 
 #. i18n: keyword: MergeAutoMergeInto
 msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
-msgstr ""
+msgstr "Учётная запись <b>${userProfileA.data.KU}</b> будет объединён с <b>${userProfileB.data.KU}</b>"
 
 #. i18n: keyword: MergeAutoNoEmail
 msgid "Email not linked"
-msgstr ""
+msgstr "Электронная почта не привязана"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -511,7 +511,7 @@ msgstr "Вопросы о согласии"
 
 #. i18n: keyword: MergeConsent
 msgid "Consent"
-msgstr ""
+msgstr "Согласие"
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -535,7 +535,7 @@ msgstr "Операция объединения учётных записей п
 
 #. i18n: keyword: MergeAccountSuccessShortDescription
 msgid "The account merge operation was a success!"
-msgstr ""
+msgstr "Аккаунты успешно объединены!"
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -623,7 +623,7 @@ msgstr "Ваша учётная запись в процессе объедин�
 
 #. i18n: keyword: ContinueMergeShortDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
-msgstr ""
+msgstr "Ваша учётная запись в процессе объединения <b>{{ .Data.SourceKU }}</b> в <b>{{ .Data.DestinationKU }}</b>.<br>Пожалуйста, нажмите кнопку ниже, чтобы продолжить объединение."
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -1483,19 +1483,19 @@ msgstr "<p>Поздравляем!</p><p>В дикой природе вы су�
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>Поздравляем!</p><p>В дикой природе вы сумели отыскать правильную ссылку с <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Вы сможете увидеть это в следующий раз, когда зайдёте в игру. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш баланс.</p>"
+msgstr "<p>Поздравляем!</p><p>В дикой природе вы сумели отыскать правильную ссылку с <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Вы сможете увидеть их в следующий раз, когда зайдёте в игру. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш баланс.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionItem
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
-msgstr ""
+msgstr "<p>Поздравляем!</p><p>В дикой природе вы сумели отыскать правильную ссылку с <b>{{.Data.Название предмета}}</b>.</p><p>Вы сможете увидеть его в следующий раз, когда зайдёте в игру. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш инвентарь.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionDefault
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild</b>.</p> Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
-msgstr ""
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.</p><p>Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
+msgstr "<p>Поздравляем!</p><p>В дикой природе вы сумели отыскать правильную ссылку с наградой.</p><p>Вы сможете увидеть его в следующий раз, когда зайдёте в игру. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на вашу учётную запись.</p>"
 
 #. i18n: keyword: E_INVALID_REFERRER
 msgid "Oops, it looks like this link has been accessed from the wrong location."
-msgstr ""
+msgstr "Ой, похоже, что эта ссылка была открыта из неверного места."
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1583,7 +1583,7 @@ msgstr "Имя пользователя Nintendo"
 
 #. i18n: keyword: LP_NETFLIX_Username
 msgid "Netflix username"
-msgstr ""
+msgstr "Имя пользователя Netflix"
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
@@ -2363,7 +2363,7 @@ msgstr "Ссылка для очков"
 
 #. i18n: keyword: TXN_LINK_FOR_ITEM
 msgid "Link For Item"
-msgstr ""
+msgstr "Ссылка для предмета"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
