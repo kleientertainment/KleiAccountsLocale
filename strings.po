@@ -1509,7 +1509,7 @@ msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild 
 msgstr ""
 
 #. i18n: keyword: RewardLinkResultDescriptionDefault
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild</b>.</p> Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.</p><p>Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
 msgstr ""
 
 #. i18n: keyword: E_INVALID_REFERRER
