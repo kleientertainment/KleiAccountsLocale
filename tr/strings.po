@@ -453,6 +453,14 @@ msgstr "Bu, Discord Hesabınızı Klei Hesabınıza bağlayacaktır."
 msgid "Unlink Discord Account"
 msgstr "Discord Hesabının Bağlantısını Kaldır"
 
+#. i18n: keyword: LinkAccountsTitle
+msgid "Link Accounts"
+msgstr ""
+
+#. i18n: keyword: LinkAccountsDescription
+msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
+msgstr ""
+
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
 msgstr "Bir Hesabı Birleştir"
@@ -465,17 +473,17 @@ msgstr "Herkese açık bir bilgisayar kullanıyorsanız veya başkalarıyla payl
 msgid "Continue"
 msgstr "Devam et"
 
-#. i18n: keyword: MergeAccountConnectedTitle
-msgid "Connected"
-msgstr "Bağlı"
+#. i18n: keyword: ProviderConnectedTitle
+msgid "Account Linked"
+msgstr ""
 
-#. i18n: keyword: MergeAccountConnectedID
-msgid "ID:"
-msgstr "ID:"
+#. i18n: keyword: ProviderConnectedID
+msgid "External account ID:"
+msgstr ""
 
-#. i18n: keyword: MergeAccountNotConnected
+#. i18n: keyword: ProviderNotConnected
 msgid "Not connected"
-msgstr "Bağlı değil"
+msgstr ""
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -829,6 +837,74 @@ msgstr "Verileri Dışa Aktar"
 msgid "We can arrange for a report of your account details as controlled by Klei."
 msgstr "Klei tarafından kontrol edilen hesap ayrıntılarınız için bir rapor ayarlayabiliriz."
 
+#. i18n: keyword: AmbassadorProgram
+msgid "Ambassador Program"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoHeader
+msgid "Ambassador Program Info and Consent"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoDescription
+msgid "Thank you for your interest in the Klei Ambassador Program.<p>The Klei Ambassador Program is intended to provide a way for us to thank content creators for their support by helping them engage with their fans when creating content centered around our games.</p><p>This program is intended for creators of all sizes; however, to maintain the program's intention, we ask that creators be reasonably established in the community before participating.</p><p>For more general information about the Ambassador Program and what it offers, please check out our <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>article here</a>.</p>"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoConsent
+msgid "If you would like to apply, please confirm the following."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoConsentItem1
+msgid "You understand that benefits provided by the Ambassador Program are not guaranteed and may be discontinued at any time."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoConsentItem2
+msgid "You understand that participation in the Ambassador Program is not an endorsement nor does it constitute a business relationship with Klei Entertainment."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoConsentItem3
+msgid "You understand that you are to remain a community member in good standing and while not bound by Klei’s Community Guidelines, you will act in good faith with other community members and Ambassadors."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramInfoConsentItem4
+msgid "Klei expects nothing in return as a member of the program. However, we do expect members to act in good faith and may remove benefits from the program if we believe the program is being misused or your behavior is harmful to the community."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramSignupInfo
+msgid "When you sign up, we will review your application. If approved, you will be added to our program and provided a link to the Ambassador Discord server where you can find additional information about the program."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramSignupAgree
+msgid "I understand and agree. I would like to sign-up."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramApplyButton
+msgid "Apply"
+msgstr ""
+
+#. i18n: keyword: AmbassadorYouTubeContentCheck
+msgid "I mainly provide YouTube content"
+msgstr ""
+
+#. i18n: keyword: AmbassadorYouTubeInfo
+msgid "<p>Please provide the Channel ID of your YouTube channel below.<br>The instructions to find your YouTube Channel ID are <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">here.</a></p><p><b>The email address listed in your YouTube \"About\" page must be the same as the verified email address for your Klei Account.</b></p>"
+msgstr ""
+
+#. i18n: keyword: ChannelID
+msgid "Channel ID"
+msgstr ""
+
+#. i18n: keyword: Limit
+msgid "Limit"
+msgstr ""
+
+#. i18n: keyword: Available
+msgid "Available"
+msgstr ""
+
+#. i18n: keyword: MoreInfo
+msgid "More Info"
+msgstr ""
+
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
 msgstr "Verilerinizi 24 saatten kısa bir süre önce indirdiğiniz anlaşılıyor.<br><br>Verilerinizin başka bir kopyasını indirmek için lütfen yarına kadar bekleyin.<br><br>Sabrınız için teşekkür ederiz."
@@ -840,6 +916,82 @@ msgstr "Verileri İndir"
 #. i18n: keyword: DownloadingData
 msgid "Downloading Data..."
 msgstr "Veriler İndiriliyor..."
+
+#. i18n: keyword: AmbassadorTitle
+msgid "Ambassador"
+msgstr ""
+
+#. i18n: keyword: AmbassadorRewardRedeem
+msgid "Redeem"
+msgstr ""
+
+#. i18n: keyword: AmbassadorDescription
+msgid "Redeem ambassador rewards"
+msgstr ""
+
+#. i18n: keyword: AmbassadorPointsGlossary
+msgid "Ambassador Points are used to redeem skins and codes"
+msgstr ""
+
+#. i18n: keyword: AmbassadorPoints
+msgid "Ambassador Points"
+msgstr ""
+
+#. i18n: keyword: AmbassadorTiersGlossary
+msgid "Higher Ambassador Tiers get you more points"
+msgstr ""
+
+#. i18n: keyword: AmbassadorTier
+msgid "Ambassador Tier"
+msgstr ""
+
+#. i18n: keyword: AmbassadorRewardCost
+msgid "Cost"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramShortDescription
+msgid "As a content creator, you can apply for the Klei Ambassador program here."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramDescription
+msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Ambassador program. Once your application is sent, please give us some time to review it."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramPleaseLinkAccount
+msgid "Please link at least one external account."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramRequirementsNotMet
+msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramRequirementsMet
+msgid "You qualify for the ambassador program!"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramTellUsAboutYourself
+msgid "Please tell us a bit about yourself:"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramApplySuccess
+msgid "Your application was submitted! It will be reviewed soon."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramApproved
+msgid "Your application has been approved and you're now a Klei Ambassador!"
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramRejected
+msgid "Your last application has been denied. You can try again in <b>{{ .Data.CooldownDays }} days</b>."
+msgstr ""
+
+#. i18n: keyword: AmbassadorProgramPending
+msgid "You have already submitted an application, it is currently being reviewed."
+msgstr ""
+
+#. i18n: keyword: AmbassadorRewardClaimed
+msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
+msgstr ""
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -1338,7 +1490,7 @@ msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild 
 msgstr ""
 
 #. i18n: keyword: RewardLinkResultDescriptionDefault
-msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild</b>.</p> Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
+msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.</p><p>Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
 msgstr ""
 
 #. i18n: keyword: E_INVALID_REFERRER
@@ -2057,6 +2209,10 @@ msgstr "Klei hesabınızın zaten Twitter ile bağlantısı kesildi. Bağlantın
 msgid "Your Klei account has already been disconnected from Google. If you believe the connection still exists, please <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>visit your Google profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "Klei hesabınızın zaten Google ile bağlantısı kesildi. Bağlantının hala var olduğunu düşünüyorsanız, lütfen <a href='https://myaccount.google.com/permissions' target='_blank' rel='noopener noreferrer'>Google profilinizi ziyaret edin</a> ve \"Klei Hesapları\" uygulamasının bağlantısını manuel olarak kesin."
 
+#. i18n: keyword: E_GOOGLE_NO_YOUTUBE_CHANNEL
+msgid "This Google account has no YouTube channel associated with it."
+msgstr ""
+
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
 msgstr "Klei hesabınızın Facebook ile bağlantısı zaten kesilmiş. Bağlantının hala var olduğunu düşünüyorsanız, lütfen<a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>Facebook profilinizi ziyaret edin</a> ve \"Klei Hesapları\" uygulamasının bağlantısını manuel olarak kesin."
@@ -2100,6 +2256,18 @@ msgstr "Bu işlem zaten geri alındı."
 #. i18n: keyword: E_UNSUPPORTED_FOR_ROLLBACK
 msgid "This transaction cannot be rolled back."
 msgstr "Bu işlem geri alınamaz."
+
+#. i18n: keyword: E_USER_NOT_QUALIFIED_FOR_AMBASSADOR
+msgid "You currently do not meet the requirements for application to the Ambassador Program."
+msgstr ""
+
+#. i18n: keyword: E_AMBASSADOR_INVALID_SELF_DESCRIPTION
+msgid "The self description field was either empty or exceeded the max character count."
+msgstr ""
+
+#. i18n: keyword: E_INVALID_YOUTUBE_CHANNELID
+msgid "Invalid YouTube channel ID"
+msgstr ""
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
