@@ -837,55 +837,55 @@ msgstr "Exportar Datos"
 msgid "We can arrange for a report of your account details as controlled by Klei."
 msgstr "Podemos organizar un informe de los detalles de tu cuenta controlados por Klei."
 
-#. i18n: keyword: AmbassadorProgram
-msgid "Ambassador Program"
+#. i18n: keyword: CreatorProgram
+msgid "Creator Program"
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramInfoHeader
-msgid "Ambassador Program Info and Consent"
+#. i18n: keyword: CreatorProgramInfoHeader
+msgid "Creator Program Info and Consent"
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramInfoDescription
-msgid "Thank you for your interest in the Klei Ambassador Program.<p>The Klei Ambassador Program is intended to provide a way for us to thank content creators for their support by helping them engage with their fans when creating content centered around our games.</p><p>This program is intended for creators of all sizes; however, to maintain the program's intention, we ask that creators be reasonably established in the community before participating.</p><p>For more general information about the Ambassador Program and what it offers, please check out our <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>article here</a>.</p>"
+#. i18n: keyword: CreatorProgramInfoDescription
+msgid "Thank you for your interest in the Klei Creator Program.<p>The Klei Creator Program is intended to provide a way for us to thank content creators for their support by helping them engage with their fans when creating content centered around our games.</p><p>This program is intended for creators of all sizes; however, to maintain the program's intention, we ask that creators be reasonably established in the community before participating.</p><p>For more general information about the Creator Program and what it offers, please check out our <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>article here</a>.</p>"
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramInfoConsent
+#. i18n: keyword: CreatorProgramInfoConsent
 msgid "If you would like to apply, please confirm the following."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramInfoConsentItem1
-msgid "You understand that benefits provided by the Ambassador Program are not guaranteed and may be discontinued at any time."
+#. i18n: keyword: CreatorProgramInfoConsentItem1
+msgid "You understand that benefits provided by the Creator Program are not guaranteed and may be discontinued at any time."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramInfoConsentItem2
-msgid "You understand that participation in the Ambassador Program is not an endorsement nor does it constitute a business relationship with Klei Entertainment."
+#. i18n: keyword: CreatorProgramInfoConsentItem2
+msgid "You understand that participation in the Creator Program is not an endorsement nor does it constitute a business relationship with Klei Entertainment."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramInfoConsentItem3
-msgid "You understand that you are to remain a community member in good standing and while not bound by Klei’s Community Guidelines, you will act in good faith with other community members and Ambassadors."
+#. i18n: keyword: CreatorProgramInfoConsentItem3
+msgid "You understand that you are to remain a community member in good standing and while not bound by Klei’s Community Guidelines, you will act in good faith with other community members and Creators."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramInfoConsentItem4
+#. i18n: keyword: CreatorProgramInfoConsentItem4
 msgid "Klei expects nothing in return as a member of the program. However, we do expect members to act in good faith and may remove benefits from the program if we believe the program is being misused or your behavior is harmful to the community."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramSignupInfo
-msgid "When you sign up, we will review your application. If approved, you will be added to our program and provided a link to the Ambassador Discord server where you can find additional information about the program."
+#. i18n: keyword: CreatorProgramSignupInfo
+msgid "When you sign up, we will review your application. If approved, you will be added to our program and provided a link to the Creator Discord server where you can find additional information about the program."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramSignupAgree
+#. i18n: keyword: CreatorProgramSignupAgree
 msgid "I understand and agree. I would like to sign-up."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramApplyButton
+#. i18n: keyword: CreatorProgramApplyButton
 msgid "Apply"
 msgstr ""
 
-#. i18n: keyword: AmbassadorYouTubeContentCheck
+#. i18n: keyword: CreatorYouTubeContentCheck
 msgid "I mainly provide YouTube content"
 msgstr ""
 
-#. i18n: keyword: AmbassadorYouTubeInfo
+#. i18n: keyword: CreatorYouTubeInfo
 msgid "<p>Please provide the Channel ID of your YouTube channel below.<br>The instructions to find your YouTube Channel ID are <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">here.</a></p><p><b>The email address listed in your YouTube \"About\" page must be the same as the verified email address for your Klei Account.</b></p>"
 msgstr ""
 
@@ -917,79 +917,79 @@ msgstr "Descargar Datos"
 msgid "Downloading Data..."
 msgstr "Descargando Datos..."
 
-#. i18n: keyword: AmbassadorTitle
-msgid "Ambassador"
+#. i18n: keyword: CreatorTitle
+msgid "Creator"
 msgstr ""
 
-#. i18n: keyword: AmbassadorRewardRedeem
+#. i18n: keyword: CreatorRewardRedeem
 msgid "Redeem"
 msgstr ""
 
-#. i18n: keyword: AmbassadorDescription
-msgid "Redeem ambassador rewards"
+#. i18n: keyword: CreatorDescription
+msgid "Redeem creator rewards"
 msgstr ""
 
-#. i18n: keyword: AmbassadorPointsGlossary
-msgid "Ambassador Points are used to redeem skins and codes"
+#. i18n: keyword: CreatorPointsGlossary
+msgid "Creator Points are used to redeem skins and codes"
 msgstr ""
 
-#. i18n: keyword: AmbassadorPoints
-msgid "Ambassador Points"
+#. i18n: keyword: CreatorPoints
+msgid "Creator Points"
 msgstr ""
 
-#. i18n: keyword: AmbassadorTiersGlossary
-msgid "Higher Ambassador Tiers get you more points"
+#. i18n: keyword: CreatorTiersGlossary
+msgid "Higher Creator Tiers get you more points"
 msgstr ""
 
-#. i18n: keyword: AmbassadorTier
-msgid "Ambassador Tier"
+#. i18n: keyword: CreatorTier
+msgid "Creator Tier"
 msgstr ""
 
-#. i18n: keyword: AmbassadorRewardCost
+#. i18n: keyword: CreatorRewardCost
 msgid "Cost"
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramShortDescription
-msgid "As a content creator, you can apply for the Klei Ambassador program here."
+#. i18n: keyword: CreatorProgramShortDescription
+msgid "As a content creator, you can apply for the Klei Creator program here."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramDescription
-msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Ambassador program. Once your application is sent, please give us some time to review it."
+#. i18n: keyword: CreatorProgramDescription
+msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Creator program. Once your application is sent, please give us some time to review it."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramPleaseLinkAccount
+#. i18n: keyword: CreatorProgramPleaseLinkAccount
 msgid "Please link at least one external account."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramRequirementsNotMet
+#. i18n: keyword: CreatorProgramRequirementsNotMet
 msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramRequirementsMet
-msgid "You qualify for the ambassador program!"
+#. i18n: keyword: CreatorProgramRequirementsMet
+msgid "You qualify for the Creator Program!"
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramTellUsAboutYourself
+#. i18n: keyword: CreatorProgramTellUsAboutYourself
 msgid "Please tell us a bit about yourself:"
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramApplySuccess
+#. i18n: keyword: CreatorProgramApplySuccess
 msgid "Your application was submitted! It will be reviewed soon."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramApproved
-msgid "Your application has been approved and you're now a Klei Ambassador!"
+#. i18n: keyword: CreatorProgramApproved
+msgid "Your application has been approved and you're now a Klei Creator!"
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramRejected
+#. i18n: keyword: CreatorProgramRejected
 msgid "Your last application has been denied. You can try again in <b>{{ .Data.CooldownDays }} days</b>."
 msgstr ""
 
-#. i18n: keyword: AmbassadorProgramPending
+#. i18n: keyword: CreatorProgramPending
 msgid "You have already submitted an application, it is currently being reviewed."
 msgstr ""
 
-#. i18n: keyword: AmbassadorRewardClaimed
+#. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
 msgstr ""
 
@@ -2257,11 +2257,11 @@ msgstr "Esta transacción ya se ha revertida."
 msgid "This transaction cannot be rolled back."
 msgstr "Esta transacción no se puede revertir."
 
-#. i18n: keyword: E_USER_NOT_QUALIFIED_FOR_AMBASSADOR
-msgid "You currently do not meet the requirements for application to the Ambassador Program."
+#. i18n: keyword: E_USER_NOT_QUALIFIED_FOR_CREATOR
+msgid "You currently do not meet the requirements for application to the Creator Program."
 msgstr ""
 
-#. i18n: keyword: E_AMBASSADOR_INVALID_SELF_DESCRIPTION
+#. i18n: keyword: E_CREATOR_INVALID_SELF_DESCRIPTION
 msgid "The self description field was either empty or exceeded the max character count."
 msgstr ""
 
