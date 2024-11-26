@@ -1487,7 +1487,7 @@ msgstr "<p>Поздравляем!</p><p>В дикой природе вы су�
 
 #. i18n: keyword: RewardLinkResultDescriptionItem
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
-msgstr "<p>Поздравляем!</p><p>В дикой природе вы сумели отыскать правильную ссылку с <b>{{.Data.Название предмета}}</b>.</p><p>Вы сможете увидеть его в следующий раз, когда зайдёте в игру. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш инвентарь.</p>"
+msgstr "<p>Поздравляем!</p><p>В дикой природе вы сумели отыскать правильную ссылку с <b>{{.Data.ItemName}}</b>.</p><p>Вы сможете увидеть его в следующий раз, когда зайдёте в игру. Пожалуйста, перейдите на страницу транзакций, чтобы понять, как эта операция повлияла на ваш инвентарь.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionDefault
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.</p><p>Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
