@@ -916,8 +916,8 @@ msgstr ""
 msgid "Downloading Data..."
 msgstr ""
 
-#. i18n: keyword: CreatorTitle
-msgid "Creator"
+#. i18n: keyword: CreatorHubTitle
+msgid "Creator Hub"
 msgstr ""
 
 #. i18n: keyword: CreatorRewardRedeem
