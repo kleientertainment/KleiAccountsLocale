@@ -936,6 +936,10 @@ msgstr ""
 msgid "Creator Points"
 msgstr ""
 
+#. i18n: keyword: CreatorPointsEarn
+msgid "Earn: ${ambassadorInfo.earnAmount} creator points / ${ambassadorInfo.earnInterval}"
+msgstr ""
+
 #. i18n: keyword: CreatorTiersGlossary
 msgid "Higher Creator Tiers get you more points"
 msgstr ""
