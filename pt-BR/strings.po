@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2024-10-20 14:14-0300\n"
+"PO-Revision-Date: 2024-12-17 19:33-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -455,11 +455,11 @@ msgstr "Desvincular Conta Discord"
 
 #. i18n: keyword: LinkAccountsTitle
 msgid "Link Accounts"
-msgstr ""
+msgstr "Vincular Contas"
 
 #. i18n: keyword: LinkAccountsDescription
 msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
-msgstr ""
+msgstr "Vincule sua conta Klei a outros serviços como Twitch, Bilibili, Douyu e Discord."
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -475,15 +475,15 @@ msgstr "Continuar"
 
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Account Linked"
-msgstr ""
+msgstr "Conta Vinculada"
 
 #. i18n: keyword: ProviderConnectedID
 msgid "External account ID:"
-msgstr ""
+msgstr "Código da conta externa:"
 
 #. i18n: keyword: ProviderNotConnected
 msgid "Not connected"
-msgstr ""
+msgstr "Não conectado"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -839,71 +839,71 @@ msgstr "Podemos providenciar um relatório dos detalhes da sua conta, conforme c
 
 #. i18n: keyword: CreatorProgram
 msgid "Creator Program"
-msgstr ""
+msgstr "Programa de Criadores"
 
 #. i18n: keyword: CreatorProgramInfoHeader
 msgid "Creator Program Info and Consent"
-msgstr ""
+msgstr "Informações e consentimento do Programa de Criadores"
 
 #. i18n: keyword: CreatorProgramInfoDescription
 msgid "Thank you for your interest in the Klei Creator Program.<p>The Klei Creator Program is intended to provide a way for us to thank content creators for their support by helping them engage with their fans when creating content centered around our games.</p><p>This program is intended for creators of all sizes; however, to maintain the program's intention, we ask that creators be reasonably established in the community before participating.</p><p>For more general information about the Creator Program and what it offers, please check out our <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>article here</a>.</p>"
-msgstr ""
+msgstr "Obrigado pelo seu interesse no Programa de Criadores da Klei.<p>O Programa de Criadores da Klei tem como objetivo oferecer uma maneira de agradecermos aos criadores de conteúdo pelo seu apoio, ajudando-os a se conectar com seus fãs ao criar conteúdo focado em nossos jogos.</p><p>Este programa é destinado a criadores de todos os tamanhos; no entanto, para manter a intenção do programa, pedimos que os criadores estejam razoavelmente estabelecidos na comunidade antes de participar.</p><p>Para informações mais gerais sobre o Programa de Criadores e o que ele oferece, confira nosso <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>artigo aqui</a>.</p>"
 
 #. i18n: keyword: CreatorProgramInfoConsent
 msgid "If you would like to apply, please confirm the following."
-msgstr ""
+msgstr "Se você deseja se inscrever, por favor, confirme o seguinte:"
 
 #. i18n: keyword: CreatorProgramInfoConsentItem1
 msgid "You understand that benefits provided by the Creator Program are not guaranteed and may be discontinued at any time."
-msgstr ""
+msgstr "Você entende que os benefícios fornecidos pelo Programa de Criadores não são garantidos e podem ser descontinuados a qualquer momento."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem2
 msgid "You understand that participation in the Creator Program is not an endorsement nor does it constitute a business relationship with Klei Entertainment."
-msgstr ""
+msgstr "Você entende que a participação no Programa de Criadores não é um endosso e não constitui uma relação comercial com a Klei Entertainment."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem3
 msgid "You understand that you are to remain a community member in good standing and while not bound by Klei’s Community Guidelines, you will act in good faith with other community members and Creators."
-msgstr ""
+msgstr "Você entende que deve manter uma reputação positiva na comunidade e, embora não esteja vinculado às Diretrizes da Comunidade da Klei, deverá agir de boa fé com outros membros da comunidade e Criadores."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem4
 msgid "Klei expects nothing in return as a member of the program. However, we do expect members to act in good faith and may remove benefits from the program if we believe the program is being misused or your behavior is harmful to the community."
-msgstr ""
+msgstr "A Klei não espera nada em troca dos membros do programa. No entanto, esperamos que os participantes ajam de boa fé e podemos remover os benefícios do programa caso acreditemos que ele está sendo mal utilizado ou que seu comportamento é prejudicial à comunidade."
 
 #. i18n: keyword: CreatorProgramSignupInfo
 msgid "When you sign up, we will review your application. If approved, you will be added to our program and provided a link to the Creator Discord server where you can find additional information about the program."
-msgstr ""
+msgstr "Ao se inscrever, revisaremos sua solicitação. Se aprovada, você será adicionado ao nosso programa e receberá um link para o servidor do Discord dos Criadores, onde poderá encontrar informações adicionais sobre o programa."
 
 #. i18n: keyword: CreatorProgramSignupAgree
 msgid "I understand and agree. I would like to sign-up."
-msgstr ""
+msgstr "Eu entendo e concordo. Gostaria de me inscrever."
 
 #. i18n: keyword: CreatorProgramApplyButton
 msgid "Apply"
-msgstr ""
+msgstr "Inscrever-se"
 
 #. i18n: keyword: CreatorYouTubeContentCheck
 msgid "I mainly provide YouTube content"
-msgstr ""
+msgstr "Meu principal foco é a criação de conteúdo para o YouTube."
 
 #. i18n: keyword: CreatorYouTubeInfo
 msgid "<p>Please provide the Channel ID of your YouTube channel below.<br>The instructions to find your YouTube Channel ID are <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">here.</a></p><p><b>The email address listed in your YouTube \"About\" page must be the same as the verified email address for your Klei Account.</b></p>"
-msgstr ""
+msgstr "<p>Por favor, forneça o ID do Canal do seu canal no YouTube abaixo.<br>As instruções para encontrar o ID do seu canal no YouTube estão <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">aqui.</a></p><p><b>O endereço de e-mail listado na página \"Sobre\" do seu YouTube deve ser o mesmo que o endereço de e-mail verificado na sua conta Klei.</b></p>"
 
 #. i18n: keyword: ChannelID
 msgid "Channel ID"
-msgstr ""
+msgstr "ID do Canal"
 
 #. i18n: keyword: Limit
 msgid "Limit"
-msgstr ""
+msgstr "Limite"
 
 #. i18n: keyword: Available
 msgid "Available"
-msgstr ""
+msgstr "Disponível"
 
 #. i18n: keyword: MoreInfo
 msgid "More Info"
-msgstr ""
+msgstr "Mais Informações"
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
@@ -919,83 +919,83 @@ msgstr "Baixando Dados..."
 
 #. i18n: keyword: CreatorHubTitle
 msgid "Creator Hub"
-msgstr ""
+msgstr "Central do Criador"
 
 #. i18n: keyword: CreatorRewardRedeem
 msgid "Redeem"
-msgstr ""
+msgstr "Resgatar"
 
 #. i18n: keyword: CreatorDescription
 msgid "Redeem creator rewards"
-msgstr ""
+msgstr "Resgatar recompensas de criador"
 
 #. i18n: keyword: CreatorPointsGlossary
 msgid "Creator Points are used to redeem skins and codes"
-msgstr ""
+msgstr "Os Pontos de Criador são usados para resgatar skins e códigos."
 
 #. i18n: keyword: CreatorPoints
 msgid "Creator Points"
-msgstr ""
+msgstr "Pontos de Criador"
 
 #. i18n: keyword: CreatorPointsEarn
 msgid "Earn: ${ambassadorInfo.earnAmount} creator points / ${ambassadorInfo.earnInterval}"
-msgstr ""
+msgstr "Ganhe: ${ambassadorInfo.earnAmount} pontos de criador / ${ambassadorInfo.earnInterval}"
 
 #. i18n: keyword: CreatorTiersGlossary
 msgid "Higher Creator Tiers get you more points"
-msgstr ""
+msgstr "Níveis mais altos de Criador garantem mais pontos."
 
 #. i18n: keyword: CreatorTier
 msgid "Creator Tier"
-msgstr ""
+msgstr "Nível de Criador"
 
 #. i18n: keyword: CreatorRewardCost
 msgid "Cost"
-msgstr ""
+msgstr "Custo"
 
 #. i18n: keyword: CreatorProgramShortDescription
 msgid "As a content creator, you can apply for the Klei Creator program here."
-msgstr ""
+msgstr "Como criador de conteúdo, você pode se inscrever no programa Klei Creator aqui."
 
 #. i18n: keyword: CreatorProgramDescription
 msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Creator program. Once your application is sent, please give us some time to review it."
-msgstr ""
+msgstr "Vincule pelo menos uma conta externa abaixo. Se o seu canal se qualificar, você poderá se inscrever no programa Klei Creator. Após enviar sua inscrição, por favor, aguarde enquanto a revisamos."
 
 #. i18n: keyword: CreatorProgramPleaseLinkAccount
 msgid "Please link at least one external account."
-msgstr ""
+msgstr "Por favor, vincule pelo menos uma conta externa."
 
 #. i18n: keyword: CreatorProgramRequirementsNotMet
 msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
-msgstr ""
+msgstr "Atualmente, você não atende aos requisitos para a inscrição. Por favor, vincule mais contas ou tente novamente em outro momento."
 
 #. i18n: keyword: CreatorProgramRequirementsMet
 msgid "You qualify for the Creator Program!"
-msgstr ""
+msgstr "Você se qualifica para o Programa de Criadores!"
 
 #. i18n: keyword: CreatorProgramTellUsAboutYourself
 msgid "Please tell us a bit about yourself:"
-msgstr ""
+msgstr "Por favor, conte-nos um pouco sobre você:"
 
 #. i18n: keyword: CreatorProgramApplySuccess
 msgid "Your application was submitted! It will be reviewed soon."
-msgstr ""
+msgstr "Sua inscrição foi enviada e será revisada em breve!."
 
 #. i18n: keyword: CreatorProgramApproved
 msgid "Your application has been approved and you're now a Klei Creator!"
-msgstr ""
+msgstr "Sua inscrição foi aprovada e agora você é um Klei Creator!"
 
 #. i18n: keyword: CreatorProgramRejected
 msgid "Your last application has been denied. You can try again in <b>{{ .Data.CooldownDays }} days</b>."
-msgstr ""
+msgstr "Sua última inscrição foi negada. Você pode tentar novamente em <b>{{ .Data.CooldownDays }} dias</b>."
 
 #. i18n: keyword: CreatorProgramPending
 msgid "You have already submitted an application, it is currently being reviewed."
-msgstr ""
+msgstr "Você já enviou uma inscrição, ela está sendo revisada no momento."
 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
-msgstr ""
+msgstr "Resgate bem-sucedido! Um e-mail foi enviado para <b>{{ .Data.Email }}</b> com seus códigos."
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -2215,7 +2215,7 @@ msgstr "Sua Conta Klei já foi desconectada do Google. Se você acredita que a c
 
 #. i18n: keyword: E_GOOGLE_NO_YOUTUBE_CHANNEL
 msgid "This Google account has no YouTube channel associated with it."
-msgstr ""
+msgstr "Esta conta do Google não está associada a um canal no YouTube."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
@@ -2263,15 +2263,15 @@ msgstr "Esta transação não pode ser revertida."
 
 #. i18n: keyword: E_USER_NOT_QUALIFIED_FOR_CREATOR
 msgid "You currently do not meet the requirements for application to the Creator Program."
-msgstr ""
+msgstr "Atualmente, você não atende aos requisitos para se inscrever no Programa de Criadores."
 
 #. i18n: keyword: E_CREATOR_INVALID_SELF_DESCRIPTION
 msgid "The self description field was either empty or exceeded the max character count."
-msgstr ""
+msgstr "O campo de descrição pessoal estava vazio ou excedeu o limite máximo de caracteres."
 
 #. i18n: keyword: E_INVALID_YOUTUBE_CHANNELID
 msgid "Invalid YouTube channel ID"
-msgstr ""
+msgstr "ID do canal do YouTube inválido."
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
