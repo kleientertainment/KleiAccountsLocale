@@ -2273,6 +2273,10 @@ msgstr "O campo de descrição pessoal estava vazio ou excedeu o limite máximo 
 msgid "Invalid YouTube channel ID"
 msgstr "ID do canal do YouTube inválido."
 
+#. i18n: keyword: E_INVALID_QUANTITY
+msgid "The quantity entered is invalid"
+msgstr ""
+
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
 msgstr "${dropInfo.GameName} drops recebidos"

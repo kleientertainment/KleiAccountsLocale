@@ -1637,6 +1637,7 @@ msgstr ""
 msgid "The token used to redeem the gift code has a different purpose."
 msgstr ""
 
+
 #. i18n: keyword: Facebook
 msgid "Facebook"
 msgstr ""
@@ -2283,6 +2284,10 @@ msgstr ""
 
 #. i18n: keyword: E_INVALID_YOUTUBE_CHANNELID
 msgid "Invalid YouTube channel ID"
+msgstr ""
+
+#. i18n: keyword: E_INVALID_QUANTITY
+msgid "The quantity entered is invalid"
 msgstr ""
 
 #. i18n: keyword: GameDropsEarned
