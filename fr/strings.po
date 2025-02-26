@@ -2029,6 +2029,10 @@ msgstr "Vous devez avoir au moins 13 ans pour vous inscrire."
 msgid "Invalid date of birth, date must be in this format: YYYY-MM-DD"
 msgstr "Date de naissance non valide, la date doit être dans ce format: AAAA-MM-JJ"
 
+#. i18n: keyword: E_TWITCH_NO_REFRESH_TOKEN
+msgid "Twitch refresh token is missing, please unlink and re-link your Twitch account and try again."
+msgstr ""
+
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
 msgstr "Twitch a rejeté votre demande de connexion; ceci est souvent un problème temporaire dans les serveurs d'authentification Twitch. Merci de <a href='/account/twitch/link'>réessayer</a> dans quelques minutes."
