@@ -889,6 +889,30 @@ msgstr "Meu principal foco é a criação de conteúdo para o YouTube."
 msgid "<p>Please provide the Channel ID of your YouTube channel below.<br>The instructions to find your YouTube Channel ID are <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">here.</a></p><p><b>The email address listed in your YouTube \"About\" page must be the same as the verified email address for your Klei Account.</b></p>"
 msgstr "<p>Por favor, forneça o ID do Canal do seu canal no YouTube abaixo.<br>As instruções para encontrar o ID do seu canal no YouTube estão <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">aqui.</a></p><p><b>O endereço de e-mail listado na página \"Sobre\" do seu YouTube deve ser o mesmo que o endereço de e-mail verificado na sua conta Klei.</b></p>"
 
+#. i18n: keyword: CreatorBilibiliVerificationStepsDesc
+msgid "Please follow the steps below to verify your Bilibili account:"
+msgstr ""
+
+#. i18n: keyword: CreatorBilibiliVerificationStep1
+msgid "Provide a link to your Bilibili profile"
+msgstr ""
+
+#. i18n: keyword: CreatorBilibiliVerificationStep2
+msgid "Put the following code in the description of your Bilibili profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
+msgstr ""
+
+#. i18n: keyword: CreatorDouyuVerificationStepsDesc
+msgid "Please follow the steps below to verify your Douyu account:"
+msgstr ""
+
+#. i18n: keyword: CreatorDouyuVerificationStep1
+msgid "Provide a link to your Douyu profile"
+msgstr ""
+
+#. i18n: keyword: CreatorDouyuVerificationStep2
+msgid "Put the following code in the description of your Douyu profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
+msgstr ""
+
 #. i18n: keyword: ChannelID
 msgid "Channel ID"
 msgstr "ID do Canal"
