@@ -474,12 +474,12 @@ msgid "Continue"
 msgstr "Продолжить"
 
 #. i18n: keyword: ProviderConnectedTitle
-msgid "Account Linked"
-msgstr "Учётная запись привязана"
+msgid "Connected"
+msgstr "Связано"
 
 #. i18n: keyword: ProviderConnectedID
-msgid "External account ID:"
-msgstr "ID внешней учётной записи:"
+msgid "ID:"
+msgstr "ID:"
 
 #. i18n: keyword: ProviderNotConnected
 msgid "Not connected"
@@ -1020,6 +1020,10 @@ msgstr "Вы уже подали заявку, в настоящее время 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
 msgstr "Успешно получено! На <b>{{ .Data.Email }}<b> отправлено электронное письмо с вашими кодами."
+
+#. i18n: keyword: AccountLinkedTitle
+msgid "Account Linked"
+msgstr "Учётная запись привязана"
 
 #. i18n: keyword: MyGames
 msgid "My Games"
