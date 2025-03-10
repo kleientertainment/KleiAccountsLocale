@@ -474,16 +474,16 @@ msgid "Continue"
 msgstr "Continuar"
 
 #. i18n: keyword: ProviderConnectedTitle
-msgid "Account Linked"
-msgstr ""
+msgid "Connected"
+msgstr "Conectado"
 
 #. i18n: keyword: ProviderConnectedID
-msgid "External account ID:"
-msgstr ""
+msgid "ID:"
+msgstr "ID:"
 
 #. i18n: keyword: ProviderNotConnected
 msgid "Not connected"
-msgstr ""
+msgstr "Desconectado"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -1019,6 +1019,10 @@ msgstr ""
 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
+msgstr ""
+
+#. i18n: keyword: AccountLinkedTitle
+msgid "Account Linked"
 msgstr ""
 
 #. i18n: keyword: MyGames

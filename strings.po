@@ -1021,15 +1021,7 @@ msgstr ""
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
 msgstr ""
 
-#. i18n: keyword: MoreInfo
-msgid "More Info"
-msgstr ""
-
-#. i18n: keyword: ProviderConnectedID
-msgid "External account ID:"
-msgstr ""
-
-#. i18n: keyword: ProviderConnectedTitle
+#. i18n: keyword: AccountLinkedTitle
 msgid "Account Linked"
 msgstr ""
 

@@ -474,11 +474,10 @@ msgid "Continue"
 msgstr ""
 
 #. i18n: keyword: ProviderConnectedTitle
-msgid "Account Linked"
+msgid "Connected"
 msgstr ""
-
 #. i18n: keyword: ProviderConnectedID
-msgid "External account ID:"
+msgid "ID:"
 msgstr ""
 
 #. i18n: keyword: ProviderNotConnected
@@ -1019,6 +1018,10 @@ msgstr ""
 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
+msgstr ""
+
+#. i18n: keyword: AccountLinkedTitle
+msgid "Account Linked"
 msgstr ""
 
 #. i18n: keyword: MyGames

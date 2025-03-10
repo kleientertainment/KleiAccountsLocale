@@ -474,12 +474,12 @@ msgid "Continue"
 msgstr "继续"
 
 #. i18n: keyword: ProviderConnectedTitle
-msgid "Account Linked"
-msgstr "已关联账户"
+msgid "Connected"
+msgstr "已连接"
 
 #. i18n: keyword: ProviderConnectedID
 msgid "External account ID:"
-msgstr "外部账户 ID："
+msgstr "ID："
 
 #. i18n: keyword: ProviderNotConnected
 msgid "Not connected"
@@ -1021,6 +1021,10 @@ msgstr "您已经提交了申请，目前正在审核中。"
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
 msgstr "成功申请！我们已向 <b>{{ .Data.Email }}<b> 发送了一封电子邮件，其中包含您的代码。"
 
+#. i18n: keyword: AccountLinkedTitle
+msgid "Account Linked"
+msgstr "已关联账户"
+
 #. i18n: keyword: MyGames
 msgid "My Games"
 msgstr "我的游戏"
@@ -1472,6 +1476,7 @@ msgstr "<a href='/account/settings' target='_blank'>设置您的邮箱地址</a>
 #. i18n: keyword: RewardMessageMerge
 msgid "<a href='/account/merge' target='_blank'>Merge an account</a> to claim this reward."
 msgstr "<a href='/account/merge' target='_blank'>合并您的账户</a>以获得此奖励。"
+
 #. i18n: keyword: RewardItemCost
 msgid "Cost"
 msgstr "物品需要"
@@ -1547,6 +1552,7 @@ msgstr "输入你的礼品码"
 #. i18n: keyword: GiftRedemptionSubmitButton
 msgid "Redeem Code"
 msgstr "兑换码"
+
 #. i18n: keyword: GiftRedemptionSuccess
 msgid "Congratulations! Redemption of gift code <b>{{ .Data.Code }}</b> was a success.</p><p>Delivery-time variable due to temporal portal anomalies. Klei is not responsible for emotional injuries caused by waiting. Gifts may result in bragging, unsuspected delight and/or enhanced gameplay experience."
 msgstr "恭喜！礼品兑换码<b>{{ .Data.Code }}</b>是正确的。</p><p>由于时空门的异常，交货时间不固定。Klei对因等待而造成的精神伤害不负责任。礼物可能导致吹嘘、意想不到的喜悦亦或增强游戏体验。"
