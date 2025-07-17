@@ -63,7 +63,7 @@ msgstr "獎勵"
 
 #. i18n: keyword: Transactions
 msgid "Transactions"
-msgstr ""
+msgstr "交易紀錄"
 
 #. i18n: keyword: Settings
 msgid "Settings"
@@ -379,7 +379,7 @@ msgstr "年"
 
 #. i18n: keyword: ChangeBirthday
 msgid "Change Birthday"
-msgstr "更改出生日期"
+msgstr "修改出生日期"
 
 #. i18n: keyword: ChangeBirthdayDescription
 msgid "To comply with ESRB and PEGI communication standards, we are required to know your age to ensure we are sending only age appropriate content."
@@ -387,7 +387,7 @@ msgstr "為遵守 ESRB 與 PEGI 溝通標準，我們需要取得您的年齡資
 
 #. i18n: keyword: ChangeBirthdayDone
 msgid "Birthday successfully changed!"
-msgstr "已成功更改出生日期！"
+msgstr "出生日期變更成功！"
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -831,199 +831,199 @@ msgstr "取消"
 
 #. i18n: keyword: ExportData
 msgid "Export Data"
-msgstr ""
+msgstr "匯出資料"
 
 #. i18n: keyword: ExportDataShortDescription
 msgid "We can arrange for a report of your account details as controlled by Klei."
-msgstr ""
+msgstr "我們可以為您提供一份由 Klei 管理的帳號資料報告。"
 
 #. i18n: keyword: CreatorProgram
 msgid "Creator Program"
-msgstr ""
+msgstr "創作者計畫"
 
 #. i18n: keyword: CreatorProgramInfoHeader
 msgid "Creator Program Info and Consent"
-msgstr ""
+msgstr "創作者計畫內容及需知"
 
 #. i18n: keyword: CreatorProgramInfoDescription
 msgid "Thank you for your interest in the Klei Creator Program.<p>The Klei Creator Program is intended to provide a way for us to thank content creators for their support by helping them engage with their fans when creating content centered around our games.</p><p>This program is intended for creators of all sizes; however, to maintain the program's intention, we ask that creators be reasonably established in the community before participating.</p><p>For more general information about the Creator Program and what it offers, please check out our <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>article here</a>.</p>"
-msgstr ""
+msgstr "感謝您對 Klei 創作者計畫的關注。<p>Klei 創作者計畫的設立，是為了感謝內容創作者對我們的支持，並協助他們在製作以我們遊戲為主題的內容時，能更順利與粉絲互動。</p><p>此計劃面向各種規模的創作者；然而，為了維護該計劃的初衷，我們要求創作者在參與之前在社區中擁有一定的知名度。</p><p>如需了解有關創作者計劃及其內容的更多資訊，請查看<a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>此處的文章</a>。</p>"
 
 #. i18n: keyword: CreatorProgramInfoConsent
 msgid "If you would like to apply, please confirm the following."
-msgstr ""
+msgstr "如果您想申請，請確認以下內容。"
 
 #. i18n: keyword: CreatorProgramInfoConsentItem1
 msgid "You understand that benefits provided by the Creator Program are not guaranteed and may be discontinued at any time."
-msgstr ""
+msgstr "您了解創作者計畫所提供的福利不具有保證，並可能隨時終止。"
 
 #. i18n: keyword: CreatorProgramInfoConsentItem2
 msgid "You understand that participation in the Creator Program is not an endorsement nor does it constitute a business relationship with Klei Entertainment."
-msgstr ""
+msgstr "您了解參與創作者計畫並不代表認可，也不構成與 Klei Entertainment 的業務關係。"
 
 #. i18n: keyword: CreatorProgramInfoConsentItem3
 msgid "You understand that you are to remain a community member in good standing and while not bound by Klei’s Community Guidelines, you will act in good faith with other community members and Creators."
-msgstr ""
+msgstr "您了解參加本創作者計畫並不等同於 Klei Entertainment 的推薦，亦不視為雙方之間建立任何商業關係。"
 
 #. i18n: keyword: CreatorProgramInfoConsentItem4
 msgid "Klei expects nothing in return as a member of the program. However, we do expect members to act in good faith and may remove benefits from the program if we believe the program is being misused or your behavior is harmful to the community."
-msgstr ""
+msgstr "作為該計劃的參與方，Klei 不期望任何回報。但是，我們期望成員秉持誠信原則，如果我們認為該計劃被濫用或您的行為對社區造成危害，我們可能會取消您的計劃權益。"
 
 #. i18n: keyword: CreatorProgramSignupInfo
 msgid "When you sign up, we will review your application. If approved, you will be added to our program and provided a link to the Creator Discord server where you can find additional information about the program."
-msgstr ""
+msgstr "當您申請加入後，我們會審核您的申請。如果獲得批准，您將被添加到我們的計劃中，並獲得一個 Creator Discord 伺服器鏈接，您可以在 Creator Discord 伺服器中找到有關該計劃的更多資訊。"
 
 #. i18n: keyword: CreatorProgramSignupAgree
 msgid "I understand and agree. I would like to sign-up."
-msgstr ""
+msgstr "我已了解並同意相關內容，想要申請加入。"
 
 #. i18n: keyword: CreatorProgramApplyButton
 msgid "Apply"
-msgstr ""
+msgstr "申請加入"
 
 #. i18n: keyword: CreatorYouTubeContentCheck
 msgid "I mainly provide YouTube content"
-msgstr ""
+msgstr "我主要提供 YouTube 內容"
 
 #. i18n: keyword: CreatorYouTubeInfo
 msgid "<p>Please provide the Channel ID of your YouTube channel below.<br>The instructions to find your YouTube Channel ID are <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">here.</a></p><p><b>The email address listed in your YouTube \"About\" page must be the same as the verified email address for your Klei Account.</b></p>"
-msgstr ""
+msgstr "<p>請在下方提供您的 YouTube 頻道 ID。<br>有關如何找到您的 YouTube 頻道 ID 的說明，請參閱<a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">此處</a>。</p><p><b>您的 YouTube「關於」頁面中列出的電子郵件地址必須與您的 Klei 帳戶中已驗證的電子郵件地址相同。</b></p>"
 
 #. i18n: keyword: CreatorBilibiliVerificationStepsDesc
 msgid "Please follow the steps below to verify your Bilibili account:"
-msgstr ""
+msgstr "請依照下列步驟驗證您的 Bilibili 帳號："
 
 #. i18n: keyword: CreatorBilibiliVerificationStep1
 msgid "Provide a link to your Bilibili profile"
-msgstr ""
+msgstr "提供您的 Bilibili 個人資料鏈結"
 
 #. i18n: keyword: CreatorBilibiliVerificationStep2
 msgid "Put the following code in the description of your Bilibili profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
-msgstr ""
+msgstr "在您的 Bilibili 個人資料描述中輸入以下代碼：<b>${verificationCode}</b>（您的申請獲得批准後，您可以刪除此代碼）"
 
 #. i18n: keyword: CreatorDouyuVerificationStepsDesc
 msgid "Please follow the steps below to verify your Douyu account:"
-msgstr ""
+msgstr "請依照以下步驟驗證您的鬥魚帳號："
 
 #. i18n: keyword: CreatorDouyuVerificationStep1
 msgid "Provide a link to your Douyu profile"
-msgstr ""
+msgstr "提供您的鬥魚個人資料鏈結"
 
 #. i18n: keyword: CreatorDouyuVerificationStep2
 msgid "Put the following code in the description of your Douyu profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
-msgstr ""
+msgstr "在您的鬥魚個人資料描述中輸入以下代碼：<b>${verificationCode}</b>（您的申請獲得批准後，您可以刪除此代碼）"
 
 #. i18n: keyword: ChannelID
 msgid "Channel ID"
-msgstr ""
+msgstr "頻道 ID"
 
 #. i18n: keyword: Limit
 msgid "Limit"
-msgstr ""
+msgstr "限制"
 
 #. i18n: keyword: Available
 msgid "Available"
-msgstr ""
+msgstr "可用"
 
 #. i18n: keyword: MoreInfo
 msgid "More Info"
-msgstr ""
+msgstr "更多資訊"
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
-msgstr ""
+msgstr "看來您已在不到 24 小時前下載了您的資料。<br><br>請等到明天再下載另一份資料副本。<br><br>感謝您的耐心等待。"
 
 #. i18n: keyword: DownloadData
 msgid "Download Data"
-msgstr ""
+msgstr "下載資料"
 
 #. i18n: keyword: DownloadingData
 msgid "Downloading Data..."
-msgstr ""
+msgstr "下載資料中…"
 
 #. i18n: keyword: CreatorHubTitle
 msgid "Creator Hub"
-msgstr ""
+msgstr "創作者中心"
 
 #. i18n: keyword: CreatorRewardRedeem
 msgid "Redeem"
-msgstr ""
+msgstr "兌換"
 
 #. i18n: keyword: CreatorDescription
 msgid "Redeem creator rewards"
-msgstr ""
+msgstr "兌換創作者獎勵"
 
 #. i18n: keyword: CreatorPointsGlossary
 msgid "Creator Points are used to redeem skins and codes"
-msgstr ""
+msgstr "創作者積分可用於兌換皮膚和代碼"
 
 #. i18n: keyword: CreatorPoints
 msgid "Creator Points"
-msgstr ""
+msgstr "創作者積分"
 
 #. i18n: keyword: CreatorPointsEarn
 msgid "Earn: ${ambassadorInfo.earnAmount} creator points / ${ambassadorInfo.earnInterval}"
-msgstr ""
+msgstr "賺取：${ambassadorInfo.earnAmount} 創作者積分 / ${ambassadorInfo.earnInterval}"
 
 #. i18n: keyword: CreatorTiersGlossary
 msgid "Higher Creator Tiers get you more points"
-msgstr ""
+msgstr "更高的創作者等級可讓您獲得更多積分"
 
 #. i18n: keyword: CreatorTier
 msgid "Creator Tier"
-msgstr ""
+msgstr "創作者等級"
 
 #. i18n: keyword: CreatorRewardCost
 msgid "Cost"
-msgstr ""
+msgstr "物品需要"
 
 #. i18n: keyword: CreatorProgramShortDescription
 msgid "As a content creator, you can apply for the Klei Creator program here."
-msgstr ""
+msgstr "作為內容創作者，您可以在此處申請 Klei 創作者計劃。"
 
 #. i18n: keyword: CreatorProgramDescription
 msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Creator program. Once your application is sent, please give us some time to review it."
-msgstr ""
+msgstr "請在下方連結至少一個外部帳號。如果您的頻道符合條件，您可以申請加入 Klei 創作者計劃。提交申請後，我們需要一些時間進行審核。"
 
 #. i18n: keyword: CreatorProgramPleaseLinkAccount
 msgid "Please link at least one external account."
-msgstr ""
+msgstr "請連結至少一個外部帳號。"
 
 #. i18n: keyword: CreatorProgramRequirementsNotMet
 msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
-msgstr ""
+msgstr "您目前不符合申請條件，請連結更多帳號或稍後重試。"
 
 #. i18n: keyword: CreatorProgramRequirementsMet
 msgid "You qualify for the Creator Program!"
-msgstr ""
+msgstr "您符合創作者計畫的資格！"
 
 #. i18n: keyword: CreatorProgramTellUsAboutYourself
 msgid "Please tell us a bit about yourself:"
-msgstr ""
+msgstr "請簡單介紹一下您自己："
 
 #. i18n: keyword: CreatorProgramApplySuccess
 msgid "Your application was submitted! It will be reviewed soon."
-msgstr ""
+msgstr "您的申請已提交！我們將很快進行審核。"
 
 #. i18n: keyword: CreatorProgramApproved
 msgid "Your application has been approved and you're now a Klei Creator!"
-msgstr ""
+msgstr "您的申請已獲批准，恭喜您成為 Klei 創作者！"
 
 #. i18n: keyword: CreatorProgramRejected
 msgid "Your last application has been denied. You can try again in <b>{{ .Data.CooldownDays }} days</b>."
-msgstr ""
+msgstr "您的上一次申請已被拒絕。您可以在 <b>{{ .Data.CooldownDays }} 天</b>後重試。"
 
 #. i18n: keyword: CreatorProgramPending
 msgid "You have already submitted an application, it is currently being reviewed."
-msgstr ""
+msgstr "您已經提交申請，目前正在審核中。"
 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
-msgstr ""
+msgstr "已成功領取！包含您的代碼的電子郵件已傳送至 <b>{{ .Data.Email }}</b>。"
 
 #. i18n: keyword: AccountLinkedTitle
 msgid "Account Linked"
-msgstr ""
+msgstr "已連結的帳戶"
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -1047,7 +1047,7 @@ msgstr "獲取 DRM-free 遊戲"
 
 #. i18n: keyword: DRMFreeGameKey
 msgid "DRM Game Key"
-msgstr ""
+msgstr "DRM 遊戲金鑰"
 
 #. i18n: keyword: DRMFreeDownload
 msgid "DRM-Free Download"
@@ -1059,7 +1059,7 @@ msgstr "您可以在 DRM-free 下載這個遊戲。更多資料詳見 <a href=\"
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
-msgstr ""
+msgstr "錯誤：您似乎沒有任何適用的遊戲。"
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
