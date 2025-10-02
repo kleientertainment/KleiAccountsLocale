@@ -2529,10 +2529,6 @@ msgstr ""
 msgid "Trade Inn"
 msgstr ""
 
-#. i18n: keyword: TXN_ARG_POINTS_REWARD
-msgid "ARG Points Reward"
-msgstr ""
-
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "可於市集販售"

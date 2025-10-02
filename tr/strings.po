@@ -2529,10 +2529,6 @@ msgstr "Klei Destek Verilmiş Öğe"
 msgid "Trade Inn"
 msgstr ""
 
-#. i18n: keyword: TXN_ARG_POINTS_REWARD
-msgid "ARG Points Reward"
-msgstr ""
-
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "Pazarlanabilir"
