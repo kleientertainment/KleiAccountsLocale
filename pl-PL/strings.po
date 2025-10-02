@@ -2529,6 +2529,10 @@ msgstr "Produkt wydany przez wsparcie Klei"
 msgid "Trade Inn"
 msgstr ""
 
+#. i18n: keyword: TXN_ARG_POINTS_REWARD
+msgid "ARG Points Reward"
+msgstr ""
+
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "Nadające się do sprzedaży"

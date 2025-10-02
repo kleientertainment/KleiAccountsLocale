@@ -476,6 +476,7 @@ msgstr "Працягнуць"
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
 msgstr "Злучана"
+
 #. i18n: keyword: ProviderConnectedID
 msgid "ID:"
 msgstr "Ідэнтыфікацыяны нумар"
@@ -618,7 +619,7 @@ msgstr "Працягнуць аб'яднанне"
 
 #. i18n: keyword: ContinueMergeDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>, you will not be able to log in until the merge has been completed.<br>Please click the button below to continue merging."
-msgstr "Ваш ўліковы запіс знаходзіцца ў працэсе аб'яднання <b>{{ .Data.SourceKU }}</b> у <b>{{ .Data.DestinationKU }}</b>, вы не зможыце ўвайсці, пакуль аб'яднанне не будзе завершана.<br>Калі ласка, націсніце на кнопку ніжэй, каб працягнуць аб'яднанне.""
+msgstr "Ваш ўліковы запіс знаходзіцца ў працэсе аб'яднання <b>{{ .Data.SourceKU }}</b> у <b>{{ .Data.DestinationKU }}</b>, вы не зможыце ўвайсці, пакуль аб'яднанне не будзе завершана.<br>Калі ласка, націсніце на кнопку ніжэй, каб працягнуць аб'яднанне."
 
 #. i18n: keyword: ContinueMergeShortDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
@@ -770,7 +771,7 @@ msgstr "Усталюеце сцяжкі для пацверджання таго
 
 #. i18n: keyword: DeleteAccountOptionsProgress
 msgid "Delete my progress in Klei games"
-msgstr Выдаліць мой прагрэс у гульнях Klei"
+msgstr "Выдаліць мой прагрэс у гульнях Klei"
 
 #. i18n: keyword: DeleteAccountOptionsInventory
 msgid "Delete all the items in my game inventory"
@@ -1318,7 +1319,7 @@ msgstr "Узнагарода"
 
 #. i18n: keyword: GiftCodeRedeemTitle
 msgid "Redeem a Gift Code"
-msgstr Скарыстаць падарункавы код"
+msgstr "Скарыстаць падарункавы код"
 
 #. i18n: keyword: GiftCodeRedeemDesc
 msgid "If you have an item key or gift code, you can redeem it below."
@@ -2526,6 +2527,10 @@ msgstr ""
 
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
+msgstr ""
+
+#. i18n: keyword: TXN_ARG_POINTS_REWARD
+msgid "ARG Points Reward"
 msgstr ""
 
 #. i18n: keyword: Marketable
