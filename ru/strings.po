@@ -2529,6 +2529,10 @@ msgstr "Обращение в поддержку Klei"
 msgid "Trade Inn"
 msgstr "Обменник"
 
+#. i18n: keyword: TXN_ARG_POINTS_REWARD
+msgid "ARG Points Reward"
+msgstr ""
+
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "Можно продать"

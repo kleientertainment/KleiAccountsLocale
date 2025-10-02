@@ -2529,6 +2529,10 @@ msgstr "Item Emitido pelo Suporte da Klei"
 msgid "Trade Inn"
 msgstr "Estação de Trocas"
 
+#. i18n: keyword: TXN_ARG_POINTS_REWARD
+msgid "ARG Points Reward"
+msgstr ""
+
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "Comercializável"
