@@ -2525,6 +2525,10 @@ msgstr "Klei客服发出的货币"
 msgid "Klei Support Issued Item"
 msgstr "Klei客服发出的道具"
 
+#. i18n: keyword: TXN_LORE_INTERACTION
+msgid "Lore Interaction"
+msgstr ""
+
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
 msgstr "交易小店"
