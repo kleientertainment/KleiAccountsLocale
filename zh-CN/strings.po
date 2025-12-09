@@ -2700,3 +2700,51 @@ msgstr "对您账户的禁用是不可逆的。"
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
 msgstr "哦不！您似乎点击了一个残缺的链接。您可能需要再次授权。"
+
+#. i18n: keyword: E_CREATOR_ALREADY_REFERRED
+msgid "You have already submitted a recommendation for this creator."
+msgstr ""
+
+#. i18n: keyword: E_CREATOR_REFERRAL_LIMIT_REACHED
+msgid "You have reached your recommendation limit. Please try again later."
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorLimitTitle
+msgid "Creator Recommendation Limit Reached"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorLimitDescription
+msgid "You have reached your recommendation limit. You can submit a new recommendation in <b>{{ .Data.CooldownDays }} day(s)</b>."
+msgstr ""
+
+#. i18n: keyword: BackToCreatorPage
+msgid "Back To Creator Page"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorBtn
+msgid "Recommend"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorTitle
+msgid "Recommend A Creator"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorSuccessTitle
+msgid "Creator Recommendation Submitted"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorSuccessDescription
+msgid "You have successfully submitted your recommendation for <b>{{ .Data.ReferredCreator }}</b>!"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorSubmitBtn
+msgid "Submit"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorDescription
+msgid "Recommend a creator that you think would be a good fit for the program. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Click for Details)</a>"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorShortDesc
+msgid "Recommend a creator"
+msgstr ""
