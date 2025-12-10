@@ -487,7 +487,7 @@ msgstr "Não conectado"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
-msgstr "Esse processo vai autorizar uma conta Klei para se associar a multiplas plataformas. Isso serve para quando você tiver várias contas em diversas plataformas e quer que todas sejam linkadas a uma única conta Klei."
+msgstr "Esse processo vai autorizar uma conta Klei para se associar a múltiplas plataformas. Isso serve para quando você tiver várias contas em diversas plataformas e quer que todas estejam conectadas a uma única conta Klei."
 
 #. i18n: keyword: MergeAccountSelectDescription
 msgid "Please select the account you wish to keep. <b>You will lose your in-game progress on the other account.</b>"
