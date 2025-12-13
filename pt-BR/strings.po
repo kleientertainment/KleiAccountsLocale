@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2024-12-17 19:33-0300\n"
+"PO-Revision-Date: 2025-12-13 18:40-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -891,27 +891,27 @@ msgstr "<p>Por favor, forneça o ID do Canal do seu canal no YouTube abaixo.<br>
 
 #. i18n: keyword: CreatorBilibiliVerificationStepsDesc
 msgid "Please follow the steps below to verify your Bilibili account:"
-msgstr ""
+msgstr "Por favor, siga os passos abaixo para verificar sua conta do Bilibili:"
 
 #. i18n: keyword: CreatorBilibiliVerificationStep1
 msgid "Provide a link to your Bilibili profile"
-msgstr ""
+msgstr "Forneça um link para o seu perfil do Bilibili"
 
 #. i18n: keyword: CreatorBilibiliVerificationStep2
 msgid "Put the following code in the description of your Bilibili profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
-msgstr ""
+msgstr "Insira o seguinte código na descrição do seu perfil do Bilibili: <b>${verificationCode}</b> (Você pode remover este código depois que sua solicitação for aprovada)"
 
 #. i18n: keyword: CreatorDouyuVerificationStepsDesc
 msgid "Please follow the steps below to verify your Douyu account:"
-msgstr ""
+msgstr "Por favor, siga os passos abaixo para verificar sua conta do Douyu:"
 
 #. i18n: keyword: CreatorDouyuVerificationStep1
 msgid "Provide a link to your Douyu profile"
-msgstr ""
+msgstr "Forneça um link para o seu perfil Douyu"
 
 #. i18n: keyword: CreatorDouyuVerificationStep2
 msgid "Put the following code in the description of your Douyu profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
-msgstr ""
+msgstr "Insira o seguinte código na descrição do seu perfil do Douyu: <b>${verificationCode}</b> (Você pode remover este código depois que sua solicitação for aprovada)"
 
 #. i18n: keyword: ChannelID
 msgid "Channel ID"
@@ -2059,7 +2059,7 @@ msgstr "Data de nascimento inválida, a data deve estar neste formato: DD-MM-AAA
 
 #. i18n: keyword: E_TWITCH_NO_REFRESH_TOKEN
 msgid "Twitch refresh token is missing, please unlink and re-link your Twitch account and try again."
-msgstr ""
+msgstr "Token de atualização da Twitch não encontrado. Por favor, desvincule e vincule sua conta da Twitch e tente novamente."
 
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
@@ -2307,7 +2307,7 @@ msgstr "ID do canal do YouTube inválido."
 
 #. i18n: keyword: E_INVALID_QUANTITY
 msgid "The quantity entered is invalid"
-msgstr ""
+msgstr "A quantidade informada é inválida"
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
@@ -2527,7 +2527,7 @@ msgstr "Item Emitido pelo Suporte da Klei"
 
 #. i18n: keyword: TXN_LORE_INTERACTION
 msgid "Lore Interaction"
-msgstr ""
+msgstr "Interação de Lore"
 
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
@@ -2703,48 +2703,48 @@ msgstr "Ah não! Parece que você clicou em um link quebrado. Pode ser necessár
 
 #. i18n: keyword: E_CREATOR_ALREADY_REFERRED
 msgid "You have already submitted a recommendation for this creator."
-msgstr ""
+msgstr "Você já enviou uma recomendação para este criador."
 
 #. i18n: keyword: E_CREATOR_REFERRAL_LIMIT_REACHED
 msgid "You have reached your recommendation limit. Please try again later."
-msgstr ""
+msgstr "Você atingiu o limite de recomendações. Por favor, tente novamente mais tarde."
 
 #. i18n: keyword: RecommendCreatorLimitTitle
 msgid "Creator Recommendation Limit Reached"
-msgstr ""
+msgstr "Limite de Recomendações de Criadores atingido"
 
 #. i18n: keyword: RecommendCreatorLimitDescription
 msgid "You have reached your recommendation limit. You can submit a new recommendation in <b>{{ .Data.CooldownDays }} day(s)</b>."
-msgstr ""
+msgstr "Você atingiu o limite de recomendações. Você poderá enviar uma nova recomendação em <b>{{ .Data.CooldownDays }} dia(s)."
 
 #. i18n: keyword: BackToCreatorPage
 msgid "Back To Creator Page"
-msgstr ""
+msgstr "Voltar para a Página de Criador"
 
 #. i18n: keyword: RecommendCreatorBtn
 msgid "Recommend"
-msgstr ""
+msgstr "Recomendar"
 
 #. i18n: keyword: RecommendCreatorTitle
 msgid "Recommend A Creator"
-msgstr ""
+msgstr "Recomendar Um Criador"
 
 #. i18n: keyword: RecommendCreatorSuccessTitle
 msgid "Creator Recommendation Submitted"
-msgstr ""
+msgstr "Recomendação de Criador Enviada"
 
 #. i18n: keyword: RecommendCreatorSuccessDescription
 msgid "You have successfully submitted your recommendation for <b>{{ .Data.ReferredCreator }}</b>!"
-msgstr ""
+msgstr "Você enviou com sucesso a sua recomendação para <b>{{ .Data.ReferredCreator }}</b>!"
 
 #. i18n: keyword: RecommendCreatorSubmitBtn
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 #. i18n: keyword: RecommendCreatorDescription
 msgid "Recommend a creator that you think would be a good fit for the program. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Click for Details)</a>"
-msgstr ""
+msgstr "Recomende um criador que você considera ser uma boa opção para o programa. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Clique para mais Detalhes)</a>"
 
 #. i18n: keyword: RecommendCreatorShortDesc
 msgid "Recommend a creator"
-msgstr ""
+msgstr "Recomendar um criador"
