@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2023-04-28 10:51+0000\n"
+"PO-Revision-Date: 2025-03-07 23:35+0800\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Chinese Simplified (https://accounts.klei.com/community-translations)\n"
 "Language: zh\n"
@@ -51,11 +51,11 @@ msgstr "正在跳转…"
 
 #. i18n: keyword: GoToPreviousPage
 msgid "Go Back"
-msgstr "转到上一页"
+msgstr "上一页"
 
 #. i18n: keyword: Copyright
 msgid "&copy; All Rights Reserved Klei Entertainment"
-msgstr "&copy; Klei Entertainment保留所有权利"
+msgstr "&copy; 保留所有权利 Klei Entertainment"
 
 #. i18n: keyword: Rewards
 msgid "Rewards"
@@ -83,7 +83,7 @@ msgstr "语言"
 
 #. i18n: keyword: Support
 msgid "Support"
-msgstr "技术支援"
+msgstr "技术支持"
 
 #. i18n: keyword: VisitYourProfile
 msgid "Visit your Profile"
@@ -139,15 +139,15 @@ msgstr "十二月"
 
 #. i18n: keyword: Activate
 msgid "Activate"
-msgstr "启用"
+msgstr "激活"
 
 #. i18n: keyword: Activating
 msgid "Activating..."
-msgstr "激活正在进行中..."
+msgstr "激活中..."
 
 #. i18n: keyword: ActivateAccountTitle
 msgid "Activate Account"
-msgstr "账户注册"
+msgstr "注册账户"
 
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
@@ -159,7 +159,7 @@ msgstr "出生日期"
 
 #. i18n: keyword: NewsletterConsent
 msgid "I wish to sign-up for our newsletter"
-msgstr "我想要得到新的消息通知"
+msgstr "订阅消息通知"
 
 #. i18n: keyword: EULA
 msgid "I agree to the <a href=\"https://www.klei.com/games/dont-starve/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">EULA</a>"
@@ -183,7 +183,7 @@ msgstr "Steam账户"
 
 #. i18n: keyword: VerifyEmail
 msgid "Verify email"
-msgstr "验证"
+msgstr "验证邮箱"
 
 #. i18n: keyword: VerificationEmailSuccessTitle
 msgid "Verification Email Sent"
@@ -195,7 +195,7 @@ msgstr "我们已经给您的邮箱发送了一封验证邮件。请点击邮件
 
 #. i18n: keyword: VerificationEmailFailureTitle
 msgid "Invalid Verification"
-msgstr "无效验证"
+msgstr "无效的验证码"
 
 #. i18n: keyword: VerificationEmailFailureDescription
 msgid "Oops, it looks like the link you used to get here was invalid."
@@ -235,11 +235,11 @@ msgstr "登录"
 
 #. i18n: keyword: Logout
 msgid "Logout"
-msgstr "登出"
+msgstr "退出登录"
 
 #. i18n: keyword: LoginTitle
 msgid "Klei Account Log In"
-msgstr "Klei账户登录"
+msgstr "登录Klei账户"
 
 #. i18n: keyword: LoginDescription
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
@@ -255,7 +255,7 @@ msgstr "正在订阅..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr "获取 {{.GameName}} 的最新重要新闻和更新情报。我们不会发送很多邮件，并且会努力保证这些邮件的重要性。您可以随时从我们发送的任何邮件底部轻松取消订阅。同时您也可以关注我们的Twitter账号 <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a> 以获取最新情报！"
+msgstr "获取 {{.GameName}} 的最新重要新闻和更新情报。我们不会发送很多邮件，并且会努力保证这些邮件的重要性。您可以随时从我们发送的任何邮件底部轻松取消订阅。同时您也可以关注我们的Twitter账号 <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> 并且访问我们的 <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a> 官方论坛以获取最新情报！"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
@@ -291,7 +291,7 @@ msgstr "Klei社区"
 
 #. i18n: keyword: OpenForums
 msgid "Open Forums"
-msgstr "打开社区"
+msgstr "打开论坛"
 
 #. i18n: keyword: Newsletter
 msgid "Newsletter"
@@ -303,7 +303,7 @@ msgstr "编辑订阅内容"
 
 #. i18n: keyword: LearnMore
 msgid "Learn More"
-msgstr ""
+msgstr "了解更多"
 
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
@@ -323,7 +323,7 @@ msgstr "玩家标识符"
 
 #. i18n: keyword: UserNotFound
 msgid "user not found"
-msgstr "找不到用户"
+msgstr "未找到该用户"
 
 #. i18n: keyword: LinkedAccounts
 msgid "Linked Accounts"
@@ -355,7 +355,7 @@ msgstr "修改邮箱地址"
 
 #. i18n: keyword: ChangeEmailDescription
 msgid "This is the email associated with this account. It is what we use for important system alerts and account support."
-msgstr "我们会把关于您的账户或游戏的新消息和更新发送到该邮箱。"
+msgstr "此邮箱已与此账户关联，我们将通过该邮箱发送重要系统通知并提供账户支持服务。"
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "We have sent a verification code to your new email address to authorize the change."
@@ -363,31 +363,31 @@ msgstr "我们已将验证码发送到您的新邮箱以授权这项变更。"
 
 #. i18n: keyword: Profile
 msgid "Profile"
-msgstr ""
+msgstr "个人资料"
 
 #. i18n: keyword: Birthday
 msgid "Birthday"
-msgstr ""
+msgstr "生日"
 
 #. i18n: keyword: Month
 msgid "Month"
-msgstr ""
+msgstr "月"
 
 #. i18n: keyword: Year
 msgid "Year"
-msgstr ""
+msgstr "年"
 
 #. i18n: keyword: ChangeBirthday
 msgid "Change Birthday"
-msgstr ""
+msgstr "修改生日"
 
 #. i18n: keyword: ChangeBirthdayDescription
 msgid "To comply with ESRB and PEGI communication standards, we are required to know your age to ensure we are sending only age appropriate content."
-msgstr ""
+msgstr "为遵循ESRB及PEGI通信规范，我们需要获取您的年龄信息以确保发送内容符合适龄要求。"
 
 #. i18n: keyword: ChangeBirthdayDone
 msgid "Birthday successfully changed!"
-msgstr ""
+msgstr "生日已成功修改！"
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -411,7 +411,7 @@ msgstr "订阅选项"
 
 #. i18n: keyword: MarketingRequiresBirthday
 msgid "To edit marketing options, please set your birthday (in Profile)"
-msgstr ""
+msgstr "要编辑营销选项，请在个人资料中设置您的生日"
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
@@ -455,11 +455,11 @@ msgstr "解绑Discord账户"
 
 #. i18n: keyword: LinkAccountsTitle
 msgid "Link Accounts"
-msgstr ""
+msgstr "关联账户"
 
 #. i18n: keyword: LinkAccountsDescription
 msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
-msgstr ""
+msgstr "将您的 Klei 帐户链接到其他服务，如 Twitch、Bilibili、斗鱼和 Discord。"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -474,16 +474,16 @@ msgid "Continue"
 msgstr "继续"
 
 #. i18n: keyword: ProviderConnectedTitle
-msgid "Account Linked"
-msgstr ""
+msgid "Connected"
+msgstr "已连接"
 
 #. i18n: keyword: ProviderConnectedID
 msgid "External account ID:"
-msgstr ""
+msgstr "ID："
 
 #. i18n: keyword: ProviderNotConnected
 msgid "Not connected"
-msgstr ""
+msgstr "未连接"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -495,11 +495,11 @@ msgstr "请选择你想保留的账户。<b>你会失去在其他账户的游戏
 
 #. i18n: keyword: MergeAutoMergeInto
 msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
-msgstr ""
+msgstr "用户 <b>${userProfileA.data.KU}</b> 将会被合并到用户 <b>${userProfileB.data.KU}</b> 中"
 
 #. i18n: keyword: MergeAutoNoEmail
 msgid "Email not linked"
-msgstr ""
+msgstr "未链接的电子邮件"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -511,7 +511,7 @@ msgstr "同意问题"
 
 #. i18n: keyword: MergeConsent
 msgid "Consent"
-msgstr ""
+msgstr "同意书"
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -535,7 +535,7 @@ msgstr "账户合并成功。</p><p>我们已经清空了你的会话，你可�
 
 #. i18n: keyword: MergeAccountSuccessShortDescription
 msgid "The account merge operation was a success!"
-msgstr ""
+msgstr "账户合并操作成功！"
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -551,11 +551,11 @@ msgstr "科雷账户邮箱"
 
 #. i18n: keyword: MergeAccountKeepThis
 msgid "Keep this account"
-msgstr "保留这个账户"
+msgstr "保留此账户"
 
 #. i18n: keyword: MergeAccountMergeThis
 msgid "Merge this account"
-msgstr "合并这个账户"
+msgstr "合并该账户"
 
 #. i18n: keyword: MergeAccountCheckProfile
 msgid "Please double check this is the correct gaming account to merge."
@@ -611,7 +611,7 @@ msgstr "正在合并中"
 
 #. i18n: keyword: MergeInProgressDescription
 msgid "You have been logged out because an interruption occurred while account merging was in progress. Please log in again to try to continue merging."
-msgstr "你的账户已登出，因为在账户合并过程中出现了中断。请再次登录以尝试继续合并账户。"
+msgstr "你的账户已退出登录，因为在账户合并过程中出现了中断。请再次登录以尝试继续合并账户。"
 
 #. i18n: keyword: ContinueMergeTitle
 msgid "Continue Merge"
@@ -623,7 +623,7 @@ msgstr "你正在把<b>{{ .Data.SourceKU }}</b> 账户合并到<b>{{ .Data.Desti
 
 #. i18n: keyword: ContinueMergeShortDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
-msgstr ""
+msgstr "你正在把<b>{{ .Data.SourceKU }}</b> 账户合并到<b>{{ .Data.DestinationKU }}</b><br>请点击下方按钮继续合并。"
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -639,7 +639,7 @@ msgstr "“用户同意”无效，您需要非常仔细地阅读账户合并说
 
 #. i18n: keyword: E_ACCOUNT_MERGE_MISSING_DATA
 msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
-msgstr "由于某些数据丢失，现在无法合并您的账户。请登出并重新开始该操作。确保您的浏览器接受cookie，并且您要合并的两个账户是正确的。"
+msgstr "由于某些数据丢失，现在无法合并您的账户。请退出登录并重新开始该操作。确保您的浏览器接受cookie，并且您要合并的两个账户是正确的。"
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same email address and start the process again."
@@ -839,71 +839,95 @@ msgstr "我们可以整理一份由Klei控制的关于您账户详细内容的�
 
 #. i18n: keyword: CreatorProgram
 msgid "Creator Program"
-msgstr ""
+msgstr "创作者计划"
 
 #. i18n: keyword: CreatorProgramInfoHeader
 msgid "Creator Program Info and Consent"
-msgstr ""
+msgstr "创作者计划信息和同意书"
 
 #. i18n: keyword: CreatorProgramInfoDescription
 msgid "Thank you for your interest in the Klei Creator Program.<p>The Klei Creator Program is intended to provide a way for us to thank content creators for their support by helping them engage with their fans when creating content centered around our games.</p><p>This program is intended for creators of all sizes; however, to maintain the program's intention, we ask that creators be reasonably established in the community before participating.</p><p>For more general information about the Creator Program and what it offers, please check out our <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>article here</a>.</p>"
-msgstr ""
+msgstr "感谢您对 Klei 创作者计划的关注。<p>Klei 创作者计划旨在为我们提供一种方式，通过帮助内容创作者在创作以我们的游戏为中心的内容时与粉丝互动，感谢他们的支持。</p><p>本计划面向各种规模的创作者；但是，为了保持计划的初衷，我们要求创作者在参与之前在社区中已经有了一定的知名度。</p><p>有关 “创作者计划 ”及其内容的更多信息，请点击<a href='https://klei.gg/KleiAmbassadorInfo ' target='_blank' rel='noopener noreferrer'>此处</a>查看我们的文章。</p>"
 
 #. i18n: keyword: CreatorProgramInfoConsent
 msgid "If you would like to apply, please confirm the following."
-msgstr ""
+msgstr "如果您想申请，请确认以下内容。"
 
 #. i18n: keyword: CreatorProgramInfoConsentItem1
 msgid "You understand that benefits provided by the Creator Program are not guaranteed and may be discontinued at any time."
-msgstr ""
+msgstr "您了解，“创造者计划 ”提供的福利并无保证，可能随时终止。"
 
 #. i18n: keyword: CreatorProgramInfoConsentItem2
 msgid "You understand that participation in the Creator Program is not an endorsement nor does it constitute a business relationship with Klei Entertainment."
-msgstr ""
+msgstr "您了解参与创作者计划并不是对Klei Entertainment的认可，也不构成与Klei Entertainment的业务关系。"
 
 #. i18n: keyword: CreatorProgramInfoConsentItem3
 msgid "You understand that you are to remain a community member in good standing and while not bound by Klei’s Community Guidelines, you will act in good faith with other community members and Creators."
-msgstr ""
+msgstr "您了解您将保持良好的社区信誉，虽然不受Klei社区指南的约束，但您将与其他社区成员和创作者真诚合作。"
 
 #. i18n: keyword: CreatorProgramInfoConsentItem4
 msgid "Klei expects nothing in return as a member of the program. However, we do expect members to act in good faith and may remove benefits from the program if we believe the program is being misused or your behavior is harmful to the community."
-msgstr ""
+msgstr "作为项目成员，Klei 不期望任何回报。但是，我们希望会员能够诚信行事，如果我们认为该计划被滥用，或者您的行为对社区有害，我们可能会取消您的会员资格。"
 
 #. i18n: keyword: CreatorProgramSignupInfo
 msgid "When you sign up, we will review your application. If approved, you will be added to our program and provided a link to the Creator Discord server where you can find additional information about the program."
-msgstr ""
+msgstr "注册后，我们将审核您的申请。如果通过审核，您将被加入我们的计划，并获得创作者 Discord 服务器的链接，在那里您可以找到有关该计划的更多信息。"
 
 #. i18n: keyword: CreatorProgramSignupAgree
 msgid "I understand and agree. I would like to sign-up."
-msgstr ""
+msgstr "我理解并同意。我愿意注册。"
 
 #. i18n: keyword: CreatorProgramApplyButton
 msgid "Apply"
-msgstr ""
+msgstr "申请"
 
 #. i18n: keyword: CreatorYouTubeContentCheck
 msgid "I mainly provide YouTube content"
-msgstr ""
+msgstr "我主要提供 YouTube 内容"
 
 #. i18n: keyword: CreatorYouTubeInfo
 msgid "<p>Please provide the Channel ID of your YouTube channel below.<br>The instructions to find your YouTube Channel ID are <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">here.</a></p><p><b>The email address listed in your YouTube \"About\" page must be the same as the verified email address for your Klei Account.</b></p>"
-msgstr ""
+msgstr "<p>请在下面提供您的 YouTube 频道的频道 ID。<br>查找 YouTube 频道 ID 的说明在<a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">这里</a>。</p><p><b>您在YouTube “关于”页面中列出的电子邮件地址必须与您Klei账户的验证电子邮件地址相同。</b></p>"
+
+#. i18n: keyword: CreatorBilibiliVerificationStepsDesc
+msgid "Please follow the steps below to verify your Bilibili account:"
+msgstr "请按照以下步骤验证您的 Bilibili 账户："
+
+#. i18n: keyword: CreatorBilibiliVerificationStep1
+msgid "Provide a link to your Bilibili profile"
+msgstr "提供您的 Bilibili 简介链接"
+
+#. i18n: keyword: CreatorBilibiliVerificationStep2
+msgid "Put the following code in the description of your Bilibili profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
+msgstr "在您的 Bilibili 个人资料描述中输入以下代码：<b>${verificationCode}</b>（申请通过后，您可以删除此代码）"
+
+#. i18n: keyword: CreatorDouyuVerificationStepsDesc
+msgid "Please follow the steps below to verify your Douyu account:"
+msgstr "请按照以下步骤验证您的斗鱼账户："
+
+#. i18n: keyword: CreatorDouyuVerificationStep1
+msgid "Provide a link to your Douyu profile"
+msgstr "提供您的斗鱼个人主页链接"
+
+#. i18n: keyword: CreatorDouyuVerificationStep2
+msgid "Put the following code in the description of your Douyu profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
+msgstr "在您的斗鱼个人主页描述中输入以下代码：<b>${verificationCode}</b>（您可以在申请通过后删除此代码）"
 
 #. i18n: keyword: ChannelID
 msgid "Channel ID"
-msgstr ""
+msgstr "频道 ID"
 
 #. i18n: keyword: Limit
 msgid "Limit"
-msgstr ""
+msgstr "限制"
 
 #. i18n: keyword: Available
 msgid "Available"
-msgstr ""
+msgstr "可用"
 
 #. i18n: keyword: MoreInfo
 msgid "More Info"
-msgstr ""
+msgstr "更多信息"
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
@@ -919,83 +943,87 @@ msgstr "正在下载数据..."
 
 #. i18n: keyword: CreatorHubTitle
 msgid "Creator Hub"
-msgstr ""
+msgstr "创建者中心"
 
 #. i18n: keyword: CreatorRewardRedeem
 msgid "Redeem"
-msgstr ""
+msgstr "兑换"
 
 #. i18n: keyword: CreatorDescription
 msgid "Redeem creator rewards"
-msgstr ""
+msgstr "兑换创作者奖励"
 
 #. i18n: keyword: CreatorPointsGlossary
 msgid "Creator Points are used to redeem skins and codes"
-msgstr ""
+msgstr "创作者积分用于兑换皮肤和代码"
 
 #. i18n: keyword: CreatorPoints
 msgid "Creator Points"
-msgstr ""
+msgstr "创作者积分"
 
 #. i18n: keyword: CreatorPointsEarn
 msgid "Earn: ${ambassadorInfo.earnAmount} creator points / ${ambassadorInfo.earnInterval}"
-msgstr ""
+msgstr "赚取：${ambassadorInfo.earnAmount} 创作者积分 / ${ambassadorInfo.earnInterval}"
 
 #. i18n: keyword: CreatorTiersGlossary
 msgid "Higher Creator Tiers get you more points"
-msgstr ""
+msgstr "升级创作者等级可获更多积分"
 
 #. i18n: keyword: CreatorTier
 msgid "Creator Tier"
-msgstr ""
+msgstr "创作者等级"
 
 #. i18n: keyword: CreatorRewardCost
 msgid "Cost"
-msgstr ""
+msgstr "物品需要"
 
 #. i18n: keyword: CreatorProgramShortDescription
 msgid "As a content creator, you can apply for the Klei Creator program here."
-msgstr ""
+msgstr "作为内容创作者，您可以在此申请 Klei 创作者计划。"
 
 #. i18n: keyword: CreatorProgramDescription
 msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Creator program. Once your application is sent, please give us some time to review it."
-msgstr ""
+msgstr "在下方链接至少一个外部账户。如果您的频道符合条件，您可以申请 Klei 创作者计划。申请发送后，请给我们一些时间进行审核。"
 
 #. i18n: keyword: CreatorProgramPleaseLinkAccount
 msgid "Please link at least one external account."
-msgstr ""
+msgstr "请至少链接一个外部账户。"
 
 #. i18n: keyword: CreatorProgramRequirementsNotMet
 msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
-msgstr ""
+msgstr "您目前不符合申请要求。请链接更多账户或下次再试。"
 
 #. i18n: keyword: CreatorProgramRequirementsMet
 msgid "You qualify for the Creator Program!"
-msgstr ""
+msgstr "您符合 “创造者计划 ”的条件！"
 
 #. i18n: keyword: CreatorProgramTellUsAboutYourself
 msgid "Please tell us a bit about yourself:"
-msgstr ""
+msgstr "请向我们介绍一下您自己："
 
 #. i18n: keyword: CreatorProgramApplySuccess
 msgid "Your application was submitted! It will be reviewed soon."
-msgstr ""
+msgstr "您的申请已提交！将很快进行审核。"
 
 #. i18n: keyword: CreatorProgramApproved
 msgid "Your application has been approved and you're now a Klei Creator!"
-msgstr ""
+msgstr "您的申请已获批准，现在您已成为 Klei 创作者！"
 
 #. i18n: keyword: CreatorProgramRejected
 msgid "Your last application has been denied. You can try again in <b>{{ .Data.CooldownDays }} days</b>."
-msgstr ""
+msgstr "您的上次申请已被拒绝。您可以在 <b>{{ .Data.CooldownDays }} 天</b> 后再次尝试。"
 
 #. i18n: keyword: CreatorProgramPending
 msgid "You have already submitted an application, it is currently being reviewed."
-msgstr ""
+msgstr "您已经提交了申请，目前正在审核中。"
 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
-msgstr ""
+msgstr "成功申请！我们已向 <b>{{ .Data.Email }}<b> 发送了一封电子邮件，其中包含您的代码。"
+
+#. i18n: keyword: AccountLinkedTitle
+msgid "Account Linked"
+msgstr "已关联账户"
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -1027,7 +1055,7 @@ msgstr "无DRM版下载"
 
 #. i18n: keyword: DRMFreeDownloadDescription
 msgid "You can get a DRM-free download of this game. More information <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>here</a>."
-msgstr "您可以下载这个游戏的无DRM版。更多信息详见 <a href=\"/\">这里</a>。"
+msgstr "您可以下载这个游戏的无DRM版。更多信息详见 <a href='https://support.klei.com/hc/en-us/articles/360029557592-How-to-install-and-update-your-DRM-free-client' target='_blank' rel='noopener noreferrer'>这里</a>。"
 
 #. i18n: keyword: E_DRM_KEYS_NO_GAMES
 msgid "Error: You do not seem to own any elegible games."
@@ -1123,7 +1151,7 @@ msgstr "删除游戏服务器"
 
 #. i18n: keyword: DeleteGameServerConfirmation
 msgid "Are you sure you want to delete this server:"
-msgstr "你确定要删除这个服务器吗"
+msgstr "是否确定删除此服务器："
 
 #. i18n: keyword: RemoveServer
 msgid "Delete"
@@ -1239,7 +1267,7 @@ msgstr "测试即将到来的项目"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr "您可以申请您感兴趣的企划的alpha与beta测试资格。如果您被选中，您将会收到一封电子邮件。"
+msgstr "您可以申请您感兴趣的 alpha 和 beta 测试项目。如果您被选中，您将收到一封电子邮件。"
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -1291,15 +1319,15 @@ msgstr "奖励"
 
 #. i18n: keyword: GiftCodeRedeemTitle
 msgid "Redeem a Gift Code"
-msgstr ""
+msgstr "兑换礼品代码"
 
 #. i18n: keyword: GiftCodeRedeemDesc
 msgid "If you have an item key or gift code, you can redeem it below."
-msgstr ""
+msgstr "如果您有物品钥匙或礼品代码，可以在下面兑换。"
 
 #. i18n: keyword: GiftCodeRedeemButton
 msgid "Redeem Code"
-msgstr ""
+msgstr "兑换码"
 
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
@@ -1351,7 +1379,7 @@ msgstr "<b>线轴</b><br>线轴可以在游戏的珍宝柜中编织物品。"
 
 #. i18n: keyword: RewardBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>布卷</b><br>(仅限PlayStation and XBox)游戏商店中用来购买皮肤和套装的游戏货币。"
+msgstr "<b>布卷</b><br>(仅限PlayStation 和 XBox)游戏商店中用来购买皮肤和套装的游戏货币。"
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
@@ -1459,7 +1487,7 @@ msgstr "兑换"
 
 #. i18n: keyword: RewardItemReskins
 msgid "Reskins:"
-msgstr ""
+msgstr "外观重置："
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
@@ -1467,7 +1495,7 @@ msgstr "奖励名称："
 
 #. i18n: keyword: RewardLinkClaimedOn
 msgid "Claimed on:"
-msgstr ""
+msgstr "领取于："
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
@@ -1483,27 +1511,27 @@ msgstr "奖励链接已经被领取过了!"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>恭喜！</p><p>您在野外找到一个有效的奖励链接，包含<b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>您的余额将会立即更新。请参照 \"用户交易\" 页面来了解这项操作对你账户余额的影响。</p>"
+msgstr "<p>恭喜！</p><p>您已成功获取内含<b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>的随机奖励链接。</p><p>相关奖励已实时到账，请前往“用户交易”页面查看完整账户余额变动记录。</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionSpools
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
-msgstr "<p>恭喜！</p><p>您在野外找到一个有效的奖励链接，包含<b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>您将会在下次游玩时在游戏中找到它。请参照 \"用户交易\" 页面来了解这项操作对你账户余额的影响。</p>"
+msgstr "<p>恭喜！</p><p>您已成功获取内含<b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>的随机奖励链接。</p><p>该奖励将在您下次登录游戏时自动到账，具体资金变动请前往“用户交易”页面查看账户余额变动明细。</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionItem
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
-msgstr ""
+msgstr "<p>恭喜！</p><p>您已成功获取<b>{{.Data.ItemName}}</b>的随机奖励链接。</p><p>该物品将在您下次登录游戏时自动存入库存，具体操作详情请前往“用户交易”页面查看账户库存变动。</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionDefault
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.</p><p>Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
-msgstr ""
+msgstr "<p>恭喜！</p><p>您已成功获取随机掉落的有效奖励链接。</p><p>具体账户变动情况请前往“用户交易”页面查看详情。</p>"
 
 #. i18n: keyword: E_INVALID_REFERRER
 msgid "Oops, it looks like this link has been accessed from the wrong location."
-msgstr ""
+msgstr "哎呀，看来这个链接被从错误的位置访问了。"
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
-msgstr "哇！看上去你已经点击过这个链接了。你只能领取这个奖励一次"
+msgstr "哇！看上去你已经点击过这个链接了。你只能领取这个奖励一次。"
 
 #. i18n: keyword: GiftRedemptionTitle
 msgid "Gift Redemption"
@@ -1587,7 +1615,7 @@ msgstr "任天堂用户名"
 
 #. i18n: keyword: LP_NETFLIX_Username
 msgid "Netflix username"
-msgstr ""
+msgstr "Netflix 用户名"
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
@@ -1607,15 +1635,15 @@ msgstr "<b>目的KU:</b> {{ .Data.DestinationKU }}"
 
 #. i18n: keyword: MergeFailedDescription
 msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
-msgstr "你的账户已登出。请联系<a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>客服</a>寻求进一步帮助。 "
+msgstr "你的账户已退出登录。请联系<a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>客服</a>寻求进一步帮助。"
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
-msgstr "物品码或礼品码无效"
+msgstr "物品码或礼品码无效。"
 
 #. i18n: keyword: E_ALREADY_USED
 msgid "Item key or gift code has already been used."
-msgstr "物品码或礼品码已经被使用了"
+msgstr "物品码或礼品码已经被使用了。"
 
 #. i18n: keyword: E_INVALID_PLATFORM
 msgid "The token used to redeem the gift code does not support the gaming platform you selected."
@@ -1787,7 +1815,7 @@ msgstr "为了通过注册, 您需要同意我们的 <a href='https://www.kleien
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
-msgstr "Klei娱乐"
+msgstr "科雷娱乐"
 
 #. i18n: keyword: ErrorURLMalformed
 msgid "The URL you used to arrive here is malformed and missing required parameters."
@@ -2029,6 +2057,10 @@ msgstr "你必须年满13岁能才注册账户。"
 msgid "Invalid date of birth, date must be in this format: YYYY-MM-DD"
 msgstr "无效的出生日期，日期必须采用以下格式：YYYY-MM-DD"
 
+#. i18n: keyword: E_TWITCH_NO_REFRESH_TOKEN
+msgid "Twitch refresh token is missing, please unlink and re-link your Twitch account and try again."
+msgstr "Twitch 刷新令牌丢失，请取消并重新链接您的 Twitch 帐户后重试。"
+
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
 msgstr "Twitch拒绝了连接到您Klei账户的请求；这通常是Twitch授权服务器的暂时性问题。请在几分钟后<a href='/account/twitch/link'>重试/a>。"
@@ -2127,19 +2159,19 @@ msgstr "Steam拒绝了您的登录尝试。Steam服务器可能离线，此情�
 
 #. i18n: keyword: E_STEAM_ID_IS_MISSING
 msgid "Steam identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "Steam identifier遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
+msgstr "Steam 游戏标识符遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
 
 #. i18n: keyword: E_STEAM_BROKEN_TICKET
 msgid "Steam ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "Steam ticket遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
+msgstr "Steam 票据遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
 
 #. i18n: keyword: E_RAIL_ID_IS_MISSING
 msgid "Tencent Games identifier is missing. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "腾讯游戏identifier遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
+msgstr "腾讯游戏游戏标识符遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
 
 #. i18n: keyword: E_RAIL_BROKEN_TICKET
 msgid "Tencent Games ticket is invalid. The game client did not provide all the information we need to authenticate your account. Please close the game and start again."
-msgstr "腾讯游戏ticket遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
+msgstr "腾讯游戏票据遗失。游戏客户端未提供我们对您的账户进行身份验证所需的所有信息。请关闭游戏，然后重新启动游戏。"
 
 #. i18n: keyword: E_RAIL_EXPIRED_TOKEN
 msgid "The access token has expired. Tencent is asking you to start the process again."
@@ -2215,7 +2247,7 @@ msgstr "您的Klei账户已与Google断开连接。如果您认为该连接仍�
 
 #. i18n: keyword: E_GOOGLE_NO_YOUTUBE_CHANNEL
 msgid "This Google account has no YouTube channel associated with it."
-msgstr ""
+msgstr "该 Google 账户没有与之关联的 YouTube 频道。"
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
@@ -2235,7 +2267,7 @@ msgstr "Facebook停止了此操作，因为验证访问令牌时出错：用户�
 
 #. i18n: keyword: E_EPIC_GAMES_EXPIRED_TOKEN
 msgid "Unfortunately, the token we use to communicate with Epic Games has expired. You will need to login again to allow the system to get a new token."
-msgstr "非常不幸，Epic Games的授权码已经过期，您需要重新登陆授权"
+msgstr "非常不幸，Epic Games的授权码已经过期，您需要重新登陆授权。"
 
 #. i18n: keyword: E_NOT_ENOUGH_CURRENCY
 msgid "You do not have enough points to claim this item."
@@ -2243,7 +2275,7 @@ msgstr "您的积分不足，无法领取该物品。"
 
 #. i18n: keyword: E_ALREADY_CLAIMED
 msgid "You already have claimed this reward."
-msgstr "您已经领取过这个奖励"
+msgstr "您已经领取过这个奖励。"
 
 #. i18n: keyword: E_UNKNOWN_LINK
 msgid "The link you have used is not valid. Please check the source of this link and try again."
@@ -2263,15 +2295,19 @@ msgstr "此笔交易无法被回滚。"
 
 #. i18n: keyword: E_USER_NOT_QUALIFIED_FOR_CREATOR
 msgid "You currently do not meet the requirements for application to the Creator Program."
-msgstr ""
+msgstr "您目前不符合 “创造者计划 ”的申请要求。"
 
 #. i18n: keyword: E_CREATOR_INVALID_SELF_DESCRIPTION
 msgid "The self description field was either empty or exceeded the max character count."
-msgstr ""
+msgstr "自我描述字段为空或超过最大字符数。"
 
 #. i18n: keyword: E_INVALID_YOUTUBE_CHANNELID
 msgid "Invalid YouTube channel ID"
-msgstr ""
+msgstr "无效的 YouTube 频道 ID"
+
+#. i18n: keyword: E_INVALID_QUANTITY
+msgid "The quantity entered is invalid"
+msgstr "输入的数量无效"
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
@@ -2291,7 +2327,7 @@ msgstr "本周已结束"
 
 #. i18n: keyword: DropsDescription
 msgid "Earn the currently available drops by playing the respective games throughout the drop period."
-msgstr "在对应的时间玩对应的游戏来获取掉落的礼物"
+msgstr "在对应的时间玩对应的游戏来获取掉落的礼物。"
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
@@ -2315,7 +2351,7 @@ msgstr "所有交易"
 
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
-msgstr "没有交易"
+msgstr "暂无交易记录。"
 
 #. i18n: keyword: TransactionRollback
 msgid "Rollback"
@@ -2323,7 +2359,7 @@ msgstr "回滚"
 
 #. i18n: keyword: TransactionTraded
 msgid "Traded:"
-msgstr ""
+msgstr "交易："
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
@@ -2343,7 +2379,7 @@ msgstr "当前点数余额"
 
 #. i18n: keyword: NewBalance
 msgid "New Balance:"
-msgstr "新的点数余额"
+msgstr "新的点数余额："
 
 #. i18n: keyword: TXN_NOT_SUPPORTED
 msgid "Transaction Not Supported"
@@ -2367,7 +2403,7 @@ msgstr "通过链接获取点数"
 
 #. i18n: keyword: TXN_LINK_FOR_ITEM
 msgid "Link For Item"
-msgstr ""
+msgstr "项目链接"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
@@ -2489,6 +2525,10 @@ msgstr "Klei客服发出的货币"
 msgid "Klei Support Issued Item"
 msgstr "Klei客服发出的道具"
 
+#. i18n: keyword: TXN_LORE_INTERACTION
+msgid "Lore Interaction"
+msgstr ""
+
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
 msgstr "交易小店"
@@ -2575,7 +2615,7 @@ msgstr "提交ID："
 
 #. i18n: keyword: FanartEventSubmissionSuccess
 msgid "Your picture has been recorded!"
-msgstr "您的作品已成功提交"
+msgstr "您的作品已成功提交！"
 
 #. i18n: keyword: FanartEventStatusSubmissionStatus
 msgid "Submission status:"
@@ -2595,7 +2635,7 @@ msgstr "已经提交过作品了吗？在<a href=\"https://accounts.klei.com/acc
 
 #. i18n: keyword: FanartEventRulesLabel
 msgid "Event Rules:"
-msgstr "活动规则"
+msgstr "活动规则："
 
 #. i18n: keyword: FanartEventAgreeToRules
 msgid "I agree to abide by the event rules."
@@ -2631,7 +2671,7 @@ msgstr "已封禁"
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
-msgstr "查看最终用户许可协议和服务条款。"
+msgstr "查看最终用户许可协议和服务条款"
 
 #. i18n: keyword: ReviewEULADescription
 msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
@@ -2660,3 +2700,51 @@ msgstr "对您账户的禁用是不可逆的。"
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
 msgstr "哦不！您似乎点击了一个残缺的链接。您可能需要再次授权。"
+
+#. i18n: keyword: E_CREATOR_ALREADY_REFERRED
+msgid "You have already submitted a recommendation for this creator."
+msgstr ""
+
+#. i18n: keyword: E_CREATOR_REFERRAL_LIMIT_REACHED
+msgid "You have reached your recommendation limit. Please try again later."
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorLimitTitle
+msgid "Creator Recommendation Limit Reached"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorLimitDescription
+msgid "You have reached your recommendation limit. You can submit a new recommendation in <b>{{ .Data.CooldownDays }} day(s)</b>."
+msgstr ""
+
+#. i18n: keyword: BackToCreatorPage
+msgid "Back To Creator Page"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorBtn
+msgid "Recommend"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorTitle
+msgid "Recommend A Creator"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorSuccessTitle
+msgid "Creator Recommendation Submitted"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorSuccessDescription
+msgid "You have successfully submitted your recommendation for <b>{{ .Data.ReferredCreator }}</b>!"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorSubmitBtn
+msgid "Submit"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorDescription
+msgid "Recommend a creator that you think would be a good fit for the program. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Click for Details)</a>"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorShortDesc
+msgid "Recommend a creator"
+msgstr ""

@@ -474,16 +474,16 @@ msgid "Continue"
 msgstr "Continuar"
 
 #. i18n: keyword: ProviderConnectedTitle
-msgid "Account Linked"
-msgstr ""
+msgid "Connected"
+msgstr "Conectado"
 
 #. i18n: keyword: ProviderConnectedID
-msgid "External account ID:"
-msgstr ""
+msgid "ID:"
+msgstr "ID:"
 
 #. i18n: keyword: ProviderNotConnected
 msgid "Not connected"
-msgstr ""
+msgstr "Desconectado"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -889,6 +889,30 @@ msgstr ""
 msgid "<p>Please provide the Channel ID of your YouTube channel below.<br>The instructions to find your YouTube Channel ID are <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">here.</a></p><p><b>The email address listed in your YouTube \"About\" page must be the same as the verified email address for your Klei Account.</b></p>"
 msgstr ""
 
+#. i18n: keyword: CreatorBilibiliVerificationStepsDesc
+msgid "Please follow the steps below to verify your Bilibili account:"
+msgstr ""
+
+#. i18n: keyword: CreatorBilibiliVerificationStep1
+msgid "Provide a link to your Bilibili profile"
+msgstr ""
+
+#. i18n: keyword: CreatorBilibiliVerificationStep2
+msgid "Put the following code in the description of your Bilibili profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
+msgstr ""
+
+#. i18n: keyword: CreatorDouyuVerificationStepsDesc
+msgid "Please follow the steps below to verify your Douyu account:"
+msgstr ""
+
+#. i18n: keyword: CreatorDouyuVerificationStep1
+msgid "Provide a link to your Douyu profile"
+msgstr ""
+
+#. i18n: keyword: CreatorDouyuVerificationStep2
+msgid "Put the following code in the description of your Douyu profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
+msgstr ""
+
 #. i18n: keyword: ChannelID
 msgid "Channel ID"
 msgstr ""
@@ -995,6 +1019,10 @@ msgstr ""
 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
+msgstr ""
+
+#. i18n: keyword: AccountLinkedTitle
+msgid "Account Linked"
 msgstr ""
 
 #. i18n: keyword: MyGames
@@ -2029,6 +2057,10 @@ msgstr "Usted debe tener, por lo menos, 13 años para registrar una cuenta."
 msgid "Invalid date of birth, date must be in this format: YYYY-MM-DD"
 msgstr "Fecha de nacimiento inválida, la fecha debe estar en este formato: AAAA-MM-DD"
 
+#. i18n: keyword: E_TWITCH_NO_REFRESH_TOKEN
+msgid "Twitch refresh token is missing, please unlink and re-link your Twitch account and try again."
+msgstr ""
+
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
 msgstr "Twitch rechazó la solicitud de conectar su cuenta Klei; esto suele ser un problema temporal en los servidores de autenticación de Twitch. Por favor <a href='/account/twitch/link'>intente de nuevo</a> en unos minutos."
@@ -2273,6 +2305,10 @@ msgstr ""
 msgid "Invalid YouTube channel ID"
 msgstr ""
 
+#. i18n: keyword: E_INVALID_QUANTITY
+msgid "The quantity entered is invalid"
+msgstr ""
+
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
 msgstr ""
@@ -2489,6 +2525,10 @@ msgstr "Moneda emitida por Klei Support"
 msgid "Klei Support Issued Item"
 msgstr "Artículo emitido por Klei Support"
 
+#. i18n: keyword: TXN_LORE_INTERACTION
+msgid "Lore Interaction"
+msgstr ""
+
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
 msgstr ""
@@ -2660,3 +2700,51 @@ msgstr "El bloqueo de tu cuenta no es reversible."
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
 msgstr "¡Oh no! Parece ser que has dado clic en un link roto. Puede que debas autentificarte nuevamente."
+
+#. i18n: keyword: E_CREATOR_ALREADY_REFERRED
+msgid "You have already submitted a recommendation for this creator."
+msgstr ""
+
+#. i18n: keyword: E_CREATOR_REFERRAL_LIMIT_REACHED
+msgid "You have reached your recommendation limit. Please try again later."
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorLimitTitle
+msgid "Creator Recommendation Limit Reached"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorLimitDescription
+msgid "You have reached your recommendation limit. You can submit a new recommendation in <b>{{ .Data.CooldownDays }} day(s)</b>."
+msgstr ""
+
+#. i18n: keyword: BackToCreatorPage
+msgid "Back To Creator Page"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorBtn
+msgid "Recommend"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorTitle
+msgid "Recommend A Creator"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorSuccessTitle
+msgid "Creator Recommendation Submitted"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorSuccessDescription
+msgid "You have successfully submitted your recommendation for <b>{{ .Data.ReferredCreator }}</b>!"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorSubmitBtn
+msgid "Submit"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorDescription
+msgid "Recommend a creator that you think would be a good fit for the program. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Click for Details)</a>"
+msgstr ""
+
+#. i18n: keyword: RecommendCreatorShortDesc
+msgid "Recommend a creator"
+msgstr ""
