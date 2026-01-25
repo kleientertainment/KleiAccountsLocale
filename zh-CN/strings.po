@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2025-03-07 23:35+0800\n"
+"PO-Revision-Date: 2025-12-17 22:41+0800\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Chinese Simplified (https://accounts.klei.com/community-translations)\n"
 "Language: zh\n"
@@ -2525,6 +2525,10 @@ msgstr "Klei客服发出的货币"
 msgid "Klei Support Issued Item"
 msgstr "Klei客服发出的道具"
 
+#. i18n: keyword: TXN_LORE_INTERACTION
+msgid "Lore Interaction"
+msgstr "剧情互动"
+
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
 msgstr "交易小店"
@@ -2696,3 +2700,51 @@ msgstr "对您账户的禁用是不可逆的。"
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
 msgstr "哦不！您似乎点击了一个残缺的链接。您可能需要再次授权。"
+
+#. i18n: keyword: E_CREATOR_ALREADY_REFERRED
+msgid "You have already submitted a recommendation for this creator."
+msgstr "您已经为该创作者提交了推荐信。"
+
+#. i18n: keyword: E_CREATOR_REFERRAL_LIMIT_REACHED
+msgid "You have reached your recommendation limit. Please try again later."
+msgstr "您已达到推荐上限。请稍后再试。"
+
+#. i18n: keyword: RecommendCreatorLimitTitle
+msgid "Creator Recommendation Limit Reached"
+msgstr "已达到创作者推荐限额"
+
+#. i18n: keyword: RecommendCreatorLimitDescription
+msgid "You have reached your recommendation limit. You can submit a new recommendation in <b>{{ .Data.CooldownDays }} day(s)</b>."
+msgstr "您已达到推荐上限。您可以在<b>{{ .Data.CooldownDays }} 天后</b>提交新的推荐。"
+
+#. i18n: keyword: BackToCreatorPage
+msgid "Back To Creator Page"
+msgstr "返回创作者页面"
+
+#. i18n: keyword: RecommendCreatorBtn
+msgid "Recommend"
+msgstr "推荐"
+
+#. i18n: keyword: RecommendCreatorTitle
+msgid "Recommend A Creator"
+msgstr "推荐一位创作者"
+
+#. i18n: keyword: RecommendCreatorSuccessTitle
+msgid "Creator Recommendation Submitted"
+msgstr "已提交的创作者推荐"
+
+#. i18n: keyword: RecommendCreatorSuccessDescription
+msgid "You have successfully submitted your recommendation for <b>{{ .Data.ReferredCreator }}</b>!"
+msgstr "您已成功提交了针对 <b>{{ .Data.ReferredCreator }}</b> 的建议！"
+
+#. i18n: keyword: RecommendCreatorSubmitBtn
+msgid "Submit"
+msgstr "提交"
+
+#. i18n: keyword: RecommendCreatorDescription
+msgid "Recommend a creator that you think would be a good fit for the program. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Click for Details)</a>"
+msgstr "推荐一位您认为适合该程序的创作者。 <a href="https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations" target="_blank" rel="noopener noreferrer">【点击了解详情】</a>"
+
+#. i18n: keyword: RecommendCreatorShortDesc
+msgid "Recommend a creator"
+msgstr "推荐一位创作者"
