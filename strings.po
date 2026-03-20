@@ -325,28 +325,16 @@ msgstr ""
 msgid "user not found"
 msgstr ""
 
-#. i18n: keyword: LinkedAccounts
-msgid "Linked Accounts"
+#. i18n: keyword: ConnectedAccounts
+msgid "Connected Accounts"
 msgstr ""
 
-#. i18n: keyword: LinkAccountButton
-msgid "Link Account"
+#. i18n: keyword: ConnectAccountButton
+msgid "Connect Account"
 msgstr ""
 
 #. i18n: keyword: AddedOn
 msgid "Added On"
-msgstr ""
-
-#. i18n: keyword: AccountLinkRulesTitle
-msgid "Streaming Rules"
-msgstr ""
-
-#. i18n: keyword: AccountLinkRulesDescription
-msgid "Klei Rewards are intended to be a way to support streamers that provide quality content for our community, and “Away From Keyboard (AFK)” streams disrupt the effectiveness of the system. AFK streams or streams showing content other than Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these rules will be unlinked and potentially banned from participating ever again."
-msgstr ""
-
-#. i18n: keyword: AccountLinkRulesAccept
-msgid "Accept and Continue"
 msgstr ""
 
 #. i18n: keyword: ChangeEmail
@@ -453,12 +441,12 @@ msgstr ""
 msgid "Unlink Discord Account"
 msgstr ""
 
-#. i18n: keyword: LinkAccountsTitle
-msgid "Link Accounts"
+#. i18n: keyword: ConnectAccountsTitle
+msgid "Connect Accounts"
 msgstr ""
 
-#. i18n: keyword: LinkAccountsDescription
-msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
+#. i18n: keyword: ConnectAccountsDescription
+msgid "Connect your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
 msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
@@ -473,16 +461,24 @@ msgstr ""
 msgid "Continue"
 msgstr ""
 
-#. i18n: keyword: ProviderConnectedTitle
-msgid "Connected"
+#. i18n: keyword: ProviderLinkedTitle
+msgid "Linked"
 msgstr ""
 
-#. i18n: keyword: ProviderConnectedID
+#. i18n: keyword: ProviderLinkedID
 msgid "ID:"
 msgstr ""
 
-#. i18n: keyword: ProviderNotConnected
-msgid "Not connected"
+#. i18n: keyword: ProviderNotLinked
+msgid "Not linked"
+msgstr ""
+
+#. i18n: keyword: LinkAccountButton
+msgid "Link Account"
+msgstr ""
+
+#. i18n: keyword: LinkAccountLinking
+msgid "Linking..."
 msgstr ""
 
 #. i18n: keyword: MergeAccountDescription
@@ -537,17 +533,6 @@ msgstr ""
 msgid "The account merge operation was a success!"
 msgstr ""
 
-#. i18n: keyword: MergeAccountFixWarnings
-msgid "Fix Warnings"
-msgstr ""
-
-#. i18n: keyword: MergeAccountDate
-msgid "Account creation date"
-msgstr ""
-#. i18n: keyword: MergeAccountEmail
-msgid "Klei Account email"
-msgstr ""
-
 #. i18n: keyword: MergeAccountKeepThis
 msgid "Keep this account"
 msgstr ""
@@ -568,28 +553,12 @@ msgstr ""
 msgid "You'll lose all your in-game progress in this account."
 msgstr ""
 
-#. i18n: keyword: MergeAccountReadyButton
-msgid "Merge accounts"
-msgstr ""
-
-#. i18n: keyword: MergeAccountReady
-msgid "You will be able to log in with the new account after submitting."
-msgstr ""
-
 #. i18n: keyword: MergeAccountMerging
 msgid "Merging…"
 msgstr ""
 
 #. i18n: keyword: MergeAccountDoNotLeave
 msgid "Please do not leave this page"
-msgstr ""
-
-#. i18n: keyword: MergeAccountWarningsTitle
-msgid "Warning"
-msgstr ""
-
-#. i18n: keyword: MergeAccountWarningsSubtitle
-msgid "You need to fix these issues"
 msgstr ""
 
 #. i18n: keyword: MergeAccountConsentQuestion1
@@ -640,14 +609,6 @@ msgstr ""
 msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
 msgstr ""
 
-#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
-msgid "Please update your *Klei* accounts to use the same email address and start the process again."
-msgstr ""
-
-#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
-msgstr ""
-
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
 msgstr ""
@@ -682,6 +643,162 @@ msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
 msgid "You already merged your WeGame account."
+msgstr ""
+
+#. i18n: keyword: LinkAccountTitle
+msgid "Link or Unlink An Account"
+msgstr ""
+
+#. i18n: keyword: LinkAccountInstructionsDescription
+msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are link your own accounts and not someone else's."
+msgstr ""
+
+#. i18n: keyword: LinkAccountInstructionsContinue
+msgid "Continue"
+msgstr ""
+
+#. i18n: keyword: LinkAccountSuccessTitle
+msgid "Successful Account Link"
+msgstr ""
+
+#. i18n: keyword: LinkAccountSuccessDescription
+msgid "The account link operation was a success!"
+msgstr ""
+
+#. i18n: keyword: LinkAccountSuccessShortDescription
+msgid "The account link operation was a success!"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFailedTitle
+msgid "Account Linking Failed"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFailedErrorDescription
+msgid "An error has occured while linking the following accounts:"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFailedDescription
+msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsTitle
+msgid "Unlink Accounts"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsDesc
+msgid "Are you sure you want to unlink <b>{{ .Data.KUToUnlink }} ({{ .Data.AuthProvidersToUnlink }})</b> from:"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsWarning
+msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 7 days."
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountSuccessTitle
+msgid "Successful Account Unlink"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountSuccessDesc
+msgid "You have successfully unlinked your accounts!"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountFailedTitle
+msgid "Account Unlinking Failed"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountFailedErrorDescription
+msgid "An error has occured while unlinking your accounts."
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountFailedDescription
+msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
+msgstr ""
+
+#. i18n: keyword: LinkAccountWarningsTitle
+msgid "Warning"
+msgstr ""
+
+#. i18n: keyword: LinkAccountWarningsSubtitle
+msgid "You need to fix these issues"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFixWarnings
+msgid "Fix Warnings"
+msgstr ""
+
+#. i18n: keyword: LinkAccountDate
+msgid "Account creation date"
+msgstr ""
+
+#. i18n: keyword: LinkAccountEmail
+msgid "Klei Account email"
+msgstr ""
+
+#. i18n: keyword: LinkAccountReadyButton
+msgid "Link accounts"
+msgstr ""
+
+#. i18n: keyword: LinkAccountConfirmation
+msgid "Please type in link accounts” but in UPPERCASE letters, to confirm:"
+msgstr ""
+
+#. i18n: keyword: LinkInProgressTitle
+msgid "Account Link In Progress"
+msgstr ""
+
+#. i18n: keyword: LinkInProgressDescription
+msgid "You have been logged out because an interruption occurred while account linking was in progress. Please log in again to try to continue linking."
+msgstr ""
+
+#. i18n: keyword: LinkAccountCooldownDesc
+msgid "Your have recently unlinked a {{ .Data.PlatformName }} account. You can try to link again in <b>{{ .Data.CooldownDays }} days</b>."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_NOT_SUPPORTED
+msgid "Unfortunately, the gaming platform you are trying to link does not have the capabilities to execute this operation yet."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_MISSING_DATA
+msgid "It is impossible to link your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the accounts you are going to link are correct."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_EMAIL_NOT_VALIDATED
+msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.EpicID
+msgid "You already linked your Epic Games account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.SteamID
+msgid "You already linked your Steam account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
+msgid "You already linked your Xbox Network account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
+msgid "You already linked your Nintendo account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
+msgid "You already linked your WeGame account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.PSNID
+msgid "You already linked your PlayStation account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_DIFFERENT_EMAIL
+msgid "Please update your *Klei* accounts to use the same email address and start the process again."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_IN_PROGRESS
+msgid "Your account is currently in the process of a linking or unlinking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_COOLDOWN
+msgid "You have recently unlinked this gaming platform. Please wait before linking again."
 msgstr ""
 
 #. i18n: keyword: OwnershipDescription
@@ -744,8 +861,8 @@ msgstr ""
 msgid "Are you sure you want to unlink your"
 msgstr ""
 
-#. i18n: keyword: UnlinkAccount
-msgid "Unlink Account"
+#. i18n: keyword: DisconnectAccount
+msgid "Disconnect Account"
 msgstr ""
 
 #. i18n: keyword: DeleteAccountDescription
@@ -790,6 +907,10 @@ msgstr ""
 
 #. i18n: keyword: DeleteAccountOptionsBanAccount
 msgid "Ban my {{.PlatformName}} account from playing Klei games for a MINIMUM of 30 days"
+msgstr ""
+
+#. i18n: keyword: DeleteAccountOptionsUnlink
+msgid "Unlink this account from my {{.LinkedAccounts}} account(s)."
 msgstr ""
 
 #. i18n: keyword: DeleteAccountConfirm
@@ -1074,11 +1195,11 @@ msgid "<b>Search Tips:</b> Type one or more words to search an item in your game
 msgstr ""
 
 #. i18n: keyword: RemoveDuplicateItems
-msgid "Remove Duplicates"
+msgid "Remove Duplicates for ${currentKU}"
 msgstr ""
 
 #. i18n: keyword: RemoveDuplicateItemsConfirmation
-msgid "Are you sure you want to remove all duplicates of this item and only keep one?"
+msgid "Are you sure you want to remove all duplicates of this item for ${currentKU} and only keep one?"
 msgstr ""
 
 #. i18n: keyword: RemoveDuplicateItemsQuantityToRemove
