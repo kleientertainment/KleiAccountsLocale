@@ -948,8 +948,32 @@ msgstr ""
 msgid "Redeem"
 msgstr ""
 
-#. i18n: keyword: CreatorDescription
-msgid "Redeem creator rewards"
+#. i18n: keyword: CreatorCreateRewardLinks
+msgid "Create reward links"
+msgstr ""
+
+#. i18n: keyword: CreatorCreateRewardLinksSingular
+msgid "Create reward link"
+msgstr ""
+
+#. i18n: keyword: CreatorCreatorName
+msgid "Your Creator Name"
+msgstr ""
+
+#. i18n: keyword: CreatorGiveawayName
+msgid "Giveaway Name"
+msgstr ""
+
+#. i18n: keyword: CreatorNbLinks
+msgid "Number of links"
+msgstr ""
+
+#. i18n: keyword: CreatorNbRedeems
+msgid "Max redeems per link"
+msgstr ""
+
+#. i18n: keyword: CreatorExpiresAfterDays
+msgid "Links expire after (days)"
 msgstr ""
 
 #. i18n: keyword: CreatorPointsGlossary
@@ -1018,7 +1042,7 @@ msgid "You have already submitted an application, it is currently being reviewed
 msgstr ""
 
 #. i18n: keyword: CreatorRewardClaimed
-msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
+msgid "Links successfully created! An email has been sent to <b>${profile.email}<b> with your links."
 msgstr ""
 
 #. i18n: keyword: AccountLinkedTitle
@@ -1525,6 +1549,46 @@ msgstr ""
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.</p><p>Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
 msgstr ""
 
+#. i18n: keyword: CreatorRewardLinkDescription
+msgid "<p>Congratulations!</p><p>You have found a reward link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemExplanation
+msgid "You are currently logged in as <b>${profile.name}</b>"
+msgstr "
+
+#. i18n: keyword: CreatorRewardLinkRedeemExplanation2
+msgid "If you would like to redeem this reward to a different account, please log in to that account first."
+msgstr "
+
+#. i18n: keyword: CreatorRewardLinkClaim
+msgid "Claim as <b>${profile.name}</b>"
+msgstr ""
+
+#. i18n: keyword: Claiming
+msgid "Claiming..."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccess
+msgid "You've successfully redeemed this reward link!"
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemBalanceWillUpdate
+msgid "Your balance will immediately update."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccessFindItIngame
+msgid "You will find this reward in-game next time you play."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccessTransactionExplanation
+msgid "Please refer to the \"User Transactions\" page to understand how this operation affected your account."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccessKeyEmailed
+msgid "An email has been sent to <b>${profile.email}<b> with your game key."
+msgstr ""
+
 #. i18n: keyword: E_INVALID_REFERRER
 msgid "Oops, it looks like this link has been accessed from the wrong location."
 msgstr ""
@@ -1859,11 +1923,31 @@ msgid "That value is already in use by another account. Please use another value
 msgstr ""
 
 #. i18n: keyword: E_GAME_NOT_FOUND
-msgid "The game does not exists."
+msgid "The game does not exist."
 msgstr ""
 
 #. i18n: keyword: E_REWARD_REPLAYED
 msgid "This reward has already been claimed, your balances have been updated!"
+msgstr ""
+
+#. i18n: keyword: E_REWARD_LINK_INVALID
+msgid "This reward link doesn't exist. Please check that you have copied it correctly."
+msgstr ""
+
+#. i18n: keyword: E_REWARD_LINK_EXPIRED
+msgid "Sorry, this reward link has expired."
+msgstr ""
+
+#. i18n: keyword: E_REWARD_LINK_CLAIMED
+msgid "Sorry, this reward link was already claimed."
+msgstr ""
+
+#. i18n: keyword: E_REWARD_LINK_CLAIMED_BY_YOU
+msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
+msgstr ""
+
+#. i18n: keyword: E_REWARD_LINK_REDEEM_FAIL
+msgid "You've claimed this link but we ran into an error while trying to give you the reward. Please try this link again in a few seconds."
 msgstr ""
 
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
@@ -2405,6 +2489,10 @@ msgstr ""
 
 #. i18n: keyword: TXN_LINK_FOR_ITEM
 msgid "Link For Item"
+msgstr ""
+
+#. i18n: keyword: TXN_CREATOR_LINK
+msgid "Creator Reward Link"
 msgstr ""
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
