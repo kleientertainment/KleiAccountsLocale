@@ -973,7 +973,7 @@ msgid "Max redeems per link"
 msgstr ""
 
 #. i18n: keyword: CreatorExpiresAfterDays
-msgid "Note: Links expire after ${ambassadorInfo.rewardLinkMaxExpiryDays} days (${expiryDate()}). "
+msgid "Note: Links expire after ${ambassadorInfo.rewardLinkMaxExpiryDays} days if unclaimed (${expiryDate()}). "
 msgstr ""
 
 #. i18n: keyword: CreatorPointsGlossary
