@@ -2533,6 +2533,10 @@ msgstr ""
 msgid "Trade Inn"
 msgstr ""
 
+#. i18n: keyword: TXN_UNLOCK_ITEM
+msgid "Unlock Item"
+msgstr ""
+
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "Commercialisable"

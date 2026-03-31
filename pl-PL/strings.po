@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2022-01-05 01:25+0100\n"
+"PO-Revision-Date: 2026-01-26 00:32+0100\n"
 "Last-Translator: aBOOminacja\n"
 "Language-Team: Polish (https://accounts.klei.com/community-translations)\n"
 "Language: pl_PL\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12X-Crowdin-Project: klei-accounts;\n"
-"X-Crowdin-Project: "
-"X-Crowdin-Project-ID: 401122\n"
+"X-Crowdin-Project: X-Crowdin-Project-ID: 401122\n"
+"X-Crowdin-Project-ID: "
 "X-Crowdin-Language: pl-PL\n"
 "X-Crowdin-File: strings.po\n"
 "X-Crowdin-File-ID: 76\n"
@@ -187,7 +187,7 @@ msgstr "Zweryfikuj email"
 
 #. i18n: keyword: VerificationEmailSuccessTitle
 msgid "Verification Email Sent"
-msgstr "email weryfikacyjny został wysłany"
+msgstr "Email weryfikacyjny został wysłany"
 
 #. i18n: keyword: VerificationEmailSuccessDescription
 msgid "We’ve sent a verification email to your email address. To complete your registration, please click the link contained in the email. Emails are usually sent instantly. If you have not received the email after an hour, first check your spam folder."
@@ -255,7 +255,7 @@ msgstr "Subskrybowanie..."
 
 #. i18n: keyword: SubscribeContent
 msgid "Get the latest major news and updates for {{.GameName}}. We do not send a lot of email, but when we do we try to make it count! Easily unsubscribe at any time from the bottom of any email we do send. For the latest news you can also follow us on Twitter <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> and visit our official <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
-msgstr "Otrzymuj najnowsze ważne wiadomości i aktualizacje dotyczące gry {{.GameName}}. Nie wysyłamy dużo emaili, ale kiedy to robimy, staramy się, aby to się liczyło! Z łatwością wypisz się w dowolnym momencie z dołu każdego wysyłanego przez nas emaila. Aby otrzymywać najnowsze wiadomości, możesz również śledzić nas na Twitterze <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> i odwiedzić naszą oficjalną <a href=\"{{. ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
+msgstr "Otrzymuj najnowsze ważne wiadomości i aktualizacje dotyczące gry {{.GameName}}. Nie wysyłamy dużo emaili, ale kiedy to robimy, staramy się, aby to się liczyło! Z łatwością wypisz się w dowolnym momencie z dołu każdego wysyłanego przez nas emaila. Aby otrzymywać najnowsze wiadomości, możesz również śledzić nas na Twitterze <a href=\"https://twitter.com/klei\" target=\"_blank\">@Klei</a> i odwiedzić naszą oficjalną <a href=\"{{.ForumURL}}\" target=\"_blank\">{{.GameName}}</a>!"
 
 #. i18n: keyword: SubscribeComplete
 msgid "Subscription is complete"
@@ -303,7 +303,7 @@ msgstr "Edytuj subskrypcje"
 
 #. i18n: keyword: LearnMore
 msgid "Learn More"
-msgstr ""
+msgstr "Dowiedz się wiecej"
 
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
@@ -363,31 +363,31 @@ msgstr "Wysłaliśmy kod weryfikacyjny na Twój nowy adres email, aby autoryzowa
 
 #. i18n: keyword: Profile
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #. i18n: keyword: Birthday
 msgid "Birthday"
-msgstr ""
+msgstr "Dzien urodzenia"
 
 #. i18n: keyword: Month
 msgid "Month"
-msgstr ""
+msgstr "Miesiąc"
 
 #. i18n: keyword: Year
 msgid "Year"
-msgstr ""
+msgstr "Rok"
 
 #. i18n: keyword: ChangeBirthday
 msgid "Change Birthday"
-msgstr ""
+msgstr "Zmien dzień urodzenia"
 
 #. i18n: keyword: ChangeBirthdayDescription
 msgid "To comply with ESRB and PEGI communication standards, we are required to know your age to ensure we are sending only age appropriate content."
-msgstr ""
+msgstr "Aby spełnić wymogi komunikacyjne ESRB i PEGI, musimy znać Twój wiek, aby zapewnić przesyłanie wyłącznie treści odpowiednich dla Twojej grupy wiekowej."
 
 #. i18n: keyword: ChangeBirthdayDone
 msgid "Birthday successfully changed!"
-msgstr ""
+msgstr "Data urodzenia zmieniona pomyślnie!"
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -411,7 +411,7 @@ msgstr "Opcje marketingowe"
 
 #. i18n: keyword: MarketingRequiresBirthday
 msgid "To edit marketing options, please set your birthday (in Profile)"
-msgstr ""
+msgstr "Aby zmienić opcje marketingowe, proszę ustaw swój dzień urodzenia (w profilu)"
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
@@ -455,11 +455,11 @@ msgstr "Odłącz konto Discord"
 
 #. i18n: keyword: LinkAccountsTitle
 msgid "Link Accounts"
-msgstr ""
+msgstr "Połącz konta"
 
 #. i18n: keyword: LinkAccountsDescription
 msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
-msgstr ""
+msgstr "Połącz swoje konto Klei z innymi serwisami, takimi jak Twitch, Bilibili, Douyu i Discord."
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -495,11 +495,11 @@ msgstr "Wybierz konto które chcesz zachować. <b>Stracisz swój postęp w grze 
 
 #. i18n: keyword: MergeAutoMergeInto
 msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
-msgstr ""
+msgstr "Użytkownik <b>${userProfileA.data.KU}</b> zostanie połączony z <b>${userProfileB.data.KU}</b>"
 
 #. i18n: keyword: MergeAutoNoEmail
 msgid "Email not linked"
-msgstr ""
+msgstr "Email nie połączony"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -511,7 +511,7 @@ msgstr "Pytania o zgodę"
 
 #. i18n: keyword: MergeConsent
 msgid "Consent"
-msgstr ""
+msgstr "Zgoda"
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -535,7 +535,7 @@ msgstr "Operacja łączenia kont zakończyła się sukcesem.</p><p>Wyczyściliś
 
 #. i18n: keyword: MergeAccountSuccessShortDescription
 msgid "The account merge operation was a success!"
-msgstr ""
+msgstr "Łączenie kont zakończone sukcesem!"
 
 #. i18n: keyword: MergeAccountFixWarnings
 msgid "Fix Warnings"
@@ -547,7 +547,7 @@ msgstr "Data utworzenia konta"
 
 #. i18n: keyword: MergeAccountEmail
 msgid "Klei Account email"
-msgstr "email konta Klei"
+msgstr "Email konta Klei"
 
 #. i18n: keyword: MergeAccountKeepThis
 msgid "Keep this account"
@@ -575,7 +575,7 @@ msgstr "Połącz konta"
 
 #. i18n: keyword: MergeAccountReady
 msgid "You will be able to log in with the new account after submitting."
-msgstr "Będziesz w stanie zalogować się na nowe konto po zgłoszeniu"
+msgstr "Będziesz w stanie zalogować się na nowe konto po zgłoszeniu."
 
 #. i18n: keyword: MergeAccountMerging
 msgid "Merging…"
@@ -623,7 +623,7 @@ msgstr "Twoje konto jest w trakcie łączenia <b>{{ .Data.SourceKU }}</b> z <b>{
 
 #. i18n: keyword: ContinueMergeShortDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
-msgstr ""
+msgstr "Twoje konto jest w trakcie łączenia <b>{{ .Data.SourceKU }}</b> z <b>{{ .Data.DestinationKU }}</b>.<br>Proszę kliknij przycisk niżej, aby kontynuować łączenie kont."
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -839,95 +839,95 @@ msgstr "Możemy zorganizować raport o szczegółach Twojego konta kontrolowany 
 
 #. i18n: keyword: CreatorProgram
 msgid "Creator Program"
-msgstr ""
+msgstr "Program twórcy"
 
 #. i18n: keyword: CreatorProgramInfoHeader
 msgid "Creator Program Info and Consent"
-msgstr ""
+msgstr "Informacje i zgody Programu twórcy"
 
 #. i18n: keyword: CreatorProgramInfoDescription
 msgid "Thank you for your interest in the Klei Creator Program.<p>The Klei Creator Program is intended to provide a way for us to thank content creators for their support by helping them engage with their fans when creating content centered around our games.</p><p>This program is intended for creators of all sizes; however, to maintain the program's intention, we ask that creators be reasonably established in the community before participating.</p><p>For more general information about the Creator Program and what it offers, please check out our <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>article here</a>.</p>"
-msgstr ""
+msgstr "Dziękujemy za zainteresowanie Programem Twórców Klei.<p>Program Twórców Klei ma na celu wyrazić naszą wdzięczność twórcom treści za ich wsparcie, pomagając im angażować swoich fanów podczas tworzenia treści skoncentrowanych wokół naszych gier.</p><p>Program jest przeznaczony dla twórców o różnej wielkości; jednak aby zachować intencję programu, prosimy, aby uczestnicy byli już w pewnym stopniu ugruntowani w społeczności przed przystąpieniem.</p><p>Aby uzyskać więcej ogólnych informacji o Programie Twórców i tym, co oferuje, prosimy zapoznać się z naszym <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>artykułem tutaj</a>.</p>"
 
 #. i18n: keyword: CreatorProgramInfoConsent
 msgid "If you would like to apply, please confirm the following."
-msgstr ""
+msgstr "Zaznacz okno, aby potwierdzić, że przeczytałeś i rozumiesz poniższe informacje."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem1
 msgid "You understand that benefits provided by the Creator Program are not guaranteed and may be discontinued at any time."
-msgstr ""
+msgstr "Rozumiem, że korzyści oferowane w ramach Programu Twórców nie są gwarantowane i mogą zostać w każdej chwili wycofane."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem2
 msgid "You understand that participation in the Creator Program is not an endorsement nor does it constitute a business relationship with Klei Entertainment."
-msgstr ""
+msgstr "Rozumiem, że udział w Programie Twórców nie jest równoznaczny z poparciem ani nie stanowi nawiązania relacji biznesowej z Klei Entertainment."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem3
 msgid "You understand that you are to remain a community member in good standing and while not bound by Klei’s Community Guidelines, you will act in good faith with other community members and Creators."
-msgstr ""
+msgstr "Rozumiesz, że powinieneś pozostać członkiem społeczności cieszącym się dobrą opinią i chociaż nie obowiązują Cię Wytyczne Społeczności Klei, będziesz działać w dobrej wierze wobec innych członków społeczności i Twórców."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem4
 msgid "Klei expects nothing in return as a member of the program. However, we do expect members to act in good faith and may remove benefits from the program if we believe the program is being misused or your behavior is harmful to the community."
-msgstr ""
+msgstr "Klei nie oczekuje niczego w zamian za uczestnictwo w programie. Oczekujemy jednak działania w dobrej wierze i zastrzegamy sobie prawo do cofnięcia korzyści wynikających z programu, jeśli uznamy, że program jest nadużywany lub Twoje zachowanie szkodzi społeczności."
 
 #. i18n: keyword: CreatorProgramSignupInfo
 msgid "When you sign up, we will review your application. If approved, you will be added to our program and provided a link to the Creator Discord server where you can find additional information about the program."
-msgstr ""
+msgstr "Po zapisaniu się przeanalizujemy Twoje zgłoszenie. Jeśli zostanie ono zatwierdzone, zostaniesz dodany do naszego programu i otrzymasz link do serwera Discord dla Twórców, gdzie znajdziesz dodatkowe informacje na temat programu."
 
 #. i18n: keyword: CreatorProgramSignupAgree
 msgid "I understand and agree. I would like to sign-up."
-msgstr ""
+msgstr "Rozumiem i akceptuję. Chciałbym się zapisać."
 
 #. i18n: keyword: CreatorProgramApplyButton
 msgid "Apply"
-msgstr ""
+msgstr "Aplikuj"
 
 #. i18n: keyword: CreatorYouTubeContentCheck
 msgid "I mainly provide YouTube content"
-msgstr ""
+msgstr "Głównie tworzę treści na YouTube"
 
 #. i18n: keyword: CreatorYouTubeInfo
 msgid "<p>Please provide the Channel ID of your YouTube channel below.<br>The instructions to find your YouTube Channel ID are <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">here.</a></p><p><b>The email address listed in your YouTube \"About\" page must be the same as the verified email address for your Klei Account.</b></p>"
-msgstr ""
+msgstr "<p>Proszę podaj poniżej identyfikator swojego kanału YouTube.<br>Instrukcje, jak znaleźć identyfikator kanału YouTube, znajdziesz <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">tutaj.</a></p><p><b>Adres e-mail podany na stronie „Informacje” Twojego kanału YouTube musi być taki sam, jak zweryfikowany adres e-mail Twojego konta Klei.</b></p>"
 
 #. i18n: keyword: CreatorBilibiliVerificationStepsDesc
 msgid "Please follow the steps below to verify your Bilibili account:"
-msgstr ""
+msgstr "Proszę wykonaj poniższe kroki, aby zweryfikować swoje konto Bilibili:"
 
 #. i18n: keyword: CreatorBilibiliVerificationStep1
 msgid "Provide a link to your Bilibili profile"
-msgstr ""
+msgstr "Dodaj link do swojego profilu Bilibili"
 
 #. i18n: keyword: CreatorBilibiliVerificationStep2
 msgid "Put the following code in the description of your Bilibili profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
-msgstr ""
+msgstr "Wpisz następujący kod w opisie swojego profilu Bilibili: <b>${verificationCode}</b> (Możesz usunąć ten kod po zatwierdzeniu twojego wniosku)"
 
 #. i18n: keyword: CreatorDouyuVerificationStepsDesc
 msgid "Please follow the steps below to verify your Douyu account:"
-msgstr ""
+msgstr "Proszę wykonaj poniższe kroki, aby zweryfikować swoje konto Douyu:"
 
 #. i18n: keyword: CreatorDouyuVerificationStep1
 msgid "Provide a link to your Douyu profile"
-msgstr ""
+msgstr "Dodaj link do swojego profilu Douyu"
 
 #. i18n: keyword: CreatorDouyuVerificationStep2
 msgid "Put the following code in the description of your Douyu profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
-msgstr ""
+msgstr "Umieść poniższy kod w opisie swojego profilu Douyu: <b>${verificationCode}</b> (Możesz go usunąć po zatwierdzeniu swojej aplikacji)."
 
 #. i18n: keyword: ChannelID
 msgid "Channel ID"
-msgstr ""
+msgstr "Nazwa kanału"
 
 #. i18n: keyword: Limit
 msgid "Limit"
-msgstr ""
+msgstr "Limit"
 
 #. i18n: keyword: Available
 msgid "Available"
-msgstr ""
+msgstr "Dostępne"
 
 #. i18n: keyword: MoreInfo
 msgid "More Info"
-msgstr ""
+msgstr "Wiecej informacji"
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
@@ -943,7 +943,7 @@ msgstr "Pobieranie danych..."
 
 #. i18n: keyword: CreatorHubTitle
 msgid "Creator Hub"
-msgstr ""
+msgstr "Program twórcy"
 
 #. i18n: keyword: CreatorRewardRedeem
 msgid "Redeem"
@@ -951,27 +951,27 @@ msgstr ""
 
 #. i18n: keyword: CreatorDescription
 msgid "Redeem creator rewards"
-msgstr ""
+msgstr "Wykorzystaj nagrody twórcy"
 
 #. i18n: keyword: CreatorPointsGlossary
 msgid "Creator Points are used to redeem skins and codes"
-msgstr ""
+msgstr "Punkty Twórcy służą do wymiany na skórki i kody"
 
 #. i18n: keyword: CreatorPoints
 msgid "Creator Points"
-msgstr ""
+msgstr "Punkty Twórcy"
 
 #. i18n: keyword: CreatorPointsEarn
 msgid "Earn: ${ambassadorInfo.earnAmount} creator points / ${ambassadorInfo.earnInterval}"
-msgstr ""
+msgstr "Zdobądź: ${ambassadorInfo.earnAmount} punkty twórcy / ${ambassadorInfo.earnInterval}"
 
 #. i18n: keyword: CreatorTiersGlossary
 msgid "Higher Creator Tiers get you more points"
-msgstr ""
+msgstr "Wyższe poziomy Twórcy zapewniają Ci więcej punktów"
 
 #. i18n: keyword: CreatorTier
 msgid "Creator Tier"
-msgstr ""
+msgstr "Tier twórcy"
 
 #. i18n: keyword: CreatorRewardCost
 msgid "Cost"
@@ -979,51 +979,51 @@ msgstr ""
 
 #. i18n: keyword: CreatorProgramShortDescription
 msgid "As a content creator, you can apply for the Klei Creator program here."
-msgstr ""
+msgstr "Jako twórca treści możesz ubiegać się o udział w Programie Twórców Klei tutaj."
 
 #. i18n: keyword: CreatorProgramDescription
 msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Creator program. Once your application is sent, please give us some time to review it."
-msgstr ""
+msgstr "Poniżej podłącz co najmniej jedno konto zewnętrzne. Jeśli Twój kanał spełnia wymagania, możesz ubiegać się o udział w Programie Twórców Klei. Po wysłaniu zgłoszenia prosimy o trochę czasu na jego rozpatrzenie."
 
 #. i18n: keyword: CreatorProgramPleaseLinkAccount
 msgid "Please link at least one external account."
-msgstr ""
+msgstr "Proszę podłącz co najmniej jedno konto zewnętrzne."
 
 #. i18n: keyword: CreatorProgramRequirementsNotMet
 msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
-msgstr ""
+msgstr "Obecnie nie spełniasz wymagań do złożenia aplikacji. Proszę podłącz więcej kont lub spróbuj ponownie innym razem."
 
 #. i18n: keyword: CreatorProgramRequirementsMet
 msgid "You qualify for the Creator Program!"
-msgstr ""
+msgstr "Kwalifikujesz się do programu twórcy!"
 
 #. i18n: keyword: CreatorProgramTellUsAboutYourself
 msgid "Please tell us a bit about yourself:"
-msgstr ""
+msgstr "Proszę, opowiedz nam trochę o sobie:"
 
 #. i18n: keyword: CreatorProgramApplySuccess
 msgid "Your application was submitted! It will be reviewed soon."
-msgstr ""
+msgstr "Twoje zgłoszenie zostało wysłane! Zostanie wkrótce rozpatrzone."
 
 #. i18n: keyword: CreatorProgramApproved
 msgid "Your application has been approved and you're now a Klei Creator!"
-msgstr ""
+msgstr "Twoje zgłoszenie zostało zaakceptowane i jesteś teraz Twórcą Klei!"
 
 #. i18n: keyword: CreatorProgramRejected
 msgid "Your last application has been denied. You can try again in <b>{{ .Data.CooldownDays }} days</b>."
-msgstr ""
+msgstr "Twoje ostatnie zgłoszenie zostało odrzucone. Możesz spróbować ponownie za <b>{{ .Data.CooldownDays }} dni</b>."
 
 #. i18n: keyword: CreatorProgramPending
 msgid "You have already submitted an application, it is currently being reviewed."
-msgstr ""
+msgstr "Już przesłałeś zgłoszenie, jest ono obecnie w trakcie rozpatrywania."
 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
-msgstr ""
+msgstr "Odebrano pomyślnie! Wiadomość e-mail z kodami została wysłana na adres <b>{{ .Data.Email }}<b>."
 
 #. i18n: keyword: AccountLinkedTitle
 msgid "Account Linked"
-msgstr ""
+msgstr "Konto połączone"
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -1175,15 +1175,15 @@ msgstr "Tryb gry"
 
 #. i18n: keyword: ConfigureServerSurvival
 msgid "Survival"
-msgstr "Przetrwanie"
+msgstr ""
 
 #. i18n: keyword: ConfigureServerWilderness
 msgid "Wilderness"
-msgstr "Dzicz"
+msgstr ""
 
 #. i18n: keyword: ConfigureServerEndless
 msgid "Endless"
-msgstr "Bezkres"
+msgstr ""
 
 #. i18n: keyword: ConfigureServerMaximumPlayers
 msgid "Maximum Players"
@@ -1199,7 +1199,7 @@ msgstr "Relaksacyjny"
 
 #. i18n: keyword: ConfigureServerPlaystyleEndless
 msgid "Endless"
-msgstr "Nieskończony"
+msgstr ""
 
 #. i18n: keyword: ConfigureServerPlaystyleSurvival
 msgid "Survival"
@@ -1319,11 +1319,11 @@ msgstr "Nagroda"
 
 #. i18n: keyword: GiftCodeRedeemTitle
 msgid "Redeem a Gift Code"
-msgstr ""
+msgstr "Użyj kod podarunkowy"
 
 #. i18n: keyword: GiftCodeRedeemDesc
 msgid "If you have an item key or gift code, you can redeem it below."
-msgstr ""
+msgstr "Jeżeli posiadasz klucz lub kod podarunkowy to możesz go wykorzystać poniżej."
 
 #. i18n: keyword: GiftCodeRedeemButton
 msgid "Redeem Code"
@@ -1367,7 +1367,7 @@ msgstr "Śruby Tkaniny"
 
 #. i18n: keyword: RewardFilament
 msgid "Filament"
-msgstr ""
+msgstr "Filament"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
@@ -1387,7 +1387,7 @@ msgstr "<b>Śruby tkaniny</b><br>(tylko Nintendo Switch) Waluta w grze używana 
 
 #. i18n: keyword: RewardFilamentGlossary
 msgid "<b>Filament</b> is used to print items in the Supply Closet in-game."
-msgstr ""
+msgstr "<b>Filament</b> jest używany po to by tworzyć przedmioty za pomocą Supply Closet w grze."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1403,7 +1403,7 @@ msgstr "szpule"
 
 #. i18n: keyword: RewardFilamentAbbreviation
 msgid "filament"
-msgstr ""
+msgstr "filament"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
@@ -1487,7 +1487,7 @@ msgstr "Wymień"
 
 #. i18n: keyword: RewardItemReskins
 msgid "Reskins:"
-msgstr ""
+msgstr "Skórka:"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
@@ -1495,7 +1495,7 @@ msgstr "Nazwa nagrody:"
 
 #. i18n: keyword: RewardLinkClaimedOn
 msgid "Claimed on:"
-msgstr ""
+msgstr "Wykorzystane:"
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
@@ -1503,11 +1503,11 @@ msgstr "Link do nagrody"
 
 #. i18n: keyword: RewardLinkClaimSuccess
 msgid "Reward Link Claimed!"
-msgstr ""
+msgstr "Wykorzystano link do nagrody!"
 
 #. i18n: keyword: RewardLinkAlreadyClaimed
 msgid "Reward Link Already Claimed!"
-msgstr ""
+msgstr "Link do nagrody jest już wykorzystany!"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
@@ -1519,15 +1519,15 @@ msgstr "<p>Gratulacje!</p><p>Znalazłeś prawidłowy link do nagrody na wolnośc
 
 #. i18n: keyword: RewardLinkResultDescriptionItem
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
-msgstr ""
+msgstr "<p>Brawo!</p><p>Znalazłeś odpowiedni link gdzieś w odmętach internetu dla <b>{{.Data.ItemName}}</b>.</p><p>Teraz będziesz mógł zobaczyć ten przedmiot następnym razem gdy właczysz gre. Proszę sprawdz transakcje użytkownika aby dowiedzieć się jak wpłynęło to na twoje konto.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionDefault
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.</p><p>Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
-msgstr ""
+msgstr "<p>Brawo!</p><p>Znalazłeś odpowiedni link gdzieś w odmętach internetu.</p><p>Proszę sprawdz transakcje użytkownika aby dowiedzieć się jak wpłynęło to na twoje konto.</p>"
 
 #. i18n: keyword: E_INVALID_REFERRER
 msgid "Oops, it looks like this link has been accessed from the wrong location."
-msgstr ""
+msgstr "Ups, wygląda na to że ten link był użyty ze złej lokalizacji."
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1615,7 +1615,7 @@ msgstr "Nazwa Nintendo"
 
 #. i18n: keyword: LP_NETFLIX_Username
 msgid "Netflix username"
-msgstr ""
+msgstr "Nazwa Netflix"
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
@@ -1635,7 +1635,7 @@ msgstr "<b>Docelowa KU:</b> {{ .Data.DestinationKU }}"
 
 #. i18n: keyword: MergeFailedDescription
 msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
-msgstr "Zostałeś wylogowany ze swojego konta. Aby uzyskać dalszą pomoc, <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>skontaktuj się z pomocą</a>."
+msgstr "Zostałeś wylogowany ze swojego konta. Aby uzyskać dalszą pomoc, <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>skontaktuj się z pomocą</a>. "
 
 #. i18n: keyword: E_INVALID_CODE
 msgid "Item key or gift code is invalid."
@@ -1831,7 +1831,7 @@ msgstr "Konto oznaczone do usunięcia"
 
 #. i18n: keyword: RevertAccountLimboDescription
 msgid "Your account with User ID <b>{{ .Data.KU }}</b> has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
-msgstr "Twoje konto z identyfikatorem użytkownika <b>{{ .Data.KU }}</b> zostało oznaczone do usunięcia i nie będzie można go trwale odzyskać po upływie 30 dni.<br>Jeśli chcesz odzyskać swoje konto, naciśnij \ Przycisk „Odzyskaj konto”."
+msgstr "Twoje konto z identyfikatorem użytkownika <b>{{ .Data.KU }}</b> zostało oznaczone do usunięcia i nie będzie można go trwale odzyskać po upływie 30 dni.<br>Jeśli chcesz odzyskać swoje konto, naciśnij \\ Przycisk „Odzyskaj konto”."
 
 #. i18n: keyword: RevertAccountLimboConfirm
 msgid "Recover Account"
@@ -2059,7 +2059,7 @@ msgstr "Nieprawidłowa data urodzenia, data musi mieć następujący format: RRR
 
 #. i18n: keyword: E_TWITCH_NO_REFRESH_TOKEN
 msgid "Twitch refresh token is missing, please unlink and re-link your Twitch account and try again."
-msgstr ""
+msgstr "Brakuje tokenu odświeżającego Twitch, proszę odłącz i ponownie połącz swoje konto Twitch, a następnie spróbuj ponownie."
 
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
@@ -2247,7 +2247,7 @@ msgstr "Twoje konto Klei zostało już odłączone od Google. Jeśli uważasz, �
 
 #. i18n: keyword: E_GOOGLE_NO_YOUTUBE_CHANNEL
 msgid "This Google account has no YouTube channel associated with it."
-msgstr ""
+msgstr "Te konto Google nie jest połączone z żadnym kanałem na Youtube."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
@@ -2295,39 +2295,39 @@ msgstr "Nie można wycofać tej transakcji."
 
 #. i18n: keyword: E_USER_NOT_QUALIFIED_FOR_CREATOR
 msgid "You currently do not meet the requirements for application to the Creator Program."
-msgstr ""
+msgstr "Aktualnie nie spełniasz wymogów, aby móc aplikować do programu dla Twórców."
 
 #. i18n: keyword: E_CREATOR_INVALID_SELF_DESCRIPTION
 msgid "The self description field was either empty or exceeded the max character count."
-msgstr ""
+msgstr "Opis jest albo pusty albo przekracza dozwolony limit znaków."
 
 #. i18n: keyword: E_INVALID_YOUTUBE_CHANNELID
 msgid "Invalid YouTube channel ID"
-msgstr ""
+msgstr "Niepoprawny ID kanału YouTube"
 
 #. i18n: keyword: E_INVALID_QUANTITY
 msgid "The quantity entered is invalid"
-msgstr ""
+msgstr "Podana ilość jest niepoprawna"
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
-msgstr ""
+msgstr "${dropInfo.GameName} zdobyte dropy"
 
 #. i18n: keyword: KleiWeekDropsTitle
 msgid "Klei Week ${currentWeek} Drops"
-msgstr ""
+msgstr "Tydzień Klei ${currentWeek} Dropy"
 
 #. i18n: keyword: KleiWeekEndsIn
 msgid "Ends in ${weekCountdown}"
-msgstr ""
+msgstr "Kończy się ${weekCountdown}"
 
 #. i18n: keyword: KleiWeekEnded
 msgid "Week ended"
-msgstr ""
+msgstr "Koniec tygodnia"
 
 #. i18n: keyword: DropsDescription
 msgid "Earn the currently available drops by playing the respective games throughout the drop period."
-msgstr ""
+msgstr "Zdobądź aktualnie dostępne dropy przez granie w konkretne gry w czasie trwania dropów."
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
@@ -2359,7 +2359,7 @@ msgstr "Przywróć"
 
 #. i18n: keyword: TransactionTraded
 msgid "Traded:"
-msgstr ""
+msgstr "Wymienione:"
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
@@ -2403,7 +2403,7 @@ msgstr "Link do punktów"
 
 #. i18n: keyword: TXN_LINK_FOR_ITEM
 msgid "Link For Item"
-msgstr ""
+msgstr "Link do przedmiotów"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
@@ -2423,7 +2423,7 @@ msgstr "Szpule za przedmiot"
 
 #. i18n: keyword: TXN_FILAMENT_FOR_ITEM
 msgid "Filament For Item"
-msgstr ""
+msgstr "Filamenty za przedmioty"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
@@ -2463,7 +2463,7 @@ msgstr "Przedmiot za szpule"
 
 #. i18n: keyword: TXN_ITEM_FOR_FILAMENT
 msgid "Item For Filament"
-msgstr ""
+msgstr "Przedmioty za Filamenty"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
@@ -2527,10 +2527,14 @@ msgstr "Produkt wydany przez wsparcie Klei"
 
 #. i18n: keyword: TXN_LORE_INTERACTION
 msgid "Lore Interaction"
-msgstr ""
+msgstr "Interakcja z Lore"
 
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
+msgstr "Maszyna Wymian"
+
+#. i18n: keyword: TXN_UNLOCK_ITEM
+msgid "Unlock Item"
 msgstr ""
 
 #. i18n: keyword: Marketable
@@ -2603,7 +2607,7 @@ msgstr "Twoje poprzednie zgłoszenie zostało zbanowane i nie możesz dokonać k
 
 #. i18n: keyword: FanartEventHalloweenRules
 msgid "<li>Prizes are not awarded for submissions this year.</li><li><strong>You must be at least 18 years old</strong> or have parental permission to submit.</li><li>The image <strong>must be your own</strong> and taken for the purpose of this submission.</li><li><strong>Photos MUST include a <em>handwritten</em> sign with \"Klei {{ .Data.EventTitle }}\" in it.</strong></li><li>No tricks for treats! You must \"try\" to have an interesting or funny costume or image.</li><li>If you don’t want to post a costume, cool. Post something else {{ .Data.EventTitle }} related <strong>that follows the other entry rules</strong>. An In-game Costume, Fan Art, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">Jack o’ Lantern</a> or spooky scene.</li><li><strong>All images must be PG</strong> - any inappropriate images will be deleted and blocked from participating.</li><li>Costumes aren’t required to be related to Klei or Klei games, though they are encouraged!</li><li>As with any community submission, event rules are subject to change.</li><li>Participating submissions will be shared <a href=\"https://trickortreat.klei.com/View\">here</a> the following day.</li>"
-msgstr "<li>W tym roku nagrody nie będą przyznawane.</li><li><strong>Żeby wziąć udział musisz mieć skończone 18 lat</strong> lub mieć zgodę opiekuna.</li><li>Praca <strong>musi być wykonana samodzielnie</strong> i zrobiona na potrzeby tego wydarzenia.</li><li><strong>Praca musi zawierać <em>odręczny</em> podpis \"Klei {{ .Data.EventTitle }}\" </strong></li><li>Żadnych psikusów na cukierki! Musisz \"spróbować\" wymyślić cos ciekawego lub zabawnego do swojej pracy.</li><li>Jeśli nie chcesz pokazywać kostiumu, spoko. Prześlij coś innego związanego z {{ .Data.EventTitle }} <strong>, ważne, by było zgodne z innymi zasadami</strong>. Kostium w grze, fanowski rysunek, <a href=\"https://forums.kleientertainment.com/forums/topic/122749-dont-starve-jack-o-lantern-stencils/\" target=\"_blank\">Halloweenową dynie</a> lub upiorną aranżacje.</li><li><strong>Wszystkie prace muszą być PG</strong> - wszelkie nieodpowiednie treści zostaną usunięte i zablokowane.</li><li>Prace nie muszą być związane z grami Klei ani Klei, choć takie powiązanie będzie mile widziane!</li><li>Tak samo jak w przypadku każdego wydarzenia społeczności, zasady mogą ulec zmianie.</li><li>Przesłane prace zostaną opublikowane <a href=\"https://trickortreat.klei.com/View\">tutaj</a> następnego dnia.</li>"
+msgstr ""
 
 #. i18n: keyword: FanartEventConfirmResubmission
 msgid "You have already submitted an image. Are you sure you want to overwrite your previous submission?"
@@ -2655,11 +2659,11 @@ msgstr "Wiadomość"
 
 #. i18n: keyword: FanartEventStatusApproved
 msgid "Approved"
-msgstr "Zatwierdzony"
+msgstr "Zatwierdzono"
 
 #. i18n: keyword: FanartEventStatusRejected
 msgid "Rejected"
-msgstr "Odrzucony"
+msgstr "Odrzucono"
 
 #. i18n: keyword: FanartEventStatusUnderReview
 msgid "Under review"
@@ -2667,7 +2671,7 @@ msgstr "W trakcie sprawdzania"
 
 #. i18n: keyword: FanartEventStatusBanned
 msgid "Banned"
-msgstr "Zbanowany"
+msgstr "Zbanowane"
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
@@ -2703,39 +2707,39 @@ msgstr "O nie! Wygląda na to, że kliknąłeś uszkodzony link. Może być koni
 
 #. i18n: keyword: E_CREATOR_ALREADY_REFERRED
 msgid "You have already submitted a recommendation for this creator."
-msgstr ""
+msgstr "Już wysłałeś rekomendację dla tego twórcy."
 
 #. i18n: keyword: E_CREATOR_REFERRAL_LIMIT_REACHED
 msgid "You have reached your recommendation limit. Please try again later."
-msgstr ""
+msgstr "Osiągnąłeś limit rekomendacji. Spróbuj ponownie później."
 
 #. i18n: keyword: RecommendCreatorLimitTitle
 msgid "Creator Recommendation Limit Reached"
-msgstr ""
+msgstr "Osiągnięto limit rekomendacji twórców"
 
 #. i18n: keyword: RecommendCreatorLimitDescription
 msgid "You have reached your recommendation limit. You can submit a new recommendation in <b>{{ .Data.CooldownDays }} day(s)</b>."
-msgstr ""
+msgstr "Osiągnąłeś limit rekomendacji. Możesz przesłać nową rekomendację za <b>{{ .Data.CooldownDays }} dni</b>."
 
 #. i18n: keyword: BackToCreatorPage
 msgid "Back To Creator Page"
-msgstr ""
+msgstr "Powrót do strony twórcy"
 
 #. i18n: keyword: RecommendCreatorBtn
 msgid "Recommend"
-msgstr ""
+msgstr "Rekomenduj"
 
 #. i18n: keyword: RecommendCreatorTitle
 msgid "Recommend A Creator"
-msgstr ""
+msgstr "Rekomenduj twórcę"
 
 #. i18n: keyword: RecommendCreatorSuccessTitle
 msgid "Creator Recommendation Submitted"
-msgstr ""
+msgstr "Rekomendacja twórcy przesłana"
 
 #. i18n: keyword: RecommendCreatorSuccessDescription
 msgid "You have successfully submitted your recommendation for <b>{{ .Data.ReferredCreator }}</b>!"
-msgstr ""
+msgstr "Pomyślnie przesłałeś rekomendację dla <b>{{ .Data.ReferredCreator }}</b>!"
 
 #. i18n: keyword: RecommendCreatorSubmitBtn
 msgid "Submit"
@@ -2743,8 +2747,8 @@ msgstr ""
 
 #. i18n: keyword: RecommendCreatorDescription
 msgid "Recommend a creator that you think would be a good fit for the program. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Click for Details)</a>"
-msgstr ""
+msgstr "Poleć twórcę, który Twoim zdaniem pasowałby do programu. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Kliknij, aby uzyskać szczegóły)</a>"
 
 #. i18n: keyword: RecommendCreatorShortDesc
 msgid "Recommend a creator"
-msgstr ""
+msgstr "Rekomenduj twórcę"

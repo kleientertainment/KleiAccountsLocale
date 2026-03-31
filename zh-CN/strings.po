@@ -2533,6 +2533,10 @@ msgstr "剧情互动"
 msgid "Trade Inn"
 msgstr "交易小店"
 
+#. i18n: keyword: TXN_UNLOCK_ITEM
+msgid "Unlock Item"
+msgstr ""
+
 #. i18n: keyword: Marketable
 msgid "Marketable"
 msgstr "可出售的"
@@ -2743,7 +2747,7 @@ msgstr "提交"
 
 #. i18n: keyword: RecommendCreatorDescription
 msgid "Recommend a creator that you think would be a good fit for the program. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Click for Details)</a>"
-msgstr "推荐一位您认为适合该程序的创作者。 <a href="https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations" target="_blank" rel="noopener noreferrer">【点击了解详情】</a>"
+msgstr "推荐一位您认为适合该程序的创作者。 <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">【点击了解详情】</a>"
 
 #. i18n: keyword: RecommendCreatorShortDesc
 msgid "Recommend a creator"
