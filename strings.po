@@ -1131,7 +1131,7 @@ msgid "Link at least one external account below. If your channel qualifies, you 
 msgstr ""
 
 #. i18n: keyword: CreatorProgramPleaseConnectAccount
-msgid "Please connected at least one external account."
+msgid "Please connect at least one external account."
 msgstr ""
 
 #. i18n: keyword: CreatorProgramRequirementsNotMet
