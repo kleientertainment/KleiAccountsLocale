@@ -461,6 +461,10 @@ msgstr ""
 msgid "Continue"
 msgstr ""
 
+#. i18n: keyword: ProviderConnectedTitle
+msgid "Connected"
+msgstr ""
+
 #. i18n: keyword: ProviderLinkedTitle
 msgid "Linked"
 msgstr ""
@@ -471,6 +475,18 @@ msgstr ""
 
 #. i18n: keyword: ProviderNotLinked
 msgid "Not linked"
+msgstr ""
+
+#. i18n: keyword: LinkUnlinkAccountDescription
+msgid "Link your Klei Accounts from different platforms together or unlink an account."
+msgstr ""
+
+#. i18n: keyword: LinkAccountDescription
+msgid "This process will <b>link</b> your Klei Accounts from different platforms together, allowing you to use your items from other platforms <b>while those accounts are linked</b>."
+msgstr ""
+
+#. i18n: keyword: LinkAccountDescription2
+msgid "You can only link a single account per platform  (one Steam account, one PlayStation account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
 msgstr ""
 
 #. i18n: keyword: LinkAccountButton
@@ -505,7 +521,7 @@ msgstr ""
 msgid "Consent questions"
 msgstr ""
 
-#. i18n: keyword: MergeConsent
+#. i18n: keyword: LinkConsent
 msgid "Consent"
 msgstr ""
 
@@ -645,12 +661,16 @@ msgstr ""
 msgid "You already merged your WeGame account."
 msgstr ""
 
-#. i18n: keyword: LinkAccountTitle
+#. i18n: keyword: LinkUnlinkAccountTitle
 msgid "Link or Unlink An Account"
 msgstr ""
 
+#. i18n: keyword: LinkAccountTitle
+msgid "Link An Account"
+msgstr ""
+
 #. i18n: keyword: LinkAccountInstructionsDescription
-msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are link your own accounts and not someone else's."
+msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are linking your own accounts and not someone else's."
 msgstr ""
 
 #. i18n: keyword: LinkAccountInstructionsContinue
@@ -690,7 +710,7 @@ msgid "Are you sure you want to unlink <b>{{ .Data.KUToUnlink }} ({{ .Data.AuthP
 msgstr ""
 
 #. i18n: keyword: UnlinkAccountsWarning
-msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 7 days."
+msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 30 days."
 msgstr ""
 
 #. i18n: keyword: UnlinkAccountSuccessTitle
@@ -738,15 +758,15 @@ msgid "Link accounts"
 msgstr ""
 
 #. i18n: keyword: LinkAccountConfirmation
-msgid "Please type in link accounts” but in UPPERCASE letters, to confirm:"
+msgid "Please type in "link accounts" but in UPPERCASE letters, to confirm:"
 msgstr ""
 
-#. i18n: keyword: LinkInProgressTitle
-msgid "Account Link In Progress"
+#. i18n: keyword: LinkUnlinkInProgressTitle
+msgid "Account Link or Unlink In Progress"
 msgstr ""
 
-#. i18n: keyword: LinkInProgressDescription
-msgid "You have been logged out because an interruption occurred while account linking was in progress. Please log in again to try to continue linking."
+#. i18n: keyword: LinkUnlinkInProgressDescription
+msgid "You have been logged out because an interruption occurred while account linking or unlinking was in progress. Please log in again to try to continue the process."
 msgstr ""
 
 #. i18n: keyword: LinkAccountCooldownDesc
@@ -782,6 +802,10 @@ msgid "You already linked your Nintendo account."
 msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
+msgid "You already linked your WeGame account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailID
 msgid "You already linked your WeGame account."
 msgstr ""
 
@@ -878,7 +902,7 @@ msgid "Unexpected bad things will happen if you don’t read this!"
 msgstr ""
 
 #. i18n: keyword: DeleteAccountExplanation
-msgid "At your request, your <b>Klei account</b> and all personally identifiable information related to your account (excluding financial transactions and information related to abuse) will be submitted to be permanently removed from our system.</p><p><b>Please note: You will not be able to reverse this action, and all data will be completely and irrecoverably removed.</b></p><p><strong>This means you will no longer be able to play any game that requires a Klei Account (Don’t Starve Together and Hot Lava) the {{.PlatformName}} account will be banned permanently, and all records will be destroyed forever including progress, items and entitlements.</strong>"
+msgid "At your request, your <b>Klei account</b> and all personally identifiable information related to your account (excluding financial transactions and information related to abuse) will be submitted to be permanently removed from our system.</p><p><b>Please note: You will not be able to reverse this action, and all data will be completely and irrecoverably removed.</b></p><p><strong>This means you will no longer be able to play any game that requires a Klei Account (Don’t Starve Together and Hot Lava) the {{.PlatformName}} account (${platformID}) will be banned for 30 days, and all records will be destroyed forever including progress, items and entitlements.</strong>"
 msgstr ""
 
 #. i18n: keyword: DeleteAccountOptions
@@ -1106,8 +1130,8 @@ msgstr ""
 msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Creator program. Once your application is sent, please give us some time to review it."
 msgstr ""
 
-#. i18n: keyword: CreatorProgramPleaseLinkAccount
-msgid "Please link at least one external account."
+#. i18n: keyword: CreatorProgramPleaseConnectAccount
+msgid "Please connected at least one external account."
 msgstr ""
 
 #. i18n: keyword: CreatorProgramRequirementsNotMet
@@ -1140,6 +1164,10 @@ msgstr ""
 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
+msgstr ""
+
+#. i18n: keyword: AccountConnectedTitle
+msgid "Account Connected"
 msgstr ""
 
 #. i18n: keyword: AccountLinkedTitle
@@ -1190,16 +1218,29 @@ msgstr ""
 msgid "Items Inventory"
 msgstr ""
 
+#. i18n: keyword: ItemSingle
+msgid "item"
+msgstr ""
+
+#. i18n: keyword: ItemsMultiple
+msgid "items"
+msgstr ""
+
+
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
 msgstr ""
 
+#. i18n: keyword: LinkedPlatformAccount
+msgid "Linked ${quantityData.platformStr} account"
+msgstr ""
+
 #. i18n: keyword: RemoveDuplicateItems
-msgid "Remove Duplicates for ${currentKU}"
+msgid "Remove Duplicates"
 msgstr ""
 
 #. i18n: keyword: RemoveDuplicateItemsConfirmation
-msgid "Are you sure you want to remove all duplicates of this item for ${currentKU} and only keep one?"
+msgid "Are you sure you want to remove all duplicates of this item and only keep one?"
 msgstr ""
 
 #. i18n: keyword: RemoveDuplicateItemsQuantityToRemove
