@@ -949,11 +949,11 @@ msgid "Redeem"
 msgstr ""
 
 #. i18n: keyword: CreatorCreateRewardLinks
-msgid "Create reward links"
+msgid "Create links"
 msgstr ""
 
 #. i18n: keyword: CreatorCreateRewardLinksSingular
-msgid "Create reward link"
+msgid "Create link"
 msgstr ""
 
 #. i18n: keyword: CreatorCreatorName
@@ -977,7 +977,7 @@ msgid "Create a single link that can be redeemed by multiple people."
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkMultipleExplanation
-msgid "Create multiple links that can each be redeemed by one person.
+msgid "Create multiple links that can each be redeemed by one person."
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkSinglePreview
@@ -1578,16 +1578,16 @@ msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkDescription
-msgid "<p>Congratulations!</p><p>You have found a reward link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
+msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
 msgid "You are currently logged in as <b>${profile.name}</b>"
-msgstr "
+msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation2
 msgid "If you would like to redeem this reward to a different account, please log in to that account first."
-msgstr "
+msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkClaim
 msgid "Claim as <b>${profile.name}</b>"
@@ -1598,7 +1598,7 @@ msgid "Claiming..."
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkRedeemSuccess
-msgid "You've successfully redeemed this reward link!"
+msgid "You've successfully redeemed this creator link!"
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkRedeemBalanceWillUpdate
@@ -1959,19 +1959,19 @@ msgid "This reward has already been claimed, your balances have been updated!"
 msgstr ""
 
 #. i18n: keyword: E_REWARD_LINK_INVALID
-msgid "This reward link doesn't exist. Please check that you have copied it correctly."
+msgid "This link doesn't exist. Please check that you have copied it correctly."
 msgstr ""
 
 #. i18n: keyword: E_REWARD_LINK_EXPIRED
-msgid "Sorry, this reward link has expired."
+msgid "Sorry, this link has expired."
 msgstr ""
 
 #. i18n: keyword: E_REWARD_LINK_CLAIMED
-msgid "Sorry, this reward link was already claimed."
+msgid "Sorry, this link was already claimed."
 msgstr ""
 
 #. i18n: keyword: E_REWARD_LINK_CLAIMED_BY_YOU
-msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
+msgid "Whoa! It looks like you already clicked this link before. You can only redeem it once."
 msgstr ""
 
 #. i18n: keyword: E_REWARD_LINK_REDEEM_FAIL
@@ -2520,7 +2520,7 @@ msgid "Link For Item"
 msgstr ""
 
 #. i18n: keyword: TXN_CREATOR_LINK
-msgid "Creator Reward Link"
+msgid "Creator Link"
 msgstr ""
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
