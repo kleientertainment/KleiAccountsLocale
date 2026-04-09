@@ -2390,6 +2390,10 @@ msgstr ""
 msgid "You already have claimed this reward."
 msgstr ""
 
+#. i18n: keyword: E_LINK_ALREADY_EXISTS
+msgid "This link already exists, please try a different giveaway name."
+msgstr ""
+
 #. i18n: keyword: E_UNKNOWN_LINK
 msgid "The link you have used is not valid. Please check the source of this link and try again."
 msgstr ""
