@@ -2426,6 +2426,10 @@ msgstr ""
 msgid "The quantity entered is invalid"
 msgstr ""
 
+#. i18n: keyword: E_INVALID_PARAMETER
+msgid "Invalid parameter"
+msgstr ""
+
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
 msgstr ""
