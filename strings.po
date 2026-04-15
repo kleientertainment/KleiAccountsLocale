@@ -1614,7 +1614,7 @@ msgid "Please refer to the \"User Transactions\" page to understand how this ope
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkRedeemSuccessKeyEmailed
-msgid "An email has been sent to <b>${profile.email}<b> with your game key."
+msgid "An email has been sent to <b>${profile.email}</b> with your game key."
 msgstr ""
 
 #. i18n: keyword: E_INVALID_REFERRER
