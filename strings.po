@@ -980,11 +980,7 @@ msgstr ""
 msgid "Create multiple links that can each be redeemed by one person."
 msgstr ""
 
-#. i18n: keyword: CreatorRewardLinkSinglePreview
-msgid "The link will be:"
-msgstr ""
-
-#. i18n: keyword: CreatorRewardLinkMultiplePreview
+#. i18n: keyword: CreatorRewardLinkPreview
 msgid "The links will look like this:"
 msgstr ""
 
