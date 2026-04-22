@@ -730,7 +730,7 @@ msgid "An error has occured while unlinking your accounts."
 msgstr ""
 
 #. i18n: keyword: UnlinkAccountFailedDescription
-msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
+msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance."
 msgstr ""
 
 #. i18n: keyword: LinkAccountWarningsTitle
