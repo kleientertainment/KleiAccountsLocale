@@ -770,7 +770,7 @@ msgid "You have been logged out because an interruption occurred while account l
 msgstr ""
 
 #. i18n: keyword: LinkAccountCooldownDesc
-msgid "Your have recently unlinked a {{ .Data.PlatformName }} account. You can try to link again in <b>{{ .Data.CooldownDays }} days</b>."
+msgid "You have recently unlinked a {{ .Data.PlatformName }} account. You can try to link again in <b>{{ .Data.CooldownDays }} days</b>."
 msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_LINK_NOT_SUPPORTED
