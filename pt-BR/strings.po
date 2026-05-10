@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2025-12-13 18:40-0300\n"
+"PO-Revision-Date: 2026-04-06 21:00-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -2655,7 +2655,7 @@ msgstr "Estação de Trocas"
 
 #. i18n: keyword: TXN_UNLOCK_ITEM
 msgid "Unlock Item"
-msgstr ""
+msgstr "Desbloquear Item"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
