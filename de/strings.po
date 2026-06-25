@@ -1093,10 +1093,6 @@ msgstr "Creator-Hub"
 msgid "Redeem"
 msgstr "Einlösen"
 
-#. i18n: keyword: CreatorDescription
-msgid "Redeem creator rewards"
-msgstr "Creator-Belohnungen einlösen"
-
 #. i18n: keyword: CreatorCreateRewardLinks
 msgid "Create links"
 msgstr ""
@@ -2995,7 +2991,7 @@ msgstr "Du hast bereits eine Empfehlung für diesen Creator abgegeben."
 
 #. i18n: keyword: E_CREATOR_REFERRAL_LIMIT_REACHED
 msgid "You have reached your recommendation limit. Please try again later."
-msgstr Du hast dein Empfehlungslimit erreicht. Bitte versuche es später erneut."
+msgstr "Du hast dein Empfehlungslimit erreicht. Bitte versuche es später erneut."
 
 #. i18n: keyword: RecommendCreatorLimitTitle
 msgid "Creator Recommendation Limit Reached"
