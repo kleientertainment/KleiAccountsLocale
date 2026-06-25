@@ -1586,8 +1586,8 @@ msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-g
 msgstr "<b>线轴</b><br>线轴可以在游戏的珍宝柜中编织物品。"
 
 #. i18n: keyword: RewardBoltsGlossary
-msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>布卷</b><br>(仅限PlayStation 和 XBox)游戏商店中用来购买皮肤和套装的游戏货币。"
+msgid "<b>Bolts of Cloth</b><br>(Account for PlayStation® and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."

@@ -1586,8 +1586,8 @@ msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-g
 msgstr "<b>Катушки</b><br>Катушки используются, чтобы выткать предметы в меню коллекций в игре."
 
 #. i18n: keyword: RewardBoltsGlossary
-msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>Рулоны ткани</b><br>(только для PlayStation и XBox) Внутриигровая валюта, которая используется для покупки скинов и наборов во внутриигровом магазине."
+msgid "<b>Bolts of Cloth</b><br>(Account for PlayStation® and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."

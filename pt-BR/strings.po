@@ -1586,8 +1586,8 @@ msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-g
 msgstr "<b>Carretéis</b><br>Os carretéis são utilizados para tecer os itens no Armário Curio dentro do jogo."
 
 #. i18n: keyword: RewardBoltsGlossary
-msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>Rolos de Tecido</b><br>(Apenas PlayStation e XBox) Moeda utilizada dentro jogo para comprar skins e pacotes da loja."
+msgid "<b>Bolts of Cloth</b><br>(Account for PlayStation® and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
