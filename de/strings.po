@@ -953,6 +953,58 @@ msgstr "Einlösen"
 msgid "Redeem creator rewards"
 msgstr "Creator-Belohnungen einlösen"
 
+#. i18n: keyword: CreatorCreateRewardLinks
+msgid "Create links"
+msgstr ""
+
+#. i18n: keyword: CreatorCreateRewardLinksSingular
+msgid "Create link"
+msgstr ""
+
+#. i18n: keyword: CreatorCreatorName
+msgid "Your Creator Name"
+msgstr ""
+
+#. i18n: keyword: CreatorGiveawayName
+msgid "Giveaway Name"
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkSingle
+msgid "Single link"
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkMultiple
+msgid "Multiple links"
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkSingleExplanation
+msgid "Create a single link that can be redeemed by multiple people."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkMultipleExplanation
+msgid "Create multiple links that can each be redeemed by one person."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkSinglePreview
+msgid "The link will look like this:"
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkMultiplePreview
+msgid "The links will look like this:"
+msgstr ""
+
+#. i18n: keyword: CreatorNbLinks
+msgid "Number of links"
+msgstr ""
+
+#. i18n: keyword: CreatorNbRedeems
+msgid "Max number of redemptions"
+msgstr ""
+
+#. i18n: keyword: CreatorExpiresAfterDays
+msgid "Note: Links expire after ${ambassadorInfo.rewardLinkMaxExpiryDays} days if unclaimed (${expiryDate()})."
+msgstr ""
+
 #. i18n: keyword: CreatorPointsGlossary
 msgid "Creator Points are used to redeem skins and codes"
 msgstr "Creator-Punkte können zum Einlösen von Skins und Codes verwendet werden"
@@ -1525,6 +1577,46 @@ msgstr "<p>Herzlichen Glückwunsch!</p><p>Du hast einen gültigen Belohnungslink
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.</p><p>Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
 msgstr "<p>Herzlichen Glückwunsch!</p><p>Du hast einen gültigen Belohnungslink gefunden.</p><p>Auf der Seite \"Benutzertransaktionen\" erfährst du, wie sich dieser Vorgang auf dein Account ausgewirkt hat.</p>"
 
+#. i18n: keyword: CreatorRewardLinkDescription
+msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemExplanation
+msgid "You are currently logged in as <b>${profile.name}</b>"
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemExplanation2
+msgid "If you would like to redeem this reward to a different account, please log in to that account first."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkClaim
+msgid "Claim as <b>${profile.name}</b>"
+msgstr ""
+
+#. i18n: keyword: Claiming
+msgid "Claiming..."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccess
+msgid "You've successfully redeemed this creator link!"
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemBalanceWillUpdate
+msgid "Your balance will immediately update."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccessFindItIngame
+msgid "You will find this reward in-game next time you play."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccessTransactionExplanation
+msgid "Please refer to the \"User Transactions\" page to understand how this operation affected your account."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccessCodeEmailed
+msgid "An email has been sent to <b>${profile.email}</b> with your code."
+msgstr ""
+
 #. i18n: keyword: E_INVALID_REFERRER
 msgid "Oops, it looks like this link has been accessed from the wrong location."
 msgstr "Hoppla, es sieht so aus, als wäre dieser Link von einem falschen Standort aus aufgerufen worden."
@@ -1864,6 +1956,26 @@ msgstr "Dieses Spiel existiert nicht."
 #. i18n: keyword: E_REWARD_REPLAYED
 msgid "This reward has already been claimed, your balances have been updated!"
 msgstr "Diese Prämie wurde bereits eingelöst, dein Guthaben wurden aktualisiert!"
+
+#. i18n: keyword: E_REWARD_LINK_INVALID
+msgid "This link doesn't exist. Please check that you have copied it correctly."
+msgstr ""
+
+#. i18n: keyword: E_REWARD_LINK_EXPIRED
+msgid "Sorry, this link has expired."
+msgstr ""
+
+#. i18n: keyword: E_REWARD_LINK_CLAIMED
+msgid "Sorry, this link was already claimed."
+msgstr ""
+
+#. i18n: keyword: E_REWARD_LINK_CLAIMED_BY_YOU
+msgid "Whoa! It looks like you already clicked this link before. You can only redeem it once."
+msgstr ""
+
+#. i18n: keyword: E_REWARD_LINK_REDEEM_FAIL
+msgid "You've claimed this link but we ran into an error while trying to give you the reward. Please try this link again in a few seconds."
+msgstr ""
 
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
@@ -2277,6 +2389,10 @@ msgstr "Du verfügst nicht über genügend Punkte, um diesen Gegenstand einzulö
 msgid "You already have claimed this reward."
 msgstr "Du hast diese Belohnung bereits eingelöst."
 
+#. i18n: keyword: E_LINK_ALREADY_EXISTS
+msgid "This link already exists, please try a different giveaway name."
+msgstr ""
+
 #. i18n: keyword: E_UNKNOWN_LINK
 msgid "The link you have used is not valid. Please check the source of this link and try again."
 msgstr "Der verwednete Link ist ungültig. Bitte überprüfe den Link und versuchen es nochmal."
@@ -2308,6 +2424,10 @@ msgstr "Ungültige YouTube-Kanal-ID"
 #. i18n: keyword: E_INVALID_QUANTITY
 msgid "The quantity entered is invalid"
 msgstr "Die eingegebene Menge ist ungültig"
+
+#. i18n: keyword: E_INVALID_PARAMETER
+msgid "Invalid parameter"
+msgstr ""
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
@@ -2404,6 +2524,10 @@ msgstr "Link für Punkte"
 #. i18n: keyword: TXN_LINK_FOR_ITEM
 msgid "Link For Item"
 msgstr "Link für Gegenstände"
+
+#. i18n: keyword: TXN_CREATOR_LINK
+msgid "Creator Link"
+msgstr ""
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
