@@ -825,6 +825,10 @@ msgstr ""
 msgid "You have recently unlinked this gaming platform. Please wait before linking again."
 msgstr ""
 
+#. i18n: keyword: E_ACCOUNT_UNLINK_KU_NOT_LINKED
+msgid "The account you are trying to unlink is not linked to your current account."
+msgstr ""
+
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
 msgstr "Sử dụng trang này để có quyền truy cập vào các trò chơi bạn đã sở hữu trên một nền tảng chơi trò chơi khác."
@@ -2372,6 +2376,10 @@ msgstr ""
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
 msgstr "Máy tính của bạn đã gửi dữ liệu không chính xác tới máy chủ."
+
+#. i18n: keyword: E_CONTEXT_CANCELED
+msgid "The operation was interrupted. Please try again."
+msgstr ""
 
 #. i18n: keyword: E_STEAM_FORBIDDEN
 msgid "Your account has been temporarily blocked by Steam."
