@@ -826,7 +826,7 @@ msgid "You have recently unlinked this gaming platform. Please wait before linki
 msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_UNLINK_KU_NOT_LINKED
-msgid "The account you are trying to unlink is not linked to your current account"
+msgid "The account you are trying to unlink is not linked to your current account."
 msgstr ""
 
 #. i18n: keyword: OwnershipDescription
