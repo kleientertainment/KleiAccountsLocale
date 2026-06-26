@@ -825,6 +825,10 @@ msgstr ""
 msgid "You have recently unlinked this gaming platform. Please wait before linking again."
 msgstr ""
 
+#. i18n: keyword: E_ACCOUNT_UNLINK_KU_NOT_LINKED
+msgid "The account you are trying to unlink is not linked to your current account"
+msgstr ""
+
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
 msgstr "Використовуйте цю сторінку, щоб отримати доступ до ігор, якими ви вже володієте на іншій ігровій платформі."
@@ -2372,6 +2376,10 @@ msgstr "Ви мусите мати базову версію гри для уч�
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
 msgstr "Ваш комп'ютер відправив невірні дані на сервер."
+
+#. i18n: keyword: E_CONTEXT_CANCELED
+msgid "The operation was interrupted. Please try again."
+msgstr ""
 
 #. i18n: keyword: E_STEAM_FORBIDDEN
 msgid "Your account has been temporarily blocked by Steam."
