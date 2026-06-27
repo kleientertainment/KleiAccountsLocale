@@ -671,7 +671,7 @@ msgstr "ربط حساب"
 
 #. i18n: keyword: LinkAccountInstructionsDescription
 msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are linking your own accounts and not someone else's."
-msgstr "إذا كنت تستخدم حاسوبًا عامًا أو حاسوبًا تشاركه مع أشخاص آخرين، فقد ترغب في استخدام وضع "التصفح الخفي" في متصفحك أو ما يعادله لضمان أنك تربط حساباتك أنت وليس حسابات شخص آخر."
+msgstr "إذا كنت تستخدم حاسوبًا عامًا أو حاسوبًا تشاركه مع أشخاص آخرين، فقد ترغب في استخدام وضع \"التصفح الخفي\" في متصفحك أو ما يعادله لضمان أنك تربط حساباتك أنت وليس حسابات شخص آخر."
 
 #. i18n: keyword: LinkAccountInstructionsContinue
 msgid "Continue"
@@ -759,7 +759,7 @@ msgstr "ربط الحسابات"
 
 #. i18n: keyword: LinkAccountConfirmation
 msgid "Please type in \"link accounts\" but in UPPERCASE letters, to confirm:"
-msgstr "يرجى كتابة "link accounts" بأحرف كبيرة لتأكيد العملية:"
+msgstr "يرجى كتابة \"link accounts\" بأحرف كبيرة لتأكيد العملية:"
 
 #. i18n: keyword: LinkUnlinkInProgressTitle
 msgid "Account Link or Unlink In Progress"
