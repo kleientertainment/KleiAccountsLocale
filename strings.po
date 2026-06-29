@@ -698,7 +698,7 @@ msgid "An error has occured while linking the following accounts:"
 msgstr ""
 
 #. i18n: keyword: LinkAccountFailedDescription
-msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance."
+msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance."
 msgstr ""
 
 #. i18n: keyword: UnlinkAccountsTitle
@@ -730,7 +730,7 @@ msgid "An error has occured while unlinking your accounts."
 msgstr ""
 
 #. i18n: keyword: UnlinkAccountFailedDescription
-msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance."
+msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance."
 msgstr ""
 
 #. i18n: keyword: LinkAccountWarningsTitle
@@ -827,6 +827,22 @@ msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_UNLINK_KU_NOT_LINKED
 msgid "The account you are trying to unlink is not linked to your current account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_CURRENT_USER_UNLINK_IN_PROGRESS
+msgid "Your account is currently in the process of an unlinking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_CURRENT_USER_LINK_IN_PROGRESS
+msgid "Your account is currently in the process of a linking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_OTHER_USER_UNLINK_IN_PROGRESS
+msgid "The account you are trying to unlink is currently in the process of an unlinking operation. Please log in to that account to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_OTHER_USER_LINK_IN_PROGRESS
+msgid "The account you are trying to unlink is currently in the process of a linking operation. Please log in to that account to complete the process."
 msgstr ""
 
 #. i18n: keyword: OwnershipDescription
@@ -2621,7 +2637,7 @@ msgid "User Transactions"
 msgstr ""
 
 #. i18n: keyword: UserTransactionsDescription
-msgid "Transactions associated with your account are listed below, newest first.<br>Transaction time is in UTC, not your local time."
+msgid "Transactions associated with your account over the past year are listed below, newest first.<br>Transaction time is in UTC, not your local time."
 msgstr ""
 
 #. i18n: keyword: PlatformName

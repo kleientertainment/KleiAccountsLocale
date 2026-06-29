@@ -698,8 +698,8 @@ msgid "An error has occured while linking the following accounts:"
 msgstr "حدث خطأ أثناء ربط الحسابات التالية:"
 
 #. i18n: keyword: LinkAccountFailedDescription
-msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance."
-msgstr "تم تسجيل خروجك من حسابك. يرجى <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>التواصل مع الدعم</a> للحصول على مزيد من المساعدة."
+msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance."
+msgstr ""
 
 #. i18n: keyword: UnlinkAccountsTitle
 msgid "Unlink Accounts"
@@ -730,8 +730,8 @@ msgid "An error has occured while unlinking your accounts."
 msgstr "حدث خطأ أثناء إلغاء ربط حساباتك."
 
 #. i18n: keyword: UnlinkAccountFailedDescription
-msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance."
-msgstr "تم تسجيل خروجك من حسابك. يرجى <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>التواصل مع الدعم</a> للحصول على مزيد من المساعدة."
+msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance."
+msgstr ""
 
 #. i18n: keyword: LinkAccountWarningsTitle
 msgid "Warning"
@@ -828,6 +828,22 @@ msgstr "لقد ألغيت ربط منصة اللعب هذه مؤخرًا. يرج
 #. i18n: keyword: E_ACCOUNT_UNLINK_KU_NOT_LINKED
 msgid "The account you are trying to unlink is not linked to your current account."
 msgstr "الحساب الذي تحاول إلغاء ربطه غير مرتبط بحسابك الحالي."
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_CURRENT_USER_UNLINK_IN_PROGRESS
+msgid "Your account is currently in the process of an unlinking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_CURRENT_USER_LINK_IN_PROGRESS
+msgid "Your account is currently in the process of a linking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_OTHER_USER_UNLINK_IN_PROGRESS
+msgid "The account you are trying to unlink is currently in the process of an unlinking operation. Please log in to that account to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_OTHER_USER_LINK_IN_PROGRESS
+msgid "The account you are trying to unlink is currently in the process of a linking operation. Please log in to that account to complete the process."
+msgstr ""
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -2618,8 +2634,8 @@ msgid "User Transactions"
 msgstr "معاملات المستخدم"
 
 #. i18n: keyword: UserTransactionsDescription
-msgid "Transactions associated with your account are listed below, newest first.<br>Transaction time is in UTC, not your local time."
-msgstr "المعاملات المرتبطة بحسابك مدرجة أدناه، الأحدث أولًا.<br>وقت المعاملة بتوقيت UTC، وليس بتوقيتك المحلي."
+msgid "Transactions associated with your account over the past year are listed below, newest first.<br>Transaction time is in UTC, not your local time."
+msgstr ""
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
