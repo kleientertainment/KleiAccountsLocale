@@ -1754,8 +1754,8 @@ msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.
 msgstr "<p>تهانينا!</p><p>لقد وجدت رابط مكافأة صالحًا في البرية.</p><p>يرجى الرجوع إلى صفحة \"معاملات المستخدم\" لمعرفة كيف أثرت هذه العملية في حسابك.</p>"
 
 #. i18n: keyword: CreatorRewardLinkDescription
-msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
-msgstr "<p>تهانينا!</p><p>لقد وجدت رابط مبدع أنشأه <b>{{.Data.RewardLink.AmbassadorName}}</b> للسحب <b>{{.Data.RewardLink.GiveawayName}}</b>."
+msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
+msgstr "<p>تهانينا!</p><p>لقد وجدت رابط مبدع أنشأه <b>{{.Data.RewardLink.AmbassadorName}}</b> للسحب <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
 msgid "You are currently logged in as <b>${profile.name}</b>"

@@ -1754,8 +1754,8 @@ msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.
 msgstr "<p>恭喜！</p><p>您已成功获取随机掉落的有效奖励链接。</p><p>具体账户变动情况请前往“用户交易”页面查看详情。</p>"
 
 #. i18n: keyword: CreatorRewardLinkDescription
-msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
-msgstr "<p>恭喜！</p><p>您找到了由 <b>{{.Data.RewardLink.AmbassadorName}}</b> 为赠品活动 <b>{{.Data.RewardLink.GiveawayName}}</b> 创建的创作者链接。"
+msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
+msgstr "<p>恭喜！</p><p>您找到了由 <b>{{.Data.RewardLink.AmbassadorName}}</b> 为赠品活动 <b>{{.Data.RewardLink.GiveawayName}}</b> 创建的创作者链接。</p>"
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
 msgid "You are currently logged in as <b>${profile.name}</b>"

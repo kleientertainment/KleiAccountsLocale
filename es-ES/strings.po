@@ -1754,7 +1754,7 @@ msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkDescription
-msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
+msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
