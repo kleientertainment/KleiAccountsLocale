@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2025-12-17 22:41+0800\n"
-"Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
+"PO-Revision-Date: 2026-05-05 09:11+0800\n"
+"Last-Translator: 涛之雨|taozhiyu\n"
 "Language-Team: Chinese Simplified (https://accounts.klei.com/community-translations)\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -325,29 +325,17 @@ msgstr "玩家标识符"
 msgid "user not found"
 msgstr "未找到该用户"
 
-#. i18n: keyword: LinkedAccounts
-msgid "Linked Accounts"
-msgstr "已连接账户"
+#. i18n: keyword: ConnectedAccounts
+msgid "Connected Accounts"
+msgstr ""
 
-#. i18n: keyword: LinkAccountButton
-msgid "Link Account"
-msgstr "绑定账户"
+#. i18n: keyword: ConnectAccountButton
+msgid "Connect Account"
+msgstr ""
 
 #. i18n: keyword: AddedOn
 msgid "Added On"
 msgstr "已添加"
-
-#. i18n: keyword: AccountLinkRulesTitle
-msgid "Streaming Rules"
-msgstr "Twitch直播规则"
-
-#. i18n: keyword: AccountLinkRulesDescription
-msgid "Klei Rewards are intended to be a way to support streamers that provide quality content for our community, and “Away From Keyboard (AFK)” streams disrupt the effectiveness of the system. AFK streams or streams showing content other than Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these rules will be unlinked and potentially banned from participating ever again."
-msgstr "Klei掉落是为了支持为我们的社区提供高质量内容的主播们。挂机直播会破坏系统的有效性，所以挂机直播和直播关于《饥荒》或者《饥荒：联机版》以外的内容是不被允许的。违反这些规则的主播会被取消联解并会被禁止参与Klei的Klei掉落程序。"
-
-#. i18n: keyword: AccountLinkRulesAccept
-msgid "Accept and Continue"
-msgstr "接受条款并继续"
 
 #. i18n: keyword: ChangeEmail
 msgid "Change Email"
@@ -453,13 +441,13 @@ msgstr "这将把你的Discord账户与Klei账户绑定。"
 msgid "Unlink Discord Account"
 msgstr "解绑Discord账户"
 
-#. i18n: keyword: LinkAccountsTitle
-msgid "Link Accounts"
-msgstr "关联账户"
+#. i18n: keyword: ConnectAccountsTitle
+msgid "Connect Accounts"
+msgstr ""
 
-#. i18n: keyword: LinkAccountsDescription
-msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
-msgstr "将您的 Klei 帐户链接到其他服务，如 Twitch、Bilibili、斗鱼和 Discord。"
+#. i18n: keyword: ConnectAccountsDescription
+msgid "Connect your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
+msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -477,13 +465,37 @@ msgstr "继续"
 msgid "Connected"
 msgstr "已连接"
 
-#. i18n: keyword: ProviderConnectedID
-msgid "External account ID:"
-msgstr "ID："
+#. i18n: keyword: ProviderLinkedTitle
+msgid "Linked"
+msgstr ""
 
-#. i18n: keyword: ProviderNotConnected
-msgid "Not connected"
-msgstr "未连接"
+#. i18n: keyword: ProviderLinkedID
+msgid "ID:"
+msgstr ""
+
+#. i18n: keyword: ProviderNotLinked
+msgid "Not linked"
+msgstr ""
+
+#. i18n: keyword: LinkUnlinkAccountDescription
+msgid "Link your Klei Accounts from different platforms together or unlink an account."
+msgstr ""
+
+#. i18n: keyword: LinkAccountDescription
+msgid "This process will <b>link</b> your Klei Accounts from different platforms together, allowing you to use your items from other platforms <b>while those accounts are linked</b>."
+msgstr ""
+
+#. i18n: keyword: LinkAccountDescription2
+msgid "You can only link a single account per platform  (one Steam account, one Epic account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
+msgstr ""
+
+#. i18n: keyword: LinkAccountButton
+msgid "Link Account"
+msgstr "绑定账户"
+
+#. i18n: keyword: LinkAccountLinking
+msgid "Linking..."
+msgstr ""
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -509,9 +521,9 @@ msgstr "请勾选以确认您已阅读并理解以下内容。"
 msgid "Consent questions"
 msgstr "同意问题"
 
-#. i18n: keyword: MergeConsent
+#. i18n: keyword: LinkConsent
 msgid "Consent"
-msgstr "同意书"
+msgstr ""
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -537,18 +549,6 @@ msgstr "账户合并成功。</p><p>我们已经清空了你的会话，你可�
 msgid "The account merge operation was a success!"
 msgstr "账户合并操作成功！"
 
-#. i18n: keyword: MergeAccountFixWarnings
-msgid "Fix Warnings"
-msgstr "修复警告"
-
-#. i18n: keyword: MergeAccountDate
-msgid "Account creation date"
-msgstr "账户创建日期"
-
-#. i18n: keyword: MergeAccountEmail
-msgid "Klei Account email"
-msgstr "科雷账户邮箱"
-
 #. i18n: keyword: MergeAccountKeepThis
 msgid "Keep this account"
 msgstr "保留此账户"
@@ -569,14 +569,6 @@ msgstr "请确定这是你想保留的账户。"
 msgid "You'll lose all your in-game progress in this account."
 msgstr "你会失去此账户中的所有游戏进度。"
 
-#. i18n: keyword: MergeAccountReadyButton
-msgid "Merge accounts"
-msgstr "合并账户"
-
-#. i18n: keyword: MergeAccountReady
-msgid "You will be able to log in with the new account after submitting."
-msgstr "提交后，你将能够用新账户登录。"
-
 #. i18n: keyword: MergeAccountMerging
 msgid "Merging…"
 msgstr "合并中……"
@@ -584,14 +576,6 @@ msgstr "合并中……"
 #. i18n: keyword: MergeAccountDoNotLeave
 msgid "Please do not leave this page"
 msgstr "请不要离开此页"
-
-#. i18n: keyword: MergeAccountWarningsTitle
-msgid "Warning"
-msgstr "警告"
-
-#. i18n: keyword: MergeAccountWarningsSubtitle
-msgid "You need to fix these issues"
-msgstr "你需要解决这些问题"
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
@@ -641,14 +625,6 @@ msgstr "“用户同意”无效，您需要非常仔细地阅读账户合并说
 msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
 msgstr "由于某些数据丢失，现在无法合并您的账户。请退出登录并重新开始该操作。确保您的浏览器接受cookie，并且您要合并的两个账户是正确的。"
 
-#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
-msgid "Please update your *Klei* accounts to use the same email address and start the process again."
-msgstr "请更新您的*Klei*账户以使用相同的邮箱地址，然后重新开始该操作。"
-
-#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
-msgstr "请确认两个账户中的邮箱地址，然后重新开始该操作。"
-
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
 msgstr "我们无法合并您的账户，因为其中之一被禁用。"
@@ -684,6 +660,190 @@ msgstr "你已经合并了你的任天堂账户。"
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
 msgid "You already merged your WeGame account."
 msgstr "你已经合并了你的WeGame账户。"
+
+#. i18n: keyword: LinkUnlinkAccountTitle
+msgid "Link or Unlink An Account"
+msgstr ""
+
+#. i18n: keyword: LinkAccountTitle
+msgid "Link An Account"
+msgstr ""
+
+#. i18n: keyword: LinkAccountInstructionsDescription
+msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are linking your own accounts and not someone else's."
+msgstr ""
+
+#. i18n: keyword: LinkAccountInstructionsContinue
+msgid "Continue"
+msgstr ""
+
+#. i18n: keyword: LinkAccountSuccessTitle
+msgid "Successful Account Link"
+msgstr ""
+
+#. i18n: keyword: LinkAccountSuccessDescription
+msgid "The account link operation was a success!"
+msgstr ""
+
+#. i18n: keyword: LinkAccountSuccessShortDescription
+msgid "The account link operation was a success!"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFailedTitle
+msgid "Account Linking Failed"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFailedErrorDescription
+msgid "An error has occured while linking the following accounts:"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFailedDescription
+msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsTitle
+msgid "Unlink Accounts"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsDesc
+msgid "Are you sure you want to unlink <b>{{ .Data.KUToUnlink }} ({{ .Data.AuthProvidersToUnlink }})</b> from:"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsWarning
+msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 30 days."
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountSuccessTitle
+msgid "Successful Account Unlink"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountSuccessDesc
+msgid "You have successfully unlinked your accounts!"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountFailedTitle
+msgid "Account Unlinking Failed"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountFailedErrorDescription
+msgid "An error has occured while unlinking your accounts."
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountFailedDescription
+msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
+msgstr ""
+
+#. i18n: keyword: LinkAccountWarningsTitle
+msgid "Warning"
+msgstr ""
+
+#. i18n: keyword: LinkAccountWarningsSubtitle
+msgid "You need to fix these issues"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFixWarnings
+msgid "Fix Warnings"
+msgstr ""
+
+#. i18n: keyword: LinkAccountDate
+msgid "Account creation date"
+msgstr ""
+
+#. i18n: keyword: LinkAccountEmail
+msgid "Klei Account email"
+msgstr ""
+
+#. i18n: keyword: LinkAccountReadyButton
+msgid "Link accounts"
+msgstr ""
+
+#. i18n: keyword: LinkAccountConfirmation
+msgid "Please type in \"link accounts\" but in UPPERCASE letters, to confirm:"
+msgstr ""
+
+#. i18n: keyword: LinkUnlinkInProgressTitle
+msgid "Account Link or Unlink In Progress"
+msgstr ""
+
+#. i18n: keyword: LinkUnlinkInProgressDescription
+msgid "You have been logged out because an interruption occurred while account linking or unlinking was in progress. Please log in again to try to continue the process."
+msgstr ""
+
+#. i18n: keyword: LinkAccountCooldownDesc
+msgid "Your have recently unlinked a {{ .Data.PlatformName }} account. You can try to link again in <b>{{ .Data.CooldownDays }} days</b>."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_NOT_SUPPORTED
+msgid "Unfortunately, the gaming platform you are trying to link does not have the capabilities to execute this operation yet."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_MISSING_DATA
+msgid "It is impossible to link your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the accounts you are going to link are correct."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_EMAIL_NOT_VALIDATED
+msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.EpicID
+msgid "You already linked your Epic Games account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.SteamID
+msgid "You already linked your Steam account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
+msgid "You already linked your Xbox Network account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
+msgid "You already linked your Nintendo account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
+msgid "You already linked your WeGame account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailID
+msgid "You already linked your WeGame account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.PSNID
+msgid "You already linked your account for PlayStation®."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_DIFFERENT_EMAIL
+msgid "Please update your *Klei* accounts to use the same email address and start the process again."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_IN_PROGRESS
+msgid "Your account is currently in the process of a linking or unlinking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_COOLDOWN
+msgid "You have recently unlinked this gaming platform. Please wait before linking again."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_KU_NOT_LINKED
+msgid "The account you are trying to unlink is not linked to your current account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_CURRENT_USER_UNLINK_IN_PROGRESS
+msgid "Your account is currently in the process of an unlinking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_CURRENT_USER_LINK_IN_PROGRESS
+msgid "Your account is currently in the process of a linking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_OTHER_USER_UNLINK_IN_PROGRESS
+msgid "The account you are trying to unlink is currently in the process of an unlinking operation. Please log in to that account to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_OTHER_USER_LINK_IN_PROGRESS
+msgid "The account you are trying to unlink is currently in the process of a linking operation. Please log in to that account to complete the process."
+msgstr ""
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -745,9 +905,9 @@ msgstr "取消关联"
 msgid "Are you sure you want to unlink your"
 msgstr "您确定要取消关联吗"
 
-#. i18n: keyword: UnlinkAccount
-msgid "Unlink Account"
-msgstr "取消关联账户"
+#. i18n: keyword: DisconnectAccount
+msgid "Disconnect Account"
+msgstr ""
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
@@ -792,6 +952,10 @@ msgstr "我不想再玩《炽热熔岩》了"
 #. i18n: keyword: DeleteAccountOptionsBanAccount
 msgid "Ban my {{.PlatformName}} account from playing Klei games for a MINIMUM of 30 days"
 msgstr "禁止我的{{.PlatformName}}账户玩Klei游戏最少30天"
+
+#. i18n: keyword: DeleteAccountOptionsUnlink
+msgid "Unlink this account from my {{.LinkedAccounts}} account(s)."
+msgstr ""
 
 #. i18n: keyword: DeleteAccountConfirm
 msgid "Confirm Deletion"
@@ -949,9 +1113,57 @@ msgstr "创建者中心"
 msgid "Redeem"
 msgstr "兑换"
 
-#. i18n: keyword: CreatorDescription
-msgid "Redeem creator rewards"
-msgstr "兑换创作者奖励"
+#. i18n: keyword: CreatorCreateRewardLinks
+msgid "Create links"
+msgstr "创建链接"
+
+#. i18n: keyword: CreatorCreateRewardLinksSingular
+msgid "Create link"
+msgstr "创建链接"
+
+#. i18n: keyword: CreatorCreatorName
+msgid "Your Creator Name"
+msgstr "您的创作者姓名"
+
+#. i18n: keyword: CreatorGiveawayName
+msgid "Giveaway Name"
+msgstr "赠品名称"
+
+#. i18n: keyword: CreatorRewardLinkSingle
+msgid "Single link"
+msgstr "单个链接"
+
+#. i18n: keyword: CreatorRewardLinkMultiple
+msgid "Multiple links"
+msgstr "多个链接"
+
+#. i18n: keyword: CreatorRewardLinkSingleExplanation
+msgid "Create a single link that can be redeemed by multiple people."
+msgstr "创建一个可供多人兑换的链接。"
+
+#. i18n: keyword: CreatorRewardLinkMultipleExplanation
+msgid "Create multiple links that can each be redeemed by one person."
+msgstr "创建多个链接，每个链接仅限一人兑换。"
+
+#. i18n: keyword: CreatorRewardLinkSinglePreview
+msgid "The link will look like this:"
+msgstr "链接将如下所示："
+
+#. i18n: keyword: CreatorRewardLinkMultiplePreview
+msgid "The links will look like this:"
+msgstr "链接将如下所示："
+
+#. i18n: keyword: CreatorNbLinks
+msgid "Number of links"
+msgstr "链接数量"
+
+#. i18n: keyword: CreatorNbRedeems
+msgid "Max number of redemptions"
+msgstr "最大兑换次数"
+
+#. i18n: keyword: CreatorExpiresAfterDays
+msgid "Note: Links expire after ${ambassadorInfo.rewardLinkMaxExpiryDays} days if unclaimed (${expiryDate()})."
+msgstr "注意：如果未被领取，链接将在 ${ambassadorInfo.rewardLinkMaxExpiryDays} 天后（${expiryDate()}）过期。"
 
 #. i18n: keyword: CreatorPointsGlossary
 msgid "Creator Points are used to redeem skins and codes"
@@ -985,9 +1197,9 @@ msgstr "作为内容创作者，您可以在此申请 Klei 创作者计划。"
 msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Creator program. Once your application is sent, please give us some time to review it."
 msgstr "在下方链接至少一个外部账户。如果您的频道符合条件，您可以申请 Klei 创作者计划。申请发送后，请给我们一些时间进行审核。"
 
-#. i18n: keyword: CreatorProgramPleaseLinkAccount
-msgid "Please link at least one external account."
-msgstr "请至少链接一个外部账户。"
+#. i18n: keyword: CreatorProgramPleaseConnectAccount
+msgid "Please connect at least one external account."
+msgstr ""
 
 #. i18n: keyword: CreatorProgramRequirementsNotMet
 msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
@@ -1020,6 +1232,10 @@ msgstr "您已经提交了申请，目前正在审核中。"
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
 msgstr "成功申请！我们已向 <b>{{ .Data.Email }}<b> 发送了一封电子邮件，其中包含您的代码。"
+
+#. i18n: keyword: AccountConnectedTitle
+msgid "Account Connected"
+msgstr ""
 
 #. i18n: keyword: AccountLinkedTitle
 msgid "Account Linked"
@@ -1069,9 +1285,21 @@ msgstr "《饥荒：联机版》的游戏服务器"
 msgid "Items Inventory"
 msgstr "物品库存"
 
+#. i18n: keyword: ItemSingle
+msgid "item"
+msgstr ""
+
+#. i18n: keyword: ItemsMultiple
+msgid "items"
+msgstr ""
+
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
 msgstr "<b>搜索提示：</b> 输入一到两个词来在您的游戏库存中查找物品。例如找一个叫做<b>Wilson Red Hat</b>的物品，您可以输入<b>Wilson</b>或<b>Hat</b>或<b>Wilson Hat</b>。搜索词的顺序会对结果产生影响，这意味着您使用\"Hat Wilson\"是无法找到任何结果的，因为它和物品名中单词的顺序是不同的。<b>按下回车</b>来提交搜索请求。删除搜索内容并再次按下回车以重置筛选器。"
+
+#. i18n: keyword: LinkedPlatformAccount
+msgid "Linked ${quantityData.platformStr} account"
+msgstr ""
 
 #. i18n: keyword: RemoveDuplicateItems
 msgid "Remove Duplicates"
@@ -1378,8 +1606,8 @@ msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-g
 msgstr "<b>线轴</b><br>线轴可以在游戏的珍宝柜中编织物品。"
 
 #. i18n: keyword: RewardBoltsGlossary
-msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr "<b>布卷</b><br>(仅限PlayStation 和 XBox)游戏商店中用来购买皮肤和套装的游戏货币。"
+msgid "<b>Bolts of Cloth</b><br>(Account for PlayStation® and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
+msgstr ""
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
@@ -1524,6 +1752,46 @@ msgstr "<p>恭喜！</p><p>您已成功获取<b>{{.Data.ItemName}}</b>的随机�
 #. i18n: keyword: RewardLinkResultDescriptionDefault
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.</p><p>Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
 msgstr "<p>恭喜！</p><p>您已成功获取随机掉落的有效奖励链接。</p><p>具体账户变动情况请前往“用户交易”页面查看详情。</p>"
+
+#. i18n: keyword: CreatorRewardLinkDescription
+msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
+msgstr "<p>恭喜！</p><p>您找到了由 <b>{{.Data.RewardLink.AmbassadorName}}</b> 为赠品活动 <b>{{.Data.RewardLink.GiveawayName}}</b> 创建的创作者链接。"
+
+#. i18n: keyword: CreatorRewardLinkRedeemExplanation
+msgid "You are currently logged in as <b>${profile.name}</b>"
+msgstr "您当前登录的账号为 <b>${profile.name}</b>"
+
+#. i18n: keyword: CreatorRewardLinkRedeemExplanation2
+msgid "If you would like to redeem this reward to a different account, please log in to that account first."
+msgstr "如果您想将此奖励兑换到其他账号，请先登录该账号。"
+
+#. i18n: keyword: CreatorRewardLinkClaim
+msgid "Claim as <b>${profile.name}</b>"
+msgstr "以 <b>${profile.name}</b> 的身份领取"
+
+#. i18n: keyword: Claiming
+msgid "Claiming..."
+msgstr "正在领取..."
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccess
+msgid "You've successfully redeemed this creator link!"
+msgstr "您已成功兑换此创作者链接！"
+
+#. i18n: keyword: CreatorRewardLinkRedeemBalanceWillUpdate
+msgid "Your balance will immediately update."
+msgstr "您的余额将立即更新。"
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccessFindItIngame
+msgid "You will find this reward in-game next time you play."
+msgstr "您下次游玩时即可在游戏内找到此奖励。"
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccessTransactionExplanation
+msgid "Please refer to the \"User Transactions\" page to understand how this operation affected your account."
+msgstr "请参阅“用户交易”页面，以了解此操作如何影响您的账户。"
+
+#. i18n: keyword: CreatorRewardLinkRedeemSuccessCodeEmailed
+msgid "An email has been sent to <b>${profile.email}</b> with your code."
+msgstr "包含您的兑换码的电子邮件已发送至 <b>${profile.email}</b>。"
 
 #. i18n: keyword: E_INVALID_REFERRER
 msgid "Oops, it looks like this link has been accessed from the wrong location."
@@ -1865,6 +2133,26 @@ msgstr "该游戏不存在。"
 msgid "This reward has already been claimed, your balances have been updated!"
 msgstr "此奖励已经被获取过，您的余额已经更新了！"
 
+#. i18n: keyword: E_REWARD_LINK_INVALID
+msgid "This link doesn't exist. Please check that you have copied it correctly."
+msgstr "此链接不存在。请检查您是否正确复制了该链接。"
+
+#. i18n: keyword: E_REWARD_LINK_EXPIRED
+msgid "Sorry, this link has expired."
+msgstr "抱歉，此链接已过期。"
+
+#. i18n: keyword: E_REWARD_LINK_CLAIMED
+msgid "Sorry, this link was already claimed."
+msgstr "抱歉，此链接已被领取。"
+
+#. i18n: keyword: E_REWARD_LINK_CLAIMED_BY_YOU
+msgid "Whoa! It looks like you already clicked this link before. You can only redeem it once."
+msgstr "哇！看来您之前已经点击过此链接了。您只能兑换一次。"
+
+#. i18n: keyword: E_REWARD_LINK_REDEEM_FAIL
+msgid "You've claimed this link but we ran into an error while trying to give you the reward. Please try this link again in a few seconds."
+msgstr "您已领取此链接，但在尝试向您发放奖励时遇到了错误。请过几秒钟后再次尝试此链接。"
+
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
 msgstr "内部服务器错误，请在几秒钟后重试。"
@@ -2105,6 +2393,10 @@ msgstr "您必须拥有基础游戏才能参加测试。"
 msgid "Your computer sent incorrect data to the server."
 msgstr "您的计算机向服务器发送了错误的数据。"
 
+#. i18n: keyword: E_CONTEXT_CANCELED
+msgid "The operation was interrupted. Please try again."
+msgstr ""
+
 #. i18n: keyword: E_STEAM_FORBIDDEN
 msgid "Your account has been temporarily blocked by Steam."
 msgstr "您的账户已暂时被Steam禁止。"
@@ -2277,6 +2569,10 @@ msgstr "您的积分不足，无法领取该物品。"
 msgid "You already have claimed this reward."
 msgstr "您已经领取过这个奖励。"
 
+#. i18n: keyword: E_LINK_ALREADY_EXISTS
+msgid "This link already exists, please try a different giveaway name."
+msgstr "此链接已存在，请尝试使用不同的赠品名称。"
+
 #. i18n: keyword: E_UNKNOWN_LINK
 msgid "The link you have used is not valid. Please check the source of this link and try again."
 msgstr "您使用的链接无效。请检查此链接的来源，然后重试。"
@@ -2309,6 +2605,10 @@ msgstr "无效的 YouTube 频道 ID"
 msgid "The quantity entered is invalid"
 msgstr "输入的数量无效"
 
+#. i18n: keyword: E_INVALID_PARAMETER
+msgid "Invalid parameter"
+msgstr "无效参数"
+
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
 msgstr "从 ${dropInfo.GameName} 获得的礼物"
@@ -2334,8 +2634,8 @@ msgid "User Transactions"
 msgstr "用户交易"
 
 #. i18n: keyword: UserTransactionsDescription
-msgid "Transactions associated with your account are listed below, newest first.<br>Transaction time is in UTC, not your local time."
-msgstr "与您的账户关联的所有交易由新到旧在下方列出。<br>交易时间是协调世界时而不是您的本地时间。"
+msgid "Transactions associated with your account over the past year are listed below, newest first.<br>Transaction time is in UTC, not your local time."
+msgstr ""
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
@@ -2404,6 +2704,10 @@ msgstr "通过链接获取点数"
 #. i18n: keyword: TXN_LINK_FOR_ITEM
 msgid "Link For Item"
 msgstr "项目链接"
+
+#. i18n: keyword: TXN_CREATOR_LINK
+msgid "Creator Link"
+msgstr "创作者链接"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
