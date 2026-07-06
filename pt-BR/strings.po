@@ -461,6 +461,10 @@ msgstr "Se você estiver usando um computador público ou um compartilhado com o
 msgid "Continue"
 msgstr "Continuar"
 
+#. i18n: keyword: CurrentAccount
+msgid "Current Account"
+msgstr ""
+
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
 msgstr "Conectado(a)"
@@ -488,6 +492,10 @@ msgstr "Este processo <b>vinculará</b> suas contas Klei de diferentes plataform
 #. i18n: keyword: LinkAccountDescription2
 msgid "You can only link a single account per platform  (one Steam account, one Epic account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
 msgstr "Você só pode vincular uma conta por plataforma (uma conta Steam, uma conta Epic, etc) e <b>deve fazer isso apenas com contas que pertencem a você</b>. Os direitos sobre esses itens não serão transferidos para as contas vinculadas, em vez disso, será criada uma cópia <b>somente leitura</b>, que não poderá ser transformada em carretéis ou modificada de qualquer outra forma. Você poderá desfazer esse procedimento caso cometa algum erro, mas para evitar abusos, será necessário aguardar 30 dias antes de tentar novamente."
+
+#. i18n: keyword: LinkAccountCurrencyWarning
+msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
+msgstr ""
 
 #. i18n: keyword: LinkAccountButton
 msgid "Link Account"
@@ -712,6 +720,10 @@ msgstr "Deseja realmente desvincular <b>{{ .Data.KUToUnlink }} ({{ .Data.AuthPro
 #. i18n: keyword: UnlinkAccountsWarning
 msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 30 days."
 msgstr "Se você continuar, não poderá vincular novamente uma conta {{ .Data.AuthProvidersToUnlink }} a esta conta por 30 dias."
+
+#. i18n: keyword: UnlinkAccountsContinue
+msgid "Continue To Unlink"
+msgstr ""
 
 #. i18n: keyword: UnlinkAccountSuccessTitle
 msgid "Successful Account Unlink"
