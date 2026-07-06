@@ -461,6 +461,10 @@ msgstr "如果您正在使用公用電腦或與他人共用的電腦，建議您
 msgid "Continue"
 msgstr "繼續"
 
+#. i18n: keyword: CurrentAccount
+msgid "Current Account"
+msgstr ""
+
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
 msgstr "已連結"
@@ -487,6 +491,10 @@ msgstr ""
 
 #. i18n: keyword: LinkAccountDescription2
 msgid "You can only link a single account per platform  (one Steam account, one Epic account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
+msgstr ""
+
+#. i18n: keyword: LinkAccountCurrencyWarning
+msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
 msgstr ""
 
 #. i18n: keyword: LinkAccountButton
@@ -711,6 +719,10 @@ msgstr ""
 
 #. i18n: keyword: UnlinkAccountsWarning
 msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 30 days."
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsContinue
+msgid "Continue To Unlink"
 msgstr ""
 
 #. i18n: keyword: UnlinkAccountSuccessTitle
