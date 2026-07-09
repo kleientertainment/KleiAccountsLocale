@@ -1299,7 +1299,7 @@ msgstr "خطأ: لا يبدو أنك تملك أي ألعاب مؤهلة."
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
-msgstr "خوادم الألعاب"
+msgstr "خوادم اللعبة"
 
 #. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
@@ -1507,7 +1507,7 @@ msgstr "ستفقد"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
-msgstr "إعدادات التنزيل"
+msgstr "تنزيل الإعدادات"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
