@@ -1762,12 +1762,12 @@ msgid "Redeem"
 msgstr "Öde"
 
 #. i18n: keyword: RewardItemReskins
-msgid "Reskins:"
-msgstr "Yeniden görünümler:"
+msgid "Reskins: ${reward.reskins}"
+msgstr "Yeniden görünümler: ${reward.reskins}"
 
 #. i18n: keyword: RewardSouvenirReskins
 msgid "Reskins: ${souvenir.reskins}"
-msgstr ""
+msgstr "Yeniden görünümler: ${souvenir.reskins}"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
