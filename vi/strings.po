@@ -73,6 +73,34 @@ msgstr "Thiết lập"
 msgid "Games"
 msgstr "Trò chơi"
 
+#. i18n: keyword: About
+msgid "About"
+msgstr ""
+
+#. i18n: keyword: Careers
+msgid "Careers"
+msgstr ""
+
+#. i18n: keyword: Forums
+msgid "Forums"
+msgstr ""
+
+#. i18n: keyword: Contact
+msgid "Contact"
+msgstr ""
+
+#. i18n: keyword: Store
+msgid "Store"
+msgstr ""
+
+#. i18n: keyword: Privacy
+msgid "Privacy"
+msgstr ""
+
+#. i18n: keyword: YouTubePolicy
+msgid "YouTube &amp; Mod Policy"
+msgstr ""
+
 #. i18n: keyword: Betas
 msgid "Betas"
 msgstr "Thử nghiệm"
@@ -1737,6 +1765,10 @@ msgstr "Nhận lại"
 msgid "Reskins:"
 msgstr ""
 
+#. i18n: keyword: RewardSouvenirReskins
+msgid "Reskins: ${souvenir.reskins}"
+msgstr ""
+
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
 msgstr ""
@@ -2100,6 +2132,10 @@ msgstr "Tôi đồng ý với <a href=\"https://www.klei.com/games/dont-starve/t
 #. i18n: keyword: PrivatePolicyAgreement
 msgid "By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
 msgstr "Bằng việc đăng ký, bạn đang đồng ý với <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>chính sách bảo mật</a> của chúng tôi"
+
+#. i18n: keyword: SignUpFollow
+msgid "Thanks for signing up! Feel free to follow us on <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>, <a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> and <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
+msgstr ""
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
