@@ -913,9 +913,17 @@ msgstr "删除账号"
 msgid "Unlink"
 msgstr "取消关联"
 
+#. i18n: keyword: DisconnectThis
+msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
+msgstr ""
+
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
 msgstr "您确定要取消关联吗"
+
+#. i18n: keyword: DisconnectThisQuestion
+msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
+msgstr ""
 
 #. i18n: keyword: DisconnectAccount
 msgid "Disconnect Account"

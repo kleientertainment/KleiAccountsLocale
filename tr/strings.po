@@ -3,8 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2026-07-04 19:42+0000
-"
+"PO-Revision-Date: "
 "Last-Translator: Ramazan Sancar <me@ramazansancar.com.tr>\n"
 "Language-Team: Turkish (https://accounts.klei.com/community-translations)Language: tr\n"
 "Language: tr\n"
@@ -914,9 +913,17 @@ msgstr "Hesabı Sil"
 msgid "Unlink"
 msgstr "Bağlantıyı kaldır"
 
+#. i18n: keyword: DisconnectThis
+msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
+msgstr ""
+
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
 msgstr "Bağlantınızı kaldırmak istediğinizden emin misiniz?"
+
+#. i18n: keyword: DisconnectThisQuestion
+msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
+msgstr ""
 
 #. i18n: keyword: DisconnectAccount
 msgid "Disconnect Account"

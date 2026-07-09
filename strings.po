@@ -913,8 +913,17 @@ msgstr ""
 msgid "Unlink"
 msgstr ""
 
+#. i18n: keyword: DisconnectThis
+msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
+msgstr ""
+
+
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
+msgstr ""
+
+#. i18n: keyword: DisconnectThisQuestion
+msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
 msgstr ""
 
 #. i18n: keyword: DisconnectAccount
