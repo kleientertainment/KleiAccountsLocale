@@ -3,7 +3,8 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2023-03-06 04:15+0300\n"
+"PO-Revision-Date: 2026-07-04 19:42+0000
+"
 "Last-Translator: Ramazan Sancar <me@ramazansancar.com.tr>\n"
 "Language-Team: Turkish (https://accounts.klei.com/community-translations)Language: tr\n"
 "Language: tr\n"
@@ -303,7 +304,7 @@ msgstr "Abonelikleri Düzenle"
 
 #. i18n: keyword: LearnMore
 msgid "Learn More"
-msgstr ""
+msgstr "Daha Fazla Bilgi"
 
 #. i18n: keyword: UnsubscribeFromEmails
 msgid "Unsubscribe from emails"
@@ -327,11 +328,11 @@ msgstr "kullanıcı bulunamadı"
 
 #. i18n: keyword: ConnectedAccounts
 msgid "Connected Accounts"
-msgstr ""
+msgstr "Bağlı Hesaplar"
 
 #. i18n: keyword: ConnectAccountButton
 msgid "Connect Account"
-msgstr ""
+msgstr "Hesap Bağla"
 
 #. i18n: keyword: AddedOn
 msgid "Added On"
@@ -351,31 +352,31 @@ msgstr "Değişikliği onaylamak için yeni e-posta adresinize bir doğrulama ko
 
 #. i18n: keyword: Profile
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #. i18n: keyword: Birthday
 msgid "Birthday"
-msgstr ""
+msgstr "Doğum Tarihi"
 
 #. i18n: keyword: Month
 msgid "Month"
-msgstr ""
+msgstr "Ay"
 
 #. i18n: keyword: Year
 msgid "Year"
-msgstr ""
+msgstr "Yıl"
 
 #. i18n: keyword: ChangeBirthday
 msgid "Change Birthday"
-msgstr ""
+msgstr "Doğum Tarihini Değiştir"
 
 #. i18n: keyword: ChangeBirthdayDescription
 msgid "To comply with ESRB and PEGI communication standards, we are required to know your age to ensure we are sending only age appropriate content."
-msgstr ""
+msgstr "ESRB ve PEGI iletişim standartlarına uymak için, yalnızca yaşınıza uygun içerikler gönderdiğimizden emin olmak adına yaşınızı bilmemiz gerekiyor."
 
 #. i18n: keyword: ChangeBirthdayDone
 msgid "Birthday successfully changed!"
-msgstr ""
+msgstr "Doğum tarihi başarıyla değiştirildi!"
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -399,7 +400,7 @@ msgstr "Pazarlama Seçenekleri"
 
 #. i18n: keyword: MarketingRequiresBirthday
 msgid "To edit marketing options, please set your birthday (in Profile)"
-msgstr ""
+msgstr "Pazarlama seçeneklerini düzenlemek için lütfen doğum tarihinizi ayarlayın (Profil bölümünde)."
 
 #. i18n: keyword: MarketingOptionsDescription
 msgid "Use these options to configure your newsletter subscription. Remember, you can unsubscribe at any time."
@@ -443,11 +444,11 @@ msgstr "Discord Hesabının Bağlantısını Kaldır"
 
 #. i18n: keyword: ConnectAccountsTitle
 msgid "Connect Accounts"
-msgstr ""
+msgstr "Hesapları Bağla"
 
 #. i18n: keyword: ConnectAccountsDescription
 msgid "Connect your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
-msgstr ""
+msgstr "Klei Hesabınızı Twitch, Bilibili, Douyu ve Discord gibi diğer hizmetlere bağlayın."
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -471,27 +472,27 @@ msgstr "Bağlı"
 
 #. i18n: keyword: ProviderLinkedTitle
 msgid "Linked"
-msgstr ""
+msgstr "Bağlandı"
 
 #. i18n: keyword: ProviderLinkedID
 msgid "ID:"
-msgstr ""
+msgstr "Kimlik:"
 
 #. i18n: keyword: ProviderNotLinked
 msgid "Not linked"
-msgstr ""
+msgstr "Bağlı değil"
 
 #. i18n: keyword: LinkUnlinkAccountDescription
 msgid "Link your Klei Accounts from different platforms together or unlink an account."
-msgstr ""
+msgstr "Farklı platformlardaki Klei Hesaplarınızı birbirine bağlayın veya bir hesabın bağlantısını kaldırın."
 
 #. i18n: keyword: LinkAccountDescription
 msgid "This process will <b>link</b> your Klei Accounts from different platforms together, allowing you to use your items from other platforms <b>while those accounts are linked</b>."
-msgstr ""
+msgstr "Bu işlem, farklı platformlardaki Klei Hesaplarınızı birbirine <b>bağlar</b> ve hesaplar <b>bağlı olduğu sürece</b> diğer platformlardaki eşyalarınızı kullanmanıza izin verir."
 
 #. i18n: keyword: LinkAccountDescription2
 msgid "You can only link a single account per platform  (one Steam account, one Epic account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
-msgstr ""
+msgstr "Platform başına yalnızca tek bir hesabı bağlayabilirsiniz (bir Steam hesabı, bir Epic hesabı vb.) ve <b>bunu yalnızca size ait hesaplarla yapmalısınız</b>. Bu haklar bağlı hesaplara aktarılmaz; bunun yerine size <b>salt okunur</b> bir kopya verilir ve bu kopya makaraya dönüştürülemez veya başka şekilde değiştirilemez. Hata yaparsanız bu işlemi geri alabilirsiniz, ancak kötüye kullanımı önlemek için tekrar denemeden önce 30 gün beklemeniz gerekir."
 
 #. i18n: keyword: LinkAccountCurrencyWarning
 msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
@@ -503,7 +504,7 @@ msgstr "Hesapları Bağla"
 
 #. i18n: keyword: LinkAccountLinking
 msgid "Linking..."
-msgstr ""
+msgstr "Bağlanıyor..."
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -515,11 +516,11 @@ msgstr "Lütfen tutmak istediğiniz hesabı seçin. <b>Diğer hesaptaki oyun iç
 
 #. i18n: keyword: MergeAutoMergeInto
 msgid "User <b>${userProfileA.data.KU}</b> will be merged into <b>${userProfileB.data.KU}</b>"
-msgstr ""
+msgstr "<b>${userProfileA.data.KU}</b> kullanıcısı <b>${userProfileB.data.KU}</b> içine birleştirilecek"
 
 #. i18n: keyword: MergeAutoNoEmail
 msgid "Email not linked"
-msgstr ""
+msgstr "E-posta bağlı değil"
 
 #. i18n: keyword: MergeAccountConsent
 msgid "Please click the checkmark to confirm that you have read and understand the following."
@@ -531,7 +532,7 @@ msgstr "Onay soruları"
 
 #. i18n: keyword: LinkConsent
 msgid "Consent"
-msgstr ""
+msgstr "Onay"
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -555,7 +556,7 @@ msgstr "Hesap birleştirme işlemi başarılı oldu.</p><p>Yeni hesapla giriş y
 
 #. i18n: keyword: MergeAccountSuccessShortDescription
 msgid "The account merge operation was a success!"
-msgstr ""
+msgstr "Hesap birleştirme işlemi başarılı oldu!"
 
 #. i18n: keyword: MergeAccountKeepThis
 msgid "Keep this account"
@@ -615,7 +616,7 @@ msgstr "Hesabınız <b>{{ .Data.SourceKU }}</b> ile <b>{{ .Data.DestinationKU }}
 
 #. i18n: keyword: ContinueMergeShortDescription
 msgid "Your account is in the process of merging <b>{{ .Data.SourceKU }}</b> into <b>{{ .Data.DestinationKU }}</b>.<br>Please click the button below to continue merging."
-msgstr ""
+msgstr "Hesabınız <b>{{ .Data.SourceKU }}</b> hesabını <b>{{ .Data.DestinationKU }}</b> içine birleştirme sürecinde.<br>Birleştirmeye devam etmek için lütfen aşağıdaki düğmeye tıklayın."
 
 #. i18n: keyword: ContinueMergeButton
 msgid "Continue Merging"
@@ -671,55 +672,55 @@ msgstr "WeGame hesabınızı zaten birleştirdiniz."
 
 #. i18n: keyword: LinkUnlinkAccountTitle
 msgid "Link or Unlink An Account"
-msgstr ""
+msgstr "Bir Hesabı Bağla veya Bağlantısını Kaldır"
 
 #. i18n: keyword: LinkAccountTitle
 msgid "Link An Account"
-msgstr ""
+msgstr "Bir Hesabı Bağla"
 
 #. i18n: keyword: LinkAccountInstructionsDescription
 msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are linking your own accounts and not someone else's."
-msgstr ""
+msgstr "Herkese açık bir bilgisayar kullanıyorsanız veya bilgisayarınızı başkalarıyla paylaşıyorsanız, başka birinin hesabını değil kendi hesaplarınızı bağladığınızdan emin olmak için tarayıcınızın \"Gizli Pencere\" işlevini (veya eşdeğerini) kullanmak isteyebilirsiniz."
 
 #. i18n: keyword: LinkAccountInstructionsContinue
 msgid "Continue"
-msgstr ""
+msgstr "Devam Et"
 
 #. i18n: keyword: LinkAccountSuccessTitle
 msgid "Successful Account Link"
-msgstr ""
+msgstr "Hesap Bağlama Başarılı"
 
 #. i18n: keyword: LinkAccountSuccessDescription
 msgid "The account link operation was a success!"
-msgstr ""
+msgstr "Hesap bağlama işlemi başarılı oldu!"
 
 #. i18n: keyword: LinkAccountSuccessShortDescription
 msgid "The account link operation was a success!"
-msgstr ""
+msgstr "Hesap bağlama işlemi başarılı oldu!"
 
 #. i18n: keyword: LinkAccountFailedTitle
 msgid "Account Linking Failed"
-msgstr ""
+msgstr "Hesap Bağlama Başarısız"
 
 #. i18n: keyword: LinkAccountFailedErrorDescription
 msgid "An error has occured while linking the following accounts:"
-msgstr ""
+msgstr "Aşağıdaki hesaplar bağlanırken bir hata oluştu:"
 
 #. i18n: keyword: LinkAccountFailedDescription
 msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
-msgstr ""
+msgstr "Hesabınızdan çıkış yapıldı. Lütfen tekrar denemek için giriş yapın veya daha fazla yardım için <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>destek ile iletişime geçin</a>. "
 
 #. i18n: keyword: UnlinkAccountsTitle
 msgid "Unlink Accounts"
-msgstr ""
+msgstr "Hesapların Bağlantısını Kaldır"
 
 #. i18n: keyword: UnlinkAccountsDesc
 msgid "Are you sure you want to unlink <b>{{ .Data.KUToUnlink }} ({{ .Data.AuthProvidersToUnlink }})</b> from:"
-msgstr ""
+msgstr "<b>{{ .Data.KUToUnlink }} ({{ .Data.AuthProvidersToUnlink }})</b> hesabının aşağıdaki hesaptan bağlantısını kaldırmak istediğinizden emin misiniz:"
 
 #. i18n: keyword: UnlinkAccountsWarning
 msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 30 days."
-msgstr ""
+msgstr "Devam ederseniz, {{ .Data.AuthProvidersToUnlink }} hesabını 30 gün boyunca bu hesaba tekrar bağlayamazsınız."
 
 #. i18n: keyword: UnlinkAccountsContinue
 msgid "Continue To Unlink"
@@ -727,135 +728,135 @@ msgstr ""
 
 #. i18n: keyword: UnlinkAccountSuccessTitle
 msgid "Successful Account Unlink"
-msgstr ""
+msgstr "Hesap Bağlantısı Başarıyla Kaldırıldı"
 
 #. i18n: keyword: UnlinkAccountSuccessDesc
 msgid "You have successfully unlinked your accounts!"
-msgstr ""
+msgstr "Hesaplarınızın bağlantısını başarıyla kaldırdınız!"
 
 #. i18n: keyword: UnlinkAccountFailedTitle
 msgid "Account Unlinking Failed"
-msgstr ""
+msgstr "Hesap Bağlantısını Kaldırma Başarısız"
 
 #. i18n: keyword: UnlinkAccountFailedErrorDescription
 msgid "An error has occured while unlinking your accounts."
-msgstr ""
+msgstr "Hesaplarınızın bağlantısı kaldırılırken bir hata oluştu."
 
 #. i18n: keyword: UnlinkAccountFailedDescription
 msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
-msgstr ""
+msgstr "Hesabınızdan çıkış yapıldı. Lütfen tekrar denemek için giriş yapın veya daha fazla yardım için <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>destek ile iletişime geçin</a>. "
 
 #. i18n: keyword: LinkAccountWarningsTitle
 msgid "Warning"
-msgstr ""
+msgstr "Uyarı"
 
 #. i18n: keyword: LinkAccountWarningsSubtitle
 msgid "You need to fix these issues"
-msgstr ""
+msgstr "Bu sorunları düzeltmeniz gerekiyor"
 
 #. i18n: keyword: LinkAccountFixWarnings
 msgid "Fix Warnings"
-msgstr ""
+msgstr "Uyarıları Düzelt"
 
 #. i18n: keyword: LinkAccountDate
 msgid "Account creation date"
-msgstr ""
+msgstr "Hesap oluşturma tarihi"
 
 #. i18n: keyword: LinkAccountEmail
 msgid "Klei Account email"
-msgstr ""
+msgstr "Klei Hesabı e-postası"
 
 #. i18n: keyword: LinkAccountReadyButton
 msgid "Link accounts"
-msgstr ""
+msgstr "Hesapları bağla"
 
 #. i18n: keyword: LinkAccountConfirmation
 msgid "Please type in \"link accounts\" but in UPPERCASE letters, to confirm:"
-msgstr ""
+msgstr "Onaylamak için lütfen \"link accounts\" ifadesini BÜYÜK HARFLERLE yazın:"
 
 #. i18n: keyword: LinkUnlinkInProgressTitle
 msgid "Account Link or Unlink In Progress"
-msgstr ""
+msgstr "Hesap Bağlama veya Bağlantı Kaldırma İşlemi Devam Ediyor"
 
 #. i18n: keyword: LinkUnlinkInProgressDescription
 msgid "You have been logged out because an interruption occurred while account linking or unlinking was in progress. Please log in again to try to continue the process."
-msgstr ""
+msgstr "Hesap bağlama veya bağlantı kaldırma işlemi devam ederken bir kesinti oluştuğu için hesabınızdan çıkış yapıldı. İşleme devam etmeyi denemek için lütfen tekrar giriş yapın."
 
 #. i18n: keyword: LinkAccountCooldownDesc
 msgid "Your have recently unlinked a {{ .Data.PlatformName }} account. You can try to link again in <b>{{ .Data.CooldownDays }} days</b>."
-msgstr ""
+msgstr "Yakın zamanda bir {{ .Data.PlatformName }} hesabının bağlantısını kaldırdınız. <b>{{ .Data.CooldownDays }} gün</b> sonra tekrar bağlamayı deneyebilirsiniz."
 
 #. i18n: keyword: E_ACCOUNT_LINK_NOT_SUPPORTED
 msgid "Unfortunately, the gaming platform you are trying to link does not have the capabilities to execute this operation yet."
-msgstr ""
+msgstr "Ne yazık ki bağlamaya çalıştığınız oyun platformu bu işlemi henüz gerçekleştirebilecek özelliklere sahip değil."
 
 #. i18n: keyword: E_ACCOUNT_LINK_MISSING_DATA
 msgid "It is impossible to link your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the accounts you are going to link are correct."
-msgstr ""
+msgstr "Bazı veriler eksik olduğu için hesaplarınızı şu anda bağlamak mümkün değil. Lütfen oturumu kapatıp işlemi yeniden başlatın. Web tarayıcınızın çerezleri kabul ettiğinden ve bağlayacağınız hesapların doğru olduğundan emin olun."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_EMAIL_NOT_VALIDATED
 msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
-msgstr ""
+msgstr "Lütfen her iki Klei Hesabındaki e-posta adresini doğrulayın/onaylayın ve işlemi yeniden başlatın."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already linked your Epic Games account."
-msgstr ""
+msgstr "Epic Games hesabınızı zaten bağladınız."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already linked your Steam account."
-msgstr ""
+msgstr "Steam hesabınızı zaten bağladınız."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
 msgid "You already linked your Xbox Network account."
-msgstr ""
+msgstr "Xbox Network hesabınızı zaten bağladınız."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
 msgid "You already linked your Nintendo account."
-msgstr ""
+msgstr "Nintendo hesabınızı zaten bağladınız."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
 msgid "You already linked your WeGame account."
-msgstr ""
+msgstr "WeGame hesabınızı zaten bağladınız."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailID
 msgid "You already linked your WeGame account."
-msgstr ""
+msgstr "WeGame hesabınızı zaten bağladınız."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.PSNID
 msgid "You already linked your account for PlayStation®."
-msgstr ""
+msgstr "PlayStation® hesabınızı zaten bağladınız."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same email address and start the process again."
-msgstr ""
+msgstr "Lütfen *Klei* hesaplarınızı aynı e-posta adresini kullanacak şekilde güncelleyin ve işlemi yeniden başlatın."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_IN_PROGRESS
 msgid "Your account is currently in the process of a linking or unlinking operation. Please log out and log back in to complete the process."
-msgstr ""
+msgstr "Hesabınız şu anda bir bağlama veya bağlantı kaldırma işlemi sürecinde. Lütfen işlemi tamamlamak için oturumu kapatıp tekrar giriş yapın."
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_COOLDOWN
 msgid "You have recently unlinked this gaming platform. Please wait before linking again."
-msgstr ""
+msgstr "Yakın zamanda bu oyun platformunun bağlantısını kaldırdınız. Lütfen tekrar bağlamadan önce bekleyin."
 
 #. i18n: keyword: E_ACCOUNT_UNLINK_KU_NOT_LINKED
 msgid "The account you are trying to unlink is not linked to your current account."
-msgstr ""
+msgstr "Bağlantısını kaldırmaya çalıştığınız hesap mevcut hesabınıza bağlı değil."
 
 #. i18n: keyword: E_ACCOUNT_UNLINK_CURRENT_USER_UNLINK_IN_PROGRESS
 msgid "Your account is currently in the process of an unlinking operation. Please log out and log back in to complete the process."
-msgstr ""
+msgstr "Hesabınız şu anda bir bağlantı kaldırma işlemi sürecinde. Lütfen işlemi tamamlamak için oturumu kapatıp tekrar giriş yapın."
 
 #. i18n: keyword: E_ACCOUNT_UNLINK_CURRENT_USER_LINK_IN_PROGRESS
 msgid "Your account is currently in the process of a linking operation. Please log out and log back in to complete the process."
-msgstr ""
+msgstr "Hesabınız şu anda bir bağlama işlemi sürecinde. Lütfen işlemi tamamlamak için oturumu kapatıp tekrar giriş yapın."
 
 #. i18n: keyword: E_ACCOUNT_UNLINK_OTHER_USER_UNLINK_IN_PROGRESS
 msgid "The account you are trying to unlink is currently in the process of an unlinking operation. Please log in to that account to complete the process."
-msgstr ""
+msgstr "Bağlantısını kaldırmaya çalıştığınız hesap şu anda bir bağlantı kaldırma işlemi sürecinde. İşlemi tamamlamak için lütfen o hesaba giriş yapın."
 
 #. i18n: keyword: E_ACCOUNT_UNLINK_OTHER_USER_LINK_IN_PROGRESS
 msgid "The account you are trying to unlink is currently in the process of a linking operation. Please log in to that account to complete the process."
-msgstr ""
+msgstr "Bağlantısını kaldırmaya çalıştığınız hesap şu anda bir bağlama işlemi sürecinde. İşlemi tamamlamak için lütfen o hesaba giriş yapın."
 
 #. i18n: keyword: OwnershipDescription
 msgid "Use this page to get access to the games you already own in a different gaming platform."
@@ -919,7 +920,7 @@ msgstr "Bağlantınızı kaldırmak istediğinizden emin misiniz?"
 
 #. i18n: keyword: DisconnectAccount
 msgid "Disconnect Account"
-msgstr ""
+msgstr "Hesabın Bağlantısını Kes"
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
@@ -967,7 +968,7 @@ msgstr "{{.PlatformName}} hesabımı Klei oyunlarını oynamaya en az 30 gün ya
 
 #. i18n: keyword: DeleteAccountOptionsUnlink
 msgid "Unlink this account from my {{.LinkedAccounts}} account(s)."
-msgstr ""
+msgstr "Bu hesabın {{.LinkedAccounts}} hesaplarımla bağlantısını kaldır."
 
 #. i18n: keyword: DeleteAccountConfirm
 msgid "Confirm Deletion"
@@ -1015,95 +1016,95 @@ msgstr "Klei tarafından kontrol edilen hesap ayrıntılarınız için bir rapor
 
 #. i18n: keyword: CreatorProgram
 msgid "Creator Program"
-msgstr ""
+msgstr "İçerik Üretici Programı"
 
 #. i18n: keyword: CreatorProgramInfoHeader
 msgid "Creator Program Info and Consent"
-msgstr ""
+msgstr "İçerik Üretici Programı Bilgileri ve Onayı"
 
 #. i18n: keyword: CreatorProgramInfoDescription
 msgid "Thank you for your interest in the Klei Creator Program.<p>The Klei Creator Program is intended to provide a way for us to thank content creators for their support by helping them engage with their fans when creating content centered around our games.</p><p>This program is intended for creators of all sizes; however, to maintain the program's intention, we ask that creators be reasonably established in the community before participating.</p><p>For more general information about the Creator Program and what it offers, please check out our <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>article here</a>.</p>"
-msgstr ""
+msgstr "Klei İçerik Üretici Programına gösterdiğiniz ilgi için teşekkür ederiz.<p>Klei İçerik Üretici Programı, oyunlarımız merkezli içerikler üretirken hayranlarıyla etkileşim kurmalarına yardımcı olarak içerik üreticilerine destekleri için teşekkür etmemizin bir yolunu sunmayı amaçlar.</p><p>Bu program her ölçekteki içerik üreticiler için tasarlanmıştır; ancak programın amacını korumak için, katılımdan önce üreticilerin topluluk içinde makul düzeyde yer edinmiş olmasını isteriz.</p><p>İçerik Üretici Programı ve sundukları hakkında daha genel bilgi için lütfen <a href='https://klei.gg/KleiAmbassadorInfo' target='_blank' rel='noopener noreferrer'>buradaki makalemize</a> göz atın.</p>"
 
 #. i18n: keyword: CreatorProgramInfoConsent
 msgid "If you would like to apply, please confirm the following."
-msgstr ""
+msgstr "Başvurmak istiyorsanız lütfen aşağıdakileri onaylayın."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem1
 msgid "You understand that benefits provided by the Creator Program are not guaranteed and may be discontinued at any time."
-msgstr ""
+msgstr "İçerik Üretici Programı tarafından sağlanan avantajların garanti edilmediğini ve herhangi bir zamanda sonlandırılabileceğini anlıyorsunuz."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem2
 msgid "You understand that participation in the Creator Program is not an endorsement nor does it constitute a business relationship with Klei Entertainment."
-msgstr ""
+msgstr "İçerik Üretici Programına katılımın bir onay niteliği taşımadığını ve Klei Entertainment ile bir iş ilişkisi oluşturmadığını anlıyorsunuz."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem3
 msgid "You understand that you are to remain a community member in good standing and while not bound by Klei’s Community Guidelines, you will act in good faith with other community members and Creators."
-msgstr ""
+msgstr "Topluluk içinde iyi durumda bir üye olarak kalmanız gerektiğini ve Klei’nin Topluluk Kurallarına bağlı olmasanız da diğer topluluk üyeleri ve içerik üreticilerle iyi niyetle hareket edeceğinizi anlıyorsunuz."
 
 #. i18n: keyword: CreatorProgramInfoConsentItem4
 msgid "Klei expects nothing in return as a member of the program. However, we do expect members to act in good faith and may remove benefits from the program if we believe the program is being misused or your behavior is harmful to the community."
-msgstr ""
+msgstr "Klei, program üyesi olarak karşılığında hiçbir şey beklemez. Ancak üyelerin iyi niyetle hareket etmesini bekleriz ve programın kötüye kullanıldığına veya davranışınızın topluluğa zarar verdiğine inanırsak programdaki avantajları kaldırabiliriz."
 
 #. i18n: keyword: CreatorProgramSignupInfo
 msgid "When you sign up, we will review your application. If approved, you will be added to our program and provided a link to the Creator Discord server where you can find additional information about the program."
-msgstr ""
+msgstr "Kaydolduğunuzda başvurunuzu inceleyeceğiz. Onaylanırsa programa eklenecek ve program hakkında ek bilgi bulabileceğiniz İçerik Üretici Discord sunucusuna bir bağlantı alacaksınız."
 
 #. i18n: keyword: CreatorProgramSignupAgree
 msgid "I understand and agree. I would like to sign-up."
-msgstr ""
+msgstr "Anlıyorum ve kabul ediyorum. Kaydolmak istiyorum."
 
 #. i18n: keyword: CreatorProgramApplyButton
 msgid "Apply"
-msgstr ""
+msgstr "Başvur"
 
 #. i18n: keyword: CreatorYouTubeContentCheck
 msgid "I mainly provide YouTube content"
-msgstr ""
+msgstr "Ağırlıklı olarak YouTube içeriği üretiyorum"
 
 #. i18n: keyword: CreatorYouTubeInfo
 msgid "<p>Please provide the Channel ID of your YouTube channel below.<br>The instructions to find your YouTube Channel ID are <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">here.</a></p><p><b>The email address listed in your YouTube \"About\" page must be the same as the verified email address for your Klei Account.</b></p>"
-msgstr ""
+msgstr "<p>Lütfen aşağıya YouTube kanalınızın Kanal Kimliğini girin.<br>YouTube Kanal Kimliğinizi bulma talimatları <a href=\"https://support.google.com/youtube/answer/3250431?hl=en\" target=\"_blank\">burada.</a></p><p><b>YouTube \"Hakkında\" sayfanızda listelenen e-posta adresi, Klei Hesabınız için doğrulanmış e-posta adresiyle aynı olmalıdır.</b></p>"
 
 #. i18n: keyword: CreatorBilibiliVerificationStepsDesc
 msgid "Please follow the steps below to verify your Bilibili account:"
-msgstr ""
+msgstr "Bilibili hesabınızı doğrulamak için lütfen aşağıdaki adımları izleyin:"
 
 #. i18n: keyword: CreatorBilibiliVerificationStep1
 msgid "Provide a link to your Bilibili profile"
-msgstr ""
+msgstr "Bilibili profilinize bir bağlantı sağlayın"
 
 #. i18n: keyword: CreatorBilibiliVerificationStep2
 msgid "Put the following code in the description of your Bilibili profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
-msgstr ""
+msgstr "Aşağıdaki kodu Bilibili profilinizin açıklamasına koyun: <b>${verificationCode}</b> (Başvurunuz onaylandıktan sonra bu kodu kaldırabilirsiniz)"
 
 #. i18n: keyword: CreatorDouyuVerificationStepsDesc
 msgid "Please follow the steps below to verify your Douyu account:"
-msgstr ""
+msgstr "Douyu hesabınızı doğrulamak için lütfen aşağıdaki adımları izleyin:"
 
 #. i18n: keyword: CreatorDouyuVerificationStep1
 msgid "Provide a link to your Douyu profile"
-msgstr ""
+msgstr "Douyu profilinize bir bağlantı sağlayın"
 
 #. i18n: keyword: CreatorDouyuVerificationStep2
 msgid "Put the following code in the description of your Douyu profile: <b>${verificationCode}</b> (You may remove this code once your application has been approved)"
-msgstr ""
+msgstr "Aşağıdaki kodu Douyu profilinizin açıklamasına koyun: <b>${verificationCode}</b> (Başvurunuz onaylandıktan sonra bu kodu kaldırabilirsiniz)"
 
 #. i18n: keyword: ChannelID
 msgid "Channel ID"
-msgstr ""
+msgstr "Kanal Kimliği"
 
 #. i18n: keyword: Limit
 msgid "Limit"
-msgstr ""
+msgstr "Limit"
 
 #. i18n: keyword: Available
 msgid "Available"
-msgstr ""
+msgstr "Mevcut"
 
 #. i18n: keyword: MoreInfo
 msgid "More Info"
-msgstr ""
+msgstr "Daha Fazla Bilgi"
 
 #. i18n: keyword: E_EXPORT_DATA_RECENTLY_USED
 msgid "It appears that you already downloaded your data less than 24 hours ago.<br><br>Please wait until tomorrow to download another copy of your data.<br><br>We appreciate your patience."
@@ -1119,139 +1120,139 @@ msgstr "Veriler İndiriliyor..."
 
 #. i18n: keyword: CreatorHubTitle
 msgid "Creator Hub"
-msgstr ""
+msgstr "İçerik Üretici Merkezi"
 
 #. i18n: keyword: CreatorRewardRedeem
 msgid "Redeem"
-msgstr ""
+msgstr "Kullan"
 
 #. i18n: keyword: CreatorCreateRewardLinks
 msgid "Create links"
-msgstr ""
+msgstr "Bağlantılar oluştur"
 
 #. i18n: keyword: CreatorCreateRewardLinksSingular
 msgid "Create link"
-msgstr ""
+msgstr "Bağlantı oluştur"
 
 #. i18n: keyword: CreatorCreatorName
 msgid "Your Creator Name"
-msgstr ""
+msgstr "İçerik Üretici Adınız"
 
 #. i18n: keyword: CreatorGiveawayName
 msgid "Giveaway Name"
-msgstr ""
+msgstr "Çekiliş Adı"
 
 #. i18n: keyword: CreatorRewardLinkSingle
 msgid "Single link"
-msgstr ""
+msgstr "Tek bağlantı"
 
 #. i18n: keyword: CreatorRewardLinkMultiple
 msgid "Multiple links"
-msgstr ""
+msgstr "Birden fazla bağlantı"
 
 #. i18n: keyword: CreatorRewardLinkSingleExplanation
 msgid "Create a single link that can be redeemed by multiple people."
-msgstr ""
+msgstr "Birden fazla kişi tarafından kullanılabilecek tek bir bağlantı oluşturun."
 
 #. i18n: keyword: CreatorRewardLinkMultipleExplanation
 msgid "Create multiple links that can each be redeemed by one person."
-msgstr ""
+msgstr "Her biri yalnızca bir kişi tarafından kullanılabilecek birden fazla bağlantı oluşturun."
 
 #. i18n: keyword: CreatorRewardLinkSinglePreview
 msgid "The link will look like this:"
-msgstr ""
+msgstr "Bağlantı şu şekilde görünecek:"
 
 #. i18n: keyword: CreatorRewardLinkMultiplePreview
 msgid "The links will look like this:"
-msgstr ""
+msgstr "Bağlantılar şu şekilde görünecek:"
 
 #. i18n: keyword: CreatorNbLinks
 msgid "Number of links"
-msgstr ""
+msgstr "Bağlantı sayısı"
 
 #. i18n: keyword: CreatorNbRedeems
 msgid "Max number of redemptions"
-msgstr ""
+msgstr "Maksimum kullanım sayısı"
 
 #. i18n: keyword: CreatorExpiresAfterDays
 msgid "Note: Links expire after ${ambassadorInfo.rewardLinkMaxExpiryDays} days if unclaimed (${expiryDate()})."
-msgstr ""
+msgstr "Not: Bağlantılar kullanılmazsa ${ambassadorInfo.rewardLinkMaxExpiryDays} gün sonra sona erer (${expiryDate()})."
 
 #. i18n: keyword: CreatorPointsGlossary
 msgid "Creator Points are used to redeem skins and codes"
-msgstr ""
+msgstr "İçerik Üretici Puanları, görünümleri ve kodları kullanmak için kullanılır"
 
 #. i18n: keyword: CreatorPoints
 msgid "Creator Points"
-msgstr ""
+msgstr "İçerik Üretici Puanları"
 
 #. i18n: keyword: CreatorPointsEarn
 msgid "Earn: ${ambassadorInfo.earnAmount} creator points / ${ambassadorInfo.earnInterval}"
-msgstr ""
+msgstr "Kazan: ${ambassadorInfo.earnAmount} içerik üretici puanı / ${ambassadorInfo.earnInterval}"
 
 #. i18n: keyword: CreatorTiersGlossary
 msgid "Higher Creator Tiers get you more points"
-msgstr ""
+msgstr "Daha yüksek İçerik Üretici Kademeleri size daha fazla puan kazandırır"
 
 #. i18n: keyword: CreatorTier
 msgid "Creator Tier"
-msgstr ""
+msgstr "İçerik Üretici Kademesi"
 
 #. i18n: keyword: CreatorRewardCost
 msgid "Cost"
-msgstr ""
+msgstr "Maliyet"
 
 #. i18n: keyword: CreatorProgramShortDescription
 msgid "As a content creator, you can apply for the Klei Creator program here."
-msgstr ""
+msgstr "Bir içerik üreticisi olarak Klei İçerik Üretici programına buradan başvurabilirsiniz."
 
 #. i18n: keyword: CreatorProgramDescription
 msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Creator program. Once your application is sent, please give us some time to review it."
-msgstr ""
+msgstr "Aşağıdan en az bir harici hesap bağlayın. Kanalınız uygunsa Klei İçerik Üretici programına başvurabilirsiniz. Başvurunuz gönderildikten sonra incelememiz için lütfen bize biraz zaman tanıyın."
 
 #. i18n: keyword: CreatorProgramPleaseConnectAccount
 msgid "Please connect at least one external account."
-msgstr ""
+msgstr "Lütfen en az bir harici hesap bağlayın."
 
 #. i18n: keyword: CreatorProgramRequirementsNotMet
 msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
-msgstr ""
+msgstr "Şu anda başvuru gereksinimlerini karşılamıyorsunuz. Lütfen daha fazla hesap bağlayın veya başka bir zaman tekrar deneyin."
 
 #. i18n: keyword: CreatorProgramRequirementsMet
 msgid "You qualify for the Creator Program!"
-msgstr ""
+msgstr "İçerik Üretici Programı için uygunsunuz!"
 
 #. i18n: keyword: CreatorProgramTellUsAboutYourself
 msgid "Please tell us a bit about yourself:"
-msgstr ""
+msgstr "Lütfen bize biraz kendinizden bahsedin:"
 
 #. i18n: keyword: CreatorProgramApplySuccess
 msgid "Your application was submitted! It will be reviewed soon."
-msgstr ""
+msgstr "Başvurunuz gönderildi! Yakında incelenecek."
 
 #. i18n: keyword: CreatorProgramApproved
 msgid "Your application has been approved and you're now a Klei Creator!"
-msgstr ""
+msgstr "Başvurunuz onaylandı ve artık bir Klei İçerik Üreticisisiniz!"
 
 #. i18n: keyword: CreatorProgramRejected
 msgid "Your last application has been denied. You can try again in <b>{{ .Data.CooldownDays }} days</b>."
-msgstr ""
+msgstr "Son başvurunuz reddedildi. <b>{{ .Data.CooldownDays }} gün</b> sonra tekrar deneyebilirsiniz."
 
 #. i18n: keyword: CreatorProgramPending
 msgid "You have already submitted an application, it is currently being reviewed."
-msgstr ""
+msgstr "Zaten bir başvuru gönderdiniz, şu anda inceleniyor."
 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
-msgstr ""
+msgstr "Başarıyla Talep Edildi! Kodlarınız <b>{{ .Data.Email }}<b> adresine e-posta ile gönderildi."
 
 #. i18n: keyword: AccountConnectedTitle
 msgid "Account Connected"
-msgstr ""
+msgstr "Hesap Bağlandı"
 
 #. i18n: keyword: AccountLinkedTitle
 msgid "Account Linked"
-msgstr ""
+msgstr "Hesap İlişkilendirildi"
 
 #. i18n: keyword: MyGames
 msgid "My Games"
@@ -1299,11 +1300,11 @@ msgstr "Eşya Envanteri"
 
 #. i18n: keyword: ItemSingle
 msgid "item"
-msgstr ""
+msgstr "eşya"
 
 #. i18n: keyword: ItemsMultiple
 msgid "items"
-msgstr ""
+msgstr "eşyalar"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
@@ -1311,7 +1312,7 @@ msgstr "<b>Arama İpuçları:</b> Oyun envanterinizdeki bir eşyayı aramak içi
 
 #. i18n: keyword: LinkedPlatformAccount
 msgid "Linked ${quantityData.platformStr} account"
-msgstr ""
+msgstr "Bağlı ${quantityData.platformStr} hesabı"
 
 #. i18n: keyword: RemoveDuplicateItems
 msgid "Remove Duplicates"
@@ -1559,15 +1560,15 @@ msgstr "Ödül"
 
 #. i18n: keyword: GiftCodeRedeemTitle
 msgid "Redeem a Gift Code"
-msgstr ""
+msgstr "Hediye Kodunu Kullan"
 
 #. i18n: keyword: GiftCodeRedeemDesc
 msgid "If you have an item key or gift code, you can redeem it below."
-msgstr ""
+msgstr "Bir eşya anahtarınız veya hediye kodunuz varsa, aşağıdan kullanabilirsiniz."
 
 #. i18n: keyword: GiftCodeRedeemButton
 msgid "Redeem Code"
-msgstr ""
+msgstr "Kodu Kullan"
 
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
@@ -1607,7 +1608,7 @@ msgstr "Kumaş Cıvataları"
 
 #. i18n: keyword: RewardFilament
 msgid "Filament"
-msgstr ""
+msgstr "Filament"
 
 #. i18n: keyword: RewardPointsGlossary
 msgid "<b>Klei Points</b><br>Klei points are used to redeem in-game rewards from the Klei Rewards page."
@@ -1619,7 +1620,7 @@ msgstr "<b>Makaralar</b><br>Makaralar, oyun içi Curio Dolabındaki öğeleri ö
 
 #. i18n: keyword: RewardBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Account for PlayStation® and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>Kumaş Cıvataları</b><br>(Yalnızca PlayStation® ve XBox hesapları için) Oyun içi mağazadan görünüm ve paket satın almak için kullanılan oyun içi para birimi."
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
@@ -1627,7 +1628,7 @@ msgstr "<b>Kumaş Cıvataları</b><br>(Yalnızca Nintendo Switch) Oyun içi mağ
 
 #. i18n: keyword: RewardFilamentGlossary
 msgid "<b>Filament</b> is used to print items in the Supply Closet in-game."
-msgstr ""
+msgstr "<b>Filament</b>, oyun içinde Tedarik Dolabında eşya basmak için kullanılır."
 
 #. i18n: keyword: RewardPointsAbbreviation
 msgid "pts"
@@ -1643,7 +1644,7 @@ msgstr "makara"
 
 #. i18n: keyword: RewardFilamentAbbreviation
 msgid "filament"
-msgstr ""
+msgstr "filament"
 
 #. i18n: keyword: RewardPointsMinutes
 msgid "min"
@@ -1727,7 +1728,7 @@ msgstr "Öde"
 
 #. i18n: keyword: RewardItemReskins
 msgid "Reskins:"
-msgstr ""
+msgstr "Yeniden görünümler:"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
@@ -1735,7 +1736,7 @@ msgstr "Ödül Adı:"
 
 #. i18n: keyword: RewardLinkClaimedOn
 msgid "Claimed on:"
-msgstr ""
+msgstr "Talep edildiği tarih:"
 
 #. i18n: keyword: RewardLinkResultTitle
 msgid "Reward Link"
@@ -1743,11 +1744,11 @@ msgstr "Ödül Bağlantısı"
 
 #. i18n: keyword: RewardLinkClaimSuccess
 msgid "Reward Link Claimed!"
-msgstr ""
+msgstr "Ödül Bağlantısı Talep Edildi!"
 
 #. i18n: keyword: RewardLinkAlreadyClaimed
 msgid "Reward Link Already Claimed!"
-msgstr ""
+msgstr "Ödül Bağlantısı Zaten Talep Edildi!"
 
 #. i18n: keyword: RewardLinkResultDescriptionPoints
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild with <b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}</b>.</p><p>Your balance will immediately update. Please refer to the \"User Transactions\" page to understand how this operation affected your account balance.</p>"
@@ -1759,55 +1760,55 @@ msgstr "<p> Tebrikler !</p><p><b>{{.Data.CurrencyAmount}} {{.Data.CurrencyName}}
 
 #. i18n: keyword: RewardLinkResultDescriptionItem
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild for <b>{{.Data.ItemName}}</b>.</p><p>You will now find it in game next time you play. Please refer to the \"User Transactions\" page to understand how this operation affected your account inventory.</p>"
-msgstr ""
+msgstr "<p>Tebrikler!</p><p>Doğada <b>{{.Data.ItemName}}</b> için geçerli bir ödül bağlantısı buldunuz.</p><p>Bir sonraki oynayışınızda bunu oyun içinde bulacaksınız. Bu işlemin hesap envanterinizi nasıl etkilediğini anlamak için lütfen \"Kullanıcı İşlemleri\" sayfasına bakın.</p>"
 
 #. i18n: keyword: RewardLinkResultDescriptionDefault
 msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.</p><p>Please refer to the \"User Transactions\" page to understand how this operation affected your account.</p>"
-msgstr ""
+msgstr "<p>Tebrikler!</p><p>Doğada geçerli bir ödül bağlantısı buldunuz.</p><p>Bu işlemin hesabınızı nasıl etkilediğini anlamak için lütfen \"Kullanıcı İşlemleri\" sayfasına bakın.</p>"
 
 #. i18n: keyword: CreatorRewardLinkDescription
 msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
-msgstr ""
+msgstr "<p>Tebrikler!</p><p><b>{{.Data.RewardLink.AmbassadorName}}</b> tarafından <b>{{.Data.RewardLink.GiveawayName}}</b> çekilişi için oluşturulmuş bir içerik üretici bağlantısı buldunuz.</p>"
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
 msgid "You are currently logged in as <b>${profile.name}</b>"
-msgstr ""
+msgstr "Şu anda <b>${profile.name}</b> olarak oturum açtınız"
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation2
 msgid "If you would like to redeem this reward to a different account, please log in to that account first."
-msgstr ""
+msgstr "Bu ödülü farklı bir hesapta kullanmak istiyorsanız, lütfen önce o hesaba giriş yapın."
 
 #. i18n: keyword: CreatorRewardLinkClaim
 msgid "Claim as <b>${profile.name}</b>"
-msgstr ""
+msgstr "<b>${profile.name}</b> olarak talep et"
 
 #. i18n: keyword: Claiming
 msgid "Claiming..."
-msgstr ""
+msgstr "Talep ediliyor..."
 
 #. i18n: keyword: CreatorRewardLinkRedeemSuccess
 msgid "You've successfully redeemed this creator link!"
-msgstr ""
+msgstr "Bu içerik üretici bağlantısını başarıyla kullandınız!"
 
 #. i18n: keyword: CreatorRewardLinkRedeemBalanceWillUpdate
 msgid "Your balance will immediately update."
-msgstr ""
+msgstr "Bakiyeniz hemen güncellenecek."
 
 #. i18n: keyword: CreatorRewardLinkRedeemSuccessFindItIngame
 msgid "You will find this reward in-game next time you play."
-msgstr ""
+msgstr "Bu ödülü bir sonraki oynayışınızda oyun içinde bulacaksınız."
 
 #. i18n: keyword: CreatorRewardLinkRedeemSuccessTransactionExplanation
 msgid "Please refer to the \"User Transactions\" page to understand how this operation affected your account."
-msgstr ""
+msgstr "Bu işlemin hesabınızı nasıl etkilediğini anlamak için lütfen \"Kullanıcı İşlemleri\" sayfasına bakın."
 
 #. i18n: keyword: CreatorRewardLinkRedeemSuccessCodeEmailed
 msgid "An email has been sent to <b>${profile.email}</b> with your code."
-msgstr ""
+msgstr "Kodunuz <b>${profile.email}</b> adresine e-posta ile gönderildi."
 
 #. i18n: keyword: E_INVALID_REFERRER
 msgid "Oops, it looks like this link has been accessed from the wrong location."
-msgstr ""
+msgstr "Oops, görünüşe göre bu bağlantıya yanlış konumdan erişilmiş."
 
 #. i18n: keyword: E_TRANSACTION_REPLAY
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem this reward once."
@@ -1895,7 +1896,7 @@ msgstr "Nintendo kullanıcı adı"
 
 #. i18n: keyword: LP_NETFLIX_Username
 msgid "Netflix username"
-msgstr ""
+msgstr "Netflix kullanıcı adı"
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
@@ -2147,23 +2148,23 @@ msgstr "Bu ödül zaten talep edildi, bakiyeleriniz güncellendi!"
 
 #. i18n: keyword: E_REWARD_LINK_INVALID
 msgid "This link doesn't exist. Please check that you have copied it correctly."
-msgstr ""
+msgstr "Bu bağlantı mevcut değil. Lütfen doğru kopyaladığınızdan emin olun."
 
 #. i18n: keyword: E_REWARD_LINK_EXPIRED
 msgid "Sorry, this link has expired."
-msgstr ""
+msgstr "Üzgünüz, bu bağlantının süresi doldu."
 
 #. i18n: keyword: E_REWARD_LINK_CLAIMED
 msgid "Sorry, this link was already claimed."
-msgstr ""
+msgstr "Üzgünüz, bu bağlantı zaten talep edilmiş."
 
 #. i18n: keyword: E_REWARD_LINK_CLAIMED_BY_YOU
 msgid "Whoa! It looks like you already clicked this link before. You can only redeem it once."
-msgstr ""
+msgstr "Vay! Görünüşe göre bu bağlantıya daha önce tıklamışsınız. Bunu yalnızca bir kez kullanabilirsiniz."
 
 #. i18n: keyword: E_REWARD_LINK_REDEEM_FAIL
 msgid "You've claimed this link but we ran into an error while trying to give you the reward. Please try this link again in a few seconds."
-msgstr ""
+msgstr "Bu bağlantıyı talep ettiniz ancak ödülü vermeye çalışırken bir hatayla karşılaştık. Lütfen birkaç saniye içinde bu bağlantıyı tekrar deneyin."
 
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
@@ -2359,7 +2360,7 @@ msgstr "Geçersiz doğum tarihi, tarih bu formatta olmalıdır: YYYY-MM-DD"
 
 #. i18n: keyword: E_TWITCH_NO_REFRESH_TOKEN
 msgid "Twitch refresh token is missing, please unlink and re-link your Twitch account and try again."
-msgstr ""
+msgstr "Twitch yenileme belirteci eksik; lütfen Twitch hesabınızın bağlantısını kaldırıp tekrar bağlayın ve yeniden deneyin."
 
 #. i18n: keyword: E_TWITCH_BAD_REQUEST
 msgid "Twitch rejected the request to connect your Klei account; this is usually a temporary problem in Twitch authentication servers. Please <a href='/account/twitch/link'>try again</a> in a few minutes."
@@ -2407,7 +2408,7 @@ msgstr "Bilgisayarınız sunucuya yanlış veri gönderdi."
 
 #. i18n: keyword: E_CONTEXT_CANCELED
 msgid "The operation was interrupted. Please try again."
-msgstr ""
+msgstr "İşlem kesintiye uğradı. Lütfen tekrar deneyin."
 
 #. i18n: keyword: E_STEAM_FORBIDDEN
 msgid "Your account has been temporarily blocked by Steam."
@@ -2551,7 +2552,7 @@ msgstr "Klei hesabınızın zaten Google ile bağlantısı kesildi. Bağlantın�
 
 #. i18n: keyword: E_GOOGLE_NO_YOUTUBE_CHANNEL
 msgid "This Google account has no YouTube channel associated with it."
-msgstr ""
+msgstr "Bu Google hesabıyla ilişkilendirilmiş bir YouTube kanalı yok."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
@@ -2583,7 +2584,7 @@ msgstr "Bu ödülü zaten talep ettiniz."
 
 #. i18n: keyword: E_LINK_ALREADY_EXISTS
 msgid "This link already exists, please try a different giveaway name."
-msgstr ""
+msgstr "Bu bağlantı zaten mevcut, lütfen farklı bir çekiliş adı deneyin."
 
 #. i18n: keyword: E_UNKNOWN_LINK
 msgid "The link you have used is not valid. Please check the source of this link and try again."
@@ -2603,43 +2604,43 @@ msgstr "Bu işlem geri alınamaz."
 
 #. i18n: keyword: E_USER_NOT_QUALIFIED_FOR_CREATOR
 msgid "You currently do not meet the requirements for application to the Creator Program."
-msgstr ""
+msgstr "Şu anda İçerik Üretici Programına başvuru gereksinimlerini karşılamıyorsunuz."
 
 #. i18n: keyword: E_CREATOR_INVALID_SELF_DESCRIPTION
 msgid "The self description field was either empty or exceeded the max character count."
-msgstr ""
+msgstr "Kendini tanıtma alanı boştu veya maksimum karakter sayısını aştı."
 
 #. i18n: keyword: E_INVALID_YOUTUBE_CHANNELID
 msgid "Invalid YouTube channel ID"
-msgstr ""
+msgstr "Geçersiz YouTube kanal kimliği"
 
 #. i18n: keyword: E_INVALID_QUANTITY
 msgid "The quantity entered is invalid"
-msgstr ""
+msgstr "Girilen miktar geçersiz"
 
 #. i18n: keyword: E_INVALID_PARAMETER
 msgid "Invalid parameter"
-msgstr ""
+msgstr "Geçersiz parametre"
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
-msgstr ""
+msgstr "${dropInfo.GameName} dropları kazanıldı"
 
 #. i18n: keyword: KleiWeekDropsTitle
 msgid "Klei Week ${currentWeek} Drops"
-msgstr ""
+msgstr "Klei Haftası ${currentWeek} Dropları"
 
 #. i18n: keyword: KleiWeekEndsIn
 msgid "Ends in ${weekCountdown}"
-msgstr ""
+msgstr "${weekCountdown} içinde sona eriyor"
 
 #. i18n: keyword: KleiWeekEnded
 msgid "Week ended"
-msgstr ""
+msgstr "Hafta sona erdi"
 
 #. i18n: keyword: DropsDescription
 msgid "Earn the currently available drops by playing the respective games throughout the drop period."
-msgstr ""
+msgstr "Mevcut dropları, drop süresi boyunca ilgili oyunları oynayarak kazanın."
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
@@ -2647,7 +2648,7 @@ msgstr "Kullanıcı İşlemleri"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "Transactions associated with your account over the past year are listed below, newest first.<br>Transaction time is in UTC, not your local time."
-msgstr ""
+msgstr "Hesabınızla ilişkili son bir yıldaki işlemler aşağıda en yeniden eskiye doğru listelenmiştir.<br>İşlem zamanı yerel saatinizde değil UTC'dedir."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
@@ -2671,7 +2672,7 @@ msgstr "Geri alma"
 
 #. i18n: keyword: TransactionTraded
 msgid "Traded:"
-msgstr ""
+msgstr "Takas edildi:"
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
@@ -2715,11 +2716,11 @@ msgstr "Puanlar için Bağlantı"
 
 #. i18n: keyword: TXN_LINK_FOR_ITEM
 msgid "Link For Item"
-msgstr ""
+msgstr "Eşya için Bağlantı"
 
 #. i18n: keyword: TXN_CREATOR_LINK
 msgid "Creator Link"
-msgstr ""
+msgstr "İçerik Üretici Bağlantısı"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
@@ -2739,7 +2740,7 @@ msgstr "Makara için Eşyalar"
 
 #. i18n: keyword: TXN_FILAMENT_FOR_ITEM
 msgid "Filament For Item"
-msgstr ""
+msgstr "Eşya için Filament"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
@@ -2779,7 +2780,7 @@ msgstr "Makara için Eşyalar"
 
 #. i18n: keyword: TXN_ITEM_FOR_FILAMENT
 msgid "Item For Filament"
-msgstr ""
+msgstr "Filament için Eşya"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
@@ -2843,15 +2844,15 @@ msgstr "Klei Destek Verilmiş Öğe"
 
 #. i18n: keyword: TXN_LORE_INTERACTION
 msgid "Lore Interaction"
-msgstr ""
+msgstr "Hikâye Etkileşimi"
 
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
-msgstr ""
+msgstr "Takas Hanı"
 
 #. i18n: keyword: TXN_UNLOCK_ITEM
 msgid "Unlock Item"
-msgstr ""
+msgstr "Eşya Kilidini Aç"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
@@ -3023,48 +3024,48 @@ msgstr "Oh hayır! Bozuk bir bağlantıya tıkladığınız anlaşılıyor. Yeni
 
 #. i18n: keyword: E_CREATOR_ALREADY_REFERRED
 msgid "You have already submitted a recommendation for this creator."
-msgstr ""
+msgstr "Bu içerik üretici için zaten bir öneri gönderdiniz."
 
 #. i18n: keyword: E_CREATOR_REFERRAL_LIMIT_REACHED
 msgid "You have reached your recommendation limit. Please try again later."
-msgstr ""
+msgstr "Öneri limitinize ulaştınız. Lütfen daha sonra tekrar deneyin."
 
 #. i18n: keyword: RecommendCreatorLimitTitle
 msgid "Creator Recommendation Limit Reached"
-msgstr ""
+msgstr "İçerik Üretici Öneri Limitine Ulaşıldı"
 
 #. i18n: keyword: RecommendCreatorLimitDescription
 msgid "You have reached your recommendation limit. You can submit a new recommendation in <b>{{ .Data.CooldownDays }} day(s)</b>."
-msgstr ""
+msgstr "Öneri limitinize ulaştınız. <b>{{ .Data.CooldownDays }} gün</b> sonra yeni bir öneri gönderebilirsiniz."
 
 #. i18n: keyword: BackToCreatorPage
 msgid "Back To Creator Page"
-msgstr ""
+msgstr "İçerik Üretici Sayfasına Geri Dön"
 
 #. i18n: keyword: RecommendCreatorBtn
 msgid "Recommend"
-msgstr ""
+msgstr "Öner"
 
 #. i18n: keyword: RecommendCreatorTitle
 msgid "Recommend A Creator"
-msgstr ""
+msgstr "Bir İçerik Üretici Öner"
 
 #. i18n: keyword: RecommendCreatorSuccessTitle
 msgid "Creator Recommendation Submitted"
-msgstr ""
+msgstr "İçerik Üretici Önerisi Gönderildi"
 
 #. i18n: keyword: RecommendCreatorSuccessDescription
 msgid "You have successfully submitted your recommendation for <b>{{ .Data.ReferredCreator }}</b>!"
-msgstr ""
+msgstr "<b>{{ .Data.ReferredCreator }}</b> için önerinizi başarıyla gönderdiniz!"
 
 #. i18n: keyword: RecommendCreatorSubmitBtn
 msgid "Submit"
-msgstr ""
+msgstr "Gönder"
 
 #. i18n: keyword: RecommendCreatorDescription
 msgid "Recommend a creator that you think would be a good fit for the program. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Click for Details)</a>"
-msgstr ""
+msgstr "Programa uygun olacağını düşündüğünüz bir içerik üreticiyi önerin. <a href=\"https://support.klei.com/hc/en-us/articles/44019795944084-Creator-Recommendations\" target=\"_blank\" rel=\"noopener noreferrer\">(Detaylar için tıklayın)</a>"
 
 #. i18n: keyword: RecommendCreatorShortDesc
 msgid "Recommend a creator"
-msgstr ""
+msgstr "Bir içerik üretici öner"
