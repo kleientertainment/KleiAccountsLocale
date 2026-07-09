@@ -915,7 +915,7 @@ msgstr "إلغاء الربط"
 
 #. i18n: keyword: DisconnectThis
 msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
-msgstr ""
+msgstr "فصل حساب {{ .Data.ConnectedAccount.PlatformName }}"
 
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
@@ -923,7 +923,7 @@ msgstr "هل أنت متأكد أنك تريد إلغاء ربط"
 
 #. i18n: keyword: DisconnectThisQuestion
 msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
-msgstr ""
+msgstr "هل أنت متأكد أنك تريد فصل حساب {{ .Data.ConnectedAccount.PlatformName }} الخاص بك؟"
 
 #. i18n: keyword: DisconnectAccount
 msgid "Disconnect Account"
@@ -1299,7 +1299,7 @@ msgstr "خطأ: لا يبدو أنك تملك أي ألعاب مؤهلة."
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
-msgstr "خوادم الألعاب"
+msgstr "خوادم اللعبة"
 
 #. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
@@ -1507,7 +1507,7 @@ msgstr "ستفقد"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
-msgstr "إعدادات التنزيل"
+msgstr "تنزيل الإعدادات"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
