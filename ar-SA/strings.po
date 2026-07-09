@@ -463,7 +463,7 @@ msgstr "متابعة"
 
 #. i18n: keyword: CurrentAccount
 msgid "Current Account"
-msgstr ""
+msgstr "الحساب الحالي"
 
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
@@ -495,7 +495,7 @@ msgstr "يمكنك ربط حساب واحد فقط لكل منصة، مثل حس
 
 #. i18n: keyword: LinkAccountCurrencyWarning
 msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
-msgstr ""
+msgstr "جميع العملات (لفائف القماش، ونقاط Klei، والبكرات) <b>لن تُشارك أو تُنقل إلى الحسابات المرتبطة</b>، وستبقى في حسابها الأصلي."
 
 #. i18n: keyword: LinkAccountButton
 msgid "Link Account"
@@ -723,7 +723,7 @@ msgstr "إذا تابعت، فلن تتمكن من ربط حساب {{ .Data.Auth
 
 #. i18n: keyword: UnlinkAccountsContinue
 msgid "Continue To Unlink"
-msgstr ""
+msgstr "متابعة إلغاء الربط"
 
 #. i18n: keyword: UnlinkAccountSuccessTitle
 msgid "Successful Account Unlink"
