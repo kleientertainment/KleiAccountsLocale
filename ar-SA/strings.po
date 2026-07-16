@@ -1763,11 +1763,11 @@ msgstr "استرداد"
 
 #. i18n: keyword: RewardItemReskins
 msgid "Reskins: ${reward.reskins}"
-msgstr "${reward.reskins} :إعادة تشكيل"
+msgstr "إعادة تشكيل: ${reward.reskins}"
 
 #. i18n: keyword: RewardSouvenirReskins
 msgid "Reskins: ${souvenir.reskins}"
-msgstr "${souvenir.reskins} :إعادة تشكيل"
+msgstr "إعادة تشكيل: ${souvenir.reskins}"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward name:"
