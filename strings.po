@@ -174,11 +174,11 @@ msgid "Activating..."
 msgstr ""
 
 #. i18n: keyword: ActivateAccountTitle
-msgid "Activate Account"
+msgid "Account created"
 msgstr ""
 
 #. i18n: keyword: ActivateAccountDescription
-msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
+msgid "Your Klei account was successfully created!<br>Please complete the form to activate it and see account info."
 msgstr ""
 
 #. i18n: keyword: Birthdate
@@ -199,10 +199,6 @@ msgstr ""
 
 #. i18n: keyword: PrivacyPolicy
 msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
-msgstr ""
-
-#. i18n: keyword: FillAccountDetails
-msgid "Fill your account details here:"
 msgstr ""
 
 #. i18n: keyword: SteamAccount
