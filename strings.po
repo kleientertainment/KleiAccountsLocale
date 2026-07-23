@@ -173,12 +173,32 @@ msgstr ""
 msgid "Activating..."
 msgstr ""
 
+#. i18n: keyword: SignupTitle
+msgid "Klei Account Log In"
+msgstr ""
+
+#. i18n: keyword: SignupDescription
+msgid "If you already have an account, log in. If not, start your new account with the Sign up button."
+msgstr ""
+
+#. i18n: keyword: SignupLoginButton
+msgid "Log in"
+msgstr ""
+
+#. i18n: keyword: SignupButton
+msgid "or Sign up"
+msgstr ""
+
 #. i18n: keyword: ActivateAccountTitle
-msgid "Account created"
+msgid "Klei Account Sign Up"
 msgstr ""
 
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created!<br>Please complete the form to activate it and see account info."
+msgstr ""
+
+#. i18n: keyword: ActivateAccountLinkInfo
+msgid "If you want to link another Klei account later, you can do so in your account Settings."
 msgstr ""
 
 #. i18n: keyword: Birthdate
