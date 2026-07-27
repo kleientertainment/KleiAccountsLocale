@@ -169,6 +169,10 @@ msgstr ""
 msgid "Activate"
 msgstr ""
 
+#. i18n: keyword: SignupBackButton
+msgid "Back"
+msgstr ""
+
 #. i18n: keyword: Activating
 msgid "Activating..."
 msgstr ""
@@ -178,7 +182,7 @@ msgid "Klei Account Log In"
 msgstr ""
 
 #. i18n: keyword: SignupDescription
-msgid "If you already have an account, log in. If not, start your new account with the Sign up button."
+msgid "If you already have an account you'd like to link, log in with it. If not, start your new account with the sign up button."
 msgstr ""
 
 #. i18n: keyword: SignupLoginButton
