@@ -2581,6 +2581,10 @@ msgstr "El token de incio de sesión del cliente fue generado para un juego dife
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "La página solo soporta tokens de inicio de sesión de cliente. El token que has proporcionado parece no ser valido pero fue generado para una cosa completamente diferente."
 
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
+
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei no pudo obtener los permisos necesarios para vincular su cuenta. Para continuar, debe permitir a Klei acceder a información básica de su cuenta cuando se le solicite."
