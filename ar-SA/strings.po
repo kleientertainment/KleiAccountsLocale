@@ -2581,6 +2581,10 @@ msgstr "تم إنشاء رمز تسجيل دخول العميل للعبة مخ�
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "صفحة الويب تدعم رموز تسجيل دخول العميل فقط. يبدو أن الرمز الذي قدمته صالح، لكنه أنشئ لغرض مختلف تمامًا."
 
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
+
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "لم يتم منح Klei إذنًا لربط حسابك. للمتابعة، يجب أن تسمح لـ Klei بالوصول إلى حسابك عند طلب ذلك."

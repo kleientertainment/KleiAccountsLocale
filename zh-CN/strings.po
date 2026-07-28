@@ -2581,6 +2581,10 @@ msgstr "客户端登录令牌由一个另外的游戏生成。"
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "网页只支持客户端登录令牌。您提供的令牌似乎有效，但是它是为完全不同的目的生成的。"
 
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
+
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei尚未获得关联您账号的权限。要继续此操作，您需要在提示出现时允许Klei访问您的账号。"

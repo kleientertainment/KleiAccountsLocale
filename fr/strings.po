@@ -2581,6 +2581,10 @@ msgstr "Le jeton de connexion client a été généré pour un jeu différent."
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "La page Web ne prend en charge que les jetons de connexion client. Le jeton que vous avez fourni semble être valide mais il a été généré pour autre chose."
 
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
+
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei n'a pas reçu l'autorisation de lier votre compte. Pour continuer, vous devez donner l'accès à votre compte quand demandé."
