@@ -290,7 +290,11 @@ msgid "Klei Account Log In"
 msgstr ""
 
 #. i18n: keyword: LoginDescription
-msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
+msgid "Log into your Klei account to see all your Klei games, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
+msgstr ""
+
+#. i18n: keyword: LinkLoginDescription
+msgid "Link to an existing Klei Account to share Curios between the two. You'll be able to unlink them later if you make a mistake.</p><p>Choose a platform to log in:"
 msgstr ""
 
 #. i18n: keyword: Subscribe
