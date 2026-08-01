@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2026-07-01 23:24-0300\n"
+"PO-Revision-Date: 2026-07-31 21:33-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -75,31 +75,31 @@ msgstr "Jogos"
 
 #. i18n: keyword: About
 msgid "About"
-msgstr ""
+msgstr "Sobre"
 
 #. i18n: keyword: Careers
 msgid "Careers"
-msgstr ""
+msgstr "Carreiras"
 
 #. i18n: keyword: Forums
 msgid "Forums"
-msgstr ""
+msgstr "Fóruns"
 
 #. i18n: keyword: Contact
 msgid "Contact"
-msgstr ""
+msgstr "Contato"
 
 #. i18n: keyword: Store
 msgid "Store"
-msgstr ""
+msgstr "Loja"
 
 #. i18n: keyword: Privacy
 msgid "Privacy"
-msgstr ""
+msgstr "Privacidade"
 
 #. i18n: keyword: YouTubePolicy
 msgid "YouTube &amp; Mod Policy"
-msgstr ""
+msgstr "YouTube &amp; Política de Moderação"
 
 #. i18n: keyword: Betas
 msgid "Betas"
@@ -491,7 +491,7 @@ msgstr "Continuar"
 
 #. i18n: keyword: CurrentAccount
 msgid "Current Account"
-msgstr ""
+msgstr "Conta Corrente"
 
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
@@ -523,7 +523,7 @@ msgstr "Você só pode vincular uma conta por plataforma (uma conta Steam, uma c
 
 #. i18n: keyword: LinkAccountCurrencyWarning
 msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
-msgstr ""
+msgstr "Todas as moedas (Rolos de Tecido, Pontos Klei, e Carretéis) <b>não serão compartilhadas ou trasferidas para contas vinculadas</b>, e permanecerão na conta de origem."
 
 #. i18n: keyword: LinkAccountButton
 msgid "Link Account"
@@ -751,7 +751,7 @@ msgstr "Se você continuar, não poderá vincular novamente uma conta {{ .Data.A
 
 #. i18n: keyword: UnlinkAccountsContinue
 msgid "Continue To Unlink"
-msgstr ""
+msgstr "Continue Para Desvincular"
 
 #. i18n: keyword: UnlinkAccountSuccessTitle
 msgid "Successful Account Unlink"
@@ -943,7 +943,7 @@ msgstr "Desvincular"
 
 #. i18n: keyword: DisconnectThis
 msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
-msgstr ""
+msgstr "Desconectar {{ .Data.ConnectedAccount.PlatformName }}"
 
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
@@ -951,7 +951,7 @@ msgstr "Tem certeza de que deseja desvincular sua"
 
 #. i18n: keyword: DisconnectThisQuestion
 msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
-msgstr ""
+msgstr "Deseja realmente desconectar {{ .Data.ConnectedAccount.PlatformName }}?"
 
 #. i18n: keyword: DisconnectAccount
 msgid "Disconnect Account"
@@ -2135,7 +2135,7 @@ msgstr "Ao se inscrever, você concorda com nossa <a href='https://www.kleienter
 
 #. i18n: keyword: SignUpFollow
 msgid "Thanks for signing up! Feel free to follow us on <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>, <a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> and <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
-msgstr ""
+msgstr "Obrigado por se inscrever! Sinta-se à vontade para nos seguir no <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>, <a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> e <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
@@ -2583,7 +2583,7 @@ msgstr "A página online suporta somente tokens de login. O token que você prov
 
 #. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
 msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
-msgstr ""
+msgstr "A página web suporta apenas tokens de autenticação web. O token fornecido por você parece ser válido, mas foi gerado para uma finalidade completamente diferente."
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
