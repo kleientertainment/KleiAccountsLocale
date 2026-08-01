@@ -73,6 +73,34 @@ msgstr "الإعدادات"
 msgid "Games"
 msgstr "الألعاب"
 
+#. i18n: keyword: About
+msgid "About"
+msgstr "من نحن"
+
+#. i18n: keyword: Careers
+msgid "Careers"
+msgstr "الوظائف"
+
+#. i18n: keyword: Forums
+msgid "Forums"
+msgstr "المنتديات"
+
+#. i18n: keyword: Contact
+msgid "Contact"
+msgstr "تواصل معنا"
+
+#. i18n: keyword: Store
+msgid "Store"
+msgstr "المتجر"
+
+#. i18n: keyword: Privacy
+msgid "Privacy"
+msgstr "الخصوصية"
+
+#. i18n: keyword: YouTubePolicy
+msgid "YouTube &amp; Mod Policy"
+msgstr "سياسة YouTube والإضافات"
+
 #. i18n: keyword: Betas
 msgid "Betas"
 msgstr "النسخ التجريبية"
@@ -275,7 +303,7 @@ msgstr "روابط مفيدة"
 
 #. i18n: keyword: KleiUserID
 msgid "Klei User ID"
-msgstr "معرف مستخدم Klei"
+msgstr "معرّف مستخدم Klei"
 
 #. i18n: keyword: FirstSeen
 msgid "First Seen"
@@ -319,7 +347,7 @@ msgstr "تنزيل البيانات الشخصية"
 
 #. i18n: keyword: GamePlayerID
 msgid "Player ID"
-msgstr "معرف اللاعب"
+msgstr "معرّف اللاعب"
 
 #. i18n: keyword: UserNotFound
 msgid "user not found"
@@ -461,6 +489,10 @@ msgstr "إذا كنت تستخدم حاسوبًا عامًا أو حاسوبًا
 msgid "Continue"
 msgstr "متابعة"
 
+#. i18n: keyword: CurrentAccount
+msgid "Current Account"
+msgstr "الحساب الحالي"
+
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
 msgstr "متصل"
@@ -471,7 +503,7 @@ msgstr "مرتبط"
 
 #. i18n: keyword: ProviderLinkedID
 msgid "ID:"
-msgstr "المعرف:"
+msgstr "المعرّف:"
 
 #. i18n: keyword: ProviderNotLinked
 msgid "Not linked"
@@ -488,6 +520,10 @@ msgstr "ستؤدي هذه العملية إلى <b>ربط</b> حسابات Klei 
 #. i18n: keyword: LinkAccountDescription2
 msgid "You can only link a single account per platform  (one Steam account, one Epic account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
 msgstr "يمكنك ربط حساب واحد فقط لكل منصة، مثل حساب Steam واحد وحساب Epic واحد وما إلى ذلك، و<b>يجب ألا تفعل ذلك إلا مع الحسابات التي تملكها</b>. لن تُنقل هذه الاستحقاقات إلى الحسابات المرتبطة، بل ستحصل على نسخة <b>للقراءة فقط</b> لا يمكن تحويلها إلى بكرات أو تعديلها بأي طريقة أخرى. يمكنك التراجع عن هذا الإجراء إذا ارتكبت خطأ، لكن لتجنب إساءة الاستخدام يجب أن تنتظر 30 يومًا قبل المحاولة مرة أخرى."
+
+#. i18n: keyword: LinkAccountCurrencyWarning
+msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
+msgstr "جميع العملات (لفائف القماش، ونقاط Klei، والبكرات) <b>لن تُشارك أو تُنقل إلى الحسابات المرتبطة</b>، وستبقى في حسابها الأصلي."
 
 #. i18n: keyword: LinkAccountButton
 msgid "Link Account"
@@ -713,6 +749,10 @@ msgstr "هل أنت متأكد أنك تريد إلغاء ربط <b>{{ .Data.KUT
 msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 30 days."
 msgstr "إذا تابعت، فلن تتمكن من ربط حساب {{ .Data.AuthProvidersToUnlink }} بهذا الحساب مرة أخرى لمدة 30 يومًا."
 
+#. i18n: keyword: UnlinkAccountsContinue
+msgid "Continue To Unlink"
+msgstr "متابعة إلغاء الربط"
+
 #. i18n: keyword: UnlinkAccountSuccessTitle
 msgid "Successful Account Unlink"
 msgstr "تم إلغاء ربط الحساب بنجاح"
@@ -901,9 +941,17 @@ msgstr "حذف الحساب"
 msgid "Unlink"
 msgstr "إلغاء الربط"
 
+#. i18n: keyword: DisconnectThis
+msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
+msgstr "فصل حساب {{ .Data.ConnectedAccount.PlatformName }}"
+
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
 msgstr "هل أنت متأكد أنك تريد إلغاء ربط"
+
+#. i18n: keyword: DisconnectThisQuestion
+msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
+msgstr "هل أنت متأكد أنك تريد فصل حساب {{ .Data.ConnectedAccount.PlatformName }} الخاص بك؟"
 
 #. i18n: keyword: DisconnectAccount
 msgid "Disconnect Account"
@@ -1139,11 +1187,11 @@ msgstr "روابط متعددة"
 
 #. i18n: keyword: CreatorRewardLinkSingleExplanation
 msgid "Create a single link that can be redeemed by multiple people."
-msgstr "أنشئ رابطًا واحدًا يمكن استرداده من عدة أشخاص."
+msgstr "أنشئ رابطًا واحدًا يمكن لعدة أشخاص استرداده."
 
 #. i18n: keyword: CreatorRewardLinkMultipleExplanation
 msgid "Create multiple links that can each be redeemed by one person."
-msgstr "أنشئ عدة روابط يمكن استرداد كل واحد منها من شخص واحد."
+msgstr "أنشئ عدة روابط يمكن لشخص واحد استرداد كل رابط منها."
 
 #. i18n: keyword: CreatorRewardLinkSinglePreview
 msgid "The link will look like this:"
@@ -1279,7 +1327,7 @@ msgstr "خطأ: لا يبدو أنك تملك أي ألعاب مؤهلة."
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
-msgstr "خوادم الألعاب"
+msgstr "خوادم اللعبة"
 
 #. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
@@ -1391,7 +1439,7 @@ msgstr "إعداد الخادم"
 
 #. i18n: keyword: ConfigureServerDescription
 msgid "The following form allows you to configure the settings for the game server. Depending on which operating system you have you also need to execute a few scripts. Please follow the instructions that correspond to your system: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
-msgstr "يتيح لك النموذج التالي إعدادات خادم اللعبة. وبحسب نظام التشغيل لديك، تحتاج أيضًا إلى تشغيل بعض السكربتات. يرجى اتباع التعليمات التي تناسب نظامك: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
+msgstr "يتيح لك النموذج التالي تكوين إعدادات خادم اللعبة. وبحسب نظام التشغيل لديك، تحتاج أيضًا إلى تشغيل بعض الأوامر. يرجى اتباع التعليمات التي تناسب نظامك: <a href='https://forums.kleientertainment.com/forums/topic/64212-dedicated-server-quick-setup-guide-windows/' target='_blank'>Windows</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/' target='_blank'>Linux</a> &mdash; <a href='https://forums.kleientertainment.com/forums/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/' target='_blank'>macOS</a>."
 
 #. i18n: keyword: ConfigureServerToken
 msgid "Server Token"
@@ -1487,7 +1535,7 @@ msgstr "ستفقد"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
-msgstr "إعدادات التنزيل"
+msgstr "تنزيل الإعدادات"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
@@ -1714,8 +1762,12 @@ msgid "Redeem"
 msgstr "استرداد"
 
 #. i18n: keyword: RewardItemReskins
-msgid "Reskins:"
-msgstr "إعادة تشكيل:"
+msgid "Reskins: ${reward.reskins}"
+msgstr "إعادة تشكيل: ${reward.reskins}"
+
+#. i18n: keyword: RewardSouvenirReskins
+msgid "Reskins: ${souvenir.reskins}"
+msgstr "إعادة تشكيل: ${souvenir.reskins}"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward name:"
@@ -1754,8 +1806,8 @@ msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.
 msgstr "<p>تهانينا!</p><p>لقد وجدت رابط مكافأة صالحًا في البرية.</p><p>يرجى الرجوع إلى صفحة \"معاملات المستخدم\" لمعرفة كيف أثرت هذه العملية في حسابك.</p>"
 
 #. i18n: keyword: CreatorRewardLinkDescription
-msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
-msgstr "<p>تهانينا!</p><p>لقد وجدت رابط مبدع أنشأه <b>{{.Data.RewardLink.AmbassadorName}}</b> للسحب <b>{{.Data.RewardLink.GiveawayName}}</b>."
+msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
+msgstr "<p>تهانينا!</p><p>لقد وجدت رابط مبدع أنشأه <b>{{.Data.RewardLink.AmbassadorName}}</b> للسحب <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
 msgid "You are currently logged in as <b>${profile.name}</b>"
@@ -1807,7 +1859,7 @@ msgstr "استرداد الهدية"
 
 #. i18n: keyword: GiftRedemptionDescription
 msgid "Hello! It looks like you got an item key or gift code, would you like to redeem it now? Type in the code in the form below and we will grant you the item faster than you can blink <em>&mdash;unless you can blink very fast, in which case you should close your eyes for a few milliseconds&mdash;</em>"
-msgstr "مرحبًا! يبدو أنك حصلت على مفتاح عنصر أو رمز هدية، هل تريد استرداده الآن؟ اكتب الرمز في النموذج أدناه وسنمنحك العنصر بسرعة تفوق رمشة العين <em>&mdash;إلا إذا كنت ترمش بسرعة كبيرة، وفي هذه الحالة عليك إغماض عينيك لبضع ميلي ثوان&mdash;</em>"
+msgstr "مرحبًا! يبدو أنك حصلت على مفتاح عنصر أو رمز هدية، هل تريد استرداده الآن؟ اكتب الرمز في النموذج أدناه وسنمنحك العنصر بسرعة تفوق رمشة العين <em>&mdash;إلا إذا كنت ترمش بسرعة كبيرة، وفي هذه الحالة عليك إغماض عينيك لبضع أجزاء من الثانية&mdash;</em>"
 
 #. i18n: keyword: GiftRedemptionGoToValidation
 msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
@@ -1895,11 +1947,11 @@ msgstr "حدث خطأ أثناء دمج معرفات Klei التالية:"
 
 #. i18n: keyword: MergeFailedSourceKU
 msgid "<b>Source KU:</b> {{ .Data.SourceKU }}"
-msgstr "<b>معرف KU المصدر:</b> {{ .Data.SourceKU }}"
+msgstr "<b>معرّف KU المصدر:</b> {{ .Data.SourceKU }}"
 
 #. i18n: keyword: MergeFailedDestinationKU
 msgid "<b>Destination KU:</b> {{ .Data.DestinationKU }}"
-msgstr "<b>معرف KU الوجهة:</b> {{ .Data.DestinationKU }}"
+msgstr "<b>معرّف KU الوجهة:</b> {{ .Data.DestinationKU }}"
 
 #. i18n: keyword: MergeFailedDescription
 msgid "You have been logged out of your account. Please <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
@@ -2081,6 +2133,10 @@ msgstr "أوافق على <a href='https://www.kleientertainment.com/games/dont-
 msgid "By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
 msgstr "بالتسجيل، فإنك توافق على <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>سياسة الخصوصية</a> الخاصة بنا"
 
+#. i18n: keyword: SignUpFollow
+msgid "Thanks for signing up! Feel free to follow us on <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>, <a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> and <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
+msgstr "شكرًا لتسجيلك! يمكنك متابعتنا على <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a> و<a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> و<a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
+
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
 msgstr "Klei Entertainment"
@@ -2099,7 +2155,7 @@ msgstr "الحساب محدد للحذف"
 
 #. i18n: keyword: RevertAccountLimboDescription
 msgid "Your account with User ID <b>{{ .Data.KU }}</b> has been marked for deletion and will be permanently unrecoverable within 30 days.<br>If you would like to recover your account, please press the \"Recover Account\" button."
-msgstr "تم تحديد حسابك الذي يحمل معرف المستخدم <b>{{ .Data.KU }}</b> للحذف، وسيصبح غير قابل للاسترداد نهائيًا خلال 30 يومًا.<br>إذا كنت ترغب في استرداد حسابك، يرجى الضغط على زر \"استرداد الحساب\"."
+msgstr "تم تحديد حسابك الذي يحمل معرّف المستخدم <b>{{ .Data.KU }}</b> للحذف، وسيصبح غير قابل للاسترداد نهائيًا خلال 30 يومًا.<br>إذا كنت ترغب في استرداد حسابك، يرجى الضغط على زر \"استرداد الحساب\"."
 
 #. i18n: keyword: RevertAccountLimboConfirm
 msgid "Recover Account"
@@ -2525,6 +2581,10 @@ msgstr "تم إنشاء رمز تسجيل دخول العميل للعبة مخ�
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "صفحة الويب تدعم رموز تسجيل دخول العميل فقط. يبدو أن الرمز الذي قدمته صالح، لكنه أنشئ لغرض مختلف تمامًا."
 
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
+
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "لم يتم منح Klei إذنًا لربط حسابك. للمتابعة، يجب أن تسمح لـ Klei بالوصول إلى حسابك عند طلب ذلك."
@@ -2539,7 +2599,7 @@ msgstr "تم فصل حساب Klei الخاص بك عن Google مسبقًا. إذ
 
 #. i18n: keyword: E_GOOGLE_NO_YOUTUBE_CHANNEL
 msgid "This Google account has no YouTube channel associated with it."
-msgstr "لا توجد قناة YouTube مرتبطة بهذا حساب Google."
+msgstr "لا توجد قناة على YouTube مرتبطة بحساب Google هذا."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
@@ -2851,7 +2911,7 @@ msgstr "قابل للمقايضة"
 
 #. i18n: keyword: MismatchedKuTitle
 msgid "Mismatched User IDs"
-msgstr "معرفات المستخدم غير متطابقة"
+msgstr "معرّفات المستخدم غير متطابقة"
 
 #. i18n: keyword: LoginToAnotherAccount
 msgid "Login to another account"
@@ -2919,7 +2979,7 @@ msgstr "لقد أرسلت صورة مسبقًا. هل أنت متأكد أنك �
 
 #. i18n: keyword: FanartEventStatusSubmissionID
 msgid "Submission ID:"
-msgstr "معرف الإرسال:"
+msgstr "معرّف الإرسال:"
 
 #. i18n: keyword: FanartEventSubmissionSuccess
 msgid "Your picture has been recorded!"

@@ -73,6 +73,34 @@ msgstr "帳號設定"
 msgid "Games"
 msgstr "遊戲"
 
+#. i18n: keyword: About
+msgid "About"
+msgstr ""
+
+#. i18n: keyword: Careers
+msgid "Careers"
+msgstr ""
+
+#. i18n: keyword: Forums
+msgid "Forums"
+msgstr ""
+
+#. i18n: keyword: Contact
+msgid "Contact"
+msgstr ""
+
+#. i18n: keyword: Store
+msgid "Store"
+msgstr ""
+
+#. i18n: keyword: Privacy
+msgid "Privacy"
+msgstr ""
+
+#. i18n: keyword: YouTubePolicy
+msgid "YouTube &amp; Mod Policy"
+msgstr ""
+
 #. i18n: keyword: Betas
 msgid "Betas"
 msgstr "Betas 測試"
@@ -461,6 +489,10 @@ msgstr "如果您正在使用公用電腦或與他人共用的電腦，建議您
 msgid "Continue"
 msgstr "繼續"
 
+#. i18n: keyword: CurrentAccount
+msgid "Current Account"
+msgstr ""
+
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
 msgstr "已連結"
@@ -487,6 +519,10 @@ msgstr ""
 
 #. i18n: keyword: LinkAccountDescription2
 msgid "You can only link a single account per platform  (one Steam account, one Epic account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
+msgstr ""
+
+#. i18n: keyword: LinkAccountCurrencyWarning
+msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
 msgstr ""
 
 #. i18n: keyword: LinkAccountButton
@@ -713,6 +749,10 @@ msgstr ""
 msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 30 days."
 msgstr ""
 
+#. i18n: keyword: UnlinkAccountsContinue
+msgid "Continue To Unlink"
+msgstr ""
+
 #. i18n: keyword: UnlinkAccountSuccessTitle
 msgid "Successful Account Unlink"
 msgstr ""
@@ -901,9 +941,17 @@ msgstr "刪除帳號"
 msgid "Unlink"
 msgstr "解除連結"
 
+#. i18n: keyword: DisconnectThis
+msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
+msgstr ""
+
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
 msgstr "您確定要解除連結您的"
+
+#. i18n: keyword: DisconnectThisQuestion
+msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
+msgstr ""
 
 #. i18n: keyword: DisconnectAccount
 msgid "Disconnect Account"
@@ -1714,8 +1762,12 @@ msgid "Redeem"
 msgstr "兌換"
 
 #. i18n: keyword: RewardItemReskins
-msgid "Reskins:"
-msgstr "外觀重置："
+msgid "Reskins: ${reward.reskins}"
+msgstr "外觀重置：${reward.reskins}"
+
+#. i18n: keyword: RewardSouvenirReskins
+msgid "Reskins: ${souvenir.reskins}"
+msgstr "外觀重置：${souvenir.reskins}"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
@@ -1754,7 +1806,7 @@ msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkDescription
-msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
+msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
@@ -2080,6 +2132,10 @@ msgstr "我同意 <a href='https://www.kleientertainment.com/games/dont-starve/t
 #. i18n: keyword: PrivatePolicyAgreement
 msgid "By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
 msgstr "為了通過註冊, 您需要同意我們的 <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>隱私政策</a>"
+
+#. i18n: keyword: SignUpFollow
+msgid "Thanks for signing up! Feel free to follow us on <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>, <a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> and <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
+msgstr ""
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
@@ -2524,6 +2580,10 @@ msgstr "用戶端登入 token 是為不同的遊戲產生的。"
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_PURPOSE
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "網頁僅支援用戶端登入 token，您提供的 token 似乎有效，但是它是為完全不同的事物產生的。"
+
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."

@@ -73,6 +73,34 @@ msgstr ""
 msgid "Games"
 msgstr ""
 
+#. i18n: keyword: About
+msgid "About"
+msgstr ""
+
+#. i18n: keyword: Careers
+msgid "Careers"
+msgstr ""
+
+#. i18n: keyword: Forums
+msgid "Forums"
+msgstr ""
+
+#. i18n: keyword: Contact
+msgid "Contact"
+msgstr ""
+
+#. i18n: keyword: Store
+msgid "Store"
+msgstr ""
+
+#. i18n: keyword: Privacy
+msgid "Privacy"
+msgstr ""
+
+#. i18n: keyword: YouTubePolicy
+msgid "YouTube &amp; Mod Policy"
+msgstr ""
+
 #. i18n: keyword: Betas
 msgid "Betas"
 msgstr ""
@@ -461,6 +489,10 @@ msgstr ""
 msgid "Continue"
 msgstr ""
 
+#. i18n: keyword: CurrentAccount
+msgid "Current Account"
+msgstr ""
+
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
 msgstr ""
@@ -487,6 +519,10 @@ msgstr ""
 
 #. i18n: keyword: LinkAccountDescription2
 msgid "You can only link a single account per platform  (one Steam account, one Epic account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
+msgstr ""
+
+#. i18n: keyword: LinkAccountCurrencyWarning
+msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
 msgstr ""
 
 #. i18n: keyword: LinkAccountButton
@@ -713,6 +749,10 @@ msgstr ""
 msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 30 days."
 msgstr ""
 
+#. i18n: keyword: UnlinkAccountsContinue
+msgid "Continue To Unlink"
+msgstr ""
+
 #. i18n: keyword: UnlinkAccountSuccessTitle
 msgid "Successful Account Unlink"
 msgstr ""
@@ -901,8 +941,17 @@ msgstr ""
 msgid "Unlink"
 msgstr ""
 
+#. i18n: keyword: DisconnectThis
+msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
+msgstr ""
+
+
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
+msgstr ""
+
+#. i18n: keyword: DisconnectThisQuestion
+msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
 msgstr ""
 
 #. i18n: keyword: DisconnectAccount
@@ -1716,7 +1765,11 @@ msgid "Redeem"
 msgstr ""
 
 #. i18n: keyword: RewardItemReskins
-msgid "Reskins:"
+msgid "Reskins: ${reward.reskins}"
+msgstr ""
+
+#. i18n: keyword: RewardSouvenirReskins
+msgid "Reskins: ${souvenir.reskins}"
 msgstr ""
 
 #. i18n: keyword: RewardLinkResultName
@@ -2082,6 +2135,10 @@ msgstr ""
 
 #. i18n: keyword: PrivatePolicyAgreement
 msgid "By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
+msgstr ""
+
+#. i18n: keyword: SignUpFollow
+msgid "Thanks for signing up! Feel free to follow us on <a href="https://www.facebook.com/kleientertainment/" target="_blank">Facebook</a>, <a href="https://twitter.com/klei" target="_blank">Twitter</a> and <a href="https://www.instagram.com/kleientertainment/" target="_blank">Instagram</a>."
 msgstr ""
 
 #. i18n: keyword: KleiEntertainment
@@ -2526,6 +2583,10 @@ msgstr ""
 
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_PURPOSE
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
+
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr ""
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED

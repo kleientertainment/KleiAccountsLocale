@@ -73,6 +73,34 @@ msgstr "Configurações"
 msgid "Games"
 msgstr "Jogos"
 
+#. i18n: keyword: About
+msgid "About"
+msgstr ""
+
+#. i18n: keyword: Careers
+msgid "Careers"
+msgstr ""
+
+#. i18n: keyword: Forums
+msgid "Forums"
+msgstr ""
+
+#. i18n: keyword: Contact
+msgid "Contact"
+msgstr ""
+
+#. i18n: keyword: Store
+msgid "Store"
+msgstr ""
+
+#. i18n: keyword: Privacy
+msgid "Privacy"
+msgstr ""
+
+#. i18n: keyword: YouTubePolicy
+msgid "YouTube &amp; Mod Policy"
+msgstr ""
+
 #. i18n: keyword: Betas
 msgid "Betas"
 msgstr "Betas"
@@ -461,6 +489,10 @@ msgstr "Se você estiver usando um computador público ou um compartilhado com o
 msgid "Continue"
 msgstr "Continuar"
 
+#. i18n: keyword: CurrentAccount
+msgid "Current Account"
+msgstr ""
+
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
 msgstr "Conectado(a)"
@@ -488,6 +520,10 @@ msgstr "Este processo <b>vinculará</b> suas contas Klei de diferentes plataform
 #. i18n: keyword: LinkAccountDescription2
 msgid "You can only link a single account per platform  (one Steam account, one Epic account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
 msgstr "Você só pode vincular uma conta por plataforma (uma conta Steam, uma conta Epic, etc) e <b>deve fazer isso apenas com contas que pertencem a você</b>. Os direitos sobre esses itens não serão transferidos para as contas vinculadas, em vez disso, será criada uma cópia <b>somente leitura</b>, que não poderá ser transformada em carretéis ou modificada de qualquer outra forma. Você poderá desfazer esse procedimento caso cometa algum erro, mas para evitar abusos, será necessário aguardar 30 dias antes de tentar novamente."
+
+#. i18n: keyword: LinkAccountCurrencyWarning
+msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
+msgstr ""
 
 #. i18n: keyword: LinkAccountButton
 msgid "Link Account"
@@ -713,6 +749,10 @@ msgstr "Deseja realmente desvincular <b>{{ .Data.KUToUnlink }} ({{ .Data.AuthPro
 msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 30 days."
 msgstr "Se você continuar, não poderá vincular novamente uma conta {{ .Data.AuthProvidersToUnlink }} a esta conta por 30 dias."
 
+#. i18n: keyword: UnlinkAccountsContinue
+msgid "Continue To Unlink"
+msgstr ""
+
 #. i18n: keyword: UnlinkAccountSuccessTitle
 msgid "Successful Account Unlink"
 msgstr "Conta Desvinculada com Sucesso"
@@ -901,9 +941,17 @@ msgstr "Deletar Conta"
 msgid "Unlink"
 msgstr "Desvincular"
 
+#. i18n: keyword: DisconnectThis
+msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
+msgstr ""
+
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
 msgstr "Tem certeza de que deseja desvincular sua"
+
+#. i18n: keyword: DisconnectThisQuestion
+msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
+msgstr ""
 
 #. i18n: keyword: DisconnectAccount
 msgid "Disconnect Account"
@@ -1714,8 +1762,12 @@ msgid "Redeem"
 msgstr "Resgatar"
 
 #. i18n: keyword: RewardItemReskins
-msgid "Reskins:"
-msgstr "Reskins:"
+msgid "Reskins: ${reward.reskins}"
+msgstr "Reskins: ${reward.reskins}"
+
+#. i18n: keyword: RewardSouvenirReskins
+msgid "Reskins: ${souvenir.reskins}"
+msgstr "Reskins: ${souvenir.reskins}"
 
 #. i18n: keyword: RewardLinkResultName
 msgid "Reward Name:"
@@ -1754,7 +1806,7 @@ msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.
 msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido.</p><p>Consulte a página \"Transações\" para entender como essa operação afetou sua conta.</p>"
 
 #. i18n: keyword: CreatorRewardLinkDescription
-msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
+msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 msgstr "<p>Parabéns!</p><p>Você encontrou um link de criador de <b>{{.Data.RewardLink.AmbassadorName}}</b> para o sorteio <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
@@ -2080,6 +2132,10 @@ msgstr "Eu aceito o <a href='https://www.kleientertainment.com/games/dont-starve
 #. i18n: keyword: PrivatePolicyAgreement
 msgid "By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
 msgstr "Ao se inscrever, você concorda com nossa <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Política de Privacidade</a>"
+
+#. i18n: keyword: SignUpFollow
+msgid "Thanks for signing up! Feel free to follow us on <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>, <a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> and <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
+msgstr ""
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
@@ -2524,6 +2580,10 @@ msgstr "O token de login foi gerado para um jogo diferente."
 #. i18n: keyword: E_CLIENT_TOKEN_INCORRECT_PURPOSE
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "A página online suporta somente tokens de login. O token que você providênciou parece ser válido mas foi gerado para uma coisa completamente diferente."
+
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
 
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
