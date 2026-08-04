@@ -809,6 +809,10 @@ msgstr ""
 msgid "Fix Warnings"
 msgstr ""
 
+#. i18n: keyword: LinkAccountWarningsList
+msgid "The following error(s) occured while trying to link accounts:"
+msgstr ""
+
 #. i18n: keyword: LinkAccountDate
 msgid "Account creation date"
 msgstr ""
