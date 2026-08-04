@@ -2581,6 +2581,10 @@ msgstr "Token đăng nhập đã được tạo cho một trò chơi khác."
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "Trang web chỉ hỗ trợ token đăng nhập của máy khách. Token bạn cung cấp có vẻ hợp lệ nhưng nó được tạo cho một thứ hoàn toàn khác."
 
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
+
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei không được ủy quyền để liên kết tài khoản của bạn. Để tiếp tục quá trình. bạn phải cho phép Klei truy cập vào tài khoản của bạn khi được hỏi."

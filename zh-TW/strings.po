@@ -2581,6 +2581,10 @@ msgstr "用戶端登入 token 是為不同的遊戲產生的。"
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "網頁僅支援用戶端登入 token，您提供的 token 似乎有效，但是它是為完全不同的事物產生的。"
 
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
+
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei 尚未獲得連接您帳號的權限，要繼續此操作，您需要在提示出現時允許 Klei 造訪您的帳號。"
