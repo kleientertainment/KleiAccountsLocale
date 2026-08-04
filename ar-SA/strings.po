@@ -171,7 +171,7 @@ msgstr "تفعيل"
 
 #. i18n: keyword: SignupBackButton
 msgid "Back"
-msgstr ""
+msgstr "رجوع"
 
 #. i18n: keyword: Activating
 msgid "Activating..."
@@ -179,19 +179,19 @@ msgstr "جارٍ التفعيل..."
 
 #. i18n: keyword: SignupTitle
 msgid "Klei Account Log In"
-msgstr ""
+msgstr "تسجيل دخول في حساب Klei"
 
 #. i18n: keyword: SignupDescription
 msgid "If you already have an account you'd like to link, log in with it. If not, start your new account with the sign up button."
-msgstr ""
+msgstr "إن كان لديك حساب مسبقًا تريد ربطه، قم بتسجيل الدخول به. إن لم يكن لديك، أنشئ حساب جديد بالضغط على زر التسجيل."
 
 #. i18n: keyword: SignupLoginButton
 msgid "Link existing account"
-msgstr ""
+msgstr "ربط حساب موجود مسبقًا"
 
 #. i18n: keyword: SignupButton
 msgid "Sign up for new account"
-msgstr ""
+msgstr "تسجيل حساب جديد"
 
 #. i18n: keyword: ActivateAccountTitle
 msgid "Activate Account"
@@ -203,7 +203,7 @@ msgstr "تم إنشاء حساب Klei الخاص بك بنجاح! يرجى إك�
 
 #. i18n: keyword: ActivateAccountLinkInfo
 msgid "If you want to link another Klei account later, you can do so in your account Settings."
-msgstr ""
+msgstr "إذا أردت ربط حساب Klei آخر لاحقًا، فيمكنك القيام بذلك من إعدادات حسابك."
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -295,7 +295,7 @@ msgstr "سجل الدخول إلى حساب Klei الخاص بك لعرض جمي
 
 #. i18n: keyword: LinkLoginDescription
 msgid "Link to an existing Klei Account to share Curios between the two. You'll be able to unlink them later if you make a mistake.</p><p>Choose a platform to log in:"
-msgstr ""
+msgstr "اربط بحساب Klei موجود لمشاركة العناصر التجميلية بين الحسابين. يمكنك إلغاء الربط لاحقًا إذا ارتكبت خطأ.</p><p>اختر منصة لتسجيل الدخول:"
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -811,7 +811,7 @@ msgstr "إصلاح التحذيرات"
 
 #. i18n: keyword: LinkAccountWarningsList
 msgid "The following error(s) occured while trying to link accounts:"
-msgstr ""
+msgstr "حدث الخطأ أو الأخطاء التالية أثناء محاولة ربط الحسابات:"
 
 #. i18n: keyword: LinkAccountDate
 msgid "Account creation date"
