@@ -169,9 +169,29 @@ msgstr "Tháng Mười Hai"
 msgid "Activate"
 msgstr "Kích hoạt"
 
+#. i18n: keyword: SignupBackButton
+msgid "Back"
+msgstr ""
+
 #. i18n: keyword: Activating
 msgid "Activating..."
 msgstr "Đang kích hoạt..."
+
+#. i18n: keyword: SignupTitle
+msgid "Klei Account Log In"
+msgstr ""
+
+#. i18n: keyword: SignupDescription
+msgid "If you already have an account you'd like to link, log in with it. If not, start your new account with the sign up button."
+msgstr ""
+
+#. i18n: keyword: SignupLoginButton
+msgid "Link existing account"
+msgstr ""
+
+#. i18n: keyword: SignupButton
+msgid "Sign up for new account"
+msgstr ""
 
 #. i18n: keyword: ActivateAccountTitle
 msgid "Activate Account"
@@ -180,6 +200,10 @@ msgstr "Kích hoạt tài khoản"
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
 msgstr "Tài khoản Klei của bạn đã được tạo thành công! Vui lòng hoàn thành biểu mẫu để kích hoạt tài khoản và sử dung những tính năng khác. Bạn cũng có thể đăng ký nhận thông báo của chúng tôi để có thể cập nhật những thông tin mới nhất về tựa game ưa thích của bạn."
+
+#. i18n: keyword: ActivateAccountLinkInfo
+msgid "If you want to link another Klei account later, you can do so in your account Settings."
+msgstr ""
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -200,10 +224,6 @@ msgstr "Thỏa thuận người dùng phải được chấp nhận trước khi
 #. i18n: keyword: PrivacyPolicy
 msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
 msgstr "Bằng cách gửi biểu mẫu này, bạn đang đồng ý với <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Chính sách bảo mật</a> của chúng tôi."
-
-#. i18n: keyword: FillAccountDetails
-msgid "Fill your account details here:"
-msgstr "Điền chi tiết tài khoản của bạn vào đây:"
 
 #. i18n: keyword: SteamAccount
 msgid "Steam Account"
@@ -272,6 +292,10 @@ msgstr "Đăng nhập tài khoản Klei"
 #. i18n: keyword: LoginDescription
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
 msgstr "Đăng nhập vào tài khoản của bạn để thấy tất cả những trò chơi từ Klei, giao lưu vật phẩm trong trò chơi với bạn bè, đăng ký chương trình thử nghiệm và tiếp cận với những nội dung độc đáo. </p><p>Chọn một nền tảng để đăng nhập:"
+
+#. i18n: keyword: LinkLoginDescription
+msgid "Link to an existing Klei Account to share Curios between the two. You'll be able to unlink them later if you make a mistake.</p><p>Choose a platform to log in:"
+msgstr ""
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -783,6 +807,10 @@ msgstr ""
 
 #. i18n: keyword: LinkAccountFixWarnings
 msgid "Fix Warnings"
+msgstr ""
+
+#. i18n: keyword: LinkAccountWarningsList
+msgid "The following error(s) occured while trying to link accounts:"
 msgstr ""
 
 #. i18n: keyword: LinkAccountDate
