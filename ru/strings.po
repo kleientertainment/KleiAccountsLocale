@@ -169,9 +169,29 @@ msgstr "Декабрь"
 msgid "Activate"
 msgstr "Активировать"
 
+#. i18n: keyword: SignupBackButton
+msgid "Back"
+msgstr ""
+
 #. i18n: keyword: Activating
 msgid "Activating..."
 msgstr "Активация..."
+
+#. i18n: keyword: SignupTitle
+msgid "Klei Account Log In"
+msgstr ""
+
+#. i18n: keyword: SignupDescription
+msgid "If you already have an account you'd like to link, log in with it. If not, start your new account with the sign up button."
+msgstr ""
+
+#. i18n: keyword: SignupLoginButton
+msgid "Link existing account"
+msgstr ""
+
+#. i18n: keyword: SignupButton
+msgid "Sign up for new account"
+msgstr ""
 
 #. i18n: keyword: ActivateAccountTitle
 msgid "Activate Account"
@@ -180,6 +200,10 @@ msgstr "Создание учетной записи"
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
 msgstr "Ваша учётная запись Klei была успешно создана! Пожалуйста, заполните форму, чтобы активировать его и получить доступ к дополнтельным функциям. Также вы можете подписаться на нашу новостную рассылку, чтобы получать информацию о вашей любимой игре."
+
+#. i18n: keyword: ActivateAccountLinkInfo
+msgid "If you want to link another Klei account later, you can do so in your account Settings."
+msgstr ""
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -200,10 +224,6 @@ msgstr "Для регистрации должно быть принято ли�
 #. i18n: keyword: PrivacyPolicy
 msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
 msgstr "Отправляя эту форму, вы соглашаетесь с нашей <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">политикой конфиденциальности</a>."
-
-#. i18n: keyword: FillAccountDetails
-msgid "Fill your account details here:"
-msgstr "Заполните данные своей учётной записи здесь:"
 
 #. i18n: keyword: SteamAccount
 msgid "Steam Account"
@@ -272,6 +292,10 @@ msgstr "Войти в учетную запись Klei"
 #. i18n: keyword: LoginDescription
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
 msgstr "Войдите в свою учётную запись Klei, чтобы увидеть все ваши игры Klei, начать обмениваться игровыми предметами с друзьями, записаться на бета-тест и получить доступ к эксклюзивному контенту.</p><p>Выберите платформу для входа:"
+
+#. i18n: keyword: LinkLoginDescription
+msgid "Link to an existing Klei Account to share Curios between the two. You'll be able to unlink them later if you make a mistake.</p><p>Choose a platform to log in:"
+msgstr ""
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -783,6 +807,10 @@ msgstr ""
 
 #. i18n: keyword: LinkAccountFixWarnings
 msgid "Fix Warnings"
+msgstr ""
+
+#. i18n: keyword: LinkAccountWarningsList
+msgid "The following error(s) occured while trying to link accounts:"
 msgstr ""
 
 #. i18n: keyword: LinkAccountDate

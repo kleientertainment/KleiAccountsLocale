@@ -169,9 +169,29 @@ msgstr "十二月"
 msgid "Activate"
 msgstr "激活"
 
+#. i18n: keyword: SignupBackButton
+msgid "Back"
+msgstr ""
+
 #. i18n: keyword: Activating
 msgid "Activating..."
 msgstr "激活中..."
+
+#. i18n: keyword: SignupTitle
+msgid "Klei Account Log In"
+msgstr ""
+
+#. i18n: keyword: SignupDescription
+msgid "If you already have an account you'd like to link, log in with it. If not, start your new account with the sign up button."
+msgstr ""
+
+#. i18n: keyword: SignupLoginButton
+msgid "Link existing account"
+msgstr ""
+
+#. i18n: keyword: SignupButton
+msgid "Sign up for new account"
+msgstr ""
 
 #. i18n: keyword: ActivateAccountTitle
 msgid "Activate Account"
@@ -180,6 +200,10 @@ msgstr "注册账号"
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
 msgstr "您的Klei账号已成功创建！请填写此表格以激活账号从而可以使用其他功能。您还可以订阅我们的新闻以接收有关您喜欢的游戏的信息。"
+
+#. i18n: keyword: ActivateAccountLinkInfo
+msgid "If you want to link another Klei account later, you can do so in your account Settings."
+msgstr ""
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -200,10 +224,6 @@ msgstr "必须接受最终用户许可协议才能通过注册。请阅读我们
 #. i18n: keyword: PrivacyPolicy
 msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
 msgstr "提交此表格即表示您将同意我们的 <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">隐私政策</a>."
-
-#. i18n: keyword: FillAccountDetails
-msgid "Fill your account details here:"
-msgstr "在这里填写您的账号信息:"
 
 #. i18n: keyword: SteamAccount
 msgid "Steam Account"
@@ -272,6 +292,10 @@ msgstr "登录Klei账号"
 #. i18n: keyword: LoginDescription
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
 msgstr "登录您的Klei账号以查看您拥有的Klei游戏、与好友交换物品、注册参与beta测试以及访问独家内容。</p><p>请选择一个平台登录:"
+
+#. i18n: keyword: LinkLoginDescription
+msgid "Link to an existing Klei Account to share Curios between the two. You'll be able to unlink them later if you make a mistake.</p><p>Choose a platform to log in:"
+msgstr ""
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -784,6 +808,10 @@ msgstr "你需要修复这些问题"
 #. i18n: keyword: LinkAccountFixWarnings
 msgid "Fix Warnings"
 msgstr "修复警告"
+
+#. i18n: keyword: LinkAccountWarningsList
+msgid "The following error(s) occured while trying to link accounts:"
+msgstr ""
 
 #. i18n: keyword: LinkAccountDate
 msgid "Account creation date"
