@@ -273,6 +273,10 @@ msgstr ""
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
 msgstr ""
 
+#. i18n: keyword: LoginDSTMobile
+msgid "Don't Starve Together mobile accounts:"
+msgstr ""
+
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
 msgstr ""
