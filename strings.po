@@ -277,6 +277,14 @@ msgstr ""
 msgid "Don't Starve Together mobile accounts:"
 msgstr ""
 
+#. i18n: keyword: LoginDSTMobileiOS
+msgid "Launch in iOS<br>to open account"
+msgstr ""
+
+#. i18n: keyword: LoginDSTMobileNoniOS
+msgid "To log into your iOS Don't Starve Together account, open the game and tap the Account button."
+msgstr ""
+
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
 msgstr ""
