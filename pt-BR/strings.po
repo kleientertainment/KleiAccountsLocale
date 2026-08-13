@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2026-07-01 23:24-0300\n"
+"PO-Revision-Date: 2026-07-31 21:33-0300\n"
 "Last-Translator: Gérison Sabino (Geeris)\n"
 "Language-Team: Portuguese, Brazilian (https://accounts.klei.com/community-translations)\n"
 "Language: pt\n"
@@ -75,31 +75,31 @@ msgstr "Jogos"
 
 #. i18n: keyword: About
 msgid "About"
-msgstr ""
+msgstr "Sobre"
 
 #. i18n: keyword: Careers
 msgid "Careers"
-msgstr ""
+msgstr "Carreiras"
 
 #. i18n: keyword: Forums
 msgid "Forums"
-msgstr ""
+msgstr "Fóruns"
 
 #. i18n: keyword: Contact
 msgid "Contact"
-msgstr ""
+msgstr "Contato"
 
 #. i18n: keyword: Store
 msgid "Store"
-msgstr ""
+msgstr "Loja"
 
 #. i18n: keyword: Privacy
 msgid "Privacy"
-msgstr ""
+msgstr "Privacidade"
 
 #. i18n: keyword: YouTubePolicy
 msgid "YouTube &amp; Mod Policy"
-msgstr ""
+msgstr "YouTube &amp; Política de Moderação"
 
 #. i18n: keyword: Betas
 msgid "Betas"
@@ -169,9 +169,29 @@ msgstr "Dezembro"
 msgid "Activate"
 msgstr "Ativar"
 
+#. i18n: keyword: SignupBackButton
+msgid "Back"
+msgstr ""
+
 #. i18n: keyword: Activating
 msgid "Activating..."
 msgstr "Ativando..."
+
+#. i18n: keyword: SignupTitle
+msgid "Klei Account Log In"
+msgstr ""
+
+#. i18n: keyword: SignupDescription
+msgid "If you already have an account you'd like to link, log in with it. If not, start your new account with the sign up button."
+msgstr ""
+
+#. i18n: keyword: SignupLoginButton
+msgid "Link existing account"
+msgstr ""
+
+#. i18n: keyword: SignupButton
+msgid "Sign up for new account"
+msgstr ""
 
 #. i18n: keyword: ActivateAccountTitle
 msgid "Activate Account"
@@ -180,6 +200,10 @@ msgstr "Ativar Conta"
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
 msgstr "Sua conta Klei foi criada com sucesso! Por favor complete o formulário para ativar e ter acesso a recursos adicionais. Você também pode se inscrever em nosso boletim de notícias para receber informações do seu jogo favorito."
+
+#. i18n: keyword: ActivateAccountLinkInfo
+msgid "If you want to link another Klei account later, you can do so in your account Settings."
+msgstr ""
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -200,10 +224,6 @@ msgstr "Você deve aceitar o Contrato de licença do usuário final para se regi
 #. i18n: keyword: PrivacyPolicy
 msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
 msgstr "Ao se inscrever, você concorda com nossa <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Política de Privacidade</a>."
-
-#. i18n: keyword: FillAccountDetails
-msgid "Fill your account details here:"
-msgstr "Preencha os detalhes da sua conta aqui:"
 
 #. i18n: keyword: SteamAccount
 msgid "Steam Account"
@@ -272,6 +292,10 @@ msgstr "Entrar na Conta Klei"
 #. i18n: keyword: LoginDescription
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
 msgstr "Acesse sua Conta Klei para ver todos os seu jogos, troque itens com amigos, inscreva-se nos betas e tenha acesso a conteúdos exclusivos. Escolha uma plataforma para entrar:"
+
+#. i18n: keyword: LinkLoginDescription
+msgid "Link to an existing Klei Account to share Curios between the two. You'll be able to unlink them later if you make a mistake.</p><p>Choose a platform to log in:"
+msgstr ""
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -491,7 +515,7 @@ msgstr "Continuar"
 
 #. i18n: keyword: CurrentAccount
 msgid "Current Account"
-msgstr ""
+msgstr "Conta Corrente"
 
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
@@ -523,7 +547,7 @@ msgstr "Você só pode vincular uma conta por plataforma (uma conta Steam, uma c
 
 #. i18n: keyword: LinkAccountCurrencyWarning
 msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
-msgstr ""
+msgstr "Todas as moedas (Rolos de Tecido, Pontos Klei, e Carretéis) <b>não serão compartilhadas ou trasferidas para contas vinculadas</b>, e permanecerão na conta de origem."
 
 #. i18n: keyword: LinkAccountButton
 msgid "Link Account"
@@ -751,7 +775,7 @@ msgstr "Se você continuar, não poderá vincular novamente uma conta {{ .Data.A
 
 #. i18n: keyword: UnlinkAccountsContinue
 msgid "Continue To Unlink"
-msgstr ""
+msgstr "Continue Para Desvincular"
 
 #. i18n: keyword: UnlinkAccountSuccessTitle
 msgid "Successful Account Unlink"
@@ -784,6 +808,10 @@ msgstr "Você precisa corrigir estes problemas"
 #. i18n: keyword: LinkAccountFixWarnings
 msgid "Fix Warnings"
 msgstr "Corrigir Avisos"
+
+#. i18n: keyword: LinkAccountWarningsList
+msgid "The following error(s) occured while trying to link accounts:"
+msgstr ""
 
 #. i18n: keyword: LinkAccountDate
 msgid "Account creation date"
@@ -943,7 +971,7 @@ msgstr "Desvincular"
 
 #. i18n: keyword: DisconnectThis
 msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
-msgstr ""
+msgstr "Desconectar {{ .Data.ConnectedAccount.PlatformName }}"
 
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
@@ -951,7 +979,7 @@ msgstr "Tem certeza de que deseja desvincular sua"
 
 #. i18n: keyword: DisconnectThisQuestion
 msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
-msgstr ""
+msgstr "Deseja realmente desconectar {{ .Data.ConnectedAccount.PlatformName }}?"
 
 #. i18n: keyword: DisconnectAccount
 msgid "Disconnect Account"
@@ -1809,6 +1837,14 @@ msgstr "<p>Parabéns!</p><p>Você encontrou um link de recompensa válido.</p><p
 msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 msgstr "<p>Parabéns!</p><p>Você encontrou um link de criador de <b>{{.Data.RewardLink.AmbassadorName}}</b> para o sorteio <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 
+#. i18n: keyword: CreatorRewardLinkExpiryDays
+msgid "This link will expire in <b>${expiryDays} days</b> (${expiryDate})."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkExpiryHours
+msgid "This link will expire in <b>${expiryHours} hours</b>."
+msgstr ""
+
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
 msgid "You are currently logged in as <b>${profile.name}</b>"
 msgstr "Você está conectado atualmente como <b>${profile.name}</b>"
@@ -2135,7 +2171,7 @@ msgstr "Ao se inscrever, você concorda com nossa <a href='https://www.kleienter
 
 #. i18n: keyword: SignUpFollow
 msgid "Thanks for signing up! Feel free to follow us on <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>, <a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> and <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
-msgstr ""
+msgstr "Obrigado por se inscrever! Sinta-se à vontade para nos seguir no <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>, <a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> e <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
@@ -2581,6 +2617,10 @@ msgstr "O token de login foi gerado para um jogo diferente."
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "A página online suporta somente tokens de login. O token que você providênciou parece ser válido mas foi gerado para uma coisa completamente diferente."
 
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr "A página web suporta apenas tokens de autenticação web. O token fornecido por você parece ser válido, mas foi gerado para uma finalidade completamente diferente."
+
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei não recebeu permissão para vincular sua conta. Para prosseguir, você deve permitir o acesso da Klei à sua conta quando solicitado."
@@ -2664,6 +2704,10 @@ msgstr "A quantidade informada é inválida"
 #. i18n: keyword: E_INVALID_PARAMETER
 msgid "Invalid parameter"
 msgstr "Parâmetro inválido"
+
+#. i18n: keyword: E_REACHED_MAX_SERVER_TOKENS
+msgid "You have reached the maximum number of server tokens allowed. Please delete some if you want to add more."
+msgstr ""
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"

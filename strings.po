@@ -169,16 +169,40 @@ msgstr ""
 msgid "Activate"
 msgstr ""
 
+#. i18n: keyword: SignupBackButton
+msgid "Back"
+msgstr ""
+
 #. i18n: keyword: Activating
 msgid "Activating..."
 msgstr ""
 
+#. i18n: keyword: SignupTitle
+msgid "Klei Account Log In"
+msgstr ""
+
+#. i18n: keyword: SignupDescription
+msgid "If you already have an account you'd like to link, log in with it. If not, start your new account with the sign up button."
+msgstr ""
+
+#. i18n: keyword: SignupLoginButton
+msgid "Link existing account"
+msgstr ""
+
+#. i18n: keyword: SignupButton
+msgid "Sign up for new account"
+msgstr ""
+
 #. i18n: keyword: ActivateAccountTitle
-msgid "Activate Account"
+msgid "Klei Account Sign Up"
 msgstr ""
 
 #. i18n: keyword: ActivateAccountDescription
-msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
+msgid "Your Klei account was successfully created!<br>Please complete the form to activate it and see account info."
+msgstr ""
+
+#. i18n: keyword: ActivateAccountLinkInfo
+msgid "If you want to link another Klei account later, you can do so in your account Settings."
 msgstr ""
 
 #. i18n: keyword: Birthdate
@@ -199,10 +223,6 @@ msgstr ""
 
 #. i18n: keyword: PrivacyPolicy
 msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
-msgstr ""
-
-#. i18n: keyword: FillAccountDetails
-msgid "Fill your account details here:"
 msgstr ""
 
 #. i18n: keyword: SteamAccount
@@ -270,7 +290,11 @@ msgid "Klei Account Log In"
 msgstr ""
 
 #. i18n: keyword: LoginDescription
-msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
+msgid "Log into your Klei account to see all your Klei games, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
+msgstr ""
+
+#. i18n: keyword: LinkLoginDescription
+msgid "Link to an existing Klei Account to share Curios between the two. You'll be able to unlink them later if you make a mistake.</p><p>Choose a platform to log in:"
 msgstr ""
 
 #. i18n: keyword: LoginDSTMobile
@@ -795,6 +819,10 @@ msgstr ""
 
 #. i18n: keyword: LinkAccountFixWarnings
 msgid "Fix Warnings"
+msgstr ""
+
+#. i18n: keyword: LinkAccountWarningsList
+msgid "The following error(s) occured while trying to link accounts:"
 msgstr ""
 
 #. i18n: keyword: LinkAccountDate
@@ -1824,8 +1852,16 @@ msgstr ""
 msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
 msgstr ""
 
+#. i18n: keyword: CreatorRewardLinkExpiryDays
+msgid "This link will expire in <b>${expiryDays} days</b> (${expiryDate})."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkExpiryHours
+msgid "This link will expire in <b>${expiryHours} hours</b>."
+msgstr ""
+
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
-msgid "You are currently logged in as <b>${profile.name}</b>"
+msgid "You are currently logged in as <b>${profile.name}</b>."
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation2
@@ -2597,6 +2633,10 @@ msgstr ""
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr ""
 
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
+
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr ""
@@ -2684,6 +2724,11 @@ msgstr ""
 #. i18n: keyword: E_INVALID_PARAMETER
 msgid "Invalid parameter"
 msgstr ""
+
+#. i18n: keyword: E_REACHED_MAX_SERVER_TOKENS
+msgid "You have reached the maximum number of server tokens allowed. Please delete some if you want to add more."
+msgstr ""
+
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
