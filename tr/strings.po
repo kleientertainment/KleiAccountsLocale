@@ -1837,6 +1837,14 @@ msgstr "<p>Tebrikler!</p><p>Doğada geçerli bir ödül bağlantısı buldunuz.<
 msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 msgstr "<p>Tebrikler!</p><p><b>{{.Data.RewardLink.AmbassadorName}}</b> tarafından <b>{{.Data.RewardLink.GiveawayName}}</b> çekilişi için oluşturulmuş bir içerik üretici bağlantısı buldunuz.</p>"
 
+#. i18n: keyword: CreatorRewardLinkExpiryDays
+msgid "This link will expire in <b>${expiryDays} days</b> (${expiryDate})."
+msgstr ""
+
+#. i18n: keyword: CreatorRewardLinkExpiryHours
+msgid "This link will expire in <b>${expiryHours} hours</b>."
+msgstr ""
+
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
 msgid "You are currently logged in as <b>${profile.name}</b>"
 msgstr "Şu anda <b>${profile.name}</b> olarak oturum açtınız"
