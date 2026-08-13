@@ -73,6 +73,34 @@ msgstr "Paramètres"
 msgid "Games"
 msgstr "Jeux"
 
+#. i18n: keyword: About
+msgid "About"
+msgstr ""
+
+#. i18n: keyword: Careers
+msgid "Careers"
+msgstr ""
+
+#. i18n: keyword: Forums
+msgid "Forums"
+msgstr ""
+
+#. i18n: keyword: Contact
+msgid "Contact"
+msgstr ""
+
+#. i18n: keyword: Store
+msgid "Store"
+msgstr ""
+
+#. i18n: keyword: Privacy
+msgid "Privacy"
+msgstr ""
+
+#. i18n: keyword: YouTubePolicy
+msgid "YouTube &amp; Mod Policy"
+msgstr ""
+
 #. i18n: keyword: Betas
 msgid "Betas"
 msgstr "Bêta"
@@ -141,9 +169,29 @@ msgstr "Décembre"
 msgid "Activate"
 msgstr "Activer"
 
+#. i18n: keyword: SignupBackButton
+msgid "Back"
+msgstr ""
+
 #. i18n: keyword: Activating
 msgid "Activating..."
 msgstr "Activation en cours..."
+
+#. i18n: keyword: SignupTitle
+msgid "Klei Account Log In"
+msgstr ""
+
+#. i18n: keyword: SignupDescription
+msgid "If you already have an account you'd like to link, log in with it. If not, start your new account with the sign up button."
+msgstr ""
+
+#. i18n: keyword: SignupLoginButton
+msgid "Link existing account"
+msgstr ""
+
+#. i18n: keyword: SignupButton
+msgid "Sign up for new account"
+msgstr ""
 
 #. i18n: keyword: ActivateAccountTitle
 msgid "Activate Account"
@@ -152,6 +200,10 @@ msgstr "Activer le Compte"
 #. i18n: keyword: ActivateAccountDescription
 msgid "Your Klei account was successfully created! Please complete the form to activate it and have access to additional features. You can also subscribe to our newsletter to receive information about your favorite game."
 msgstr "Un compte est nécessaire pour jouer à Don’t Starve Together. Il sera utilisé lors de la connexion à Don’t Starve Together et vous permettra de rejoindre la communauté Klei en créant ou rejoignant des serveurs de jeu."
+
+#. i18n: keyword: ActivateAccountLinkInfo
+msgid "If you want to link another Klei account later, you can do so in your account Settings."
+msgstr ""
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -172,10 +224,6 @@ msgstr "Le CLUF doit être accepté pour s'inscrire. Merci de lire notre Contrat
 #. i18n: keyword: PrivacyPolicy
 msgid "By submitting this form, you are agreeing to our <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>."
 msgstr "En soumettant ce formulaire, vous acceptez notre <a href=\"https://www.klei.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Politique de Confidentialité</a>."
-
-#. i18n: keyword: FillAccountDetails
-msgid "Fill your account details here:"
-msgstr "Remplissez vos informations:"
 
 #. i18n: keyword: SteamAccount
 msgid "Steam Account"
@@ -244,6 +292,10 @@ msgstr "Connexion au compte Klei"
 #. i18n: keyword: LoginDescription
 msgid "Log into your Klei account to see all your Klei games, trade game items with friends, sign up for betas and get access to exclusive content.</p><p>Choose a platform to log in:"
 msgstr "Connectez-vous à votre compte Klei pour voir tous vos jeux Klei, échanger des objets avec des amis, vous enregistrer pour les bêta et avoir accès à du contenu exclusif.</p><p>Choisissez une plateforme de connexion :"
+
+#. i18n: keyword: LinkLoginDescription
+msgid "Link to an existing Klei Account to share Curios between the two. You'll be able to unlink them later if you make a mistake.</p><p>Choose a platform to log in:"
+msgstr ""
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -325,29 +377,17 @@ msgstr "ID Joueur"
 msgid "user not found"
 msgstr "joueur non trouvé"
 
-#. i18n: keyword: LinkedAccounts
-msgid "Linked Accounts"
-msgstr "Comptes liés"
+#. i18n: keyword: ConnectedAccounts
+msgid "Connected Accounts"
+msgstr ""
 
-#. i18n: keyword: LinkAccountButton
-msgid "Link Account"
-msgstr "Lier le compte"
+#. i18n: keyword: ConnectAccountButton
+msgid "Connect Account"
+msgstr ""
 
 #. i18n: keyword: AddedOn
 msgid "Added On"
 msgstr "Ajouté le"
-
-#. i18n: keyword: AccountLinkRulesTitle
-msgid "Streaming Rules"
-msgstr "Règles de Streaming"
-
-#. i18n: keyword: AccountLinkRulesDescription
-msgid "Klei Rewards are intended to be a way to support streamers that provide quality content for our community, and “Away From Keyboard (AFK)” streams disrupt the effectiveness of the system. AFK streams or streams showing content other than Don’t Starve or Don’t Starve Together are not allowed. Streamers breaking these rules will be unlinked and potentially banned from participating ever again."
-msgstr "Les récompenses Klei sont prévues pour aider les streamers qui créent du contenu de qualité pour notre communauté. Les streams AFK sont négatifs pour le système. Les streams AFK ou montrant du contenu autre que Don’t Starve ou Don’t Starve Together ne sont pas autorisés. Les streamers qui ne suivent pas ces règles veront leur compte dissocié et seront potentiellement interdits de participations ultérieures."
-
-#. i18n: keyword: AccountLinkRulesAccept
-msgid "Accept and Continue"
-msgstr "Accepter et continuer"
 
 #. i18n: keyword: ChangeEmail
 msgid "Change Email"
@@ -453,12 +493,12 @@ msgstr "Votre compte Discord sera lié à votre compte Klei."
 msgid "Unlink Discord Account"
 msgstr "Déconnecter un compte Discord"
 
-#. i18n: keyword: LinkAccountsTitle
-msgid "Link Accounts"
+#. i18n: keyword: ConnectAccountsTitle
+msgid "Connect Accounts"
 msgstr ""
 
-#. i18n: keyword: LinkAccountsDescription
-msgid "Link your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
+#. i18n: keyword: ConnectAccountsDescription
+msgid "Connect your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
 msgstr ""
 
 #. i18n: keyword: MergeAccountTitle
@@ -473,17 +513,49 @@ msgstr ""
 msgid "Continue"
 msgstr "Continuer"
 
+#. i18n: keyword: CurrentAccount
+msgid "Current Account"
+msgstr ""
+
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
 msgstr "Connecté"
 
-#. i18n: keyword: ProviderConnectedID
-msgid "ID:"
-msgstr "ID:"
+#. i18n: keyword: ProviderLinkedTitle
+msgid "Linked"
+msgstr ""
 
-#. i18n: keyword: ProviderNotConnected
-msgid "Not connected"
-msgstr "Non-connecté"
+#. i18n: keyword: ProviderLinkedID
+msgid "ID:"
+msgstr ""
+
+#. i18n: keyword: ProviderNotLinked
+msgid "Not linked"
+msgstr ""
+
+#. i18n: keyword: LinkUnlinkAccountDescription
+msgid "Link your Klei Accounts from different platforms together or unlink an account."
+msgstr ""
+
+#. i18n: keyword: LinkAccountDescription
+msgid "This process will <b>link</b> your Klei Accounts from different platforms together, allowing you to use your items from other platforms <b>while those accounts are linked</b>."
+msgstr ""
+
+#. i18n: keyword: LinkAccountDescription2
+msgid "You can only link a single account per platform  (one Steam account, one Epic account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
+msgstr ""
+
+#. i18n: keyword: LinkAccountCurrencyWarning
+msgid "All currencies (Bolts of Cloth, Klei Points, and Spools) <b>will not be shared or transferred to linked accounts</b>, and will stay in their original account."
+msgstr ""
+
+#. i18n: keyword: LinkAccountButton
+msgid "Link Account"
+msgstr "Lier le compte"
+
+#. i18n: keyword: LinkAccountLinking
+msgid "Linking..."
+msgstr ""
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -509,7 +581,7 @@ msgstr "Veuillez sélectionner la case à cocher pour confirmer que vous avez lu
 msgid "Consent questions"
 msgstr "Accord utilisateur"
 
-#. i18n: keyword: MergeConsent
+#. i18n: keyword: LinkConsent
 msgid "Consent"
 msgstr ""
 
@@ -537,18 +609,6 @@ msgstr ""
 msgid "The account merge operation was a success!"
 msgstr ""
 
-#. i18n: keyword: MergeAccountFixWarnings
-msgid "Fix Warnings"
-msgstr "Résoudre les alertes"
-
-#. i18n: keyword: MergeAccountDate
-msgid "Account creation date"
-msgstr "Date de création du compte"
-
-#. i18n: keyword: MergeAccountEmail
-msgid "Klei Account email"
-msgstr "Courriel du compte Klei"
-
 #. i18n: keyword: MergeAccountKeepThis
 msgid "Keep this account"
 msgstr "Garder ce compte"
@@ -569,14 +629,6 @@ msgstr "Assurez-vous qu'il s'agit du compte que vous souhaitez conserver."
 msgid "You'll lose all your in-game progress in this account."
 msgstr "Vous perdrez toute votre progression en jeu sur ce compte."
 
-#. i18n: keyword: MergeAccountReadyButton
-msgid "Merge accounts"
-msgstr "Associer les comptes"
-
-#. i18n: keyword: MergeAccountReady
-msgid "You will be able to log in with the new account after submitting."
-msgstr "Vous pourrez vous connecter avec le nouveau compte après cette opération."
-
 #. i18n: keyword: MergeAccountMerging
 msgid "Merging…"
 msgstr "Association en cours..."
@@ -584,14 +636,6 @@ msgstr "Association en cours..."
 #. i18n: keyword: MergeAccountDoNotLeave
 msgid "Please do not leave this page"
 msgstr "Ne pas quitter cette page"
-
-#. i18n: keyword: MergeAccountWarningsTitle
-msgid "Warning"
-msgstr "Attention"
-
-#. i18n: keyword: MergeAccountWarningsSubtitle
-msgid "You need to fix these issues"
-msgstr "Vous devez résoudre ces alertes"
 
 #. i18n: keyword: MergeAccountConsentQuestion1
 msgid "DO NOT use this if you do not own both accounts. Both accounts will be considered a single person and will not be able to play multiplayer games at the same time."
@@ -641,14 +685,6 @@ msgstr "Non accord utilisateur, vous devez lire les conditions d'association plu
 msgid "It is impossible to merge your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the two accounts you are going to merge are correct."
 msgstr "Il n'est pas possible d'associer votre compte car des données sont manquantes. Merci de vous déconnecter et de recommencer l'opération. Vérifier que votre navigateur accepte les cookies et que les deux comptes que vous voulez associer sont les bons."
 
-#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_DIFFERENT_EMAIL
-msgid "Please update your *Klei* accounts to use the same email address and start the process again."
-msgstr "Veuillez mettre à jour votre addresse de courriel *dans le compte Klei* et recommencer l'opération."
-
-#. i18n: keyword: E_ACCOUNT_MERGE_WARNING_EMAIL_NOT_VALIDATED
-msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
-msgstr "Veuillez vérifier/valider votre addresse de courriel dans le compte Klei et recommencer l'opération."
-
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_BANNED
 msgid "We cannot merge your accounts because one of them is banned."
 msgstr "Nous ne pouvons pas associer vos comptes car l'un d'eux est banni."
@@ -683,6 +719,198 @@ msgstr "Vous avez déjà associé votre compte avec Nintendo."
 
 #. i18n: keyword: E_ACCOUNT_MERGE_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
 msgid "You already merged your WeGame account."
+msgstr ""
+
+#. i18n: keyword: LinkUnlinkAccountTitle
+msgid "Link or Unlink An Account"
+msgstr ""
+
+#. i18n: keyword: LinkAccountTitle
+msgid "Link An Account"
+msgstr ""
+
+#. i18n: keyword: LinkAccountInstructionsDescription
+msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are linking your own accounts and not someone else's."
+msgstr ""
+
+#. i18n: keyword: LinkAccountInstructionsContinue
+msgid "Continue"
+msgstr ""
+
+#. i18n: keyword: LinkAccountSuccessTitle
+msgid "Successful Account Link"
+msgstr ""
+
+#. i18n: keyword: LinkAccountSuccessDescription
+msgid "The account link operation was a success!"
+msgstr ""
+
+#. i18n: keyword: LinkAccountSuccessShortDescription
+msgid "The account link operation was a success!"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFailedTitle
+msgid "Account Linking Failed"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFailedErrorDescription
+msgid "An error has occured while linking the following accounts:"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFailedDescription
+msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsTitle
+msgid "Unlink Accounts"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsDesc
+msgid "Are you sure you want to unlink <b>{{ .Data.KUToUnlink }} ({{ .Data.AuthProvidersToUnlink }})</b> from:"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsWarning
+msgid "If you continue, you will not be able to link a {{ .Data.AuthProvidersToUnlink }} account to this account again for 30 days."
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountsContinue
+msgid "Continue To Unlink"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountSuccessTitle
+msgid "Successful Account Unlink"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountSuccessDesc
+msgid "You have successfully unlinked your accounts!"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountFailedTitle
+msgid "Account Unlinking Failed"
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountFailedErrorDescription
+msgid "An error has occured while unlinking your accounts."
+msgstr ""
+
+#. i18n: keyword: UnlinkAccountFailedDescription
+msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
+msgstr ""
+
+#. i18n: keyword: LinkAccountWarningsTitle
+msgid "Warning"
+msgstr ""
+
+#. i18n: keyword: LinkAccountWarningsSubtitle
+msgid "You need to fix these issues"
+msgstr ""
+
+#. i18n: keyword: LinkAccountFixWarnings
+msgid "Fix Warnings"
+msgstr ""
+
+#. i18n: keyword: LinkAccountWarningsList
+msgid "The following error(s) occured while trying to link accounts:"
+msgstr ""
+
+#. i18n: keyword: LinkAccountDate
+msgid "Account creation date"
+msgstr ""
+
+#. i18n: keyword: LinkAccountEmail
+msgid "Klei Account email"
+msgstr ""
+
+#. i18n: keyword: LinkAccountReadyButton
+msgid "Link accounts"
+msgstr ""
+
+#. i18n: keyword: LinkAccountConfirmation
+msgid "Please type in \"link accounts\" but in UPPERCASE letters, to confirm:"
+msgstr ""
+
+#. i18n: keyword: LinkUnlinkInProgressTitle
+msgid "Account Link or Unlink In Progress"
+msgstr ""
+
+#. i18n: keyword: LinkUnlinkInProgressDescription
+msgid "You have been logged out because an interruption occurred while account linking or unlinking was in progress. Please log in again to try to continue the process."
+msgstr ""
+
+#. i18n: keyword: LinkAccountCooldownDesc
+msgid "Your have recently unlinked a {{ .Data.PlatformName }} account. You can try to link again in <b>{{ .Data.CooldownDays }} days</b>."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_NOT_SUPPORTED
+msgid "Unfortunately, the gaming platform you are trying to link does not have the capabilities to execute this operation yet."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_MISSING_DATA
+msgid "It is impossible to link your accounts right now because some data is missing. Please log out and start the process again. Make sure that your web browser accepts cookies and the accounts you are going to link are correct."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_EMAIL_NOT_VALIDATED
+msgid "Please verify/validate the email address in both Klei Accounts and start the process again."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.EpicID
+msgid "You already linked your Epic Games account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.SteamID
+msgid "You already linked your Steam account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
+msgid "You already linked your Xbox Network account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
+msgid "You already linked your Nintendo account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
+msgid "You already linked your WeGame account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailID
+msgid "You already linked your WeGame account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.PSNID
+msgid "You already linked your account for PlayStation®."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_DIFFERENT_EMAIL
+msgid "Please update your *Klei* accounts to use the same email address and start the process again."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_IN_PROGRESS
+msgid "Your account is currently in the process of a linking or unlinking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_LINK_WARNING_COOLDOWN
+msgid "You have recently unlinked this gaming platform. Please wait before linking again."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_KU_NOT_LINKED
+msgid "The account you are trying to unlink is not linked to your current account."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_CURRENT_USER_UNLINK_IN_PROGRESS
+msgid "Your account is currently in the process of an unlinking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_CURRENT_USER_LINK_IN_PROGRESS
+msgid "Your account is currently in the process of a linking operation. Please log out and log back in to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_OTHER_USER_UNLINK_IN_PROGRESS
+msgid "The account you are trying to unlink is currently in the process of an unlinking operation. Please log in to that account to complete the process."
+msgstr ""
+
+#. i18n: keyword: E_ACCOUNT_UNLINK_OTHER_USER_LINK_IN_PROGRESS
+msgid "The account you are trying to unlink is currently in the process of a linking operation. Please log in to that account to complete the process."
 msgstr ""
 
 #. i18n: keyword: OwnershipDescription
@@ -741,13 +969,21 @@ msgstr "Supprimer mon compte"
 msgid "Unlink"
 msgstr "Dissocier"
 
+#. i18n: keyword: DisconnectThis
+msgid "Disconnect {{ .Data.ConnectedAccount.PlatformName }}"
+msgstr ""
+
 #. i18n: keyword: UnlinkThisQuestion
 msgid "Are you sure you want to unlink your"
 msgstr "Souhaitez-vous dissocier votre"
 
-#. i18n: keyword: UnlinkAccount
-msgid "Unlink Account"
-msgstr "Dissocier mon compte"
+#. i18n: keyword: DisconnectThisQuestion
+msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
+msgstr ""
+
+#. i18n: keyword: DisconnectAccount
+msgid "Disconnect Account"
+msgstr ""
 
 #. i18n: keyword: DeleteAccountDescription
 msgid "Once you delete your account, there is no going back. Please be certain."
@@ -792,6 +1028,10 @@ msgstr "Je ne souhaite plus jouer à Hot Lava"
 #. i18n: keyword: DeleteAccountOptionsBanAccount
 msgid "Ban my {{.PlatformName}} account from playing Klei games for a MINIMUM of 30 days"
 msgstr "Bannir mon compte {{.PlatformName}} des jeux Klei pour un MINIMUM de 30 jours"
+
+#. i18n: keyword: DeleteAccountOptionsUnlink
+msgid "Unlink this account from my {{.LinkedAccounts}} account(s)."
+msgstr ""
 
 #. i18n: keyword: DeleteAccountConfirm
 msgid "Confirm Deletion"
@@ -1033,8 +1273,8 @@ msgstr ""
 msgid "Link at least one external account below. If your channel qualifies, you can apply for the Klei Creator program. Once your application is sent, please give us some time to review it."
 msgstr ""
 
-#. i18n: keyword: CreatorProgramPleaseLinkAccount
-msgid "Please link at least one external account."
+#. i18n: keyword: CreatorProgramPleaseConnectAccount
+msgid "Please connect at least one external account."
 msgstr ""
 
 #. i18n: keyword: CreatorProgramRequirementsNotMet
@@ -1067,6 +1307,10 @@ msgstr ""
 
 #. i18n: keyword: CreatorRewardClaimed
 msgid "Successfully Claimed! An email has been sent to <b>{{ .Data.Email }}<b> with your codes."
+msgstr ""
+
+#. i18n: keyword: AccountConnectedTitle
+msgid "Account Connected"
 msgstr ""
 
 #. i18n: keyword: AccountLinkedTitle
@@ -1117,9 +1361,21 @@ msgstr "Serveurs de jeux pour Don’t Starve Together"
 msgid "Items Inventory"
 msgstr "Inventaire"
 
+#. i18n: keyword: ItemSingle
+msgid "item"
+msgstr ""
+
+#. i18n: keyword: ItemsMultiple
+msgid "items"
+msgstr ""
+
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
 msgstr "<b>Astuce de recherche :</b> Saisissez un ou plusieurs mots pour rechercher un élément dans votre inventaire de jeu. Si vous voulez trouver un élément appelé <b>Wilson Red Hat</b> vous pouvez soit taper <b>Wilson</b>, ou <b>Hat</b>, ou même <b>Wilson Hat</ b>. L'ordre des termes de recherche est important, cela signifie que vous ne trouverez aucun résultat pour la requête \"Hat Wilson\" car les mots sont dans un ordre différent. <b>Appuyez sur Entrée</b> pour soumettre la recherche. Supprimez les termes de recherche et appuyez à nouveau sur Entrée pour réinitialiser les filtres."
+
+#. i18n: keyword: LinkedPlatformAccount
+msgid "Linked ${quantityData.platformStr} account"
+msgstr ""
 
 #. i18n: keyword: RemoveDuplicateItems
 msgid "Remove Duplicates"
@@ -1426,7 +1682,7 @@ msgid "<b>Spools</b><br>Spools are used to weave items in the Curio Cabinet in-g
 msgstr ""
 
 #. i18n: keyword: RewardBoltsGlossary
-msgid "<b>Bolts of Cloth</b><br>(PlayStation and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
+msgid "<b>Bolts of Cloth</b><br>(Account for PlayStation® and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
 msgstr ""
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
@@ -1534,7 +1790,11 @@ msgid "Redeem"
 msgstr "Échanger"
 
 #. i18n: keyword: RewardItemReskins
-msgid "Reskins:"
+msgid "Reskins: ${reward.reskins}"
+msgstr ""
+
+#. i18n: keyword: RewardSouvenirReskins
+msgid "Reskins: ${souvenir.reskins}"
 msgstr ""
 
 #. i18n: keyword: RewardLinkResultName
@@ -1574,7 +1834,7 @@ msgid "<p>Congratulations!</p><p>You have found a valid reward link in the wild.
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkDescription
-msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>."
+msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 msgstr ""
 
 #. i18n: keyword: CreatorRewardLinkRedeemExplanation
@@ -1901,6 +2161,10 @@ msgstr "J'accepte le <a href='https://www.kleientertainment.com/games/dont-starv
 msgid "By signing up, you are agreeing to our <a href='https://www.kleientertainment.com/privacy-policy' target='_blank' rel='noopener noreferrer'>Privacy Policy</a>"
 msgstr "En vous inscrivant, vous acceptez notre <a href=\"https://www.kleientertainment.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Politique de Confidentialité</a>"
 
+#. i18n: keyword: SignUpFollow
+msgid "Thanks for signing up! Feel free to follow us on <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>, <a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> and <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
+msgstr ""
+
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
 msgstr "Klei Entertainment"
@@ -2213,6 +2477,10 @@ msgstr "Vous devez posséder le jeu de base pour participer à ce test."
 msgid "Your computer sent incorrect data to the server."
 msgstr "Votre ordinateur a envoyé des données non valides au serveur."
 
+#. i18n: keyword: E_CONTEXT_CANCELED
+msgid "The operation was interrupted. Please try again."
+msgstr ""
+
 #. i18n: keyword: E_STEAM_FORBIDDEN
 msgid "Your account has been temporarily blocked by Steam."
 msgstr "Votre compte est temporairement bloqué par Steam."
@@ -2341,6 +2609,10 @@ msgstr "Le jeton de connexion client a été généré pour un jeu différent."
 msgid "Web page only supports client login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
 msgstr "La page Web ne prend en charge que les jetons de connexion client. Le jeton que vous avez fourni semble être valide mais il a été généré pour autre chose."
 
+#. i18n: keyword: E_WEB_TOKEN_INCORRECT_PURPOSE
+msgid "Web page only supports web login tokens. The token you provided is seems to be valid but it was generated for a completely different thing."
+msgstr ""
+
 #. i18n: keyword: E_OAUTH_ACCESS_DENIED
 msgid "Klei has not been granted permission to link your account. In order to proceed, you must allow Klei access to your account when prompted."
 msgstr "Klei n'a pas reçu l'autorisation de lier votre compte. Pour continuer, vous devez donner l'accès à votre compte quand demandé."
@@ -2450,7 +2722,7 @@ msgid "User Transactions"
 msgstr "Transactions utilisateur"
 
 #. i18n: keyword: UserTransactionsDescription
-msgid "Transactions associated with your account are listed below, newest first.<br>Transaction time is in UTC, not your local time."
+msgid "Transactions associated with your account over the past year are listed below, newest first.<br>Transaction time is in UTC, not your local time."
 msgstr ""
 
 #. i18n: keyword: PlatformName
