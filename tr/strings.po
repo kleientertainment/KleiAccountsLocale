@@ -2705,6 +2705,10 @@ msgstr "Girilen miktar geçersiz"
 msgid "Invalid parameter"
 msgstr "Geçersiz parametre"
 
+#. i18n: keyword: E_REACHED_MAX_SERVER_TOKENS
+msgid "You have reached the maximum number of server tokens allowed. Please delete some if you want to add more."
+msgstr ""
+
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
 msgstr "${dropInfo.GameName} dropları kazanıldı"
