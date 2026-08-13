@@ -2707,7 +2707,7 @@ msgstr "معلمة غير صالحة"
 
 #. i18n: keyword: E_REACHED_MAX_SERVER_TOKENS
 msgid "You have reached the maximum number of server tokens allowed. Please delete some if you want to add more."
-msgstr ""
+msgstr "لقد وصلت إلى الحد الأقصى المسموح به من رموز الخوادم. يرجى حذف بعضها إذا أردت إضافة المزيد."
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
