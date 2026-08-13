@@ -297,6 +297,18 @@ msgstr "Connectez-vous à votre compte Klei pour voir tous vos jeux Klei, échan
 msgid "Link to an existing Klei Account to share Curios between the two. You'll be able to unlink them later if you make a mistake.</p><p>Choose a platform to log in:"
 msgstr ""
 
+#. i18n: keyword: LoginDSTMobile
+msgid "Don't Starve Together mobile accounts:"
+msgstr ""
+
+#. i18n: keyword: LoginDSTMobileiOS
+msgid "Launch in iOS<br>to open account"
+msgstr ""
+
+#. i18n: keyword: LoginDSTMobileNoniOS
+msgid "To log into your iOS Don't Starve Together account, open the game and tap the Account button."
+msgstr ""
+
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
 msgstr "M'inscrire"
@@ -2635,6 +2647,10 @@ msgstr "Votre compte Klei a déjà été déconnecté de Google. Si vous pensez 
 
 #. i18n: keyword: E_GOOGLE_NO_YOUTUBE_CHANNEL
 msgid "This Google account has no YouTube channel associated with it."
+msgstr ""
+
+#. i18n: keyword: E_NO_GOOGLE_PLAY_PROFILE
+msgid "This Google account does not have a Play Games profile associated with it."
 msgstr ""
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
