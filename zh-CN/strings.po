@@ -297,6 +297,18 @@ msgstr "登录你的 Klei 账户以查看你拥有的 Klei 游戏、与好友交
 msgid "Link to an existing Klei Account to share Curios between the two. You'll be able to unlink them later if you make a mistake.</p><p>Choose a platform to log in:"
 msgstr "关联至已有的 Klei 账户，即可在两个账户间共享珍品。如果操作有误，你之后还可以解除关联。</p><p>请选择登录平台："
 
+#. i18n: keyword: LoginDSTMobile
+msgid "Don't Starve Together mobile accounts:"
+msgstr ""
+
+#. i18n: keyword: LoginDSTMobileiOS
+msgid "Launch in iOS<br>to open account"
+msgstr ""
+
+#. i18n: keyword: LoginDSTMobileNoniOS
+msgid "To log into your iOS Don't Starve Together account, open the game and tap the Account button."
+msgstr ""
+
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
 msgstr "订阅"
@@ -2636,6 +2648,10 @@ msgstr "你的 Klei 账户已与 Google 断开连接。如果你认为该连接�
 #. i18n: keyword: E_GOOGLE_NO_YOUTUBE_CHANNEL
 msgid "This Google account has no YouTube channel associated with it."
 msgstr "该 Google 账户没有与之关联的 YouTube 频道。"
+
+#. i18n: keyword: E_NO_GOOGLE_PLAY_PROFILE
+msgid "This Google account does not have a Play Games profile associated with it."
+msgstr ""
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
