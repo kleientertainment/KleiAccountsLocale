@@ -299,15 +299,15 @@ msgstr "اربط بحساب Klei موجود لمشاركة العناصر الت
 
 #. i18n: keyword: LoginDSTMobile
 msgid "Don't Starve Together mobile accounts:"
-msgstr ""
+msgstr "حسابات Don’t Starve Together على الأجهزة المحمولة:"
 
 #. i18n: keyword: LoginDSTMobileiOS
 msgid "Launch in iOS<br>to open account"
-msgstr ""
+msgstr "افتح اللعبة على iOS<br>لفتح الحساب"
 
 #. i18n: keyword: LoginDSTMobileNoniOS
 msgid "To log into your iOS Don't Starve Together account, open the game and tap the Account button."
-msgstr ""
+msgstr "لتسجيل الدخول إلى حساب Don’t Starve Together على iOS، افتح اللعبة واضغط على زر «الحساب»."
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -2651,7 +2651,7 @@ msgstr "لا توجد قناة على YouTube مرتبطة بحساب Google ه�
 
 #. i18n: keyword: E_NO_GOOGLE_PLAY_PROFILE
 msgid "This Google account does not have a Play Games profile associated with it."
-msgstr ""
+msgstr "لا يوجد ملف شخصي في Play Games مرتبط بحساب Google هذا."
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
@@ -2723,7 +2723,7 @@ msgstr "معلمة غير صالحة"
 
 #. i18n: keyword: E_REACHED_MAX_SERVER_TOKENS
 msgid "You have reached the maximum number of server tokens allowed. Please delete some if you want to add more."
-msgstr ""
+msgstr "لقد وصلت إلى الحد الأقصى المسموح به من رموز الخوادم. يرجى حذف بعضها إذا أردت إضافة المزيد."
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
