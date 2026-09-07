@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: klei-accounts\n"
 "Report-Msgid-Bugs-To: support@kleientertainment.com\n"
 "POT-Creation-Date: 2018-05-24 11:14-0700\n"
-"PO-Revision-Date: 2020-07-24 03:24\n"
+"PO-Revision-Date: 2026-08-18 03:24\n"
 "Last-Translator: Klei Entertainment <support@kleientertainment.com>\n"
 "Language-Team: Chinese Traditional (https://accounts.klei.com/community-translations)\n"
 "Language: zh\n"
@@ -63,7 +63,7 @@ msgstr "獎勵"
 
 #. i18n: keyword: Transactions
 msgid "Transactions"
-msgstr "交易記錄"
+msgstr "交易紀錄"
 
 #. i18n: keyword: Settings
 msgid "Settings"
@@ -75,31 +75,31 @@ msgstr "遊戲"
 
 #. i18n: keyword: About
 msgid "About"
-msgstr ""
+msgstr "關於"
 
 #. i18n: keyword: Careers
 msgid "Careers"
-msgstr ""
+msgstr "工作機會"
 
 #. i18n: keyword: Forums
 msgid "Forums"
-msgstr ""
+msgstr "論壇"
 
 #. i18n: keyword: Contact
 msgid "Contact"
-msgstr ""
+msgstr "聯絡方式"
 
 #. i18n: keyword: Store
 msgid "Store"
-msgstr ""
+msgstr "商店"
 
 #. i18n: keyword: Privacy
 msgid "Privacy"
-msgstr ""
+msgstr "隱私政策"
 
 #. i18n: keyword: YouTubePolicy
 msgid "YouTube &amp; Mod Policy"
-msgstr ""
+msgstr "YouTube 和模組政策"
 
 #. i18n: keyword: Betas
 msgid "Betas"
@@ -171,7 +171,7 @@ msgstr "啟用"
 
 #. i18n: keyword: SignupBackButton
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #. i18n: keyword: Activating
 msgid "Activating..."
@@ -179,19 +179,19 @@ msgstr "啟用中…"
 
 #. i18n: keyword: SignupTitle
 msgid "Klei Account Log In"
-msgstr ""
+msgstr "Klei 帳號登入"
 
 #. i18n: keyword: SignupDescription
 msgid "If you already have an account you'd like to link, log in with it. If not, start your new account with the sign up button."
-msgstr ""
+msgstr "如果已有想連結的帳號，請使用該帳號登入。若沒有，請使用註冊按鈕建立新帳號。"
 
 #. i18n: keyword: SignupLoginButton
 msgid "Link existing account"
-msgstr ""
+msgstr "連結現有帳號"
 
 #. i18n: keyword: SignupButton
 msgid "Sign up for new account"
-msgstr ""
+msgstr "註冊新帳號"
 
 #. i18n: keyword: ActivateAccountTitle
 msgid "Activate Account"
@@ -203,7 +203,7 @@ msgstr "您的 Klei 帳號已經成功建立！請完成以下表單來啟用它
 
 #. i18n: keyword: ActivateAccountLinkInfo
 msgid "If you want to link another Klei account later, you can do so in your account Settings."
-msgstr ""
+msgstr "如果之後想連結另一個 Klei 帳號，可以在您的帳號設定中進行。"
 
 #. i18n: keyword: Birthdate
 msgid "Date of birth"
@@ -335,7 +335,7 @@ msgstr "使用者資料"
 
 #. i18n: keyword: UsefulLinks
 msgid "Useful Links"
-msgstr "有效超連結"
+msgstr "實用連結"
 
 #. i18n: keyword: KleiUserID
 msgid "Klei User ID"
@@ -391,15 +391,15 @@ msgstr "找不到使用者"
 
 #. i18n: keyword: ConnectedAccounts
 msgid "Connected Accounts"
-msgstr ""
+msgstr "已連結帳號"
 
 #. i18n: keyword: ConnectAccountButton
 msgid "Connect Account"
-msgstr ""
+msgstr "連結帳號"
 
 #. i18n: keyword: AddedOn
 msgid "Added On"
-msgstr "已添加"
+msgstr "添加於"
 
 #. i18n: keyword: ChangeEmail
 msgid "Change Email"
@@ -507,11 +507,11 @@ msgstr "解除 Discord 帳號連結"
 
 #. i18n: keyword: ConnectAccountsTitle
 msgid "Connect Accounts"
-msgstr ""
+msgstr "連結帳號"
 
 #. i18n: keyword: ConnectAccountsDescription
 msgid "Connect your Klei Account to other services such as Twitch, Bilibili, Douyu, and Discord."
-msgstr ""
+msgstr "將你的 Klei 帳號連結至其他服務，例如 Twitch、Bilibili、鬥魚和 Discord。"
 
 #. i18n: keyword: MergeAccountTitle
 msgid "Merge An Account"
@@ -527,7 +527,7 @@ msgstr "繼續"
 
 #. i18n: keyword: CurrentAccount
 msgid "Current Account"
-msgstr ""
+msgstr "目前帳號"
 
 #. i18n: keyword: ProviderConnectedTitle
 msgid "Connected"
@@ -535,23 +535,23 @@ msgstr "已連結"
 
 #. i18n: keyword: ProviderLinkedTitle
 msgid "Linked"
-msgstr ""
+msgstr "已連結"
 
 #. i18n: keyword: ProviderLinkedID
 msgid "ID:"
-msgstr ""
+msgstr "ID："
 
 #. i18n: keyword: ProviderNotLinked
 msgid "Not linked"
-msgstr ""
+msgstr "未連結"
 
 #. i18n: keyword: LinkUnlinkAccountDescription
 msgid "Link your Klei Accounts from different platforms together or unlink an account."
-msgstr ""
+msgstr "連結不同平台上的 Klei 帳號或是解除帳號連結"
 
 #. i18n: keyword: LinkAccountDescription
 msgid "This process will <b>link</b> your Klei Accounts from different platforms together, allowing you to use your items from other platforms <b>while those accounts are linked</b>."
-msgstr ""
+msgstr "這個流程將會<b>連結</b>您在不同平台上的 Klei 帳號，<b>在帳號連結期間</b>，您可以使用其他平台帳號中的物品。"
 
 #. i18n: keyword: LinkAccountDescription2
 msgid "You can only link a single account per platform  (one Steam account, one Epic account, etc) and <b>you should only do this with accounts that you own</b>. These entitlements will not be transferred to linked accounts but rather you will be given a <b>read-only</b> copy which cannot be turned into spool or otherwise modified. You will be able to reverse this procedure if you make a mistake but to avoid abuse you must wait 30 days before trying again."
@@ -567,7 +567,7 @@ msgstr "綁定帳號"
 
 #. i18n: keyword: LinkAccountLinking
 msgid "Linking..."
-msgstr ""
+msgstr "正在綁定…"
 
 #. i18n: keyword: MergeAccountDescription
 msgid "This process will allow one Klei account to be associated to multiple platforms. This is intended for when you have accounts on multiple platforms and want them all to be linked to a single Klei account."
@@ -595,7 +595,7 @@ msgstr "同意以下問題"
 
 #. i18n: keyword: LinkConsent
 msgid "Consent"
-msgstr ""
+msgstr "同意"
 
 #. i18n: keyword: ConfirmOperation
 msgid "Confirm"
@@ -735,11 +735,11 @@ msgstr "您已經合併了您的 WeGame 帳號。"
 
 #. i18n: keyword: LinkUnlinkAccountTitle
 msgid "Link or Unlink An Account"
-msgstr ""
+msgstr "連結或解除連結帳號"
 
 #. i18n: keyword: LinkAccountTitle
 msgid "Link An Account"
-msgstr ""
+msgstr "連結帳號"
 
 #. i18n: keyword: LinkAccountInstructionsDescription
 msgid "If you are using a public computer or one you share with other people you may want to use your browser's \"Incognito Window\" function (or equivalent) to ensure you are linking your own accounts and not someone else's."
@@ -747,27 +747,27 @@ msgstr ""
 
 #. i18n: keyword: LinkAccountInstructionsContinue
 msgid "Continue"
-msgstr ""
+msgstr "繼續"
 
 #. i18n: keyword: LinkAccountSuccessTitle
 msgid "Successful Account Link"
-msgstr ""
+msgstr "帳號連結成功"
 
 #. i18n: keyword: LinkAccountSuccessDescription
 msgid "The account link operation was a success!"
-msgstr ""
+msgstr "帳號連結操作成功！"
 
 #. i18n: keyword: LinkAccountSuccessShortDescription
 msgid "The account link operation was a success!"
-msgstr ""
+msgstr "帳號連結操作成功！""
 
 #. i18n: keyword: LinkAccountFailedTitle
 msgid "Account Linking Failed"
-msgstr ""
+msgstr "帳號連結失敗"
 
 #. i18n: keyword: LinkAccountFailedErrorDescription
 msgid "An error has occured while linking the following accounts:"
-msgstr ""
+msgstr "連結以下帳號時發生錯誤："
 
 #. i18n: keyword: LinkAccountFailedDescription
 msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
@@ -775,7 +775,7 @@ msgstr ""
 
 #. i18n: keyword: UnlinkAccountsTitle
 msgid "Unlink Accounts"
-msgstr ""
+msgstr "解除連結帳號"
 
 #. i18n: keyword: UnlinkAccountsDesc
 msgid "Are you sure you want to unlink <b>{{ .Data.KUToUnlink }} ({{ .Data.AuthProvidersToUnlink }})</b> from:"
@@ -867,35 +867,35 @@ msgstr ""
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.EpicID
 msgid "You already linked your Epic Games account."
-msgstr ""
+msgstr "您已經連結了您的 Epic Games 帳號。"
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.SteamID
 msgid "You already linked your Steam account."
-msgstr ""
+msgstr "您已經連結了您的 Steam 帳號。"
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.XboxPWID
 msgid "You already linked your Xbox Network account."
-msgstr ""
+msgstr "您已經連結了您的 Xbox Network 帳號。"
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.NintendoPPID
 msgid "You already linked your Nintendo account."
-msgstr ""
+msgstr "您已經連結了您的 Nintendo 帳號。"
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailCommonID
 msgid "You already linked your WeGame account."
-msgstr ""
+msgstr "您已經連結了您的 WeGame 帳號。"
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.RailID
 msgid "You already linked your WeGame account."
-msgstr ""
+msgstr "您已經連結了您的 WeGame 帳號。"
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_PLATFORM_CONFLICT_klei.PSNID
 msgid "You already linked your account for PlayStation®."
-msgstr ""
+msgstr "您已經連結了您的 PlayStation® 帳號。"
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_DIFFERENT_EMAIL
 msgid "Please update your *Klei* accounts to use the same email address and start the process again."
-msgstr ""
+msgstr "請將您的 *Klei* 更新為使用相同的電子郵件地址，再重新開始此流程。"
 
 #. i18n: keyword: E_ACCOUNT_LINK_WARNING_IN_PROGRESS
 msgid "Your account is currently in the process of a linking or unlinking operation. Please log out and log back in to complete the process."
@@ -1031,7 +1031,7 @@ msgstr "從我的 Steam 物品庫中刪除物品，包括購買來的物品"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayDST
 msgid "I do not want to play Don’t Starve Together anymore"
-msgstr "我不想再玩「飢荒連機版」了"
+msgstr "我不想再玩「饑荒聯機版」了"
 
 #. i18n: keyword: DeleteAccountOptionsNoPlayHL
 msgid "I do not want to play Hot Lava anymore"
@@ -1203,55 +1203,55 @@ msgstr "兌換"
 
 #. i18n: keyword: CreatorCreateRewardLinks
 msgid "Create links"
-msgstr ""
+msgstr "建立連結"
 
 #. i18n: keyword: CreatorCreateRewardLinksSingular
 msgid "Create link"
-msgstr ""
+msgstr "建立連結"
 
 #. i18n: keyword: CreatorCreatorName
 msgid "Your Creator Name"
-msgstr ""
+msgstr "您的創作者名稱"
 
 #. i18n: keyword: CreatorGiveawayName
 msgid "Giveaway Name"
-msgstr ""
+msgstr "贈品名稱"
 
 #. i18n: keyword: CreatorRewardLinkSingle
 msgid "Single link"
-msgstr ""
+msgstr "單一連結"
 
 #. i18n: keyword: CreatorRewardLinkMultiple
 msgid "Multiple links"
-msgstr ""
+msgstr "多個連結"
 
 #. i18n: keyword: CreatorRewardLinkSingleExplanation
 msgid "Create a single link that can be redeemed by multiple people."
-msgstr ""
+msgstr "建立一個可供多人兌換的連結。"
 
 #. i18n: keyword: CreatorRewardLinkMultipleExplanation
 msgid "Create multiple links that can each be redeemed by one person."
-msgstr ""
+msgstr "建立多個連結，每個連結僅可供一人兌換。"
 
 #. i18n: keyword: CreatorRewardLinkSinglePreview
 msgid "The link will look like this:"
-msgstr ""
+msgstr "連結看起來會像這樣："
 
 #. i18n: keyword: CreatorRewardLinkMultiplePreview
 msgid "The links will look like this:"
-msgstr ""
+msgstr "連結看起來會像這樣："
 
 #. i18n: keyword: CreatorNbLinks
 msgid "Number of links"
-msgstr ""
+msgstr "連結數量"
 
 #. i18n: keyword: CreatorNbRedeems
 msgid "Max number of redemptions"
-msgstr ""
+msgstr "最大兌換次數"
 
 #. i18n: keyword: CreatorExpiresAfterDays
 msgid "Note: Links expire after ${ambassadorInfo.rewardLinkMaxExpiryDays} days if unclaimed (${expiryDate()})."
-msgstr ""
+msgstr "注意：連結若未被兌換，將於 ${ambassadorInfo.rewardLinkMaxExpiryDays} 天後失效（${expiryDate()}）。"
 
 #. i18n: keyword: CreatorPointsGlossary
 msgid "Creator Points are used to redeem skins and codes"
@@ -1287,7 +1287,7 @@ msgstr "請在下方連結至少一個外部帳號。如果您的頻道符合條
 
 #. i18n: keyword: CreatorProgramPleaseConnectAccount
 msgid "Please connect at least one external account."
-msgstr ""
+msgstr "請連結至少一個外部帳號。"
 
 #. i18n: keyword: CreatorProgramRequirementsNotMet
 msgid "You currently do not meet the requirements for application. Please link more accounts or try again another time."
@@ -1323,7 +1323,7 @@ msgstr "已成功領取！包含您的代碼的電子郵件已傳送至 <b>{{ .D
 
 #. i18n: keyword: AccountConnectedTitle
 msgid "Account Connected"
-msgstr ""
+msgstr "已連結的帳戶"
 
 #. i18n: keyword: AccountLinkedTitle
 msgid "Account Linked"
@@ -1367,7 +1367,7 @@ msgstr "錯誤：您似乎沒有任何適用的遊戲。"
 
 #. i18n: keyword: DontStarveTogetherServers
 msgid "Game Servers"
-msgstr "Don’t Starve Together 遊戲伺服器"
+msgstr "遊戲伺服器"
 
 #. i18n: keyword: ItemsInventory
 msgid "Items Inventory"
@@ -1375,11 +1375,11 @@ msgstr "物品庫存"
 
 #. i18n: keyword: ItemSingle
 msgid "item"
-msgstr ""
+msgstr "個"
 
 #. i18n: keyword: ItemsMultiple
 msgid "items"
-msgstr ""
+msgstr "個"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
@@ -1643,7 +1643,7 @@ msgstr "如果您有物品金鑰或禮品碼，您可以在下面兌換。"
 
 #. i18n: keyword: GiftCodeRedeemButton
 msgid "Redeem Code"
-msgstr "兌換碼"
+msgstr "兌換代碼"
 
 #. i18n: keyword: RewardClaimButton
 msgid "Claim Reward"
@@ -1695,7 +1695,7 @@ msgstr "<b>線軸</b><br>線軸用於在遊戲中編織珍奇櫃中的物品。"
 
 #. i18n: keyword: RewardBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Account for PlayStation® and XBox only) In-game currency used to purchase skins and bundles from the in-game store."
-msgstr ""
+msgstr "<b>布捲</b><br>（僅限 PlayStation® 和 XBox）遊戲內貨幣，用於從遊戲內商店購買皮膚和套装。"
 
 #. i18n: keyword: RewardNintendoBoltsGlossary
 msgid "<b>Bolts of Cloth</b><br>(Nintendo Switch Only) In-game currency used to purchase skins and bundles from the in-game store."
@@ -1911,7 +1911,7 @@ msgstr "嗨～看來您有物品鑰匙或禮品代碼，您要現在兌換嗎？
 
 #. i18n: keyword: GiftRedemptionGoToValidation
 msgid "If you would like to check the validity of your code without redeeming it, you can go to the <a href='/account/validate-gift'>gift code validation page</a>."
-msgstr ""
+msgstr "如果你想在不兌換代碼的情況下確認代碼是否有效，可以前往<a href='/account/validate-gift'>禮品代碼驗證頁面</a>。"
 
 #. i18n: keyword: GiftCodeLabel
 msgid "Enter Your Code"
@@ -1931,63 +1931,63 @@ msgstr "點擊這裡來兌換另一個禮物"
 
 #. i18n: keyword: ValidateGiftTitle
 msgid "Gift Code Validation"
-msgstr ""
+msgstr "禮品代碼驗證"
 
 #. i18n: keyword: ValidateGiftDescription
 msgid "Use this page to check if your gift code is valid and has not been redeemed yet. This will NOT redeem the gift code. "
-msgstr ""
+msgstr "使用此頁面確認你的禮品代碼是否有效且尚未兌換。此操作不會兌換禮品代碼。"
 
 #. i18n: keyword: ValidateGiftSubmitButton
 msgid "Validate Code"
-msgstr ""
+msgstr "驗證禮品代碼"
 
 #. i18n: keyword: ValidateGiftAgainButton
 msgid "Click here to validate another code"
-msgstr ""
+msgstr "驗證另一個代碼"
 
 #. i18n: keyword: ValidateGiftInvalid
 msgid "<b>\"{{ .Data.Code }}\"</b> is not a valid code."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b> 不是有效代碼。"
 
 #. i18n: keyword: ValidateGiftRedeemed
 msgid "<b>\"{{ .Data.Code }}\"</b> has already been redeemed."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b> 已被兌換。"
 
 #. i18n: keyword: ValidateGiftValid
 msgid "<b>\"{{ .Data.Code }}\"</b> is a valid code and has not been redeemed yet."
-msgstr ""
+msgstr "<b>\"{{ .Data.Code }}\"</b> 是有效代碼且尚未被兌換。"
 
 #. i18n: keyword: ViewTransactionsPage
 msgid "You can view all of your recent transactions <a href=\"/account/transactions\">here</a>."
-msgstr ""
+msgstr "你可以 <a href=\"/account/transactions\">在此</a> 查看近期所有交易紀錄。"
 
 #. i18n: keyword: LP_STEAM_Username
 msgid "Steam username"
-msgstr ""
+msgstr "Steam 使用者名稱"
 
 #. i18n: keyword: LP_EPIC_Username
 msgid "Epic Games username"
-msgstr ""
+msgstr "Epic Games 使用者名稱"
 
 #. i18n: keyword: LP_XBL_Username
 msgid "Xbox Network username"
-msgstr ""
+msgstr "Xbox Network 使用者名稱"
 
 #. i18n: keyword: LP_RAIL_Username
 msgid "WeGame username"
-msgstr ""
+msgstr "WeGame 使用者名稱"
 
 #. i18n: keyword: LP_NINTENDO_Username
 msgid "Nintendo username"
-msgstr ""
+msgstr "Nintendo 使用者名稱"
 
 #. i18n: keyword: LP_NETFLIX_Username
 msgid "Netflix username"
-msgstr ""
+msgstr "Netflix 使用者名稱"
 
 #. i18n: keyword: MergeFailedTitle
 msgid "Account Merging Failed"
-msgstr ""
+msgstr "帳號合併失敗"
 
 #. i18n: keyword: MergeFailedErrorDescription
 msgid "An error has occured while merging the following KUs:"
@@ -2183,7 +2183,7 @@ msgstr "為了通過註冊, 您需要同意我們的 <a href='https://www.kleien
 
 #. i18n: keyword: SignUpFollow
 msgid "Thanks for signing up! Feel free to follow us on <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>, <a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> and <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a>."
-msgstr ""
+msgstr "感謝註冊！歡迎到 <a href=\"https://www.facebook.com/kleientertainment/\" target=\"_blank\">Facebook</a>、<a href=\"https://twitter.com/klei\" target=\"_blank\">Twitter</a> 和 <a href=\"https://www.instagram.com/kleientertainment/\" target=\"_blank\">Instagram</a> 上關注我們。"
 
 #. i18n: keyword: KleiEntertainment
 msgid "Klei Entertainment"
@@ -2735,15 +2735,15 @@ msgstr ""
 
 #. i18n: keyword: KleiWeekEndsIn
 msgid "Ends in ${weekCountdown}"
-msgstr ""
+msgstr "在 ${weekCountdown} 後結束"
 
 #. i18n: keyword: KleiWeekEnded
 msgid "Week ended"
-msgstr ""
+msgstr "本周已結束"
 
 #. i18n: keyword: DropsDescription
 msgid "Earn the currently available drops by playing the respective games throughout the drop period."
-msgstr ""
+msgstr "在掉落期間遊玩對應的遊戲來獲得目前可取得的獎勵。"
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
@@ -2759,31 +2759,31 @@ msgstr "平台名稱"
 
 #. i18n: keyword: FilterBy
 msgid "Filter by"
-msgstr ""
+msgstr "篩選條件"
 
 #. i18n: keyword: AllTransactions
 msgid "All Transactions"
-msgstr ""
+msgstr "所有交易紀錄"
 
 #. i18n: keyword: ThereAreNoTransactions
 msgid "There are no transactions."
-msgstr ""
+msgstr "沒有交易紀錄"
 
 #. i18n: keyword: TransactionRollback
 msgid "Rollback"
-msgstr ""
+msgstr "復原"
 
 #. i18n: keyword: TransactionTraded
 msgid "Traded:"
-msgstr ""
+msgstr "交易："
 
 #. i18n: keyword: GiftingEventWeek
 msgid "Week"
-msgstr ""
+msgstr "周"
 
 #. i18n: keyword: GiftingEventGift
 msgid "Gift"
-msgstr ""
+msgstr "禮物"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
@@ -2807,23 +2807,23 @@ msgstr "新增一件物品"
 
 #. i18n: keyword: TXN_INVENTORY_MERGE
 msgid "Account Merge"
-msgstr ""
+msgstr "帳號合併"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
-msgstr "以線軸連接"
+msgstr "從連結獲得線軸"
 
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
-msgstr "以點數連接"
+msgstr "從連結獲得點數"
 
 #. i18n: keyword: TXN_LINK_FOR_ITEM
 msgid "Link For Item"
-msgstr ""
+msgstr "從連結獲得物品"
 
 #. i18n: keyword: TXN_CREATOR_LINK
 msgid "Creator Link"
-msgstr ""
+msgstr "創作者連結"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
@@ -2835,7 +2835,7 @@ msgstr "獲得點數"
 
 #. i18n: keyword: TXN_QUEST_FOR_BOLTS
 msgid "Quest For Bolts"
-msgstr ""
+msgstr "獲得布捲"
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
@@ -2843,7 +2843,7 @@ msgstr "以線軸兌換物品"
 
 #. i18n: keyword: TXN_FILAMENT_FOR_ITEM
 msgid "Filament For Item"
-msgstr ""
+msgstr "以燈絲兌換物品"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
@@ -2851,7 +2851,7 @@ msgstr "以點數兌換物品"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr ""
+msgstr "以布捲兌換物品"
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
@@ -2867,15 +2867,15 @@ msgstr "市集購買"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
-msgstr ""
+msgstr "市集退貨"
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
-msgstr "物品交易失去"
+msgstr "交易失去物品"
 
 #. i18n: keyword: TXN_ITEM_TRADE_GAIN
 msgid "Item Trade Gain"
-msgstr ""
+msgstr "交易獲得物品"
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
@@ -2883,7 +2883,7 @@ msgstr "以物品兌換線軸"
 
 #. i18n: keyword: TXN_ITEM_FOR_FILAMENT
 msgid "Item For Filament"
-msgstr ""
+msgstr "以物品兌換燈絲"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
@@ -2903,11 +2903,11 @@ msgstr ""
 
 #. i18n: keyword: TXN_DAILY_GIFT_ITEM
 msgid "Daily Gift Item"
-msgstr ""
+msgstr "每日禮物"
 
 #. i18n: keyword: TXN_WEEKLY_GIFT_ITEM
 msgid "Weekly Gift Item"
-msgstr ""
+msgstr "每周禮物"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Shop Chest (Steam)"
@@ -2931,11 +2931,11 @@ msgstr ""
 
 #. i18n: keyword: TXN_CURRENCY_EXCHANGE
 msgid "Currency Exchange"
-msgstr ""
+msgstr "貨幣兌換"
 
 #. i18n: keyword: TXN_CONSUME_REDEEMABLE_CODE
 msgid "Consume Redeemable Code"
-msgstr ""
+msgstr "使用兌換碼"
 
 #. i18n: keyword: TXN_SUPPORT_ISSUED_CURRENCY
 msgid "Klei Support Issued Currency"
@@ -2947,11 +2947,11 @@ msgstr ""
 
 #. i18n: keyword: TXN_LORE_INTERACTION
 msgid "Lore Interaction"
-msgstr ""
+msgstr "劇情互動"
 
 #. i18n: keyword: TXN_TRADE_INN
 msgid "Trade Inn"
-msgstr ""
+msgstr "交易小店"
 
 #. i18n: keyword: TXN_UNLOCK_ITEM
 msgid "Unlock Item"
