@@ -299,15 +299,15 @@ msgstr "关联至已有的 Klei 账户，即可在两个账户间共享珍品。
 
 #. i18n: keyword: LoginDSTMobile
 msgid "Don't Starve Together mobile accounts:"
-msgstr ""
+msgstr "《饥荒：联机版》移动端账户："
 
 #. i18n: keyword: LoginDSTMobileiOS
 msgid "Launch in iOS<br>to open account"
-msgstr ""
+msgstr "在 iOS 中启动<br>以打开账户"
 
 #. i18n: keyword: LoginDSTMobileNoniOS
 msgid "To log into your iOS Don't Starve Together account, open the game and tap the Account button."
-msgstr ""
+msgstr "要登录你的 iOS《饥荒：联机版》账户，请打开游戏并点击“账户”按钮。"
 
 #. i18n: keyword: Subscribe
 msgid "Subscribe"
@@ -2651,7 +2651,7 @@ msgstr "该 Google 账户没有与之关联的 YouTube 频道。"
 
 #. i18n: keyword: E_NO_GOOGLE_PLAY_PROFILE
 msgid "This Google account does not have a Play Games profile associated with it."
-msgstr ""
+msgstr "该 Google 账户没有与之关联的 Play Games 个人资料。"
 
 #. i18n: keyword: E_FACEBOOK_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Facebook. If you believe the connection still exists, please <a href='https://www.facebook.com/settings?tab=applications' target='_blank' rel='noopener noreferrer'>visit your Facebook profile</a> and disconnect the “Klei Accounts” app manually."
@@ -2723,7 +2723,7 @@ msgstr "无效参数"
 
 #. i18n: keyword: E_REACHED_MAX_SERVER_TOKENS
 msgid "You have reached the maximum number of server tokens allowed. Please delete some if you want to add more."
-msgstr ""
+msgstr "你已达到允许的服务器令牌数量上限。如需添加更多，请先删除一些。"
 
 #. i18n: keyword: GameDropsEarned
 msgid "${dropInfo.GameName} drops earned"
