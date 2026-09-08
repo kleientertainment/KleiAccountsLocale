@@ -2477,6 +2477,10 @@ msgstr "Sua conta Klei já foi desconectada do Twitch. Se você acredita que a c
 msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
 msgstr "Os servidores da Twich estão enfrentando problemas com essa operação. Por favor aguarda alguns minutos e tente novamente."
 
+#. i18n: keyword: E_TWITCH_ALREADY_BINDED_TO_KU
+msgid "Your Twitch account is already linked with a Klei User ID."
+msgstr ""
+
 #. i18n: keyword: E_UNAVAILABLE_GAME_SERVERS
 msgid "This game doesn’t support additional servers yet."
 msgstr "Este jogo ainda não suporta servidores adicionais."

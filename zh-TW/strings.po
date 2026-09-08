@@ -759,7 +759,7 @@ msgstr "帳號連結操作成功！"
 
 #. i18n: keyword: LinkAccountSuccessShortDescription
 msgid "The account link operation was a success!"
-msgstr "帳號連結操作成功！""
+msgstr "帳號連結操作成功！"
 
 #. i18n: keyword: LinkAccountFailedTitle
 msgid "Account Linking Failed"
@@ -2476,6 +2476,10 @@ msgstr "您的 Klei 帳號已與 Twitch 斷開連接，如果您認為仍然連�
 #. i18n: keyword: E_TWITCH_INTERNAL_SERVER_ERROR
 msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
 msgstr "Twitch 伺服器正發生無法處理此操作的問題，請在數分鐘後重新嘗試。"
+
+#. i18n: keyword: E_TWITCH_ALREADY_BINDED_TO_KU
+msgid "Your Twitch account is already linked with a Klei User ID."
+msgstr ""
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_SERVERS
 msgid "This game doesn’t support additional servers yet."
