@@ -2481,6 +2481,10 @@ msgstr ""
 msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
 msgstr ""
 
+#. i18n: keyword: E_TWITCH_ALREADY_BINDED_TO_KU
+msgid "Your Twitch account is already linked with a Klei User ID."
+msgstr ""
+
 #. i18n: keyword: E_UNAVAILABLE_GAME_SERVERS
 msgid "This game doesn’t support additional servers yet."
 msgstr ""

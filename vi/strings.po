@@ -2477,6 +2477,10 @@ msgstr "Tài khoản Klei của bạn đã bị ngắt kết nối khỏi Twitch
 msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
 msgstr "Máy chủ Twitch đang gặp vấn đề khi xử lý thao tác này. Xin chờ một vài phút và thử lại."
 
+#. i18n: keyword: E_TWITCH_ALREADY_BINDED_TO_KU
+msgid "Your Twitch account is already linked with a Klei User ID."
+msgstr ""
+
 #. i18n: keyword: E_UNAVAILABLE_GAME_SERVERS
 msgid "This game doesn’t support additional servers yet."
 msgstr "Trò chơi này chưa hỗ trợ các máy chủ bổ sung."

@@ -2477,6 +2477,10 @@ msgstr "Klei hesabınızın Twitch ile bağlantısı zaten kesilmiş. Bağlantı
 msgid "Twitch servers are having problems processing this operation. Please wait a few minutes and try again."
 msgstr "Twitch sunucuları bu işlemi yaparken sorun yaşıyor. Lütfen birkaç dakika bekleyip tekrar deneyin."
 
+#. i18n: keyword: E_TWITCH_ALREADY_BINDED_TO_KU
+msgid "Your Twitch account is already linked with a Klei User ID."
+msgstr ""
+
 #. i18n: keyword: E_UNAVAILABLE_GAME_SERVERS
 msgid "This game doesn’t support additional servers yet."
 msgstr "Bu oyun henüz ek sunucuları desteklemiyor."
