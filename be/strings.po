@@ -2469,6 +2469,10 @@ msgstr "Twitch мае праблемы з праверкай уліковых д
 msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
 msgstr "Магчымасьць зьвязаць уліковы запіс Twitch з вашым уліковым запісам Klei была выдаленая. Калі вы думаеце, што гэта памылка, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>калі ласка, звяжыцеся з намі</a>."
 
+#. i18n: keyword: E_TWITCH_ALREADY_CONNECTED
+msgid "Your Klei account is already connected to a Twitch account."
+msgstr ""
+
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
 msgstr "Ваш уліковы запіс Klei ўжо адключаная ад Twitch. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>зайдзіце ў свой профіль Twitch</a> і адключыце дадатак Klei Entertainment ўручную."
@@ -2585,6 +2589,10 @@ msgstr "Сэрвіс аўтэнтыфікацыі карыстальнікаў T
 msgid "Your Douyu account is already linked with a Klei User ID."
 msgstr "Ваш уліковы запіс Douyu ўжо звязаны з ідэнтыфікатарам карыстальніка Klei."
 
+#. i18n: keyword: E_DOUYU_ALREADY_CONNECTED
+msgid "Your Klei account is already connected to a Douyu account."
+msgstr ""
+
 #. i18n: keyword: E_DOUYU_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Douyu. If you believe the connection still exists, please <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and disconnect the “Klei Entertainment” app manually."
 msgstr "Ваш уліковы запіс Klei ўжо была адключаная ад Douyu. Калі вы лічыце, што злучэнне ўсё яшчэ існуе, калі ласка, <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>наведайце свой профіль Douyu</a> і адключыце дадатак Klei Entertainment ўручную."
@@ -2593,9 +2601,17 @@ msgstr "Ваш уліковы запіс Klei ўжо была адключана
 msgid "Douyu servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
 msgstr "Серверы Douyu (на базе Tengine) у цяперашні час недаступныя. Калі ласка, паспрабуйце яшчэ раз праз некалькі хвілін."
 
+#. i18n: keyword: E_DISCORD_ALREADY_CONNECTED
+msgid "Your Klei account is already connected to a Discord account."
+msgstr ""
+
 #. i18n: keyword: E_BILIBILI_ALREADY_BINDED_TO_KU
 msgid "Your Bilibili account is already linked with a Klei User ID."
 msgstr "Ваш уліковы запіс Bilibili ўжо звязаны з ідэнтыфікатарам карыстальніка Klei."
+
+#. i18n: keyword: E_BILIBILI_ALREADY_CONNECTED
+msgid "Your Klei account is already connected to a Bilibili account."
+msgstr ""
 
 #. i18n: keyword: E_BILIBILI_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Bilibili. If you believe the connection still exists, please <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>visit your Bilibili profile</a> and disconnect the “Klei Entertainment” app manually."
