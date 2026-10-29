@@ -2479,7 +2479,7 @@ msgstr "Twitch 服务器在处理此操作时遇到问题。请在几分钟后�
 
 #. i18n: keyword: E_TWITCH_ALREADY_BINDED_TO_KU
 msgid "Your Twitch account is already linked with a Klei User ID."
-msgstr ""
+msgstr "你的 Twitch 账户已经与一个 Klei 用户 ID 关联。"
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_SERVERS
 msgid "This game doesn’t support additional servers yet."
