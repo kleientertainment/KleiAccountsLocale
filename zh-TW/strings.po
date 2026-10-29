@@ -2469,6 +2469,10 @@ msgstr "Twitch 正發生驗證您的憑證關聯到我們的應用程式的問�
 msgid "The option to link a Twitch account with your Klei account has been removed. If you think this is a mistake, <a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>please contact us</a>."
 msgstr "已移除將 Twitch 帳號與您的 Klei 帳號連接的選項，如果您認為這是一個錯誤，<a href='http://support.klei.com/customer/portal/emails/new' target='_blank' rel='noopener noreferrer'>請與我們聯繫</a>。"
 
+#. i18n: keyword: E_TWITCH_ALREADY_CONNECTED
+msgid "Your Klei account is already connected to a Twitch account."
+msgstr ""
+
 #. i18n: keyword: E_TWITCH_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Twitch. If you believe the connection still exists, please <a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>visit your Twitch profile</a> and disconnect the “Klei Entertainment” app manually."
 msgstr "您的 Klei 帳號已與 Twitch 斷開連接，如果您認為仍然連接著，請<a href='https://www.twitch.tv/settings/connections' target='_blank' rel='noopener noreferrer'>造訪您的 Twitch 個人資料</a>，並手動斷開「Klei Entertainment」應用程式。"
@@ -2585,6 +2589,10 @@ msgstr "騰訊的使用者授權服務現在正無法使用，請在數分鐘後
 msgid "Your Douyu account is already linked with a Klei User ID."
 msgstr "您的鬥魚帳號已與 Klei User ID 連接。"
 
+#. i18n: keyword: E_DOUYU_ALREADY_CONNECTED
+msgid "Your Klei account is already connected to a Douyu account."
+msgstr ""
+
 #. i18n: keyword: E_DOUYU_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Douyu. If you believe the connection still exists, please <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>visit your Douyu profile</a> and disconnect the “Klei Entertainment” app manually."
 msgstr "您的 Klei 帳號已與鬥魚斷開連接，如果您認為仍然連接著，請 <a href='https://www.douyu.com/member/cp' target='_blank' rel='noopener noreferrer'>造訪您的鬥魚個人資料</a> 並手動斷開「Klei Entertainment」應用程式。"
@@ -2593,9 +2601,17 @@ msgstr "您的 Klei 帳號已與鬥魚斷開連接，如果您認為仍然連接
 msgid "Douyu servers (powered by Tengine) are currently unavailable. Please try again in a few minutes."
 msgstr "鬥魚伺服器（採用 Tengine）現在無法使用，請在數分鐘後重新嘗試。"
 
+#. i18n: keyword: E_DISCORD_ALREADY_CONNECTED
+msgid "Your Klei account is already connected to a Discord account."
+msgstr ""
+
 #. i18n: keyword: E_BILIBILI_ALREADY_BINDED_TO_KU
 msgid "Your Bilibili account is already linked with a Klei User ID."
 msgstr "您的 Bilibili 帳號已經連接到 Klei User ID。"
+
+#. i18n: keyword: E_BILIBILI_ALREADY_CONNECTED
+msgid "Your Klei account is already connected to a Bilibili account."
+msgstr ""
 
 #. i18n: keyword: E_BILIBILI_ALREADY_DISCONNECTED
 msgid "Your Klei account has already been disconnected from Bilibili. If you believe the connection still exists, please <a href='https://www.bilibili.com/' target='_blank' rel='noopener noreferrer'>visit your Bilibili profile</a> and disconnect the “Klei Entertainment” app manually."
