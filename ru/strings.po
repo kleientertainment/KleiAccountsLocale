@@ -187,7 +187,7 @@ msgstr "Если у вас уже есть учётная запись, кото
 
 #. i18n: keyword: SignupLoginButton
 msgid "Link existing account"
-msgstr "Привзять существующую учётную запись"
+msgstr "Привязать существующую учётную запись"
 
 #. i18n: keyword: SignupButton
 msgid "Sign up for new account"
@@ -547,7 +547,7 @@ msgstr "Не связано"
 
 #. i18n: keyword: LinkUnlinkAccountDescription
 msgid "Link your Klei Accounts from different platforms together or unlink an account."
-msgstr "Свяжите свои учётные записи Klei с разных платформ или отвяжите одгу из них."
+msgstr "Свяжите свои учётные записи Klei с разных платформ или отвяжите одну из них."
 
 #. i18n: keyword: LinkAccountDescription
 msgid "This process will <b>link</b> your Klei Accounts from different platforms together, allowing you to use your items from other platforms <b>while those accounts are linked</b>."
@@ -803,7 +803,7 @@ msgstr "Произошла ошибка"
 
 #. i18n: keyword: UnlinkAccountFailedErrorDescription
 msgid "An error has occured while unlinking your accounts."
-msgstr "При связывании учётных записей произошла ошибка."
+msgstr "При отвязывании учётных записей произошла ошибка."
 
 #. i18n: keyword: UnlinkAccountFailedDescription
 msgid "You have been logged out of your account. Please log in to try again or <a href='http://support.klei.com/' target='blank_' rel='noopener noreferrer'>contact support</a> for further assistance. "
@@ -991,7 +991,7 @@ msgstr "Вы уверены, что хотите отвязать свою"
 
 #. i18n: keyword: DisconnectThisQuestion
 msgid "Are you sure you want to disconnect your {{ .Data.ConnectedAccount.PlatformName }}?"
-msgstr "Вы уверены, что хотите отвязать свою {{ .Data.ConnectedAccount.PlatformName }}?"
+msgstr "Вы уверены, что хотите отвязать свою учётную запись {{ .Data.ConnectedAccount.PlatformName }}?"
 
 #. i18n: keyword: DisconnectAccount
 msgid "Disconnect Account"
@@ -1239,7 +1239,7 @@ msgstr "Ссылка будет выглядеть вот так:"
 
 #. i18n: keyword: CreatorRewardLinkMultiplePreview
 msgid "The links will look like this:"
-msgstr "Ссылки будет выглядеть вот так:"
+msgstr "Ссылки будут выглядеть вот так:"
 
 #. i18n: keyword: CreatorNbLinks
 msgid "Number of links"
@@ -1387,7 +1387,7 @@ msgstr "<b>Подсказки для поиска:</b> Введите одно �
 
 #. i18n: keyword: LinkedPlatformAccount
 msgid "Linked ${quantityData.platformStr} account"
-msgstr "Привязано ${quantityData.platformStr} учётных записи"
+msgstr "Привязанная учётная запись ${quantityData.platformStr}"
 
 #. i18n: keyword: RemoveDuplicateItems
 msgid "Remove Duplicates"
@@ -1847,7 +1847,7 @@ msgstr "<p>Поздравляем!</p><p>В дикой природе вы су�
 
 #. i18n: keyword: CreatorRewardLinkDescription
 msgid "<p>Congratulations!</p><p>You have found a creator link created by <b>{{.Data.RewardLink.AmbassadorName}}</b> for the giveaway <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
-msgstr "<p>Поздравляем!</p><p>Вы нашли ссылку от создателя контента, <b>{{.Data.RewardLink.AmbassadorName}}</b>, и получаете <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
+msgstr "<p>Поздравляем!</p><p>Вы нашли ссылку от создателя контента, <b>{{.Data.RewardLink.AmbassadorName}}</b>, с раздачи <b>{{.Data.RewardLink.GiveawayName}}</b>.</p>"
 
 #. i18n: keyword: CreatorRewardLinkExpiryDays
 msgid "This link will expire in <b>${expiryDays} days</b> (${expiryDate})."
@@ -2255,7 +2255,7 @@ msgstr "Вау! Похоже, вы уже переходили по этой с�
 
 #. i18n: keyword: E_REWARD_LINK_REDEEM_FAIL
 msgid "You've claimed this link but we ran into an error while trying to give you the reward. Please try this link again in a few seconds."
-msgstr "Вы получили награду по этой ссылке, но произошла ошибка при выдаче. Пожалуйста, попробуйте перейти по этой ссылке снова через несколько секунд."
+msgstr "Вы активировали эту ссылку, но при выдаче награды произошла ошибка. Пожалуйста, попробуйте перейти по этой ссылке снова через несколько секунд."
 
 #. i18n: keyword: E_INTERNAL_SERVER_ERROR
 msgid "Internal server error, try again in a few seconds."
